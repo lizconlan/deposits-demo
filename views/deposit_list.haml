@@ -5,6 +5,23 @@
 - elsif @year == "2007"
   %h2 Papers deposited between October and December 2007
 
+.navigation
+  - @last_page = (@total_records.to_f / settings.page_length.to_f).ceil
+  - if params[:page]
+    - @current_page = params[:page].to_i
+  - else
+    - @current_page = 1
+    
+  - if @current_page > 1
+    %a{:href => "/#{@year}/#{@current_page-1}"} Previous page
+  
+  
+  Page #{@current_page} of #{@last_page}
+  
+  -if @current_page < @last_page
+    %a{:href => "/#{@year}/#{@current_page.to_i+1}"} Next page
+  
+
 - @results.each do |deposit|
   %div.deposited_paper
     %h3.reference #{deposit["value"]["_id"]}
@@ -24,5 +41,3 @@
     - if deposit["value"]["link_to_paper"]
       %br
       %a.link_to_paper{:href => "#{deposit["value"]["link_to_paper"]}" } View document #{deposit["value"]["_id"]}
-      
-=@total_records

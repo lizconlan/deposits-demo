@@ -11,6 +11,11 @@ configure do
   set :page_length, 10
 end
 
+get '/styles.css' do
+  content_type 'text/css', :charset => 'utf-8'
+  sass :styles
+end
+
 get '/' do
   "hello"
 end
