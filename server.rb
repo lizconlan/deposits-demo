@@ -63,7 +63,7 @@ private
   
   def get_session year
     case year
-      when "pre2007", "2007"
+      when "pre2007", "2007", nil
         nil
       else
         year_end = year.to_i
