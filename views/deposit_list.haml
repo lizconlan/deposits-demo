@@ -1,3 +1,10 @@
+- if @session
+  %h2 Papers deposited during the #{@session} session
+- elsif @year == "pre2007"
+  %h2 Papers deposited between January and October 2007
+- elsif @year == "2007"
+  %h2 Papers deposited between October and December 2007
+
 - @results.each do |deposit|
   %div.deposited_paper
     %h3.reference #{deposit["value"]["_id"]}
