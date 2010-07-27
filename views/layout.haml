@@ -3,7 +3,9 @@
   %head
     %meta{"http-equiv"=>"Content-Type", :content=>"text/html; charset=utf-8"}
       %title= "Deposited Papers"
-      %link{:rel=>"stylesheet", :href=>"/styles.css", :type=>"text/css", :media=>"screen"}
+      %meta{:name => "viewport", :content => "width = device-width"}
+      %link{:rel => "stylesheet", :type => "text/css", :media => "only screen and (max-device-width: 480px)", :href => "/mobile.css" }
+      %link{:rel => "stylesheet", :type => "text/css", :media => "screen and (min-device-width: 481px)", :href => "/styles.css" }
   %body
     %h1 Deposited Papers
     

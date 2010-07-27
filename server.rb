@@ -16,6 +16,11 @@ get '/styles.css' do
   sass :styles
 end
 
+get '/mobile.css' do
+  content_type 'text/css', :charset => 'utf-8'
+  sass :mobile
+end
+
 get '/' do
   "hello"
 end
