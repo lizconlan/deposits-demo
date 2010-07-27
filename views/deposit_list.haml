@@ -38,6 +38,6 @@
     Date Deposited:
     %span.deposited_date
       #{deposit["value"]["deposited_date"]}
-    - if deposit["value"]["link_to_paper"]
+    - if deposit["value"]["document_url"]
       %br
       %a.link_to_paper{:href => "#{deposit["value"]["link_to_paper"]}" } View document #{deposit["value"]["_id"]}
