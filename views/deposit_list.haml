@@ -24,20 +24,20 @@
 
 - @results.each do |deposit|
   %div.deposited_paper
-    %h3.reference #{deposit["value"]["_id"]}
+    %h3.reference
+      - if deposit["value"]["link_to_paper"]
+        %a.document_url{:href => "#{deposit["value"]["link_to_paper"]}" } #{deposit["value"]["_id"]}
+      - else
+        #{deposit["value"]["_id"].gsub("DEP07-","07/")}
+    %div.deposited_date
+      #{deposit["value"]["deposited_date"]}
+    .description
+      #{deposit["value"]["description"]}
     - if deposit["value"]["legislature"] && deposit["value"]["legislature"].include?("Lords")
       .legislature
         House of Lords
     - if deposit["value"]["legislature"] && deposit["value"]["legislature"].include?("Commons")
       .legislature
         House of Commons
-    %p.department
+    .department
       #{deposit["value"]["department"]}
-    %p.description
-      #{deposit["value"]["description"]}
-    Date Deposited:
-    %span.deposited_date
-      #{deposit["value"]["deposited_date"]}
-    - if deposit["value"]["document_url"]
-      %br
-      %a.link_to_paper{:href => "#{deposit["value"]["link_to_paper"]}" } View document #{deposit["value"]["_id"]}
