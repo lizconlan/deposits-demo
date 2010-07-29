@@ -29,15 +29,20 @@
         %a.document_url{:href => "#{deposit["value"]["link_to_paper"]}" } #{deposit["value"]["_id"]}
       - else
         #{deposit["value"]["_id"].gsub("DEP07-","07/")}
-    %div.deposited_date
+    %span.deposited_date
       #{deposit["value"]["deposited_date"]}
+    &nbsp;-&nbsp;
+    %span.department
+      #{deposit["value"]["department"]}
+    %br
     .description
       #{deposit["value"]["description"]}
-    - if deposit["value"]["legislature"] && deposit["value"]["legislature"].include?("Lords")
-      .legislature
-        House of Lords
-    - if deposit["value"]["legislature"] && deposit["value"]["legislature"].include?("Commons")
-      .legislature
-        House of Commons
-    .department
-      #{deposit["value"]["department"]}
+    - if deposit["value"]["legislature"]
+      Document held by:
+      - if deposit["value"]["legislature"].include?("Lords")
+        .legislature
+          House of Lords
+      - if deposit["value"]["legislature"].include?("Commons")
+        .legislature
+          House of Commons
+    %hr
