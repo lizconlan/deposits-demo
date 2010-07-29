@@ -16,13 +16,9 @@ get '/styles.css' do
   sass :styles
 end
 
-get '/mobile.css' do
+get '/screen.css', :agent => /iPad/ do
   content_type 'text/css', :charset => 'utf-8'
-  sass :mobile
-end
-
-get '/' do
-  "hello"
+  sass :ipad
 end
 
 get '/:year/?' do
