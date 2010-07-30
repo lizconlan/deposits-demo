@@ -11,6 +11,16 @@ configure do
   set :page_length, 10
 end
 
+get '/portrait.css', :agent => /iPhone/ do
+  content_type 'text/css', :charset => 'utf-8'
+  sass :iphone_portrait
+end
+
+get '/landscape.css', :agent => /iPhone/ do
+  content_type 'text/css', :charset => 'utf-8'
+  sass :iphone_landscape
+end
+
 get '/styles.css' do
   content_type 'text/css', :charset => 'utf-8'
   sass :styles
@@ -19,6 +29,10 @@ end
 get '/screen.css', :agent => /iPad/ do
   content_type 'text/css', :charset => 'utf-8'
   sass :ipad
+end
+
+get '/' do
+  haml :index
 end
 
 get '/:year/?' do

@@ -3,9 +3,13 @@
   %head
     %meta{"http-equiv"=>"Content-Type", :content=>"text/html; charset=utf-8"}
       %title= "Deposited Papers"
-      %meta{:name => "viewport", :content => "width = device-width"}
-      %link{:rel => "stylesheet", :type => "text/css", :media => "only screen and (max-device-width: 480px)", :href => "/mobile.css" }
-      %link{:rel => "stylesheet", :type => "text/css", :media => "screen and (min-device-width: 481px)", :href => "/styles.css" }
+      - if request.user_agent =~ /iPhone|iPad/
+        %meta{:name => "viewport", :content => "width = device-width"}
+        %link{:rel=>"stylesheet",:type=>"text/css",:media=>"all and (orientation:portrait)", :href=>"portrait.css"}
+        %link{:rel=>"stylesheet",:type=>"text/css",:media=>"all and (orientation:landscape)", :href=>"landscape.css"}
+      - else
+        %link{:rel=>"stylesheet",:type=>"text/css",:media=>"screen",:href=>"styles.css"}
+      
   %body
     %h1 Deposited Papers
     
