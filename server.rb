@@ -11,14 +11,18 @@ configure do
   set :page_length, 10
 end
 
-get '/portrait.css', :agent => /iPhone/ do
+get '/portrait.css' do
   content_type 'text/css', :charset => 'utf-8'
-  sass :iphone_portrait
+  if request.user_agent =~ /(iPhone|iPad)/
+    sass :"#{$1}_portrait"
+  end
 end
 
-get '/landscape.css', :agent => /iPhone/ do
+get '/landscape.css' do
   content_type 'text/css', :charset => 'utf-8'
-  sass :iphone_landscape
+  if request.user_agent =~ /(iPhone|iPad)/
+    sass :"#{$1}_landscape"
+  end
 end
 
 get '/styles.css' do
@@ -26,9 +30,9 @@ get '/styles.css' do
   sass :styles
 end
 
-get '/screen.css', :agent => /iPad/ do
+get '/mobile.css' do
   content_type 'text/css', :charset => 'utf-8'
-  sass :ipad
+  sass :mobile
 end
 
 get '/' do
