@@ -8,7 +8,8 @@
         %link{:rel=>"stylesheet",:type=>"text/css",:media=>"all and (orientation:portrait)", :href=>"portrait.css"}
         %link{:rel=>"stylesheet",:type=>"text/css",:media=>"all and (orientation:landscape)", :href=>"landscape.css"}
       - else
-        %link{:rel=>"stylesheet",:type=>"text/css",:media=>"screen",:href=>"styles.css"}
+        %link{:rel=>"stylesheet",:type=>"text/css",:media=>"screen and (max-device-width: 480px)",:href=>"mobile.css"}
+        %link{:rel=>"stylesheet",:type=>"text/css",:media=>"screen and (min-device-width: 481px)",:href=>"styles.css"}
       
   %body
     %h1 Deposited Papers
