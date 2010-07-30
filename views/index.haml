@@ -1,22 +1,17 @@
--if request.user_agent =~ /iPhone/
+- if request.user_agent =~ /iPhone/
   .columns
     .column1
-      ="one"
-    
+      = "one"
+
     .column2
       ="two"
--else
-  -if request.user_agent =~ /mobile/
-    .columns
-      .column1
-        ="one"
-    -else
-      .columns
-        .column1
-          ="one"
+- else
+  .columns
+    .column1
+      = "one"
   
-        .column2
-          ="two"
-      
-        .column3
-          ="three"
+    .column2
+      ="two"
+    
+    .column3
+      = "three"
