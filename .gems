@@ -1,0 +1,6 @@
+sinatra
+rest-client
+json
+haml
+will_paginate
+activesupport
