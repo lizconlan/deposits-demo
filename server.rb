@@ -17,15 +17,15 @@ end
 
 get '/portrait.css' do
   content_type 'text/css', :charset => 'utf-8'
-  if request.user_agent =~ /(iPad|iPhone)/
-    sass :"#{$1}_portrait"
+  if request.user_agent =~ /(iPhone|iPad)/
+    sass :"#{$1.downcase()}_portrait"
   end
 end
 
 get '/landscape.css' do
   content_type 'text/css', :charset => 'utf-8'
-  if request.user_agent =~ /(iPad|iPad)/
-    sass :"#{$1}_landscape"
+  if request.user_agent =~ /(iPhone|iPad)/
+    sass :"#{$1.downcase()}_landscape"
   end
 end
 
