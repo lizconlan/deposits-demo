@@ -53,10 +53,10 @@ get '/' do
   data_url = "#{settings.db}/#{view}?descending=true"
   
   
-  @col1, @total_records = get_data(data_url, settings.page_length, 1)
-  @col2, @total_records = get_data(data_url, settings.page_length, 2)
+  @col1, @total_records = get_data(data_url, settings.page_length, 1, 35)
+  @col2, @total_records = get_data(data_url, settings.page_length, 2, 35)
   if columns == 3
-    @col3, @total_records = get_data(data_url, settings.page_length, 1)
+    @col3, @total_records = get_data(data_url, settings.page_length, 1, 35)
   end
   haml :index
 end
@@ -89,7 +89,14 @@ get '/:year/:page/?' do
 end
 
 private
-  def get_data url, records_per_page, current_page=1
+  def get_data url, records_per_page, current_page=1, max_records=0
+    unless max_records == 0
+      if url.include?("?")
+        url = "#{url}&limit=#{max_records}"
+      else
+        url = "#{url}?limit=#{max_records}"
+      end
+    end
     data = RestClient.get url
     rows = JSON.parse(data.body)["rows"]
     total_records = rows.count
