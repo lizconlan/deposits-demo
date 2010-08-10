@@ -3,7 +3,6 @@ require 'rest_client'
 require 'json'
 require 'haml'
 require 'sass'
-require 'will_paginate'
 
 configure do
   if ENV['RACK_ENV'] && ENV['RACK_ENV'] == 'production'
@@ -53,10 +52,10 @@ get '/' do
   data_url = "#{settings.db}/#{view}?descending=true"
   
   
-  @col1, @total_records = get_data(data_url, settings.page_length, 1, 35)
-  @col2, @total_records = get_data(data_url, settings.page_length, 2, 35)
+  @col1 = get_data(data_url, settings.page_length, 1)
+  @col2 = get_data(data_url, settings.page_length, 2)
   if columns == 3
-    @col3, @total_records = get_data(data_url, settings.page_length, 1, 35)
+    @col3 = get_data(data_url, settings.page_length, 1)
   end
   haml :index
 end
@@ -70,7 +69,11 @@ get '/:year/?' do
   
   data_url = "#{settings.db}/#{view}?key=%22#{@year}%22"
   
-  @results, @total_records = get_data(data_url, settings.page_length, 1)
+  data = RestClient.get "#{settings.db}/_design/data/_view/count_by_year?key=%22#{@year}%22&group=true"
+  rows = JSON.parse(data.body)["rows"]
+  @total_records = rows[0]["value"].to_i
+  
+  @results = get_data(data_url, settings.page_length, 1)
   
   haml :deposit_list
 end
@@ -83,25 +86,25 @@ get '/:year/:page/?' do
   
   data_url = "#{settings.db}/#{view}?key=%22#{@year}%22"
   
-  @results, @total_records = get_data(data_url, settings.page_length, params[:page])
+  data = RestClient.get "#{settings.db}/_design/data/_view/count_by_year?key=%22#{@year}%22&group=true"
+  rows = JSON.parse(data.body)["rows"]
+  @total_records = rows[0]["value"].to_i
+  
+  @results = get_data(data_url, settings.page_length, params[:page])
   
   haml :deposit_list
 end
 
 private
-  def get_data url, records_per_page, current_page=1, max_records=0
-    unless max_records == 0
-      if url.include?("?")
-        url = "#{url}&limit=#{max_records}"
-      else
-        url = "#{url}?limit=#{max_records}"
-      end
+  def get_data url, records_per_page, current_page=1
+    if url.include?("?")
+      url = "#{url}&limit=#{records_per_page.to_i()+1}&skip=#{records_per_page.to_i()*(current_page.to_i()-1)}"
+    else
+      url = "#{url}?limit=#{records_per_page.to_i()+1}&skip=#{records_per_page.to_i()*(current_page.to_i()-1)}"
     end
     data = RestClient.get url
-    rows = JSON.parse(data.body)["rows"]
-    total_records = rows.count
-    results = rows.paginate({:page => current_page, :per_page => records_per_page})
-    [results, total_records]
+    
+    JSON.parse(data.body)["rows"]
   end
   
   def get_session year
