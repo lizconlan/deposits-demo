@@ -6,7 +6,13 @@ require 'sass'
 require 'will_paginate'
 
 configure do
-  set :db, 'http://localhost:5984/deposits'
+  if ENV['RACK_ENV'] && ENV['RACK_ENV'] == 'production'
+    db = ENV['COUCH_URL']
+  else
+    conf = YAML.load(File.read('config/virtualserver/config.yml'))
+    db = conf[:couch_url]
+  end
+  set :db, db
   set :page_length, 10
 end
 
