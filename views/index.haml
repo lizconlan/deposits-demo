@@ -1,17 +1,13 @@
-- if request.user_agent =~ /iPhone/
-  .columns
-    .column1
-      = "one"
+.columns
+  .column1
+    - @col1.each do |deposit|
+      = haml :deposit, {:layout => false, :locals => {:deposit => deposit} }
 
-    .column2
-      ="two"
-- else
-  .columns
-    .column1
-      = "one"
-  
-    .column2
-      ="two"
+  .column2
+    - @col2.each do |deposit|
+      = haml :deposit, {:layout => false, :locals => {:deposit => deposit} }
     
+  - unless request.user_agent =~ /iPhone/
     .column3
-      = "three"
+      - @col3.each do |deposit|
+        = haml :deposit, {:layout => false, :locals => {:deposit => deposit} }

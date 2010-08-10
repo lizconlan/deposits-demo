@@ -39,6 +39,19 @@ get '/mobile.css' do
 end
 
 get '/' do
+  view = "_design/data/_view/by_id"
+  
+  columns = 3
+  columns = 2 if request.user_agent =~ /iPhone/
+  
+  data_url = "#{settings.db}/#{view}?descending=true"
+  
+  
+  @col1, @total_records = get_data(data_url, settings.page_length, 1)
+  @col2, @total_records = get_data(data_url, settings.page_length, 2)
+  if columns == 3
+    @col3, @total_records = get_data(data_url, settings.page_length, 1)
+  end
   haml :index
 end
 
