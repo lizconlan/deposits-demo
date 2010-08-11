@@ -16,10 +16,15 @@ get '/styles.css' do
   sass :styles
 end
 
-get '/screen.css', :agent => /iPad/ do
+get '/screen.css', :agent => the_agent do
   content_type 'text/css', :charset => 'utf-8'
-  sass :ipad
+  sass the_agent_css
 end
+
+get '/' do
+  request.user_agent.include?('iPad').inspect
+end
+
 
 get '/:year/?' do
   view = "_design/data/_view/by_year"
