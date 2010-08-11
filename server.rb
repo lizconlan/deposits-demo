@@ -1,14 +1,36 @@
-require 'rubygems'
 require 'sinatra'
 require 'rest_client'
 require 'json'
 require 'haml'
 require 'sass'
-require 'will_paginate'
 
 configure do
-  set :db, 'http://localhost:5984/deposits'
+  if ENV['RACK_ENV'] && ENV['RACK_ENV'] == 'production'
+    db = ENV['COUCH_URL']
+  else
+    conf = YAML.load(File.read('config/virtualserver/config.yml'))
+    db = conf[:couch_url]
+  end
+  set :db, db
   set :page_length, 10
+end
+
+get '/favicon.ico' do
+  ""
+end
+
+get '/portrait.css' do
+  content_type 'text/css', :charset => 'utf-8'
+  if request.user_agent =~ /(iPhone|iPad)/
+    sass :"#{$1.downcase()}_portrait"
+  end
+end
+
+get '/landscape.css' do
+  content_type 'text/css', :charset => 'utf-8'
+  if request.user_agent =~ /(iPhone|iPad)/
+    sass :"#{$1.downcase()}_landscape"
+  end
 end
 
 get '/styles.css' do
@@ -16,9 +38,26 @@ get '/styles.css' do
   sass :styles
 end
 
-get '/screen.css', :agent => the_agent do
+get '/mobile.css' do
   content_type 'text/css', :charset => 'utf-8'
-  sass the_agent_css
+  sass :mobile
+end
+
+get '/' do
+  view = "_design/data/_view/by_id"
+  
+  columns = 3
+  columns = 2 if request.user_agent =~ /iPhone/
+  
+  data_url = "#{settings.db}/#{view}?descending=true"
+  
+  
+  @col1 = get_data(data_url, settings.page_length, 1)
+  @col2 = get_data(data_url, settings.page_length, 2)
+  if columns == 3
+    @col3 = get_data(data_url, settings.page_length, 1)
+  end
+  haml :index
 end
 
 get '/' do
@@ -35,7 +74,11 @@ get '/:year/?' do
   
   data_url = "#{settings.db}/#{view}?key=%22#{@year}%22"
   
-  @results, @total_records = get_data(data_url, settings.page_length, 1)
+  data = RestClient.get "#{settings.db}/_design/data/_view/count_by_year?key=%22#{@year}%22&group=true"
+  rows = JSON.parse(data.body)["rows"]
+  @total_records = rows[0]["value"].to_i
+  
+  @results = get_data(data_url, settings.page_length, 1)
   
   haml :deposit_list
 end
@@ -48,18 +91,25 @@ get '/:year/:page/?' do
   
   data_url = "#{settings.db}/#{view}?key=%22#{@year}%22"
   
-  @results, @total_records = get_data(data_url, settings.page_length, params[:page])
+  data = RestClient.get "#{settings.db}/_design/data/_view/count_by_year?key=%22#{@year}%22&group=true"
+  rows = JSON.parse(data.body)["rows"]
+  @total_records = rows[0]["value"].to_i
+  
+  @results = get_data(data_url, settings.page_length, params[:page])
   
   haml :deposit_list
 end
 
 private
   def get_data url, records_per_page, current_page=1
+    if url.include?("?")
+      url = "#{url}&limit=#{records_per_page.to_i()+1}&skip=#{records_per_page.to_i()*(current_page.to_i()-1)}"
+    else
+      url = "#{url}?limit=#{records_per_page.to_i()+1}&skip=#{records_per_page.to_i()*(current_page.to_i()-1)}"
+    end
     data = RestClient.get url
-    rows = JSON.parse(data.body)["rows"]
-    total_records = rows.count
-    results = rows.paginate({:page => current_page, :per_page => records_per_page})
-    [results, total_records]
+    
+    JSON.parse(data.body)["rows"]
   end
   
   def get_session year

@@ -23,26 +23,4 @@
   
 
 - @results.each do |deposit|
-  %div.deposited_paper
-    %h3.reference
-      - if deposit["value"]["link_to_paper"]
-        %a.document_url{:href => "#{deposit["value"]["link_to_paper"]}" } #{deposit["value"]["_id"]}
-      - else
-        #{deposit["value"]["_id"].gsub("DEP07-","07/")}
-    %span.deposited_date
-      #{deposit["value"]["deposited_date"]}
-    &nbsp;-&nbsp;
-    %span.department
-      #{deposit["value"]["department"]}
-    %br
-    .description
-      #{deposit["value"]["description"]}
-    - if deposit["value"]["legislature"]
-      Document held by:
-      - if deposit["value"]["legislature"].include?("Lords")
-        .legislature
-          House of Lords
-      - if deposit["value"]["legislature"].include?("Commons")
-        .legislature
-          House of Commons
-    %hr
+  = haml :deposit, {:layout => false, :locals => {:deposit => deposit} }
