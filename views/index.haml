@@ -1,13 +1,16 @@
 .columns
   .column1
     - @col1.each do |deposit|
-      = haml :deposit, {:layout => false, :locals => {:deposit => deposit} }
+      %article
+        = haml :deposit, {:layout => false, :locals => {:deposit => deposit} }
 
   .column2
     - @col2.each do |deposit|
-      = haml :deposit, {:layout => false, :locals => {:deposit => deposit} }
+      %article
+        = haml :deposit, {:layout => false, :locals => {:deposit => deposit} }
     
   - unless request.user_agent =~ /iPhone/
     .column3
       - @col3.each do |deposit|
-        = haml :deposit, {:layout => false, :locals => {:deposit => deposit} }
+        %article
+          = haml :deposit, {:layout => false, :locals => {:deposit => deposit} }
