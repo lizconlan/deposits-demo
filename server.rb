@@ -55,7 +55,7 @@ get '/' do
   @col1 = get_data(data_url, settings.page_length, 1)
   @col2 = get_data(data_url, settings.page_length, 2)
   if columns == 3
-    @col3 = get_data(data_url, settings.page_length, 1)
+    @col3 = get_data(data_url, settings.page_length, 3)
   end
   haml :index
 end
@@ -72,12 +72,13 @@ get '/:year/?' do
   @year = "2010" if @year.nil?
   @session = get_session(@year)
   
-  data_url = "#{settings.db}/#{view}?key=%22#{@year}%22"
-  
+  #get the number of records
   data = RestClient.get "#{settings.db}/_design/data/_view/count_by_year?key=%22#{@year}%22&group=true"
   rows = JSON.parse(data.body)["rows"]
   @total_records = rows[0]["value"].to_i
   
+  #get the records themselves
+  data_url = "#{settings.db}/#{view}?key=%22#{@year}%22"
   @results = get_data(data_url, settings.page_length, 1)
   
   haml :deposit_list
@@ -89,12 +90,13 @@ get '/:year/:page/?' do
   @year = "2010" if @year.nil?
   @session = get_session(@year)
   
-  data_url = "#{settings.db}/#{view}?key=%22#{@year}%22"
-  
+  #get the number of records
   data = RestClient.get "#{settings.db}/_design/data/_view/count_by_year?key=%22#{@year}%22&group=true"
   rows = JSON.parse(data.body)["rows"]
   @total_records = rows[0]["value"].to_i
   
+  #get the records themselves
+  data_url = "#{settings.db}/#{view}?key=%22#{@year}%22"
   @results = get_data(data_url, settings.page_length, params[:page])
   
   haml :deposit_list
