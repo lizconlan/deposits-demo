@@ -19,3 +19,8 @@
       - @col3.each do |deposit|
         %article
           = haml :deposit, {:layout => false, :locals => {:deposit => deposit} }
+          
+          
+- if request.user_agent =~ /iPhone/
+  #toolbar
+    hello
