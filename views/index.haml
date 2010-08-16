@@ -3,32 +3,43 @@
     %h2
       ="#{@session} session"
 
-- if request.user_agent =~ /iPad/
-  .columns
-    .column1
-      %article
-        = haml :deposit, {:layout => false, :locals => {:deposit => @col1[0]} }
-      %article
-        = haml :deposit, {:layout => false, :locals => {:deposit => @col1[1]} }
+#content
+  - if request.user_agent =~ /iPad/
+    - if @col1[0]
+      #item1
+        %article
+          = haml :deposit, {:layout => false, :locals => {:deposit => @col1[0]} }
 
-    .column2
-      %article
-        = haml :deposit, {:layout => false, :locals => {:deposit => @col1[2]} }
-      %article
-        = haml :deposit, {:layout => false, :locals => {:deposit => @col1[3]} }
+    - if @col1[1]
+      #item2
+        %article
+          = haml :deposit, {:layout => false, :locals => {:deposit => @col1[1]} }
+
+    - if @col1[2]
+      #item3
+        %article
+          = haml :deposit, {:layout => false, :locals => {:deposit => @col1[2]} }
   
-    .column3
-      %article
-        = haml :deposit, {:layout => false, :locals => {:deposit => @col1[4]} }
-      %article
-        = haml :deposit, {:layout => false, :locals => {:deposit => @col1[5]} }
+    -if @col1[3]  
+      #item4
+        %article
+          = haml :deposit, {:layout => false, :locals => {:deposit => @col1[3]} }
+
+    - if @col1[4]
+      #item5
+        %article
+          = haml :deposit, {:layout => false, :locals => {:deposit => @col1[4]} }
+  
+    - if @col1[5]
+      #item6
+        %article
+          = haml :deposit, {:layout => false, :locals => {:deposit => @col1[5]} }
   
 
-  #toolbar
-    controls should appear here
+    #toolbar
+      controls should appear here
     
-- else
-  .columns
+  - else
     .column1
       - @col1.each do |deposit|
         %article
@@ -38,7 +49,7 @@
       - @col2.each do |deposit|
         %article
           = haml :deposit, {:layout => false, :locals => {:deposit => deposit} }
-    
+  
     - unless request.user_agent =~ /iPhone/
       .column3
         - @col3.each do |deposit|
