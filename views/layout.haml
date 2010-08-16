@@ -11,6 +11,15 @@
       - else
         %link{:rel=>"stylesheet",:type=>"text/css",:media=>"screen and (max-device-width: 480px)",:href=>"/mobile.css"}
         %link{:rel=>"stylesheet",:type=>"text/css",:media=>"screen and (min-device-width: 481px)",:href=>"/styles.css"}
+        
+      - if request.user_agent =~ /iPad/
+        %script{:type => "text/javascript", :src => "/scripts/iscroll.js"}
+        %script{:type => "text/javascript"}
+          function loaded() {
+          document.addEventListener('touchmove', function(e){ e.preventDefault(); });
+          myScroll = new iScroll('scroller');
+          }
+          document.addEventListener('DOMContentLoaded', loaded);
       
   %body
     %header
