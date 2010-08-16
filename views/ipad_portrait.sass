@@ -4,14 +4,16 @@ body
   font-size: 100%
   width: 768px
   margin: 0 auto
+  background-color: #000
 
 header
   display: block
   background: black
 
 h1
-  padding: 1em 0
-  margin-top: 0
+  font-size: 180%
+  padding: 0.8em 0
+  margin: 0
   text-align: center
   background: rgba(0,0,0,.2) -webkit-gradient(linear, 0% 0%, 0% 100%, from(#E2E2E2), to(#A1A1A1), color-stop(.49,#A1A1A1),color-stop(.5,#9C9C9C))
   color: white
@@ -20,11 +22,40 @@ h1
   -webkit-box-shadow: rgba(255,255,255,.2) 0 1px 0
   text-shadow: rgba(0,0,0,.6) 0 -1px 0
   border-top: 1px solid rgba(255,255,255,.6)
-  border-bottom: 1px solid rgba(0,0,0,.6)
+
+#page_heading
+  width: 768px
+  border-top: 1px solid #666
+  border-bottom: 1px solid #FFF
+  background-color: silver
+  height: 41px
+
+  nav
+    display: block
+
+  h2
+    text-align: center
+    font-size: 140%
+    padding: 0.4em 0
+    margin: 0
+    
+#toolbar
+  width: 768px
+  height: 50px
+  background-color: black
+  color: #FFF
+  position: absolute
+  bottom: 0
+  margin: 0 auto
+  text-align: center
+  font-weight: bold
 
 .columns
   width: 768px
   position: relative
+  height: 832px
+  overflow: auto
+  background-color: #FFF
 
   .column1
     width: 230px
