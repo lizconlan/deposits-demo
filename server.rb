@@ -51,12 +51,16 @@ get '/' do
   
   data_url = "#{settings.db}/#{view}?descending=true"
   
-  
   @col1 = get_data(data_url, settings.page_length, 1)
   @col2 = get_data(data_url, settings.page_length, 2)
   if columns == 3
     @col3 = get_data(data_url, settings.page_length, 3)
   end
+  
+  @year = @params[:year]
+  @year = "2010" if @year.nil?
+  @session = get_session(@year)
+  
   haml :index
 end
 
