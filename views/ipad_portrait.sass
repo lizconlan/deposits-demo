@@ -57,22 +57,21 @@ h1
   overflow: auto
   background-color: #FFF
 
-  .column1
-    width: 230px
-    padding: 0 13px
-    border-right: 1px solid #EEEEEE
-    position: absolute
-    left: 0
-
-  .column2
-    width: 230px
-    padding: 0 13px
-    border-right: 1px solid #EEEEEE
-    position: absolute
-    left: 256px
-
-  .column3
-    width: 230px
-    padding: 0 13px
-    position: absolute
-    left: 512px
+  .column1, .column2, .column3
+    position: relative
+    display: inline
+    float: left
+    border: 1px solid white
+    
+    #item1, #item3, #item5
+      width: 368px
+      padding: 0 13px
+      left: 0
+      
+    #item2, #item4, #item6
+      position: absolute
+      margin-left: 386px
+      width: 368px
+      padding: 0 13px
+      top: 0
+      left: 0
