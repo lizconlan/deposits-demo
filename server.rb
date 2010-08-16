@@ -44,6 +44,9 @@ get '/mobile.css' do
 end
 
 get '/' do
+  page_length = settings.page_length
+  page_length = 6 if request.user_agent =~ /iPad/
+  
   view = "_design/data/_view/by_id"
   
   columns = 3
@@ -62,8 +65,15 @@ get '/' do
   end
   
   @year = @params[:year]
-  @year = "2010" if @year.nil?
+  @year = "2010" if @year.nil? #needs to be better
   @session = get_session(@year)
+  
+  #get the number of records
+  data = RestClient.get "#{settings.db}/_design/data/_view/count_by_year?key=%22#{@year}%22&group=true"
+  rows = JSON.parse(data.body)["rows"]
+  @total_records = rows[0]["value"].to_i
+  @current_page = 1
+  @max_pages = (@total_records / page_length).ceil
   
   haml :index
 end
