@@ -51,10 +51,14 @@ get '/' do
   
   data_url = "#{settings.db}/#{view}?descending=true"
   
-  @col1 = get_data(data_url, settings.page_length, 1)
-  @col2 = get_data(data_url, settings.page_length, 2)
-  if columns == 3
-    @col3 = get_data(data_url, settings.page_length, 3)
+  if request.user_agent =~ /iPad/
+    @col1 = get_data(data_url, 6, 1)
+  else  
+    @col1 = get_data(data_url, settings.page_length, 1)
+    @col2 = get_data(data_url, settings.page_length, 2)
+    if columns == 3
+      @col3 = get_data(data_url, settings.page_length, 3)
+    end
   end
   
   @year = @params[:year]
