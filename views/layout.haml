@@ -15,9 +15,11 @@
       - if request.user_agent =~ /iPad/
         %script{:type => "text/javascript", :src => "/scripts/iscroll.js"}
         %script{:type => "text/javascript"}
+          var myScroll;
+        
           function loaded() {
           document.addEventListener('touchmove', function(e){ e.preventDefault(); });
-          myScroll = new iScroll('scroller');
+          myScroll = new iScroll('scroller', { vScrollbar: true });
           }
           document.addEventListener('DOMContentLoaded', loaded);
       
