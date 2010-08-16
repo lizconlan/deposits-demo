@@ -37,11 +37,7 @@
         #item6
           %article
             = haml :deposit, {:layout => false, :locals => {:deposit => @col1[5]} }
-  
-
-    #toolbar
-      controls should appear here
-    
+      
   - else
     .column1
       - @col1.each do |deposit|
@@ -58,3 +54,7 @@
         - @col3.each do |deposit|
           %article
             = haml :deposit, {:layout => false, :locals => {:deposit => deposit} }
+            
+- if request.user_agent =~ /iPad/
+  #toolbar
+    controls should appear here
