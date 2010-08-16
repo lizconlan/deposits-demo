@@ -125,6 +125,6 @@ private
       else
         year_end = year.to_i
         year_start = year_end - 1
-        "#{year_start}-#{year_end}"
+        "#{year_start} - #{year_end}"
     end
   end
