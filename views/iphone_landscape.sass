@@ -11,7 +11,7 @@ header
 
 h1
   padding: 1em 0
-  margin-top: 0
+  margin: 0
   font-size: 1em
   text-align: center
   background: rgba(0,0,0,.2) -webkit-gradient(linear, 0% 0%, 0% 100%, from(#E2E2E2), to(#A1A1A1), color-stop(.49,#A1A1A1),color-stop(.5,#9C9C9C))
@@ -21,23 +21,56 @@ h1
   -webkit-box-shadow: rgba(255,255,255,.2) 0 1px 0
   text-shadow: rgba(0,0,0,.6) 0 -1px 0
   border-top: 1px solid rgba(255,255,255,.6)
-  border-bottom: 1px solid rgba(0,0,0,.6)
+
+#page_heading
+  width: 480px
+  border-top: 1px solid #666
+  border-bottom: 1px solid #FFF
+  background-color: silver
+
+  nav
+    display: block
+
+  h2
+    text-align: center
+    font-size: 120%
+    padding: 0.4em 0
+    margin: 0
+
+#toolbar
+  width: 480px
+  height: 50px
+  background-color: black
+  color: #FFF
+  position: absolute
+  bottom: 0
+  margin: 0 auto
+  text-align: center
+  font-weight: bold
+
+  .tool_text
+    margin: 1em 0 0 0
 
 #content
-  width: 480px
   position: relative
+  z-index: 1
+  width: 100%
+  height: 320px
+  overflow: hidden
+
+#scroller
+  float: left
+  width: 100%
+  padding: 0
+  background-color: #FFF
     
   .column1
     width: 220px
     padding: 0 10px
     border-right: 1px solid #EEEEEE
-    position: absolute
-    top: 0
-    left: 0
+    float: left
     
   .column2
     width: 220px
     padding: 0 10px
-    position: absolute
-    top: 0
-    left: 240px
+    float: left

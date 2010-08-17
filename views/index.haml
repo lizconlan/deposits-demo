@@ -4,7 +4,7 @@
       ="#{@session} session"
 
 #content
-  - if request.user_agent =~ /iPad/
+  - if request.user_agent =~ /iPhone|iPad/
     #scroller
       .column1
         - if @col1[0]
@@ -56,7 +56,7 @@
           %article
             = haml :deposit, {:layout => false, :locals => {:deposit => deposit} }
             
-- if request.user_agent =~ /iPad/
+- if request.user_agent =~ /iPad|iPhone/
   #toolbar
     .tool_text
       Page #{@current_page} of #{@max_pages}

@@ -8,11 +8,7 @@
         %meta{:name => "viewport", :content => "width=device-width, maximum-scale=1.0"}
         %link{:rel=>"stylesheet",:type=>"text/css",:media=>"all and (orientation:portrait)", :href=>"/portrait.css"}
         %link{:rel=>"stylesheet",:type=>"text/css",:media=>"all and (orientation:landscape)", :href=>"/landscape.css"}
-      - else
-        %link{:rel=>"stylesheet",:type=>"text/css",:media=>"screen and (max-device-width: 480px)",:href=>"/mobile.css"}
-        %link{:rel=>"stylesheet",:type=>"text/css",:media=>"screen and (min-device-width: 481px)",:href=>"/styles.css"}
         
-      - if request.user_agent =~ /iPad/
         %script{:type => "text/javascript", :src => "/scripts/iscroll.js"}
         %script{:type => "text/javascript"}
           var myScroll;
@@ -33,6 +29,11 @@
           window.addEventListener('onorientationchange' in window ? 'orientationchange' : 'resize', setHeight, false);
           document.addEventListener('touchmove', function(e){ e.preventDefault(); }, false);
           document.addEventListener('DOMContentLoaded', loaded);
+        
+      - else
+      
+        %link{:rel=>"stylesheet",:type=>"text/css",:media=>"screen and (max-device-width: 480px)",:href=>"/mobile.css"}
+        %link{:rel=>"stylesheet",:type=>"text/css",:media=>"screen and (min-device-width: 481px)",:href=>"/styles.css"}
       
   %body
     %header#header
