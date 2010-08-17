@@ -16,15 +16,26 @@
         %script{:type => "text/javascript", :src => "/scripts/iscroll.js"}
         %script{:type => "text/javascript"}
           var myScroll;
-        
+          
+          function setHeight() {
+          var headerH = document.getElementById('header').offsetHeight;
+          var subheaderH = document.getElementById('page_heading').offsetHeight;
+          var footerH = document.getElementById('toolbar').offsetHeight;
+          var wrapperH = window.innerHeight - headerH - subheaderH - footerH;
+          document.getElementById('content').style.height = wrapperH + 'px';
+          }
+          
           function loaded() {
-          document.addEventListener('touchmove', function(e){ e.preventDefault(); });
+          setHeight();
+
           myScroll = new iScroll('scroller', { vScrollbar: true });
           }
+          window.addEventListener('onorientationchange' in window ? 'orientationchange' : 'resize', setHeight, false);
+          document.addEventListener('touchmove', function(e){ e.preventDefault(); }, false);
           document.addEventListener('DOMContentLoaded', loaded);
       
   %body
-    %header
+    %header#header
       %h1 Deposited Papers
     
     #main_page
