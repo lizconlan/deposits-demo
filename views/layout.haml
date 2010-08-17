@@ -14,10 +14,18 @@
           var myScroll;
           
           function setHeight() {
-          var headerH = document.getElementById('header').offsetHeight;
           var subheaderH = document.getElementById('page_heading').offsetHeight;
           var footerH = document.getElementById('toolbar').offsetHeight;
+          
+          if (window.innerHeight < 300) {
+          document.getElementById('header').style.display = 'none';
+          var wrapperH = window.innerHeight - subheaderH - footerH;
+          } else {
+          document.getElementById('header').style.display = 'block';
+          var headerH = document.getElementById('header').offsetHeight;
           var wrapperH = window.innerHeight - headerH - subheaderH - footerH;
+          }
+          
           document.getElementById('content').style.height = wrapperH + 'px';
           }
           
