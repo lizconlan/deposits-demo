@@ -46,22 +46,21 @@ end
 get '/' do
   page_length = settings.page_length
   page_length = 6 if request.user_agent =~ /iPad/
+  page_length = 4 if request.user_agent =~ /iPhone/
   
   view = "_design/data/_view/by_id"
   
-  columns = 3
-  columns = 2 if request.user_agent =~ /iPhone/
-  
   data_url = "#{settings.db}/#{view}?descending=true"
   
-  if request.user_agent =~ /iPad/
-    @col1 = get_data(data_url, 6, 1)
-  else  
-    @col1 = get_data(data_url, settings.page_length, 1)
-    @col2 = get_data(data_url, settings.page_length, 2)
-    if columns == 3
+  case request.user_agent
+    when /iPad/
+      @col1 = get_data(data_url, 6, 1)
+    when /iPhone/
+      @col1 = get_data(data_url, 4, 1)
+    else
+      @col1 = get_data(data_url, settings.page_length, 1)
+      @col2 = get_data(data_url, settings.page_length, 2)
       @col3 = get_data(data_url, settings.page_length, 3)
-    end
   end
   
   @year = @params[:year]
@@ -123,9 +122,9 @@ end
 private
   def get_data url, records_per_page, current_page=1
     if url.include?("?")
-      url = "#{url}&limit=#{records_per_page.to_i()+1}&skip=#{records_per_page.to_i()*(current_page.to_i()-1)}"
+      url = "#{url}&limit=#{records_per_page.to_i()}&skip=#{records_per_page.to_i()*(current_page.to_i()-1)}"
     else
-      url = "#{url}?limit=#{records_per_page.to_i()+1}&skip=#{records_per_page.to_i()*(current_page.to_i()-1)}"
+      url = "#{url}?limit=#{records_per_page.to_i()}&skip=#{records_per_page.to_i()*(current_page.to_i()-1)}"
     end
     data = RestClient.get url
     
