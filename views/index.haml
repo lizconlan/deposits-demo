@@ -59,4 +59,8 @@
 - if request.user_agent =~ /iPad|iPhone/
   #toolbar
     .tool_text
+      - if @current_page > 1
+        %a{:href => "/page/#{@current_page - 1}"} &lt;&lt; Prev
       Page #{@current_page} of #{@max_pages}
+      - if @current_page < @max_pages
+        %a{:href => "/page/#{@current_page + 1}"} Next &gt;&gt;
