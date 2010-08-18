@@ -75,8 +75,8 @@ get '/' do
 end
 
 get '/page/:page/?' do
-  @page = params[:page].to_i
-  if @page < 2
+  @current_page = params[:page].to_i
+  if @current_page < 2
     redirect '/'
   end
   
@@ -88,12 +88,12 @@ get '/page/:page/?' do
   
   case request.user_agent
     when /iPad|iPhone/
-      @col1 = get_data(data_url, column_length, @page)
+      @col1 = get_data(data_url, column_length, @current_page)
       page_length = column_length
     else
-      @col1 = get_data(data_url, column_length, ((@page - 1) * 3) + 1)
-      @col2 = get_data(data_url, column_length, ((@page - 1) * 3) + 2)
-      @col3 = get_data(data_url, column_length, @page * 3)
+      @col1 = get_data(data_url, column_length, ((@current_page - 1) * 3) + 1)
+      @col2 = get_data(data_url, column_length, ((@current_page - 1) * 3) + 2)
+      @col3 = get_data(data_url, column_length, @current_page * 3)
       page_length = column_length * 3
   end
   
@@ -105,7 +105,6 @@ get '/page/:page/?' do
   data = RestClient.get "#{settings.db}/_design/data/_view/count_by_year?key=%22#{@year}%22&group=true"
   rows = JSON.parse(data.body)["rows"]
   @total_records = rows[0]["value"].to_i
-  @current_page = 1
   @max_pages = (@total_records / page_length).ceil
   
   haml :index
