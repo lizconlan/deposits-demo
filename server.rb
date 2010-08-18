@@ -74,6 +74,43 @@ get '/' do
   haml :index
 end
 
+get '/page/:page/?' do
+  @page = params[:page].to_i
+  if @page < 2
+    redirect '/'
+  end
+  
+  column_length = get_column_length(request.user_agent)
+  
+  view = "_design/data/_view/by_id"
+  
+  data_url = "#{settings.db}/#{view}?descending=true"
+  
+  case request.user_agent
+    when /iPad|iPhone/
+      @col1 = get_data(data_url, column_length, @page)
+      page_length = column_length
+    else
+      @col1 = get_data(data_url, column_length, ((@page - 1) * 3) + 1)
+      @col2 = get_data(data_url, column_length, ((@page - 1) * 3) + 2)
+      @col3 = get_data(data_url, column_length, @page * 3)
+      page_length = column_length * 3
+  end
+  
+  @year = @params[:year]
+  @year = "2010" if @year.nil? #needs to be better
+  @session = get_session(@year)
+  
+  #get the number of records
+  data = RestClient.get "#{settings.db}/_design/data/_view/count_by_year?key=%22#{@year}%22&group=true"
+  rows = JSON.parse(data.body)["rows"]
+  @total_records = rows[0]["value"].to_i
+  @current_page = 1
+  @max_pages = (@total_records / page_length).ceil
+  
+  haml :index
+end
+
 get '/:year/?' do
   view = "_design/data/_view/by_year"
   
