@@ -74,11 +74,6 @@ get '/' do
   haml :index
 end
 
-get '/' do
-  request.user_agent.include?('iPad').inspect
-end
-
-
 get '/:year/?' do
   view = "_design/data/_view/by_year"
   
