@@ -12,7 +12,6 @@ configure do
     db = conf[:couch_url]
   end
   set :db, db
-  set :page_length, 10
 end
 
 get '/favicon.ico' do
@@ -44,23 +43,21 @@ get '/mobile.css' do
 end
 
 get '/' do
-  page_length = settings.page_length
-  page_length = 6 if request.user_agent =~ /iPad/
-  page_length = 4 if request.user_agent =~ /iPhone/
+  column_length = get_column_length(request.user_agent)
   
   view = "_design/data/_view/by_id"
   
   data_url = "#{settings.db}/#{view}?descending=true"
   
   case request.user_agent
-    when /iPad/
-      @col1 = get_data(data_url, 6, 1)
-    when /iPhone/
-      @col1 = get_data(data_url, 4, 1)
+    when /iPad|iPhone/
+      @col1 = get_data(data_url, column_length, 1)
+      page_length = column_length
     else
-      @col1 = get_data(data_url, settings.page_length, 1)
-      @col2 = get_data(data_url, settings.page_length, 2)
-      @col3 = get_data(data_url, settings.page_length, 3)
+      @col1 = get_data(data_url, column_length, 1)
+      @col2 = get_data(data_url, column_length, 2)
+      @col3 = get_data(data_url, column_length, 3)
+      page_length = column_length * 3
   end
   
   @year = @params[:year]
@@ -139,5 +136,16 @@ private
         year_end = year.to_i
         year_start = year_end - 1
         "#{year_start} - #{year_end}"
+    end
+  end
+
+  def get_column_length agent
+    case agent
+      when /iPad/
+        6
+      when /iPhone/
+        4
+      else
+        3
     end
   end
