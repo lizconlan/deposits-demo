@@ -7,37 +7,37 @@
   - if request.user_agent =~ /iPhone|iPad/
     #scroller
       .column1
-        - if @col1[0]
+        - if @data[0]
           #item1
             %article
-              = haml :deposit, {:layout => false, :locals => {:deposit => @col1[0]} }
+              = haml :deposit, {:layout => false, :locals => {:deposit => @data[0]} }
 
-        - if @col1[1]
+        - if @data[1]
           #item2
             %article
-              = haml :deposit, {:layout => false, :locals => {:deposit => @col1[1]} }
+              = haml :deposit, {:layout => false, :locals => {:deposit => @data[1]} }
 
       .column2
-        - if @col1[2]
+        - if @data[2]
           #item3
             %article
-              = haml :deposit, {:layout => false, :locals => {:deposit => @col1[2]} }
+              = haml :deposit, {:layout => false, :locals => {:deposit => @data[2]} }
   
-        -if @col1[3]  
+        -if @data[3]  
           #item4
             %article
-              = haml :deposit, {:layout => false, :locals => {:deposit => @col1[3]} }
+              = haml :deposit, {:layout => false, :locals => {:deposit => @data[3]} }
           
       .column3
-        - if @col1[4]
+        - if @data[4]
           #item5
             %article
-              = haml :deposit, {:layout => false, :locals => {:deposit => @col1[4]} }
+              = haml :deposit, {:layout => false, :locals => {:deposit => @data[4]} }
   
-        - if @col1[5]
+        - if @data[5]
           #item6
             %article
-              = haml :deposit, {:layout => false, :locals => {:deposit => @col1[5]} }
+              = haml :deposit, {:layout => false, :locals => {:deposit => @data[5]} }
       
   - else
     .column1
