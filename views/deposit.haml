@@ -1,26 +1,17 @@
 %div.deposited_paper
-  %h3.reference
-    #{deposit["value"]["_id"].gsub("DEP07-","07/")}
   %span.deposited_date
     #{deposit["value"]["deposited_date"]}
-  &nbsp;-&nbsp;
   %span.department
     #{deposit["value"]["department"]}
-  %br
-  .description
+  %b.description
     #{deposit["value"]["description"]}
   - if deposit["value"]["link_to_paper"]
     %span.download
       - filename = deposit["value"]["link_to_paper"]
-      %a.document_url{:href => "#{filename}" } View papers for #{deposit["value"]["_id"]} (#{filename[filename.rindex(".")+1..filename.length]})
-      %br
-      %br
+      %a.document_url{:href => "#{filename}" } #{deposit["value"]["_id"]} <b>#{filename[filename.rindex(".")+1..filename.length].upcase}</b>
   - if deposit["value"]["legislature"]
-    Document held by:
     - if deposit["value"]["legislature"].include?("Lords")
-      .legislature
-        House of Lords
+      [Lords]
     - if deposit["value"]["legislature"].include?("Commons")
-      .legislature
-        House of Commons
+      [Commons]
         
