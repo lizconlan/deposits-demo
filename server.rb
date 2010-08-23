@@ -42,6 +42,11 @@ get '/mobile.css' do
   sass :mobile
 end
 
+get '/cache.manifest' do
+  content_type 'text/manifest'
+  "CACHE MANIFEST\n\nimages/next.png\nimages/prev.png"
+end
+
 get '/' do
   column_length = get_column_length(request.user_agent)
   
