@@ -63,4 +63,8 @@
         %a{:href => "/page/#{@current_page - 1}"} &lt;&lt; Prev
       Page #{@current_page} of #{@max_pages}
       - if @current_page < @max_pages
-        %a{:href => "/page/#{@current_page + 1}"} Next &gt;&gt;
+        - if request.user_agent =~ /iPad/
+          %span{:onclick => "window.location='/page/#{@current_page + 1}'"}
+            Next page
+        - else
+          %a{:href => "/page/#{@current_page + 1}"} Next &gt;&gt;
