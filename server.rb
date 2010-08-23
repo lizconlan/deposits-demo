@@ -110,7 +110,7 @@ get '/page/:page/?' do
   haml :index
 end
 
-get '/:year/?' do
+get '/year/:year/?' do
   view = "_design/data/_view/by_year"
   
   @year = @params[:year]
@@ -129,7 +129,7 @@ get '/:year/?' do
   haml :deposit_list
 end
 
-get '/:year/:page/?' do
+get '/year/:year/:page/?' do
   view = "_design/data/_view/by_year"
   @year = params[:year]
   @year = "2010" if @year.nil?
