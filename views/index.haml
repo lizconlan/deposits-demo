@@ -1,11 +1,18 @@
-#page_heading
-  %nav
-    %h2
-      ="#{@session} session"
+- if request.user_agent =~ /iPad/
+  #page_heading
+    %nav
+      %h2
+        ="#{@session} session"
 
 #content
   - if request.user_agent =~ /iPhone|iPad/
     #scroller
+      - if request.user_agent =~ /iPhone/
+        #page_heading
+          %nav
+            %h2
+              ="#{@session} session"
+              
       .column1
         - if @data[0]
           #item1
@@ -60,21 +67,14 @@
   #toolbar
     .tool_text
       - if @current_page > 1
-        - if request.user_agent =~ /iPad/
-          .back_button{:onclick => "window.location='/page/#{@current_page - 1}'"}
-            Prev
-        - else
-          %a{:href => "/page/#{@current_page - 1}"} &lt;&lt; Prev
+        .back_button{:onclick => "window.location='/page/#{@current_page - 1}'"}
+          Prev
       - else
-        - if request.user_agent =~ /iPad/
-          .inactive_back_button
+        .inactive_back_button
       .page_info
         Page #{@current_page} of #{@max_pages}
       - if @current_page < @max_pages
-        - if request.user_agent =~ /iPad/
-          .next_button{:onclick => "window.location='/page/#{@current_page + 1}'"}
-            Next
-        - else
-          %a{:href => "/page/#{@current_page + 1}"} Next &gt;&gt;
+        .next_button{:onclick => "window.location='/page/#{@current_page + 1}'"}
+          Next
       - else
         .inactive_next_button{:onclick => "window.location='/page/#{@current_page + 1}'"}

@@ -49,7 +49,59 @@ h1
   font-weight: bold
 
   .tool_text
-    margin: 1em 0 0 0
+    position: relative
+    display: block
+    margin: 0.5em auto
+    width: 300px
+
+    .back_button
+      display: block
+      position: absolute
+      left: 0
+      top: 0
+      width: 69px
+      height: 29px
+      background-image: url(/images/prev.png)
+      text-indent: -9999px
+
+    .back_button:active
+      background-position: center
+
+    .inactive_back_button
+      display: block
+      position: absolute
+      top: 0
+      left: 0
+      min-width: 69px
+      min-height: 29px
+      background-image: url(/images/prev.png)
+      text-indent: -9999px
+      background-position: bottom
+
+    .page_info
+      display: inline
+      margin: 0.5em 13px
+
+    .next_button
+      display: block
+      position: absolute
+      top: 0
+      right: 0
+      min-width: 69px
+      min-height: 29px
+      background-image: url(/images/next.png)
+      text-indent: -9999px
+
+    .next_button:active
+      background-position: center
+
+    .inactive_next_button
+      display: inline
+      width: 69px
+      height: 29px
+      background-image: url(/images/next.png)
+      text-indent: -9999px
+      background-position: bottom
 
 #content
   position: relative
