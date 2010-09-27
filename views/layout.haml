@@ -19,11 +19,15 @@
           
           if (window.innerHeight < 300) {
           document.getElementById('header').style.display = 'none';
-          var wrapperH = window.innerHeight - subheaderH - footerH;
+          var wrapperH = window.innerHeight - footerH;
           } else {
           document.getElementById('header').style.display = 'block';
           var headerH = document.getElementById('header').offsetHeight;
+          if (navigator.userAgent.indexOf('iPhone') > -1) {
+          var wrapperH = window.innerHeight - headerH - footerH;
+          } else {
           var wrapperH = window.innerHeight - headerH - subheaderH - footerH;
+          }
           }
           
           document.getElementById('content').style.height = wrapperH + 'px';
