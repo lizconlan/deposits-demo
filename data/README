@@ -1,0 +1,1 @@
+The _docs folder contains cached deposits data. To load this data, copy the _docs folder into the _db folder and run couchapp push
