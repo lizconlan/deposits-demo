@@ -14,10 +14,6 @@ configure do
   set :db, db
 end
 
-get '/favicon.ico' do
-  ""
-end
-
 get '/portrait.css' do
   content_type 'text/css', :charset => 'utf-8'
   if request.user_agent =~ /(iPhone|iPad)/

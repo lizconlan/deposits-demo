@@ -3,12 +3,12 @@
   %head
     %meta{"http-equiv"=>"Content-Type", :content=>"text/html; charset=utf-8"}
       %title= "Deposited Papers"
+      %link{:rel => "shortcut icon", :href => "http://www.parliament.uk/favicon.ico"}
       - if request.user_agent =~ /iPhone|iPad/
         %meta{:name => "apple-mobile-web-app-capable", :content => "yes"}
         %meta{:name => "viewport", :content => "width=device-width, maximum-scale=1.0"}
         %link{:rel=>"stylesheet",:type=>"text/css",:media=>"all and (orientation:portrait)", :href=>"/portrait.css"}
         %link{:rel=>"stylesheet",:type=>"text/css",:media=>"all and (orientation:landscape)", :href=>"/landscape.css"}
-        
         %script{:type => "text/javascript", :src => "/scripts/iscroll.js"}
         %script{:type => "text/javascript"}
           var myScroll;
