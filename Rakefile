@@ -30,20 +30,35 @@ task :script_data do
   end
   rows.each do |rec|
     unless File.exists?("db/_docs/#{rec["id"]}.json")
-      output = File.open("db/_docs/#{rec["id"]}.json", 'a')
-      output.write("{\n")
+      doc = "{\n"
       rec["value"].each do |value|
         if value[0] != "_id" and value[0] != "_rev"
-          output.write("  \"#{value[0]}\" : ")
-          if value[1].class == String
-            output.write("\"#{value[1]}\"\n")
-          else
-            output.write("#{value[1]}\n")
-          end
+          doc = "#{doc}  \"#{value[0]}\" : "
+          doc = process_data_values(value[1], doc)
         end
       end
-      output.write("}")
-      output.close
+      doc = "#{doc}}"
+      doc.gsub!(",\n}", "\n}")
+      File.open("db/_docs/#{rec["id"]}.json", 'a') { |f| f.write(doc) }
     end
   end
+end
+
+def process_data_values value, doc, suppress_line_break=false
+  if value.class == String
+    doc = "#{doc}\"#{value.gsub(/"/, '\"')}\","
+    unless suppress_line_break
+      doc = "#{doc}\n"
+    end
+  elsif value.class == Array
+    doc = "#{doc}["
+    value.each do |elem|
+      doc = process_data_values(elem, doc, true)
+    end
+    doc = "#{doc}],\n"
+    doc.gsub!(",]", "]")
+  else
+    doc = "#{doc}#{value},\n"
+  end
+  doc
 end
