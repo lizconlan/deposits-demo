@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/10/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0065.pdf"
-  "year" : "2007"
-  "description" : "Letter dated 18/10/2007 from Philip Graf, Deputy Chairman, to John Robertson MP regarding broadband and pay-tv services."
+  "deposited_date" : "18/10/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0065.pdf",
+  "year" : "2007",
+  "description" : "Letter dated 18/10/2007 from Philip Graf, Deputy Chairman, to John Robertson MP regarding broadband and pay-tv services.",
   "department" : "Office of Communications"
 }

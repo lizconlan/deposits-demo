@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0650.zip"
-  "year" : "2010"
-  "description" : "I. Corporate updates: extreme weather conditions. Guidance for managers and staff. 06 Jan 2010. 2 p. II. Information Commissioner's Office: expense claim guide. 01 Jan 2010. 17 p. III. HM Prison Service notice to staff: travel and subsistence, achieving better value from travelling by rail. 08 Feb 2010. 2 p. IV. Pay and allowances hanbook appendices. 71 p. V. HM Prison Service instruction: revised expenses rates-amendments to PSO 8700 & 8650. 01 Jun 2004. 5 p. VI. HM Prison Service travel and subsistence order. No. 8650. 12 Aug 1998. 77 p. VII. Ministry of Justice human resources directorate: supporting you, safe driving policy statement. 14 Jan 2010. 3 p."
+  "deposited_date" : "22/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0650.zip",
+  "year" : "2010",
+  "description" : "I. Corporate updates: extreme weather conditions. Guidance for managers and staff. 06 Jan 2010. 2 p. II. Information Commissioner's Office: expense claim guide. 01 Jan 2010. 17 p. III. HM Prison Service notice to staff: travel and subsistence, achieving better value from travelling by rail. 08 Feb 2010. 2 p. IV. Pay and allowances hanbook appendices. 71 p. V. HM Prison Service instruction: revised expenses rates-amendments to PSO 8700 & 8650. 01 Jun 2004. 5 p. VI. HM Prison Service travel and subsistence order. No. 8650. 12 Aug 1998. 77 p. VII. Ministry of Justice human resources directorate: supporting you, safe driving policy statement. 14 Jan 2010. 3 p.",
   "department" : "Ministry of Justice"
 }

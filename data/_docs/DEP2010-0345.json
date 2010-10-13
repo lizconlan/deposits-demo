@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0345.zip"
-  "year" : "2010"
-  "description" : "Table showing spend on Managers and Senior Managers, Admin & Clerical and Maintenance & Works staff, for the years 2002/03 to 2008/09. 300 p."
+  "deposited_date" : "05/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0345.zip",
+  "year" : "2010",
+  "description" : "Table showing spend on Managers and Senior Managers, Admin & Clerical and Maintenance & Works staff, for the years 2002/03 to 2008/09. 300 p.",
   "department" : "Department of Health"
 }

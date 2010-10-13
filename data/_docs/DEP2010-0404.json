@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0404.zip"
-  "year" : "2010"
-  "description" : "Table showing remand untried reception, court ordered secure remand and convicted awaiting sentence episodes by age 10 - 17, for the years 2004 to 2008, broken down by ethnicity, all secure children's homes and secure training centres in England and Wales. 4 p."
+  "deposited_date" : "10/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0404.zip",
+  "year" : "2010",
+  "description" : "Table showing remand untried reception, court ordered secure remand and convicted awaiting sentence episodes by age 10 - 17, for the years 2004 to 2008, broken down by ethnicity, all secure children's homes and secure training centres in England and Wales. 4 p.",
   "department" : "Ministry of Justice"
 }

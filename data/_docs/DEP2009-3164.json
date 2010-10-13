@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/12/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3164.pdf"
-  "year" : "2009"
-  "description" : "Smoking, drinking and drug use among young people in England in 2008. Edited by E. Fuller. 219 p."
+  "deposited_date" : "15/12/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3164.pdf",
+  "year" : "2009",
+  "description" : "Smoking, drinking and drug use among young people in England in 2008. Edited by E. Fuller. 219 p.",
   "department" : "Dept of Health Information Centre for Health and Social Care Office for National Statistics"
 }

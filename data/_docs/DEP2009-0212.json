@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0212.xls"
-  "year" : "2009"
-  "description" : "Tables showing shoulder, ankle and elbow replacement procedures, by NHS hospital provider for 2006/07."
+  "deposited_date" : "26/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0212.xls",
+  "year" : "2009",
+  "description" : "Tables showing shoulder, ankle and elbow replacement procedures, by NHS hospital provider for 2006/07.",
   "department" : "Dept of Health"
 }

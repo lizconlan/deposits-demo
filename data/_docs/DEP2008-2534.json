@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2534.doc"
-  "year" : "2008"
-  "description" : "Tables showing Cabinet Office strategy unit seminars held between 01/01/2008 and 29/10/2008, with dates, locations and subject coverage. 5 p."
+  "deposited_date" : "30/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2534.doc",
+  "year" : "2008",
+  "description" : "Tables showing Cabinet Office strategy unit seminars held between 01/01/2008 and 29/10/2008, with dates, locations and subject coverage. 5 p.",
   "department" : "Cabinet Office Strategy Unit"
 }

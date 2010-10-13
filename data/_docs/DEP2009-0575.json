@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "02/03/2009"
-  "legislature" : Commons
-  "notes" : ""Household numbers are projections for 2006 published by CLG in February 2008 for England, estimates for 2007 published by the General Register Office for Scotland in May 2008, and estimates for 2004 published by the Welsh Assembly Government in March 2006"."
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0575.doc"
-  "year" : "2009"
-  "description" : "Table showing the number of domestic meter points with the estimated number of households in Wales, Scotland and England, broken down by country and [English] region, and by local authority. 11 p."
+  "deposited_date" : "02/03/2009",
+  "legislature" : ["Commons"],
+  "notes" : "\"Household numbers are projections for 2006 published by CLG in February 2008 for England, estimates for 2007 published by the General Register Office for Scotland in May 2008, and estimates for 2004 published by the Welsh Assembly Government in March 2006\".",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0575.doc",
+  "year" : "2009",
+  "description" : "Table showing the number of domestic meter points with the estimated number of households in Wales, Scotland and England, broken down by country and [English] region, and by local authority. 11 p.",
   "department" : "Dept of Energy and Climate Change"
 }

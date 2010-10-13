@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "04/07/2008"
-  "legislature" : Lords
-  "legislation" : "Pensions Bill"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1805.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 04/07/2008 from Lord McKenzie to Baroness Hollis of Heigham regarding the Pensions Bill: qualifying earnings. 2 p."
+  "deposited_date" : "04/07/2008",
+  "legislature" : ["Lords"],
+  "legislation" : "Pensions Bill",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1805.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 04/07/2008 from Lord McKenzie to Baroness Hollis of Heigham regarding the Pensions Bill: qualifying earnings. 2 p.",
   "department" : "Dept for Work and Pensions"
 }

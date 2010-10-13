@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "28/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2935.zip"
-  "year" : "2008"
-  "description" : "Letter dated 28/11/2008 from Vernon Coaker MP to Keith Vaz MP regarding the publication of the government's response to the green paper consultation "From neighbourhood to the national: policing our communities together". Incl. copy of response. 40 p."
+  "deposited_date" : "28/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2935.zip",
+  "year" : "2008",
+  "description" : "Letter dated 28/11/2008 from Vernon Coaker MP to Keith Vaz MP regarding the publication of the government's response to the green paper consultation \"From neighbourhood to the national: policing our communities together\". Incl. copy of response. 40 p.",
   "department" : "Home Office"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2859.xls"
-  "year" : "2009"
-  "description" : "Table showing non-domestic ratings for betting shops and offices, bingo halls, public houses, licensed restaurants and wine bars, night clubs and discotheques and casinos and gambling clubs on the 2005 and 2010 lists. 1 p."
+  "deposited_date" : "12/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2859.xls",
+  "year" : "2009",
+  "description" : "Table showing non-domestic ratings for betting shops and offices, bingo halls, public houses, licensed restaurants and wine bars, night clubs and discotheques and casinos and gambling clubs on the 2005 and 2010 lists. 1 p.",
   "department" : "Dept for Communities and Local Government"
 }

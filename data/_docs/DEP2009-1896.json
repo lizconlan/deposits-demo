@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/07/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1896.zip"
-  "year" : "2009"
-  "description" : "I. Letter dated 02/07/2009 from Kevan Jones MP to Edward Garnier MP regarding which military bases and other sites owned by the Ministry of Defence (MOD) containing accommodation are coming up for disposal. 3 p. II. Table showing surplus Ministry of Defence (MOD) property as at June 2009. 1 p."
+  "deposited_date" : "03/07/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1896.zip",
+  "year" : "2009",
+  "description" : "I. Letter dated 02/07/2009 from Kevan Jones MP to Edward Garnier MP regarding which military bases and other sites owned by the Ministry of Defence (MOD) containing accommodation are coming up for disposal. 3 p. II. Table showing surplus Ministry of Defence (MOD) property as at June 2009. 1 p.",
   "department" : "Ministry of Defence"
 }

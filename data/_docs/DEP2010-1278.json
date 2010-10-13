@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/06/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1278.pdf"
-  "year" : "2010"
-  "description" : "Time for training: a review of the impact of the European working time directive on the quality of training. Prof. Sir John Temple. Consultation paper. Incl. appendices. 92 p."
+  "deposited_date" : "09/06/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1278.pdf",
+  "year" : "2010",
+  "description" : "Time for training: a review of the impact of the European working time directive on the quality of training. Prof. Sir John Temple. Consultation paper. Incl. appendices. 92 p.",
   "department" : "Department of Health Medical Education England"
 }

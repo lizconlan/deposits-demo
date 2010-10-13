@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/12/2007"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0208.pdf"
-  "year" : "2007"
-  "description" : "Exchange of letters between the United Kingdom and Bermuda concerning a tax information exchange arrangement. 19 p."
+  "deposited_date" : "04/12/2007",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0208.pdf",
+  "year" : "2007",
+  "description" : "Exchange of letters between the United Kingdom and Bermuda concerning a tax information exchange arrangement. 19 p.",
   "department" : "Treasury"
 }

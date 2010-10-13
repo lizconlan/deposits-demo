@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0089.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 09/01/2009 from Mark Hingson, Managing Director, to Angela Smith MP regarding cost of delivering Christmas cards. 2 p."
+  "deposited_date" : "12/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0089.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 09/01/2009 from Mark Hingson, Managing Director, to Angela Smith MP regarding cost of delivering Christmas cards. 2 p.",
   "department" : "Dept for Business, Enterprise and Regulatory Reform Royal Mail"
 }

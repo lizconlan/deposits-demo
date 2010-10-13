@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/09/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2370.pdf"
-  "year" : "2009"
-  "description" : "Table showing smokefree legislation compliance data for the period January to June 2009 (Period 11). 8 p."
+  "deposited_date" : "14/09/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2370.pdf",
+  "year" : "2009",
+  "description" : "Table showing smokefree legislation compliance data for the period January to June 2009 (Period 11). 8 p.",
   "department" : "Dept of Health"
 }

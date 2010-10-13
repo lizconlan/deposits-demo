@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2328.zip"
-  "year" : "2008"
-  "description" : "Table showing the funding allocations for the third sector organisations which were funded through the pilot phase of the Improving Reach programme; and the grant received. 10 p."
+  "deposited_date" : "07/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2328.zip",
+  "year" : "2008",
+  "description" : "Table showing the funding allocations for the third sector organisations which were funded through the pilot phase of the Improving Reach programme; and the grant received. 10 p.",
   "department" : "Cabinet Office"
 }

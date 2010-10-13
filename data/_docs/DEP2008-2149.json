@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/08/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2149.tif"
-  "year" : "2008"
-  "description" : "Letter dated 05/08/2008 from Bob Ainsworth MP to David Lidington MP regarding customers who purchased spare capacity training and spare capacity resources. 8 p."
+  "deposited_date" : "07/08/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2149.tif",
+  "year" : "2008",
+  "description" : "Letter dated 05/08/2008 from Bob Ainsworth MP to David Lidington MP regarding customers who purchased spare capacity training and spare capacity resources. 8 p.",
   "department" : "Ministry of Defence"
 }

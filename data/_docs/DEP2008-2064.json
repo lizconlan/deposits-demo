@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2064.pdf"
-  "year" : "2008"
-  "description" : "Insulin pump services: report of the Insulin Pumps Working Group. 61 p."
+  "deposited_date" : "23/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2064.pdf",
+  "year" : "2008",
+  "description" : "Insulin pump services: report of the Insulin Pumps Working Group. 61 p.",
   "department" : "Dept of Health"
 }

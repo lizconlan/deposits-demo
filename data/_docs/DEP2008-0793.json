@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0793.zip"
-  "year" : "2008"
-  "description" : "Tables showing winter fuel payments for individuals and households for 2006-07 by age, gender, consitutency and local authority."
+  "deposited_date" : "18/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0793.zip",
+  "year" : "2008",
+  "description" : "Tables showing winter fuel payments for individuals and households for 2006-07 by age, gender, consitutency and local authority.",
   "department" : "Dept for Work and Pensions"
 }

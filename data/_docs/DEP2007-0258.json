@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0258.tif"
-  "year" : "2007"
-  "description" : "Letter dated 30/11/2007 from Des Browne MP to Stewart Hosie MP regarding the Scottish regiments. 4 p."
+  "deposited_date" : "06/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0258.tif",
+  "year" : "2007",
+  "description" : "Letter dated 30/11/2007 from Des Browne MP to Stewart Hosie MP regarding the Scottish regiments. 4 p.",
   "department" : "Ministry of Defence"
 }

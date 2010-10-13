@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/04/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1040.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 25/03/2009 from Caroline Flint MP to Michael Connarty MP regarding funding for conflict prevention and peacekeeping in Cyprus, the Balkans and the Transcaucasian region. 4 p."
+  "deposited_date" : "01/04/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1040.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 25/03/2009 from Caroline Flint MP to Michael Connarty MP regarding funding for conflict prevention and peacekeeping in Cyprus, the Balkans and the Transcaucasian region. 4 p.",
   "department" : "Foreign and Commonwealth Office"
 }

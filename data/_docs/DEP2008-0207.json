@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0207.tif"
-  "year" : "2008"
-  "description" : "Letter dated 18/01/2008 from Des Browne MP to John Baron MP regarding kit shortages and compensation claims in the armed forces."
+  "deposited_date" : "24/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0207.tif",
+  "year" : "2008",
+  "description" : "Letter dated 18/01/2008 from Des Browne MP to John Baron MP regarding kit shortages and compensation claims in the armed forces.",
   "department" : "Ministry of Defence"
 }

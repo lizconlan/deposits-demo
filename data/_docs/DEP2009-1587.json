@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1587.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 01/06/2009 from David Hanson MP to Chris Huhne MP regarding the Parole Board referrals. 1 p."
+  "deposited_date" : "27/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1587.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 01/06/2009 from David Hanson MP to Chris Huhne MP regarding the Parole Board referrals. 1 p.",
   "department" : "Ministry of Justice"
 }

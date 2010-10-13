@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/02/2009"
-  "legislature" : Commons
-  "notes" : "CD-ROM available from Commons Library only."
-  "year" : "2009"
-  "description" : "e-learning programme for health and safety site inspections. CD-ROM."
+  "deposited_date" : "02/02/2009",
+  "legislature" : ["Commons"],
+  "notes" : "CD-ROM available from Commons Library only.",
+  "year" : "2009",
+  "description" : "e-learning programme for health and safety site inspections. CD-ROM.",
   "department" : "Valuation Office Treasury"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/10/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2541.doc"
-  "year" : "2009"
-  "description" : "List of NHS Trusts sorted according to whether they have one, two, three, four or more type 1/type 2 (see footnotes of document) Accident and Emergency Departments. 5 p."
+  "deposited_date" : "16/10/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2541.doc",
+  "year" : "2009",
+  "description" : "List of NHS Trusts sorted according to whether they have one, two, three, four or more type 1/type 2 (see footnotes of document) Accident and Emergency Departments. 5 p.",
   "department" : "Dept of Health"
 }

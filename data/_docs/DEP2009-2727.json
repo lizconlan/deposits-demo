@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2727.zip"
-  "year" : "2009"
-  "description" : "Table showing results of the NHS Sickness Absence Survey 2004/05. 4 p."
+  "deposited_date" : "04/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2727.zip",
+  "year" : "2009",
+  "description" : "Table showing results of the NHS Sickness Absence Survey 2004/05. 4 p.",
   "department" : "Dept of Health"
 }

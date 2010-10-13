@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "08/02/2010"
-  "legislature" : Lords
-  "legislation" : "Abortion Act 1967 Human Fertilisation and Embryology Act 1990"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0366.zip"
-  "year" : "2010"
-  "description" : "Statutory instruments, departmental circulars, and other documents distributed since 1990 by the Department of Health direct to primary care trusts, and strategic health authorities, about the Abortion Act 1967 and the Human Fertilisation and Embryology Act 1990."
+  "deposited_date" : "08/02/2010",
+  "legislature" : ["Lords"],
+  "legislation" : "Abortion Act 1967 Human Fertilisation and Embryology Act 1990",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0366.zip",
+  "year" : "2010",
+  "description" : "Statutory instruments, departmental circulars, and other documents distributed since 1990 by the Department of Health direct to primary care trusts, and strategic health authorities, about the Abortion Act 1967 and the Human Fertilisation and Embryology Act 1990.",
   "department" : "Department of Health"
 }

@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "06/10/2009"
-  "legislature" : Lords
-  "legislation" : "Coroners and Justice Bill 2008-09"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2428.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 06/10/2009 from Lord Bach to Lord Goodhart regarding Coroners and Justice Bill 2008-09: Government response to Eleventh Report. 2 p."
+  "deposited_date" : "06/10/2009",
+  "legislature" : ["Lords"],
+  "legislation" : "Coroners and Justice Bill 2008-09",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2428.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 06/10/2009 from Lord Bach to Lord Goodhart regarding Coroners and Justice Bill 2008-09: Government response to Eleventh Report. 2 p.",
   "department" : "Ministry of Justice"
 }

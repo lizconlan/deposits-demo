@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0257.zip"
-  "year" : "2008"
-  "description" : "Letter dated 30/01/2008 from Malcolm Wicks MP to Peter Luff MP regarding the Coal Authority 2006/2007 annual report of coal mining subsidence damage claims. Includes the report. 3 p."
+  "deposited_date" : "30/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0257.zip",
+  "year" : "2008",
+  "description" : "Letter dated 30/01/2008 from Malcolm Wicks MP to Peter Luff MP regarding the Coal Authority 2006/2007 annual report of coal mining subsidence damage claims. Includes the report. 3 p.",
   "department" : "Dept for Business Enterprise and Regulatory Reform"
 }

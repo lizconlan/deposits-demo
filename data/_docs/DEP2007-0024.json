@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/10/2007"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0024.pdf"
-  "year" : "2007"
-  "description" : "The annual health check 2006/07. Directory of performance ratings for NHS trusts. 24 p."
+  "deposited_date" : "18/10/2007",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0024.pdf",
+  "year" : "2007",
+  "description" : "The annual health check 2006/07. Directory of performance ratings for NHS trusts. 24 p.",
   "department" : "Dept of Health"
 }

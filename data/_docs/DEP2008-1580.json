@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1580.doc"
-  "year" : "2008"
-  "description" : "Table showing the Scotland Office and Office of Advocate General chart of accounts, resource account codes and usage descriptions for the 2008/09 financial year. 30 p."
+  "deposited_date" : "18/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1580.doc",
+  "year" : "2008",
+  "description" : "Table showing the Scotland Office and Office of Advocate General chart of accounts, resource account codes and usage descriptions for the 2008/09 financial year. 30 p.",
   "department" : "Scotland Office"
 }

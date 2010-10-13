@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0131.pdf"
-  "year" : "2008"
-  "description" : "Public sector construction works: quarterly building price and cost indices, December 2007. 69 p."
+  "deposited_date" : "18/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0131.pdf",
+  "year" : "2008",
+  "description" : "Public sector construction works: quarterly building price and cost indices, December 2007. 69 p.",
   "department" : "Dept for Business Enterprise and Regulatory Reform"
 }

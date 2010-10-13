@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2508.doc"
-  "year" : "2008"
-  "description" : "Tables showing number of clients receiving services either partly or wholly by councils with adult social services responsibilities (CASSRs) as at 31/03/2007. 10p."
+  "deposited_date" : "29/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2508.doc",
+  "year" : "2008",
+  "description" : "Tables showing number of clients receiving services either partly or wholly by councils with adult social services responsibilities (CASSRs) as at 31/03/2007. 10p.",
   "department" : "Dept of Health"
 }

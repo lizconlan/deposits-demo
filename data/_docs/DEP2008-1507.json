@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1507.xls"
-  "year" : "2008"
-  "description" : "Table showing Benefit Expenditure for Great Britain for the years 1997/98 to 2006/07. 1 p."
+  "deposited_date" : "11/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1507.xls",
+  "year" : "2008",
+  "description" : "Table showing Benefit Expenditure for Great Britain for the years 1997/98 to 2006/07. 1 p.",
   "department" : "Dept for Work and Pensions"
 }

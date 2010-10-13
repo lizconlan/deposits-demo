@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/10/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2453.zip"
-  "year" : "2009"
-  "description" : "I. National survey of third sector organisations overall report: national results. 21 p. II. National survey of third sector organisations national headline report. 6 p."
+  "deposited_date" : "12/10/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2453.zip",
+  "year" : "2009",
+  "description" : "I. National survey of third sector organisations overall report: national results. 21 p. II. National survey of third sector organisations national headline report. 6 p.",
   "department" : "Cabinet Office Office of the Third Sector Ipsos MORI"
 }

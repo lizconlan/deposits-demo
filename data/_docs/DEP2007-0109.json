@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/11/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0109.doc"
-  "year" : "2007"
-  "description" : "Transformation of the Personal Capability Assessment: Technical Working Groups Phase 2 Evaluation Report. 18 p."
+  "deposited_date" : "19/11/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0109.doc",
+  "year" : "2007",
+  "description" : "Transformation of the Personal Capability Assessment: Technical Working Groups Phase 2 Evaluation Report. 18 p.",
   "department" : "Dept for Work and Pensions"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/06/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1691.pdf"
-  "year" : "2009"
-  "description" : "Letter dated May 2009 from Alan Johnson MP to Gordon Brown MP regarding the World Health Organisation (WHO) framework convention on tobacco control. 2 p."
+  "deposited_date" : "15/06/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1691.pdf",
+  "year" : "2009",
+  "description" : "Letter dated May 2009 from Alan Johnson MP to Gordon Brown MP regarding the World Health Organisation (WHO) framework convention on tobacco control. 2 p.",
   "department" : "Dept of Health"
 }

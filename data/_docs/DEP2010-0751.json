@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/03/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0751.pdf"
-  "year" : "2010"
-  "description" : "Home-educated children with special educational needs (SEN): further guidance to local authorities. 3 p."
+  "deposited_date" : "17/03/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0751.pdf",
+  "year" : "2010",
+  "description" : "Home-educated children with special educational needs (SEN): further guidance to local authorities. 3 p.",
   "department" : "Department for Children, Schools and Families"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/10/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2452.doc"
-  "year" : "2009"
-  "description" : "Table showing Department for Transport funding allocated to encourage bicycle usage in each local authority area in England and Wales in each of the last five years. 2 p."
+  "deposited_date" : "12/10/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2452.doc",
+  "year" : "2009",
+  "description" : "Table showing Department for Transport funding allocated to encourage bicycle usage in each local authority area in England and Wales in each of the last five years. 2 p.",
   "department" : "Dept for Transport"
 }

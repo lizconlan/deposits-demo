@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/02/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0364.tif"
-  "year" : "2008"
-  "description" : "Letter dated 06/02/2008 from Lord Bassam of Brighton to Lord Bradshaw correcting answer to previous questions. 1 p."
+  "deposited_date" : "06/02/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0364.tif",
+  "year" : "2008",
+  "description" : "Letter dated 06/02/2008 from Lord Bassam of Brighton to Lord Bradshaw correcting answer to previous questions. 1 p.",
   "department" : "Dept for Transport"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2750.zip"
-  "year" : "2009"
-  "description" : "I. Testing times for housing reform, by the consultancy firm ACPO for the Chairman of the Housing Corporation. 3 p. II. Letter dated 06/11/2009 from John Healey MP depositing the article and citing its origin. 1 p."
+  "deposited_date" : "06/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2750.zip",
+  "year" : "2009",
+  "description" : "I. Testing times for housing reform, by the consultancy firm ACPO for the Chairman of the Housing Corporation. 3 p. II. Letter dated 06/11/2009 from John Healey MP depositing the article and citing its origin. 1 p.",
   "department" : "Dept for Communities and Local Government"
 }

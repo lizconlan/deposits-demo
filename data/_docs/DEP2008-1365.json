@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/05/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1365.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 19/05/2008 from Alan Cook, managing director, to Charles Hendry MP regarding the number of post offices not closed as part of the Post Office closure programme have closed since October 2007."
+  "deposited_date" : "19/05/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1365.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 19/05/2008 from Alan Cook, managing director, to Charles Hendry MP regarding the number of post offices not closed as part of the Post Office closure programme have closed since October 2007.",
   "department" : "Post Office Dept for Business Enterprise and Regulatory Reform"
 }

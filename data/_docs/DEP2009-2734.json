@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/10/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2734.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 27/10/2009 from Pipa Doubtfire (Head of Revenue Management, BBC) to Don Foster MP regarding the cost of collecting television licence fees from 2003/04 to 2008/09. Incl. table. 2 p."
+  "deposited_date" : "14/10/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2734.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 27/10/2009 from Pipa Doubtfire (Head of Revenue Management, BBC) to Don Foster MP regarding the cost of collecting television licence fees from 2003/04 to 2008/09. Incl. table. 2 p.",
   "department" : "Dept for Culture, Media and Sport"
 }

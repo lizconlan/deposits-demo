@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1813.pdf"
-  "year" : "2008"
-  "description" : "Food matters: towards a strategy for the 21st century. 144 p."
+  "deposited_date" : "07/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1813.pdf",
+  "year" : "2008",
+  "description" : "Food matters: towards a strategy for the 21st century. 144 p.",
   "department" : "Strategy Unit Cabinet Office Dept for Environment, Food and Rural Affairs"
 }

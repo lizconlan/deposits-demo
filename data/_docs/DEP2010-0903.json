@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0903.pdf"
-  "year" : "2010"
-  "description" : "Response from DCMS regarding correspondence from the Arts Council England to C/plex Ltd on approval of the process of appointment of the architect to design the Public Arts Gallery in West Bromwich. 1 p."
+  "deposited_date" : "06/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0903.pdf",
+  "year" : "2010",
+  "description" : "Response from DCMS regarding correspondence from the Arts Council England to C/plex Ltd on approval of the process of appointment of the architect to design the Public Arts Gallery in West Bromwich. 1 p.",
   "department" : "Department for Culture, Media and Sport"
 }

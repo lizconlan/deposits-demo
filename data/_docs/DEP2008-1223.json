@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/04/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1223.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 30/04/2008 from David Lammy MP to Andrew Turner MP regarding the cost of education in prisons. Includes a table. 7 p."
+  "deposited_date" : "30/04/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1223.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 30/04/2008 from David Lammy MP to Andrew Turner MP regarding the cost of education in prisons. Includes a table. 7 p.",
   "department" : "Dept for Children Schools and Families"
 }

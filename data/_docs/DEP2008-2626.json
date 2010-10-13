@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2626.tif"
-  "year" : "2008"
-  "description" : "Letter dated 21/10/2008 from J M Stewart, Director of Human Resources, to Alistair Carmichael MP regarding the definition of institutionalised racism."
+  "deposited_date" : "07/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2626.tif",
+  "year" : "2008",
+  "description" : "Letter dated 21/10/2008 from J M Stewart, Director of Human Resources, to Alistair Carmichael MP regarding the definition of institutionalised racism.",
   "department" : "Police Service of Northern Ireland Northern Ireland Office"
 }

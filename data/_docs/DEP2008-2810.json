@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/11/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2810.tif"
-  "year" : "2008"
-  "description" : "Letter dated 19/11/2008 from Lord Adonis to Lord Avebury regarding the government's plans for implementing the aviation EU transmissions Trading Scheme (EU ETS). 2 p."
+  "deposited_date" : "21/11/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2810.tif",
+  "year" : "2008",
+  "description" : "Letter dated 19/11/2008 from Lord Adonis to Lord Avebury regarding the government's plans for implementing the aviation EU transmissions Trading Scheme (EU ETS). 2 p.",
   "department" : "Dept for Transport"
 }

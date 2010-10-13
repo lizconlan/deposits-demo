@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/11/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0100.xls"
-  "year" : "2007"
-  "description" : "Flu vaccination uptake among the 65yrs and over for East of England for each year from 2000/01 to 2006/07. 10 p."
+  "deposited_date" : "15/11/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0100.xls",
+  "year" : "2007",
+  "description" : "Flu vaccination uptake among the 65yrs and over for East of England for each year from 2000/01 to 2006/07. 10 p.",
   "department" : "Dept of Health"
 }

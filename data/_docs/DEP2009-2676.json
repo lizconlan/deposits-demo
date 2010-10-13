@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/10/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2676.zip"
-  "year" : "2009"
-  "description" : "Tables showing number of offenders and defendants under 18 and penalty notices issued to persons aged 16 and 17 for alcohol related offences by age from 2003 to 2007. 3 p."
+  "deposited_date" : "29/10/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2676.zip",
+  "year" : "2009",
+  "description" : "Tables showing number of offenders and defendants under 18 and penalty notices issued to persons aged 16 and 17 for alcohol related offences by age from 2003 to 2007. 3 p.",
   "department" : "Home Office"
 }

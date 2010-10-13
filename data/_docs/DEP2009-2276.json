@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/08/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2276.xls"
-  "year" : "2009"
-  "description" : "Table showing Working age Incapacity Benefit/Severe Disablement Allowance/Income Support claimants by statistical group for London local authorities and parliamentary constituencies, as at August 2008. 10 p."
+  "deposited_date" : "05/08/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2276.xls",
+  "year" : "2009",
+  "description" : "Table showing Working age Incapacity Benefit/Severe Disablement Allowance/Income Support claimants by statistical group for London local authorities and parliamentary constituencies, as at August 2008. 10 p.",
   "department" : "Dept for Work and Pensions"
 }

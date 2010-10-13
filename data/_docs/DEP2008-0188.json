@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/01/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0188.tif"
-  "year" : "2008"
-  "description" : "Letter dated 07/01/2008 from Lord Malloch-Brown to Lord Roberts of Llandudno regarding asylum and immigration. 1 p."
+  "deposited_date" : "07/01/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0188.tif",
+  "year" : "2008",
+  "description" : "Letter dated 07/01/2008 from Lord Malloch-Brown to Lord Roberts of Llandudno regarding asylum and immigration. 1 p.",
   "department" : "Foreign and Commonwealth Office"
 }

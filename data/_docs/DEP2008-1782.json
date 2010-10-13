@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "25/06/2008"
-  "legislature" : CommonsLords
-  "notes" : "Series maintained in HAS for 6 years"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1782.pdf"
-  "year" : "2008"
-  "description" : "Sentencing Guidelines Council and Sentencing Advisory Panel annual report 2007/08. 40 p."
+  "deposited_date" : "25/06/2008",
+  "legislature" : ["Commons","Lords"],
+  "notes" : "Series maintained in HAS for 6 years",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1782.pdf",
+  "year" : "2008",
+  "description" : "Sentencing Guidelines Council and Sentencing Advisory Panel annual report 2007/08. 40 p.",
   "department" : "Home Office Sentencing Guidelines Council Sentencing Advisory Panel"
 }

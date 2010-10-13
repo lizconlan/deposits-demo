@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/09/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2228.zip"
-  "year" : "2008"
-  "description" : "I. Public understanding of sustainable transport: final report to DEFRA. November 2007. 95 p. II. Consumer attitudes to water efficiency of bathroom fittings: quantitative research. A report to DEFRA. April 2008. 84 p."
+  "deposited_date" : "17/09/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2228.zip",
+  "year" : "2008",
+  "description" : "I. Public understanding of sustainable transport: final report to DEFRA. November 2007. 95 p. II. Consumer attitudes to water efficiency of bathroom fittings: quantitative research. A report to DEFRA. April 2008. 84 p.",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

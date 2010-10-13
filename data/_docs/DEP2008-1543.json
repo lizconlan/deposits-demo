@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "13/06/2008"
-  "legislature" : Lords
-  "legislation" : "European Union (Amendment) Bill 2007-08"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1543.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 14/06/2008 from Baroness Ashton of Upholland to Lord Neil of Bladen regarding the European Court of Justice. 2 p."
+  "deposited_date" : "13/06/2008",
+  "legislature" : ["Lords"],
+  "legislation" : "European Union (Amendment) Bill 2007-08",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1543.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 14/06/2008 from Baroness Ashton of Upholland to Lord Neil of Bladen regarding the European Court of Justice. 2 p.",
   "department" : "Cabinet Office"
 }

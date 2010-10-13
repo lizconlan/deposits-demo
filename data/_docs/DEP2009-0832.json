@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0832.xls"
-  "year" : "2009"
-  "description" : "Table showing the number of maintained nursery/primary and secondary schools in England with fewer than 10%, 20% and 30% of qualified full-time equivalent male teachers, for each year from 1999 to 2008, broken down by school and by level of education. 6 p. Years: 1999 to 2008"
+  "deposited_date" : "04/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0832.xls",
+  "year" : "2009",
+  "description" : "Table showing the number of maintained nursery/primary and secondary schools in England with fewer than 10%, 20% and 30% of qualified full-time equivalent male teachers, for each year from 1999 to 2008, broken down by school and by level of education. 6 p. Years: 1999 to 2008",
   "department" : "Dept for Children, Schools and Families"
 }

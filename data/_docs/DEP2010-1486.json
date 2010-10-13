@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/07/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1486.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 16/07/2010 from Stephen Penneck (Director General, ONS) to Jo Swinson MP regarding statistics for lost working days due to allergies in the UK. 1 p."
+  "deposited_date" : "15/07/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1486.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 16/07/2010 from Stephen Penneck (Director General, ONS) to Jo Swinson MP regarding statistics for lost working days due to allergies in the UK. 1 p.",
   "department" : "Cabinet Office Office for National Statistics"
 }

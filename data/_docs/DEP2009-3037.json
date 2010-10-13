@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/12/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3037.zip"
-  "year" : "2009"
-  "description" : "I. General and personal medical services detailed result. England. 30 Sept 2008. 20 p. II. General and personal medical services. England. 30 Sept 2007. 17 p. III. Table showing General Practitioners and practice staff levels as at 30 Sept 2007. 1 p. IV. Table showing General Practitioners, country of primary quilaification, practice staff, registered GP patients, partnerships and patient registration transactions by primary care trust as at 30 Sept 2008. 10 p."
+  "deposited_date" : "07/12/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3037.zip",
+  "year" : "2009",
+  "description" : "I. General and personal medical services detailed result. England. 30 Sept 2008. 20 p. II. General and personal medical services. England. 30 Sept 2007. 17 p. III. Table showing General Practitioners and practice staff levels as at 30 Sept 2007. 1 p. IV. Table showing General Practitioners, country of primary quilaification, practice staff, registered GP patients, partnerships and patient registration transactions by primary care trust as at 30 Sept 2008. 10 p.",
   "department" : "Dept of Health"
 }

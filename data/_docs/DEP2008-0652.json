@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/03/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0652.zip"
-  "year" : "2008"
-  "description" : "I. MHRA investigation into the Glaxosmithkline and Seroxat. 15 p. II. Letter dated 06/03/2008 from Kent Woods, Chief Executive, to Richard Barker, Director General ABPI, regarding regulation of the pharmaceutical industry. III. Letter dated 06/03/2008 from Kent Woods to Jean-Pierre Garnier, Glaxosmithkline, regarding the investigation into Seroxat. 2 p."
+  "deposited_date" : "06/03/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0652.zip",
+  "year" : "2008",
+  "description" : "I. MHRA investigation into the Glaxosmithkline and Seroxat. 15 p. II. Letter dated 06/03/2008 from Kent Woods, Chief Executive, to Richard Barker, Director General ABPI, regarding regulation of the pharmaceutical industry. III. Letter dated 06/03/2008 from Kent Woods to Jean-Pierre Garnier, Glaxosmithkline, regarding the investigation into Seroxat. 2 p.",
   "department" : "Medicines and Healthcare Products Regulatory Agency Dept of Health"
 }

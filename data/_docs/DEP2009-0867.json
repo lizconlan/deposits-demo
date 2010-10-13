@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/03/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0867.zip"
-  "year" : "2009"
-  "description" : "I. The introduction of a plea negotiation framework for fraud cases in England and Wales, and, Extending the powers of the Crown Court to prevent fraud and compensate victims : summary of responses to consultation papers. 50 p. II. Attorney General's guidelines on plea discussions in cases of serious or complex fraud. 9 p."
+  "deposited_date" : "18/03/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0867.zip",
+  "year" : "2009",
+  "description" : "I. The introduction of a plea negotiation framework for fraud cases in England and Wales, and, Extending the powers of the Crown Court to prevent fraud and compensate victims : summary of responses to consultation papers. 50 p. II. Attorney General's guidelines on plea discussions in cases of serious or complex fraud. 9 p.",
   "department" : "Attorney General"
 }

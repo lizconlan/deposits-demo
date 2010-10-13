@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/07/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1996.zip"
-  "year" : "2009"
-  "description" : "Environment Agency enforcement database reports for companies and individuals from 1999 to 2008."
+  "deposited_date" : "14/07/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1996.zip",
+  "year" : "2009",
+  "description" : "Environment Agency enforcement database reports for companies and individuals from 1999 to 2008.",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

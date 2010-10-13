@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1717.pdf"
-  "year" : "2008"
-  "description" : "Assessment of the impact on crop protection in the UK of the cut-off criteria and substitution provisions in the proposed Regulation of the European Parliament and of the Council concerning the placing of plant protection products in the market. 46 p. This"
+  "deposited_date" : "30/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1717.pdf",
+  "year" : "2008",
+  "description" : "Assessment of the impact on crop protection in the UK of the cut-off criteria and substitution provisions in the proposed Regulation of the European Parliament and of the Council concerning the placing of plant protection products in the market. 46 p. This",
   "department" : "Pesticides Safety Directorate Dept for Environment, Food and Rural Affairs"
 }

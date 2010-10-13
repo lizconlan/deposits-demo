@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "28/04/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1250.zip"
-  "year" : "2009"
-  "description" : "15 documents showing Freedom of Information requests received by the Department of Health from July to April 2009 regarding abortion."
+  "deposited_date" : "28/04/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1250.zip",
+  "year" : "2009",
+  "description" : "15 documents showing Freedom of Information requests received by the Department of Health from July to April 2009 regarding abortion.",
   "department" : "Dept of Health"
 }

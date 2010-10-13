@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1839.zip"
-  "year" : "2008"
-  "description" : "Letter dated 02/07/2008 from Ed Richards, Chief Executive, to Jim Sheridan MP regarding impartiality in news reporting. Inc. a section on impartiality from the "News News Future News" report. 9 p."
+  "deposited_date" : "08/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1839.zip",
+  "year" : "2008",
+  "description" : "Letter dated 02/07/2008 from Ed Richards, Chief Executive, to Jim Sheridan MP regarding impartiality in news reporting. Inc. a section on impartiality from the \"News News Future News\" report. 9 p.",
   "department" : "Office of Communications Dept for Culture Media and Sport"
 }

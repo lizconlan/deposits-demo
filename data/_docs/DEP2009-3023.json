@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/12/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3023.pdf"
-  "year" : "2009"
-  "description" : "New horizons: a shared vision for mental health. Incl. annexes. 100 p."
+  "deposited_date" : "07/12/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3023.pdf",
+  "year" : "2009",
+  "description" : "New horizons: a shared vision for mental health. Incl. annexes. 100 p.",
   "department" : "Dept of Health"
 }

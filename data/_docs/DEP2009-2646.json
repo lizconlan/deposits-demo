@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "28/10/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2646.zip"
-  "year" : "2009"
-  "description" : "Letter dated 10/10/2009 from Shaun Woodward MP to Monica McWilliams regarding the citizenship agenda. Inc monitoring letter. 5 p."
+  "deposited_date" : "28/10/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2646.zip",
+  "year" : "2009",
+  "description" : "Letter dated 10/10/2009 from Shaun Woodward MP to Monica McWilliams regarding the citizenship agenda. Inc monitoring letter. 5 p.",
   "department" : "Northern Ireland Office"
 }

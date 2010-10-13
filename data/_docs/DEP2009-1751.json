@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/06/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1751.zip"
-  "year" : "2009"
-  "description" : "I. Adapting to climate change. UK Climate Projections. 52 p. II. Adapting to Climate Change: ensuring progress in key sectors. Consultation paper on the Adaptation Reporting Power in the Climate Change Act 2008. 126 p."
+  "deposited_date" : "18/06/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1751.zip",
+  "year" : "2009",
+  "description" : "I. Adapting to climate change. UK Climate Projections. 52 p. II. Adapting to Climate Change: ensuring progress in key sectors. Consultation paper on the Adaptation Reporting Power in the Climate Change Act 2008. 126 p.",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

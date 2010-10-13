@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/10/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0117.pdf"
-  "year" : "2007"
-  "description" : "Letter dated 20/11/2007 from Lin Homer, Chief Executive, to Keith Vaz MP regarding the deportation of foreign national prisoners. 4 p."
+  "deposited_date" : "29/10/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0117.pdf",
+  "year" : "2007",
+  "description" : "Letter dated 20/11/2007 from Lin Homer, Chief Executive, to Keith Vaz MP regarding the deportation of foreign national prisoners. 4 p.",
   "department" : "Home Office"
 }

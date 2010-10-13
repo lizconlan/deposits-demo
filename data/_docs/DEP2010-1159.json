@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/04/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1159.zip"
-  "year" : "2010"
-  "description" : "30 responses for each individual Strategic Health Authorities regarding additional private health care."
+  "deposited_date" : "08/04/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1159.zip",
+  "year" : "2010",
+  "description" : "30 responses for each individual Strategic Health Authorities regarding additional private health care.",
   "department" : "Department of Health"
 }

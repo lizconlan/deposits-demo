@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/05/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1327.xls"
-  "year" : "2008"
-  "description" : "Table showing GCE, VCE, GCE and VCE/GCE Applied AS level attainment in subjects for the years 2002/03 to 2006/07."
+  "deposited_date" : "15/05/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1327.xls",
+  "year" : "2008",
+  "description" : "Table showing GCE, VCE, GCE and VCE/GCE Applied AS level attainment in subjects for the years 2002/03 to 2006/07.",
   "department" : "Dept for Children Schools and Families"
 }

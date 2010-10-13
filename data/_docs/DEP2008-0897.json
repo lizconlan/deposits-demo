@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "31/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0897.zip"
-  "year" : "2008"
-  "description" : "Safety, health, environmental protection and sustainable development in the Ministry of Defence. A Policy Statement by the Secretary of State for Defence. Part 1 - Guiding Principles and Part 2 - Supporting Principles and Arrangements. 4 p."
+  "deposited_date" : "31/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0897.zip",
+  "year" : "2008",
+  "description" : "Safety, health, environmental protection and sustainable development in the Ministry of Defence. A Policy Statement by the Secretary of State for Defence. Part 1 - Guiding Principles and Part 2 - Supporting Principles and Arrangements. 4 p.",
   "department" : "Ministry of Defence"
 }

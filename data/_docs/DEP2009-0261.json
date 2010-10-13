@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "28/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0261.tif"
-  "year" : "2009"
-  "description" : "Letter dated 28/01/2009 from Bob Ainsworth MP to Mark Lancaster MP regarding the withdrawal of the Harrier GR9 Force from Afghanistan. 2 p."
+  "deposited_date" : "28/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0261.tif",
+  "year" : "2009",
+  "description" : "Letter dated 28/01/2009 from Bob Ainsworth MP to Mark Lancaster MP regarding the withdrawal of the Harrier GR9 Force from Afghanistan. 2 p.",
   "department" : "Ministry of Defence"
 }

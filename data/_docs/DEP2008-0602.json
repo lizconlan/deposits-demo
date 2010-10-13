@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0602.doc"
-  "year" : "2008"
-  "description" : "Application invitation and form from DIUS to all higher education students regarding participation in student juries. 4 p."
+  "deposited_date" : "29/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0602.doc",
+  "year" : "2008",
+  "description" : "Application invitation and form from DIUS to all higher education students regarding participation in student juries. 4 p.",
   "department" : "Dept for Innovation, Universities and Skills"
 }

@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "08/05/2009"
-  "legislature" : Commons
-  "legislation" : "Finance Bill 2008-09"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1648.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 03/06/2009 from Stephen Timms MP to Greg Hands MP regarding the Finance Bill 2008-09 Government amendments. 2 p."
+  "deposited_date" : "08/05/2009",
+  "legislature" : ["Commons"],
+  "legislation" : "Finance Bill 2008-09",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1648.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 03/06/2009 from Stephen Timms MP to Greg Hands MP regarding the Finance Bill 2008-09 Government amendments. 2 p.",
   "department" : "Treasury"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1791.pdf"
-  "year" : "2008"
-  "description" : "Health survey for England 2006: volume 2. Obesity and other risk factors in children. 143 p."
+  "deposited_date" : "03/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1791.pdf",
+  "year" : "2008",
+  "description" : "Health survey for England 2006: volume 2. Obesity and other risk factors in children. 143 p.",
   "department" : "Dept of Health"
 }

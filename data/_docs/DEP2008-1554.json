@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1554.zip"
-  "year" : "2008"
-  "description" : "Table showing National Insurance Number Registrations to adult overseas nationals from A8 Accession Countries in 2006/07 in East Midlands and in East of England Government Office Region by Parliamentary Constituency. 4 p."
+  "deposited_date" : "16/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1554.zip",
+  "year" : "2008",
+  "description" : "Table showing National Insurance Number Registrations to adult overseas nationals from A8 Accession Countries in 2006/07 in East Midlands and in East of England Government Office Region by Parliamentary Constituency. 4 p.",
   "department" : "Dept for Work and Pensions"
 }

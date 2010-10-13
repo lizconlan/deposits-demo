@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/02/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0433.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 19/10/2009 from John Bercow MP to Gordon Brown MP regarding Cabinet Ministers in the House of Lords. 2 p."
+  "deposited_date" : "18/02/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0433.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 19/10/2009 from John Bercow MP to Gordon Brown MP regarding Cabinet Ministers in the House of Lords. 2 p.",
   "department" : "Speaker Cabinet Office Prime Minister"
 }

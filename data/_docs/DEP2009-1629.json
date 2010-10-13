@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/06/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1629.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 20/05/2009 from Christine Gilbert (Her Majesty's Chief Inspector, OFSTED) to Michael Gove MP regarding the cost of inspecting schools and nurseries from 1997-2008. Incl. table. 2 p."
+  "deposited_date" : "04/06/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1629.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 20/05/2009 from Christine Gilbert (Her Majesty's Chief Inspector, OFSTED) to Michael Gove MP regarding the cost of inspecting schools and nurseries from 1997-2008. Incl. table. 2 p.",
   "department" : "Dept for Children, Schools and Families"
 }

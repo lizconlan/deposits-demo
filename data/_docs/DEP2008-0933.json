@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "31/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0933.tif"
-  "year" : "2008"
-  "description" : "Needs assessment study: report of the interdepartmental study coordinated by HM Treasury on the relative public expenditure needs in England, Scotland, Wales and Northern Ireland. 64 p."
+  "deposited_date" : "31/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0933.tif",
+  "year" : "2008",
+  "description" : "Needs assessment study: report of the interdepartmental study coordinated by HM Treasury on the relative public expenditure needs in England, Scotland, Wales and Northern Ireland. 64 p.",
   "department" : "Treasury"
 }

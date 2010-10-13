@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "28/11/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0175.tif"
-  "year" : "2007"
-  "description" : "Letter dated 26/11/2007 from Tom Harris MP to Ann Winterton MP regarding the Heads of Terms relating to the funding and governance of the Crossrail project."
+  "deposited_date" : "28/11/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0175.tif",
+  "year" : "2007",
+  "description" : "Letter dated 26/11/2007 from Tom Harris MP to Ann Winterton MP regarding the Heads of Terms relating to the funding and governance of the Crossrail project.",
   "department" : "Dept for Transport"
 }

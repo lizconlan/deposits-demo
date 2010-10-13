@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "28/11/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2952.pdf"
-  "year" : "2008"
-  "description" : "Remploy 2008 accounts. 68 p."
+  "deposited_date" : "28/11/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2952.pdf",
+  "year" : "2008",
+  "description" : "Remploy 2008 accounts. 68 p.",
   "department" : "Dept for Work and Pensions"
 }

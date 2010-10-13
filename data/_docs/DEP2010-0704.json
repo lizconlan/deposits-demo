@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0704.pdf"
-  "year" : "2010"
-  "description" : "The Department for International Development (DFID) October 2009 staff survey results. 2 p."
+  "deposited_date" : "16/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0704.pdf",
+  "year" : "2010",
+  "description" : "The Department for International Development (DFID) October 2009 staff survey results. 2 p.",
   "department" : "Department for International Development"
 }

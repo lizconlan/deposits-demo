@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0114.xls"
-  "year" : "2010"
-  "description" : "Table showing the average waiting times were for completion of insulation improvements and of heating improvements under the Warm Front scheme for each of the last 18 months, broken down by local authority. 42 p."
+  "deposited_date" : "15/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0114.xls",
+  "year" : "2010",
+  "description" : "Table showing the average waiting times were for completion of insulation improvements and of heating improvements under the Warm Front scheme for each of the last 18 months, broken down by local authority. 42 p.",
   "department" : "Department of Energy and Climate Change"
 }

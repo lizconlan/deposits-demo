@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "13/11/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0083.doc"
-  "year" : "2007"
-  "description" : "Impact Assessment of the National Insurance Contributions Bill 2007. 13 p."
+  "deposited_date" : "13/11/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0083.doc",
+  "year" : "2007",
+  "description" : "Impact Assessment of the National Insurance Contributions Bill 2007. 13 p.",
   "department" : "Treasury"
 }

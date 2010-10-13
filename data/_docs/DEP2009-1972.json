@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "13/07/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1972.xls"
-  "year" : "2009"
-  "description" : "List of organisations supplying goods, services and works to DEFRA in 2008/09. 52 p."
+  "deposited_date" : "13/07/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1972.xls",
+  "year" : "2009",
+  "description" : "List of organisations supplying goods, services and works to DEFRA in 2008/09. 52 p.",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

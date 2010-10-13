@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0808.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 19/03/2008 from Kevin Brennan MP to Anthony Steen MP regarding records, with photographs, of children that come into local authority care from ports of entry. 2 p."
+  "deposited_date" : "20/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0808.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 19/03/2008 from Kevin Brennan MP to Anthony Steen MP regarding records, with photographs, of children that come into local authority care from ports of entry. 2 p.",
   "department" : "Dept for Children Schools and Families"
 }

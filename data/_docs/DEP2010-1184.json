@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/04/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1184.pdf"
-  "year" : "2010"
-  "description" : "Statistical First Release: Post-16 Education & Skills: Learner Participation, Outcomes and Level of Highest Qualification Held. 26 p."
+  "deposited_date" : "12/04/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1184.pdf",
+  "year" : "2010",
+  "description" : "Statistical First Release: Post-16 Education & Skills: Learner Participation, Outcomes and Level of Highest Qualification Held. 26 p.",
   "department" : "Department for Business, Innovation and Skills"
 }

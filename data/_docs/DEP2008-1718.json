@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "30/06/2008"
-  "legislature" : CommonsLords
-  "notes" : "WS 34-5"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1718.pdf"
-  "year" : "2008"
-  "description" : "Financial Services Authority annual report 2007/08. 157p."
+  "deposited_date" : "30/06/2008",
+  "legislature" : ["Commons","Lords"],
+  "notes" : "WS 34-5",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1718.pdf",
+  "year" : "2008",
+  "description" : "Financial Services Authority annual report 2007/08. 157p.",
   "department" : "Financial Services Authority Treasury"
 }

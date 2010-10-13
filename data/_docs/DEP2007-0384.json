@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0384.xls"
-  "year" : "2007"
-  "description" : "Table showing percentage of women aged 53-64 taking part in the breast screening programme as at 31/03/2006, broken down by PCT."
+  "deposited_date" : "17/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0384.xls",
+  "year" : "2007",
+  "description" : "Table showing percentage of women aged 53-64 taking part in the breast screening programme as at 31/03/2006, broken down by PCT.",
   "department" : "Dept of Health"
 }

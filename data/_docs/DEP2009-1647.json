@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "28/04/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1647.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 09/06/2009 from Lord Bach to Baroness Cox regarding religious marriage and polygamy. 2 p."
+  "deposited_date" : "28/04/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1647.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 09/06/2009 from Lord Bach to Baroness Cox regarding religious marriage and polygamy. 2 p.",
   "department" : "Ministry of Justice"
 }

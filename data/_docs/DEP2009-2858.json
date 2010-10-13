@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2858.zip"
-  "year" : "2009"
-  "description" : "I. Reserve forces pension and compensation benefits - reserved forces pension scheme (RFPS). Jan 2008. 52 p. II. Your pension scheme explained - armed forces pension scheme 2005 (AFPS 05). Jan 2009. 28 p."
+  "deposited_date" : "12/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2858.zip",
+  "year" : "2009",
+  "description" : "I. Reserve forces pension and compensation benefits - reserved forces pension scheme (RFPS). Jan 2008. 52 p. II. Your pension scheme explained - armed forces pension scheme 2005 (AFPS 05). Jan 2009. 28 p.",
   "department" : "Ministry of Defence Veterans Agency"
 }

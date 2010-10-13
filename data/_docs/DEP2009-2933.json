@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "19/11/2009"
-  "legislature" : Commons
-  "legislation" : "Crime and Security Bill 2009-10"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2933.zip"
-  "year" : "2009"
-  "description" : "Letters dated 19/11/2009 from David Hanson MP to Keith Vaz MP and Lord Carlile of Berriew regarding the Crime and Security Bill. 5 p."
+  "deposited_date" : "19/11/2009",
+  "legislature" : ["Commons"],
+  "legislation" : "Crime and Security Bill 2009-10",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2933.zip",
+  "year" : "2009",
+  "description" : "Letters dated 19/11/2009 from David Hanson MP to Keith Vaz MP and Lord Carlile of Berriew regarding the Crime and Security Bill. 5 p.",
   "department" : "Home Office"
 }

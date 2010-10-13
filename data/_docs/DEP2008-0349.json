@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0349.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 31/01/2008 from Steve Bundred, Chief Executive, to Robert Neill MP regarding whether the district auditor has oversight over the London Development Agency (LDA) and the Greater London Auathority (GLA). 3 p."
+  "deposited_date" : "05/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0349.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 31/01/2008 from Steve Bundred, Chief Executive, to Robert Neill MP regarding whether the district auditor has oversight over the London Development Agency (LDA) and the Greater London Auathority (GLA). 3 p.",
   "department" : "Audit Commission Dept for Communities and Local Government"
 }

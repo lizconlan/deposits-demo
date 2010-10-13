@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/04/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1230.tif"
-  "year" : "2010"
-  "description" : "Letter dated 30/04/2010 from John McCaughan (Superintendent, PSNI) to Owen Paterson MP regarding the cost of security and policing of the 12 July events in each of the last 5 years. 2 p."
+  "deposited_date" : "08/04/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1230.tif",
+  "year" : "2010",
+  "description" : "Letter dated 30/04/2010 from John McCaughan (Superintendent, PSNI) to Owen Paterson MP regarding the cost of security and policing of the 12 July events in each of the last 5 years. 2 p.",
   "department" : "Northern Ireland Office Police Service of Northern Ireland"
 }

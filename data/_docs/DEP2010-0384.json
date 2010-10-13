@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "02/02/2010"
-  "legislature" : Commons
-  "notes" : "This table has been replaced by DEP2010-1076."
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0384.doc"
-  "year" : "2010"
-  "description" : "Table showing per pupil revenue funding figures for pupils aged 3-19 for all local authorities from 1997/98 to 2005/06. Table superceded. 8 p."
+  "deposited_date" : "02/02/2010",
+  "legislature" : ["Commons"],
+  "notes" : "This table has been replaced by DEP2010-1076.",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0384.doc",
+  "year" : "2010",
+  "description" : "Table showing per pupil revenue funding figures for pupils aged 3-19 for all local authorities from 1997/98 to 2005/06. Table superceded. 8 p.",
   "department" : "Department for Children, Schools and Families"
 }

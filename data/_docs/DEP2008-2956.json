@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/12/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2956.zip"
-  "year" : "2008"
-  "description" : "Letter dated 02/12/2008 from James Purnell regarding the future of conditionality and support within the benefit system. Inc the report. 117 p."
+  "deposited_date" : "02/12/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2956.zip",
+  "year" : "2008",
+  "description" : "Letter dated 02/12/2008 from James Purnell regarding the future of conditionality and support within the benefit system. Inc the report. 117 p.",
   "department" : "Dept for Work and Pensions"
 }

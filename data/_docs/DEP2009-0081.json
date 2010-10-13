@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "13/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0081.doc"
-  "year" : "2009"
-  "description" : "Table showing how many people have claimed jobseeker's allowance (JSA) in each quarter since 1997; and what proportion in each quarter had been claiming JSA for (a) between 0 and 13 weeks, (b) between 13 and 26 weeks, (c) between 26 and 39 weeks, (d) between 39 and 52 weeks, (e) over 52 weeks and (f) over 104 weeks. 3 p."
+  "deposited_date" : "13/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0081.doc",
+  "year" : "2009",
+  "description" : "Table showing how many people have claimed jobseeker's allowance (JSA) in each quarter since 1997; and what proportion in each quarter had been claiming JSA for (a) between 0 and 13 weeks, (b) between 13 and 26 weeks, (c) between 26 and 39 weeks, (d) between 39 and 52 weeks, (e) over 52 weeks and (f) over 104 weeks. 3 p.",
   "department" : "Dept for Work and Pensions"
 }

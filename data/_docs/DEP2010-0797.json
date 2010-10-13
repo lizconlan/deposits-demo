@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0797.xls"
-  "year" : "2010"
-  "description" : "Table showing the average processing time of applications for (a) jobseeker's allowance, (b) housing benefit, (c) a crisis loan, (d) a community care grant and (e) a budgeting loan was in (i) each of the smallest geographical areas for which information is available and (ii) the UK in each quarter between 2003 to 2010. 40 p."
+  "deposited_date" : "23/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0797.xls",
+  "year" : "2010",
+  "description" : "Table showing the average processing time of applications for (a) jobseeker's allowance, (b) housing benefit, (c) a crisis loan, (d) a community care grant and (e) a budgeting loan was in (i) each of the smallest geographical areas for which information is available and (ii) the UK in each quarter between 2003 to 2010. 40 p.",
   "department" : "Department for Work and Pensions"
 }

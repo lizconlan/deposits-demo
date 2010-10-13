@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "13/10/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2380.zip"
-  "year" : "2008"
-  "description" : "Delivering 14 - 19 reform: next steps. Report and separate summary. 118 p."
+  "deposited_date" : "13/10/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2380.zip",
+  "year" : "2008",
+  "description" : "Delivering 14 - 19 reform: next steps. Report and separate summary. 118 p.",
   "department" : "Dept for Children Schools and Families"
 }

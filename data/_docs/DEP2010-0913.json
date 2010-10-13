@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0913.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 25/03/2010 from Bridget Prentice MP to Derek Twigg MP regarding revision of Disability living allowance statistics. 2 p."
+  "deposited_date" : "26/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0913.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 25/03/2010 from Bridget Prentice MP to Derek Twigg MP regarding revision of Disability living allowance statistics. 2 p.",
   "department" : "Ministry of Justice"
 }

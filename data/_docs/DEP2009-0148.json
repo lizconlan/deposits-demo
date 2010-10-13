@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0148.xls"
-  "year" : "2009"
-  "description" : "Table showing grant awards to individual charities for each year from 2004/05 to 2008/09, broken down by grant scheme. p. 9."
+  "deposited_date" : "19/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0148.xls",
+  "year" : "2009",
+  "description" : "Table showing grant awards to individual charities for each year from 2004/05 to 2008/09, broken down by grant scheme. p. 9.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/01/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0231.zip"
-  "year" : "2009"
-  "description" : "I. Nuclear regulatory review: summary recommendation. 9 p. II. Government Response to the Recommendations of the Stone Review of the Nuclear Regulatory Regime. 4 p."
+  "deposited_date" : "27/01/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0231.zip",
+  "year" : "2009",
+  "description" : "I. Nuclear regulatory review: summary recommendation. 9 p. II. Government Response to the Recommendations of the Stone Review of the Nuclear Regulatory Regime. 4 p.",
   "department" : "Dept of Energy and Climate Change"
 }

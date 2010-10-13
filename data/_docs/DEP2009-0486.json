@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/02/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0486.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 21/08/2008 from Nick Chapman, National Director, to SHA Chief Executives regarding 18 weeks referral to treatment. 2 p."
+  "deposited_date" : "23/02/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0486.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 21/08/2008 from Nick Chapman, National Director, to SHA Chief Executives regarding 18 weeks referral to treatment. 2 p.",
   "department" : "Dept of Health"
 }

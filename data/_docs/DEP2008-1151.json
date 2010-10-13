@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/04/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1151.xls"
-  "year" : "2008"
-  "description" : "Table showing number of young people in secure training centres and secure children's homes for each year from 2001/02 to 2007/08, broken down by age, gender, and whether on remand or under sentence. 1 p."
+  "deposited_date" : "29/04/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1151.xls",
+  "year" : "2008",
+  "description" : "Table showing number of young people in secure training centres and secure children's homes for each year from 2001/02 to 2007/08, broken down by age, gender, and whether on remand or under sentence. 1 p.",
   "department" : "Ministry of Justice"
 }

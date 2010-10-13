@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "28/05/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1527.pdf"
-  "year" : "2009"
-  "description" : "Payment by Results: step-by-step guide to the calculation of the 2009-2010 national tariff. Incl. annexes. 38 p."
+  "deposited_date" : "28/05/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1527.pdf",
+  "year" : "2009",
+  "description" : "Payment by Results: step-by-step guide to the calculation of the 2009-2010 national tariff. Incl. annexes. 38 p.",
   "department" : "Dept of Health"
 }

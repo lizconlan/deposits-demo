@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0342.tif"
-  "year" : "2008"
-  "description" : "Letter dated 18/02/2008 from Shaun Woodward MP to Adam Price MP regarding the appointment of Vivian Thomas to the Bain Review. 2 p."
+  "deposited_date" : "05/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0342.tif",
+  "year" : "2008",
+  "description" : "Letter dated 18/02/2008 from Shaun Woodward MP to Adam Price MP regarding the appointment of Vivian Thomas to the Bain Review. 2 p.",
   "department" : "Northern Ireland Office"
 }

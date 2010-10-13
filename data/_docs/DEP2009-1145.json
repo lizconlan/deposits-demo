@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/04/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1145.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 10/04/2009 from Lord Bach to Lord Elystan-Morgan regarding the requirements of the Act of Settlement in respect of the personal faith of the Monarch. 1 p."
+  "deposited_date" : "10/04/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1145.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 10/04/2009 from Lord Bach to Lord Elystan-Morgan regarding the requirements of the Act of Settlement in respect of the personal faith of the Monarch. 1 p.",
   "department" : "Ministry of Justice"
 }

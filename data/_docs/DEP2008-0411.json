@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "28/11/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0411.tif"
-  "year" : "2008"
-  "description" : "Letter dated 09/02/2008 from Derek Twigg MP to David Drew MP regarding armed forces accommodation in the UK and Germany."
+  "deposited_date" : "28/11/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0411.tif",
+  "year" : "2008",
+  "description" : "Letter dated 09/02/2008 from Derek Twigg MP to David Drew MP regarding armed forces accommodation in the UK and Germany.",
   "department" : "Ministry of Defence"
 }

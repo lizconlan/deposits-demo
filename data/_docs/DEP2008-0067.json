@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/01/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0067.xls"
-  "year" : "2008"
-  "description" : "Tables showing a) body mass index (BMI) for all adults for each year from 1993 to 2005, broken down by age and sex and b) children's overweight and obesity prevelence for each year from 1995 to 2005, broken down by age and sex. 8 p."
+  "deposited_date" : "10/01/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0067.xls",
+  "year" : "2008",
+  "description" : "Tables showing a) body mass index (BMI) for all adults for each year from 1993 to 2005, broken down by age and sex and b) children's overweight and obesity prevelence for each year from 1995 to 2005, broken down by age and sex. 8 p.",
   "department" : "Dept of Health"
 }

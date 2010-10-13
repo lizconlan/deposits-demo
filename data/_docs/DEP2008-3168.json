@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/12/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3168.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 19/12/2008 from Lord Bach to Lord Luce regarding Commonwealth scholarships. Incl. draft terms of reference of the Interdepartmental Working Group on Scholarships. 3 p."
+  "deposited_date" : "19/12/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3168.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 19/12/2008 from Lord Bach to Lord Luce regarding Commonwealth scholarships. Incl. draft terms of reference of the Interdepartmental Working Group on Scholarships. 3 p.",
   "department" : "Foreign and Commonwealth Office"
 }

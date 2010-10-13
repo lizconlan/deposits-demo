@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/02/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0469.pdf"
-  "year" : "2010"
-  "description" : "Osteosarcoma Incidence Trends In the West Midlands. 16 p."
+  "deposited_date" : "23/02/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0469.pdf",
+  "year" : "2010",
+  "description" : "Osteosarcoma Incidence Trends In the West Midlands. 16 p.",
   "department" : "Department of Health"
 }

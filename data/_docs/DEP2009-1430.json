@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/04/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1430.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 18/05/2009 from Baroness Royall of Blaisdon to Lord Strathclyde regarding support for service personnel in particular medical care, housing and education. 2 p."
+  "deposited_date" : "29/04/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1430.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 18/05/2009 from Baroness Royall of Blaisdon to Lord Strathclyde regarding support for service personnel in particular medical care, housing and education. 2 p.",
   "department" : "Cabinet Office"
 }

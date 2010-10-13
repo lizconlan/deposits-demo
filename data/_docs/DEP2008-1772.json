@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1772.xls"
-  "year" : "2008"
-  "description" : "Table showing the pupil to teacher ratio in maintained primary and secondary schools, broken down by the local authority, for the years 1997 to 2007. 6 p."
+  "deposited_date" : "25/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1772.xls",
+  "year" : "2008",
+  "description" : "Table showing the pupil to teacher ratio in maintained primary and secondary schools, broken down by the local authority, for the years 1997 to 2007. 6 p.",
   "department" : "Dept for Children Schools and Families"
 }

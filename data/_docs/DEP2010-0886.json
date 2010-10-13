@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0886.pdf"
-  "year" : "2010"
-  "description" : "Response from DCMS detailing the addresses of each property owned or leased by Arts Council England as at Jan 2010. 2 p."
+  "deposited_date" : "05/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0886.pdf",
+  "year" : "2010",
+  "description" : "Response from DCMS detailing the addresses of each property owned or leased by Arts Council England as at Jan 2010. 2 p.",
   "department" : "Department for Culture, Media and Sport"
 }

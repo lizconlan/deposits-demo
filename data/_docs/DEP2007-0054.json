@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "23/10/2007"
-  "legislature" : Commons
-  "legislation" : "Crossrail Bill 2004/05 then 2005-06 then 2006-07"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0054.zip"
-  "year" : "2007"
-  "description" : "Letter dated 07/11/2007 from Tom Harris MP to Tom Brake MP and Stephen Hammond MP regarding the provision of information to the public about the Crossrail project."
+  "deposited_date" : "23/10/2007",
+  "legislature" : ["Commons"],
+  "legislation" : "Crossrail Bill 2004/05 then 2005-06 then 2006-07",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0054.zip",
+  "year" : "2007",
+  "description" : "Letter dated 07/11/2007 from Tom Harris MP to Tom Brake MP and Stephen Hammond MP regarding the provision of information to the public about the Crossrail project.",
   "department" : "Dept for Transport"
 }

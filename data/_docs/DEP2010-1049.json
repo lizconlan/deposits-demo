@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/04/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1049.zip"
-  "year" : "2010"
-  "description" : "I. Roadside facilities on the strategic road retwork: public consultation on policy proposals. Consultation paper. Incl. annexes. 83 p. II. Impact Assessment of DfT Circular - Policy on Roadside Facilities on the Strategic Road Network. 4 Mar 2010. 19 p. ."
+  "deposited_date" : "06/04/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1049.zip",
+  "year" : "2010",
+  "description" : "I. Roadside facilities on the strategic road retwork: public consultation on policy proposals. Consultation paper. Incl. annexes. 83 p. II. Impact Assessment of DfT Circular - Policy on Roadside Facilities on the Strategic Road Network. 4 Mar 2010. 19 p. .",
   "department" : "Highways Agency Department for Transport"
 }

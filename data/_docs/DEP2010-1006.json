@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1005.zip"
-  "year" : "2010"
-  "description" : "Minutes of the Board meeting of the Arts Council England in relation to the Public Arts Centre in West Bromwich. 46 p."
+  "deposited_date" : "06/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1005.zip",
+  "year" : "2010",
+  "description" : "Minutes of the Board meeting of the Arts Council England in relation to the Public Arts Centre in West Bromwich. 46 p.",
   "department" : "Department for Culture, Media and Sport"
 }

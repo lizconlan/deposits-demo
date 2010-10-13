@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/03/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0739.pdf"
-  "year" : "2009"
-  "description" : "I. Letter dated 10/03/2009 from Lord Drayson to Baroness Verma regarding the Lords debate on the prospects for nuclear fusion. 1 p. II. Questions tabled by Lord Taverne asking the Government for its assessment of the prospects for nuclear fusion [House of Lords debate, 05/02/2009]. 10 p."
+  "deposited_date" : "10/03/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0739.pdf",
+  "year" : "2009",
+  "description" : "I. Letter dated 10/03/2009 from Lord Drayson to Baroness Verma regarding the Lords debate on the prospects for nuclear fusion. 1 p. II. Questions tabled by Lord Taverne asking the Government for its assessment of the prospects for nuclear fusion [House of Lords debate, 05/02/2009]. 10 p.",
   "department" : "Dept for Innovation, Universities and Skills"
 }

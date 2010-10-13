@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/04/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1072.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 23/04/2008 from Alistair Darling MP to John McFall MP regarding the Treasury Committee Inquiry into the effect of Budget measures on low-income households. 2 p."
+  "deposited_date" : "23/04/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1072.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 23/04/2008 from Alistair Darling MP to John McFall MP regarding the Treasury Committee Inquiry into the effect of Budget measures on low-income households. 2 p.",
   "department" : "Treasury"
 }

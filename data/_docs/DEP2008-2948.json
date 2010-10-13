@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2948.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 21/11/2008 from Mark Haysom, Chief Executive, to nick Gibb MP regarding the delayed payments of the Education Maintenance Allowance (EMA). 1 p."
+  "deposited_date" : "12/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2948.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 21/11/2008 from Mark Haysom, Chief Executive, to nick Gibb MP regarding the delayed payments of the Education Maintenance Allowance (EMA). 1 p.",
   "department" : "Learning and Skills Council for England Dept for Children Schools and Families"
 }

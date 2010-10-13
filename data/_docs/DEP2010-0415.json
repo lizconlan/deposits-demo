@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0415.tif"
-  "year" : "2010"
-  "description" : "Letter dated 11/02/2010 from David Miliband MP to William Hague MP regarding the number of locally-engaged staff at the UK post in (a) Washington, (b) Istanbul, (c) Abuja, (d) Accra, (e) Amman, (f) Ankara, (g) Beijing, (h) Brussels, (i) Lagos, (j) Moscow and (k) Madrid since the withdrawal of the overseas price mechanism. Incl. table. 3 p."
+  "deposited_date" : "26/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0415.tif",
+  "year" : "2010",
+  "description" : "Letter dated 11/02/2010 from David Miliband MP to William Hague MP regarding the number of locally-engaged staff at the UK post in (a) Washington, (b) Istanbul, (c) Abuja, (d) Accra, (e) Amman, (f) Ankara, (g) Beijing, (h) Brussels, (i) Lagos, (j) Moscow and (k) Madrid since the withdrawal of the overseas price mechanism. Incl. table. 3 p.",
   "department" : "Foreign and Commonwealth Office"
 }

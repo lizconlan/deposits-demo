@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0204.xls"
-  "year" : "2007"
-  "description" : "Tables showing the Department for International Development's (DFID) expenditure to UK civil society organisations for the years 2002/03 to 2006/07. 2 p."
+  "deposited_date" : "03/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0204.xls",
+  "year" : "2007",
+  "description" : "Tables showing the Department for International Development's (DFID) expenditure to UK civil society organisations for the years 2002/03 to 2006/07. 2 p.",
   "department" : "Dept for International Development"
 }

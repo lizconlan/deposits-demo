@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/10/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0023.doc"
-  "year" : "2007"
-  "description" : "Table showing number of males and females aged 16-24 screened by the National Chlamydia Screening Programme in each PCT in each year from 2003/04 to 2005/06."
+  "deposited_date" : "18/10/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0023.doc",
+  "year" : "2007",
+  "description" : "Table showing number of males and females aged 16-24 screened by the National Chlamydia Screening Programme in each PCT in each year from 2003/04 to 2005/06.",
   "department" : "Dept of Health"
 }

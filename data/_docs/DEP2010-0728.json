@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0728.zip"
-  "year" : "2010"
-  "description" : "Letter dated 17/03/2010 from Ian Lucas MP to Peter Luff MP regarding Low Carbon Construction Innovation and Growth Team (IGT) interim report. Inc the report. 65 p."
+  "deposited_date" : "17/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0728.zip",
+  "year" : "2010",
+  "description" : "Letter dated 17/03/2010 from Ian Lucas MP to Peter Luff MP regarding Low Carbon Construction Innovation and Growth Team (IGT) interim report. Inc the report. 65 p.",
   "department" : "Department for Business, Innovation and Skills"
 }

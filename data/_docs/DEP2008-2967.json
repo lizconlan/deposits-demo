@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/12/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2967.tif"
-  "year" : "2008"
-  "description" : "Letter dated 03/12/2008 from Ben Bradshaw MP to Graham Allen MP regarding people with strokes. 6 p."
+  "deposited_date" : "03/12/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2967.tif",
+  "year" : "2008",
+  "description" : "Letter dated 03/12/2008 from Ben Bradshaw MP to Graham Allen MP regarding people with strokes. 6 p.",
   "department" : "Dept of Health"
 }

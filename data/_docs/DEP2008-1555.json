@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1555.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 10/06/2008 from Ed Richard, Chief Executive, to Mohammad Sarwar MP regarding broadband up-take. 1 p."
+  "deposited_date" : "16/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1555.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 10/06/2008 from Ed Richard, Chief Executive, to Mohammad Sarwar MP regarding broadband up-take. 1 p.",
   "department" : "Dept for Business Enterprise and Regulatory Reform"
 }

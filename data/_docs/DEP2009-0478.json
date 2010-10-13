@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/02/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0478.xls"
-  "year" : "2009"
-  "description" : "Table showing Consultancy Contracts Let by the Department for Communities and Local Government, year to end September 2008. 3 p."
+  "deposited_date" : "23/02/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0478.xls",
+  "year" : "2009",
+  "description" : "Table showing Consultancy Contracts Let by the Department for Communities and Local Government, year to end September 2008. 3 p.",
   "department" : "Dept for Communities and Local Government"
 }

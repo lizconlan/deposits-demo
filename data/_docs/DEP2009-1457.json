@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/05/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1457.xls"
-  "year" : "2009"
-  "description" : "Table showing Parliamentary constituencies where the number of persons claiming Jobseekers' Allowance was higher in April 2009 than April 1997. 1 p."
+  "deposited_date" : "18/05/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1457.xls",
+  "year" : "2009",
+  "description" : "Table showing Parliamentary constituencies where the number of persons claiming Jobseekers' Allowance was higher in April 2009 than April 1997. 1 p.",
   "department" : "Cabinet Office"
 }

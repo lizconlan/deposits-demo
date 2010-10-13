@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2503.doc"
-  "year" : "2008"
-  "description" : "Tables showing client contributions by councils with adult social services responsibilities (CASSRs) on residential care and community based services for the years 2003/04 to 2007/08. 12p."
+  "deposited_date" : "29/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2503.doc",
+  "year" : "2008",
+  "description" : "Tables showing client contributions by councils with adult social services responsibilities (CASSRs) on residential care and community based services for the years 2003/04 to 2007/08. 12p.",
   "department" : "Dept of Health"
 }

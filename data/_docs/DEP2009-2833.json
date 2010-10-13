@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/11/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2833.zip"
-  "year" : "2009"
-  "description" : "I. Simplifying immigration law: a new framework for immigration rules. Consultation paper. 20 p. II. Reforming Asylum Support: Effective support for those with protection needs. Consultation paper. 24 p."
+  "deposited_date" : "12/11/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2833.zip",
+  "year" : "2009",
+  "description" : "I. Simplifying immigration law: a new framework for immigration rules. Consultation paper. 20 p. II. Reforming Asylum Support: Effective support for those with protection needs. Consultation paper. 24 p.",
   "department" : "Home Office"
 }

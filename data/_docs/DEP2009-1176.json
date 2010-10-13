@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/04/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1176.pdf"
-  "year" : "2009"
-  "description" : "Impact Assessment of Child Health Promotion Programme Guidance. 12 p."
+  "deposited_date" : "21/04/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1176.pdf",
+  "year" : "2009",
+  "description" : "Impact Assessment of Child Health Promotion Programme Guidance. 12 p.",
   "department" : "Dept of Health"
 }

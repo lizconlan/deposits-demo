@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0619.zip"
-  "year" : "2010"
-  "description" : "I. Travelling on official business. Incl. annexes. 25 p. II. Northern Ireland Human Rights Commission travel and expenses. 13 p. III. Policy on the use of official cars and taxis. 3 p. IV. Air travel policy and taxi arrangements. 2 p."
+  "deposited_date" : "25/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0619.zip",
+  "year" : "2010",
+  "description" : "I. Travelling on official business. Incl. annexes. 25 p. II. Northern Ireland Human Rights Commission travel and expenses. 13 p. III. Policy on the use of official cars and taxis. 3 p. IV. Air travel policy and taxi arrangements. 2 p.",
   "department" : "Northern Ireland Office"
 }

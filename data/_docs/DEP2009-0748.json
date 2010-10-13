@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "11/03/2009"
-  "legislature" : Commons
-  "notes" : "Relates to England only."
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0748.pdf"
-  "year" : "2009"
-  "description" : "Preparing regional spatial strategy reviews on gypsies and travellers by regional planning bodies. 102 p."
+  "deposited_date" : "11/03/2009",
+  "legislature" : ["Commons"],
+  "notes" : "Relates to England only.",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0748.pdf",
+  "year" : "2009",
+  "description" : "Preparing regional spatial strategy reviews on gypsies and travellers by regional planning bodies. 102 p.",
   "department" : "Dept for Communities and Local Government CENTRE FOR URBAN AND REGIONAL STUDIES Salford Housing and Urban Studies Unit Centre for Regional Economic and Social Research"
 }

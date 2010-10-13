@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2672.xls"
-  "year" : "2008"
-  "description" : "Table showing median duration of unemployed claimant count for each month from October 2005 to September 2008, broken down by local authority. 72 p."
+  "deposited_date" : "11/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2672.xls",
+  "year" : "2008",
+  "description" : "Table showing median duration of unemployed claimant count for each month from October 2005 to September 2008, broken down by local authority. 72 p.",
   "department" : "Dept for Work and Pensions"
 }

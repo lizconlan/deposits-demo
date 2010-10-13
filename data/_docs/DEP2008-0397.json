@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/09/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0397.tif"
-  "year" : "2008"
-  "description" : "Letter dated 21/09/2007 from Alistair Darling MP to John McFall MP regarding the liability undertaken by the Treasury in respect of Northern Rock plc. 2 p."
+  "deposited_date" : "21/09/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0397.tif",
+  "year" : "2008",
+  "description" : "Letter dated 21/09/2007 from Alistair Darling MP to John McFall MP regarding the liability undertaken by the Treasury in respect of Northern Rock plc. 2 p.",
   "department" : "Treasury"
 }

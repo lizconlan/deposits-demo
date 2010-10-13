@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/10/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0040.xls"
-  "year" : "2007"
-  "description" : "Table showing number of patients having delayed hospital discharges each week from 25/10/2005 to 14/10/2007, broken down by NHS organisation."
+  "deposited_date" : "29/10/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0040.xls",
+  "year" : "2007",
+  "description" : "Table showing number of patients having delayed hospital discharges each week from 25/10/2005 to 14/10/2007, broken down by NHS organisation.",
   "department" : "Dept of Health"
 }

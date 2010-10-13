@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2045.pdf"
-  "year" : "2008"
-  "description" : "Visitor reception building project, Cromwell Green, Palace of Westiminster: post project review "Lessons learned", dated 01/07/2008. 8 p."
+  "deposited_date" : "22/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2045.pdf",
+  "year" : "2008",
+  "description" : "Visitor reception building project, Cromwell Green, Palace of Westiminster: post project review \"Lessons learned\", dated 01/07/2008. 8 p.",
   "department" : "House of Commons Commission Roy Davis Associates"
 }

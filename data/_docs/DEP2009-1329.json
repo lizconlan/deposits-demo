@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/05/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1329.xls"
-  "year" : "2009"
-  "description" : "Table showing number of people registered to vote in local government elections as a percentage of the population over 18 in 2007."
+  "deposited_date" : "06/05/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1329.xls",
+  "year" : "2009",
+  "description" : "Table showing number of people registered to vote in local government elections as a percentage of the population over 18 in 2007.",
   "department" : "Cabinet Office"
 }

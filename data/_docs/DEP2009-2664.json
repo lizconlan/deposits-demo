@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/10/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2664.zip"
-  "year" : "2009"
-  "description" : "Documents relating to affordable housing in Chorley including correspondence between Jo Lappin (Deputy Regional Director Housing, Planning and Transport) and Jane Meek (Chorley Council). 25 p."
+  "deposited_date" : "29/10/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2664.zip",
+  "year" : "2009",
+  "description" : "Documents relating to affordable housing in Chorley including correspondence between Jo Lappin (Deputy Regional Director Housing, Planning and Transport) and Jane Meek (Chorley Council). 25 p.",
   "department" : "Dept for Communities and Local Government"
 }

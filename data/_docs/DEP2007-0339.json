@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "13/12/2007"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0339.pdf"
-  "year" : "2007"
-  "description" : "Animals (Scientific Procedures) Inspectorate annual report 2006. 38 p."
+  "deposited_date" : "13/12/2007",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0339.pdf",
+  "year" : "2007",
+  "description" : "Animals (Scientific Procedures) Inspectorate annual report 2006. 38 p.",
   "department" : "Scientific Procedures Inspectorate"
 }

@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "23/04/2008"
-  "legislature" : Lords
-  "legislation" : "Criminal Justice and Immigration Bill 2006-07 then 2007-08"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1077.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 22/04/2008 from Lord Hunt of Kings Heath to Lord Thomas of Gresford regarding the threshold for public protection sentences in the context of the Criminal Justice and Immigration Bill."
+  "deposited_date" : "23/04/2008",
+  "legislature" : ["Lords"],
+  "legislation" : "Criminal Justice and Immigration Bill 2006-07 then 2007-08",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1077.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 22/04/2008 from Lord Hunt of Kings Heath to Lord Thomas of Gresford regarding the threshold for public protection sentences in the context of the Criminal Justice and Immigration Bill.",
   "department" : "Ministry of Justice"
 }

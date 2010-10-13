@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "24/02/2010"
-  "legislature" : Commons
-  "legislation" : "Social Security (Loss of Benefit) Amendment Regulations 2010"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0590.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 04/03/2010 from Helen Goodman MP to Ann Winterton MP regarding the exclusion of certain social security benefits (benefits for children) from one-strike action. 1 p."
+  "deposited_date" : "24/02/2010",
+  "legislature" : ["Commons"],
+  "legislation" : "Social Security (Loss of Benefit) Amendment Regulations 2010",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0590.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 04/03/2010 from Helen Goodman MP to Ann Winterton MP regarding the exclusion of certain social security benefits (benefits for children) from one-strike action. 1 p.",
   "department" : "Department for Work and Pensions"
 }

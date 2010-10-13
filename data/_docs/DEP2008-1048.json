@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "21/04/2008"
-  "legislature" : Commons
-  "legislation" : "Criminal Justice and Immigration Bill"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1048.zip"
-  "year" : "2008"
-  "description" : "Letter dated 01/04/2008 from Amanda Finlay, Director, to S Brighton and his reply of 15/04/2008 regarding Legal Aid Process in Youth Courts. 4 p."
+  "deposited_date" : "21/04/2008",
+  "legislature" : ["Commons"],
+  "legislation" : "Criminal Justice and Immigration Bill",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1048.zip",
+  "year" : "2008",
+  "description" : "Letter dated 01/04/2008 from Amanda Finlay, Director, to S Brighton and his reply of 15/04/2008 regarding Legal Aid Process in Youth Courts. 4 p.",
   "department" : "Ministry of Justice"
 }

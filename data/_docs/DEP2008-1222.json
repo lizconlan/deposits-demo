@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/05/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1222.xls"
-  "year" : "2008"
-  "description" : "Table showing details of Ministry of Defence land and property in the UK sold since 2000. 25 p."
+  "deposited_date" : "09/05/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1222.xls",
+  "year" : "2008",
+  "description" : "Table showing details of Ministry of Defence land and property in the UK sold since 2000. 25 p.",
   "department" : "Ministry of Defence"
 }

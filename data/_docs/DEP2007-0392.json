@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0392.tif"
-  "year" : "2007"
-  "description" : "Letter dated 10th December 2007 from Lord Malloch-Brown to Lord Blaker regarding Zimbabwe and the Commonwealth Heads of Government meeting in Kampala."
+  "deposited_date" : "18/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0392.tif",
+  "year" : "2007",
+  "description" : "Letter dated 10th December 2007 from Lord Malloch-Brown to Lord Blaker regarding Zimbabwe and the Commonwealth Heads of Government meeting in Kampala.",
   "department" : "Foreign and Commonwealth Office"
 }

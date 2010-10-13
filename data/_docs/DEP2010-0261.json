@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/02/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0261.doc"
-  "year" : "2010"
-  "description" : "Interim code of practice for the acceptable use of advanced imaging technology (body scanners) in an aviation security environment. 6 p."
+  "deposited_date" : "01/02/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0261.doc",
+  "year" : "2010",
+  "description" : "Interim code of practice for the acceptable use of advanced imaging technology (body scanners) in an aviation security environment. 6 p.",
   "department" : "Department for Transport"
 }

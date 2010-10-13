@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/05/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1579.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 05/05/2009 from Christine Gilbert (Her Majesty's Chief Inspector of Education, Childrens Services and Skills) to David Laws MP regarding the number of serious case reviews lost by OFSTED in each year since 2001. 1 p."
+  "deposited_date" : "29/05/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1579.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 05/05/2009 from Christine Gilbert (Her Majesty's Chief Inspector of Education, Childrens Services and Skills) to David Laws MP regarding the number of serious case reviews lost by OFSTED in each year since 2001. 1 p.",
   "department" : "Dept for Children, Schools and Families Office for Standards in Education, Children's Services and Skills"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/07/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1864.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 01/07/2009 from Lord West of Spithead to Lord Corbett of Castle Vale regarding identity forgery. 1 p."
+  "deposited_date" : "01/07/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1864.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 01/07/2009 from Lord West of Spithead to Lord Corbett of Castle Vale regarding identity forgery. 1 p.",
   "department" : "Home Office"
 }

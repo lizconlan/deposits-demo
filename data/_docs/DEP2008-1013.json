@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "03/04/2008"
-  "legislature" : CommonsLords
-  "legislation" : "Local Transport Bill (HL) 2007-08"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1013.pdf"
-  "year" : "2008"
-  "description" : "The Local Transport Bill: improving local bus services draft guidance. Volume 3: quality partnership schemes. 50 p."
+  "deposited_date" : "03/04/2008",
+  "legislature" : ["Commons","Lords"],
+  "legislation" : "Local Transport Bill (HL) 2007-08",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1013.pdf",
+  "year" : "2008",
+  "description" : "The Local Transport Bill: improving local bus services draft guidance. Volume 3: quality partnership schemes. 50 p.",
   "department" : "Dept for Transport"
 }

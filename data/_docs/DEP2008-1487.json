@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1487.doc"
-  "year" : "2008"
-  "description" : "Table showing data on the sterile services activities for NHS trusts in 2006-07."
+  "deposited_date" : "10/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1487.doc",
+  "year" : "2008",
+  "description" : "Table showing data on the sterile services activities for NHS trusts in 2006-07.",
   "department" : "Dept of Health"
 }

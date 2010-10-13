@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0544.xls"
-  "year" : "2010"
-  "description" : "Tables showing the number of defendants proceeded against, found guilty and sentenced for criminal offences in England and Wales from 1997 to 2008. 15 p."
+  "deposited_date" : "01/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0544.xls",
+  "year" : "2010",
+  "description" : "Tables showing the number of defendants proceeded against, found guilty and sentenced for criminal offences in England and Wales from 1997 to 2008. 15 p.",
   "department" : "Ministry of Justice"
 }

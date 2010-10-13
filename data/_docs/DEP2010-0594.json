@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0594.pdf"
-  "year" : "2010"
-  "description" : "Social mobility: narrowing social class educational aqttainment gaps: supporting materials to a speech by the Ruth Kelly MP, Secretary of State for Education and Skills, to the Institute for Public Policy Research. 112 p."
+  "deposited_date" : "02/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0594.pdf",
+  "year" : "2010",
+  "description" : "Social mobility: narrowing social class educational aqttainment gaps: supporting materials to a speech by the Ruth Kelly MP, Secretary of State for Education and Skills, to the Institute for Public Policy Research. 112 p.",
   "department" : "Department for Children, Schools and Families"
 }

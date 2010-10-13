@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/10/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0026.pdf"
-  "year" : "2007"
-  "description" : "Pay framework for very senior managers in strategic and special health authorities, primary care trusts and ambulance trusts. Updated 26/07/2007. 40 p."
+  "deposited_date" : "19/10/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0026.pdf",
+  "year" : "2007",
+  "description" : "Pay framework for very senior managers in strategic and special health authorities, primary care trusts and ambulance trusts. Updated 26/07/2007. 40 p.",
   "department" : "Dept of Health"
 }

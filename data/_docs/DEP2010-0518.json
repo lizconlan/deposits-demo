@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0518.xls"
-  "year" : "2010"
-  "description" : "Table showing proportion of students at each secondary school in (a) the City of Newcastle upon Tyne, (b) North Tyneside Borough, (c) Gateshead Borough and (d) Northumberland (i) achieved English GCSE grades A* to C, (ii) achieved mathematics GCSE grades A* to C and (iii) who qualified for free school meals in 2009. 8 p."
+  "deposited_date" : "22/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0518.xls",
+  "year" : "2010",
+  "description" : "Table showing proportion of students at each secondary school in (a) the City of Newcastle upon Tyne, (b) North Tyneside Borough, (c) Gateshead Borough and (d) Northumberland (i) achieved English GCSE grades A* to C, (ii) achieved mathematics GCSE grades A* to C and (iii) who qualified for free school meals in 2009. 8 p.",
   "department" : "Department for Children, Schools and Families"
 }

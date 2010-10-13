@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "28/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0253.pdf"
-  "year" : "2010"
-  "description" : "Table showing the number of construction firm start ups from 2002 to 2008 by local authority or lowest geographical area where information is available. 17 p."
+  "deposited_date" : "28/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0253.pdf",
+  "year" : "2010",
+  "description" : "Table showing the number of construction firm start ups from 2002 to 2008 by local authority or lowest geographical area where information is available. 17 p.",
   "department" : "Cabinet Office"
 }

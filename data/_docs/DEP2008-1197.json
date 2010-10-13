@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/05/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1197.tif"
-  "year" : "2008"
-  "description" : "I. Letter dated 04/05/2008 from Derek Twigg MP to Andrew Murrison MP regarding 2 leaflets and a guide on pandemic influenza. II. Pandemic influenza: MOD preparations [leaflet]. III. Pandemic influenza: a guide for defence [leaflet]. IV. Pan-defence pandemic flu contingency preparations. A guide for defence personnel. February 2008. 38 p."
+  "deposited_date" : "07/05/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1197.tif",
+  "year" : "2008",
+  "description" : "I. Letter dated 04/05/2008 from Derek Twigg MP to Andrew Murrison MP regarding 2 leaflets and a guide on pandemic influenza. II. Pandemic influenza: MOD preparations [leaflet]. III. Pandemic influenza: a guide for defence [leaflet]. IV. Pan-defence pandemic flu contingency preparations. A guide for defence personnel. February 2008. 38 p.",
   "department" : "Ministry of Defence"
 }

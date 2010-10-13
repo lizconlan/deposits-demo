@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "21/07/2008"
-  "legislature" : Lords
-  "legislation" : "Pensions Bill 2007-08"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2082.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 21/07/2008 from Lord McKenzie to Baroness Noakes regarding criminal offences linked to the Pensions Bill. 3 p."
+  "deposited_date" : "21/07/2008",
+  "legislature" : ["Lords"],
+  "legislation" : "Pensions Bill 2007-08",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2082.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 21/07/2008 from Lord McKenzie to Baroness Noakes regarding criminal offences linked to the Pensions Bill. 3 p.",
   "department" : "Dept for Work and Pensions"
 }

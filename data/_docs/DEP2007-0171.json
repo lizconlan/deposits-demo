@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/11/2007"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0171.pdf"
-  "year" : "2007"
-  "description" : "The London 2012 sustainability plan: towards a one planet 2012. 68 p."
+  "deposited_date" : "26/11/2007",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0171.pdf",
+  "year" : "2007",
+  "description" : "The London 2012 sustainability plan: towards a one planet 2012. 68 p.",
   "department" : "London 2012 Dept for Culture Media and Sport"
 }

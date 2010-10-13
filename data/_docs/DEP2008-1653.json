@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1653.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 18/06/2008 from Adam Crozier, Chief Executive, to Greg Hands MP regarding Royal Mail. 2 p."
+  "deposited_date" : "18/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1653.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 18/06/2008 from Adam Crozier, Chief Executive, to Greg Hands MP regarding Royal Mail. 2 p.",
   "department" : "Royal Mail Dept for Business Enterprise and Regulatory Reform"
 }

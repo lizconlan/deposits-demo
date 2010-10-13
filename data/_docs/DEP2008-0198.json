@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0198.doc"
-  "year" : "2008"
-  "description" : "Prison Service Order no 4630: Immigration and foreign nationals in prisons. 95 p."
+  "deposited_date" : "23/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0198.doc",
+  "year" : "2008",
+  "description" : "Prison Service Order no 4630: Immigration and foreign nationals in prisons. 95 p.",
   "department" : "Ministry of Justice"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0547.zip"
-  "year" : "2010"
-  "description" : "I. GP earnings and expenses enquiry 2006/07: final report. May 2009. Incl. annexes. 111 p. II. GP earnings and expenses enquiry 2007/08: final report. Sept 2009. Incl. annexes. 99 p. III. Tables showing pre tax income for contractor and salaried GPs. 2 p."
+  "deposited_date" : "01/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0547.zip",
+  "year" : "2010",
+  "description" : "I. GP earnings and expenses enquiry 2006/07: final report. May 2009. Incl. annexes. 111 p. II. GP earnings and expenses enquiry 2007/08: final report. Sept 2009. Incl. annexes. 99 p. III. Tables showing pre tax income for contractor and salaried GPs. 2 p.",
   "department" : "Department of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/03/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0766.pdf"
-  "year" : "2010"
-  "description" : "Declarations of Interests: Guidance for Parliamentary election candidates. 38 p."
+  "deposited_date" : "22/03/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0766.pdf",
+  "year" : "2010",
+  "description" : "Declarations of Interests: Guidance for Parliamentary election candidates. 38 p.",
   "department" : "Ministry of Justice"
 }

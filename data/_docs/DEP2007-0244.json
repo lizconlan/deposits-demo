@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0244.zip"
-  "year" : "2007"
-  "description" : "Letter dated November 2007 from Karen Dunell, National Statistician and Registrar General, to Boris Johnson MP regarding population data for Greater London. Incl. tables."
+  "deposited_date" : "05/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0244.zip",
+  "year" : "2007",
+  "description" : "Letter dated November 2007 from Karen Dunell, National Statistician and Registrar General, to Boris Johnson MP regarding population data for Greater London. Incl. tables.",
   "department" : "Office for National Statistics Treasury"
 }

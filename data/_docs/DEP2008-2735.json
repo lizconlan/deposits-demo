@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2735.pdf"
-  "year" : "2008"
-  "description" : "The influenza immunisation programme 2008/09: letter dated 31/03/2008 from the Chief Medical Officer, the Chief Nursing Officer and the Chief Pharmaceutical Officer. 15 p."
+  "deposited_date" : "17/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2735.pdf",
+  "year" : "2008",
+  "description" : "The influenza immunisation programme 2008/09: letter dated 31/03/2008 from the Chief Medical Officer, the Chief Nursing Officer and the Chief Pharmaceutical Officer. 15 p.",
   "department" : "Dept of Health"
 }

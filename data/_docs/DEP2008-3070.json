@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/12/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3070.xls"
-  "year" : "2008"
-  "description" : "Table showing percentage of people of working age in emplyment in each local authority for each year from 1997 to 2008. 12 p."
+  "deposited_date" : "12/12/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3070.xls",
+  "year" : "2008",
+  "description" : "Table showing percentage of people of working age in emplyment in each local authority for each year from 1997 to 2008. 12 p.",
   "department" : "Cabinet Office"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0292.pdf"
-  "year" : "2007"
-  "description" : "Letter dated 06/12/2007 from Pat McFadden MP to Peter Luff MP regarding a press release about post office branch closures. Incl. copy of press release. 6 p."
+  "deposited_date" : "11/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0292.pdf",
+  "year" : "2007",
+  "description" : "Letter dated 06/12/2007 from Pat McFadden MP to Peter Luff MP regarding a press release about post office branch closures. Incl. copy of press release. 6 p.",
   "department" : "Post Office Dept for Business Enterprise and Regulatory Reform"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/02/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0620.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 09/03/2010 from Baroness Thornton to Lord Lipsey regarding Scotland and the provision of free personal and nursing care. 1 p."
+  "deposited_date" : "22/02/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0620.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 09/03/2010 from Baroness Thornton to Lord Lipsey regarding Scotland and the provision of free personal and nursing care. 1 p.",
   "department" : "Department of Health"
 }

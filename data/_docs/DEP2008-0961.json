@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "03/04/2008"
-  "legislature" : CommonsLords
-  "notes" : "item ii) Series maintained in HA for 6 years"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0961.zip"
-  "year" : "2008"
-  "description" : "I. Letter dated 01/04/2008 from Jane Kennedy MP to John McFall MP regarding the transitional arrangement for the work of HMRC transferring to the new UK Border Agency. 4 p. II. UK Border Agency business plan 2008-2011. 41 p. III. Memorandum of Understanding dated 03/04/2008 between the UK Border Agency and the Association of Chief Police Officers of England, Wales and Northern Ireland (ACPO) regarding engagement to stengthen the UK border. 6 p. IV. Letter [undated] from Kim Howells MP and Liam Byrne MP to Mike Gapes MP regarding the work of UKvisas to transfer to the UK Border Agency. 2 p. V. Memorandum of understanding dated 17/01/2007 between FCO and the Home Office regarding UK Border Agency's overseas operations. 9 p. VI. Letter [undated] from Liam Byrne MP and Kim Howells MP to Keith Vaz MP regarding the work of UKvisas to transfer to the UK Border Agency. 2 p."
+  "deposited_date" : "03/04/2008",
+  "legislature" : ["Commons","Lords"],
+  "notes" : "item ii) Series maintained in HA for 6 years",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0961.zip",
+  "year" : "2008",
+  "description" : "I. Letter dated 01/04/2008 from Jane Kennedy MP to John McFall MP regarding the transitional arrangement for the work of HMRC transferring to the new UK Border Agency. 4 p. II. UK Border Agency business plan 2008-2011. 41 p. III. Memorandum of Understanding dated 03/04/2008 between the UK Border Agency and the Association of Chief Police Officers of England, Wales and Northern Ireland (ACPO) regarding engagement to stengthen the UK border. 6 p. IV. Letter [undated] from Kim Howells MP and Liam Byrne MP to Mike Gapes MP regarding the work of UKvisas to transfer to the UK Border Agency. 2 p. V. Memorandum of understanding dated 17/01/2007 between FCO and the Home Office regarding UK Border Agency's overseas operations. 9 p. VI. Letter [undated] from Liam Byrne MP and Kim Howells MP to Keith Vaz MP regarding the work of UKvisas to transfer to the UK Border Agency. 2 p.",
   "department" : "Home Office"
 }

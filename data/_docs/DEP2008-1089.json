@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "22/04/2008"
-  "legislature" : Lords
-  "legislation" : "Regulatory Enforcement and Sanctions Bill (HL) 2007-08"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1089.zip"
-  "year" : "2008"
-  "description" : "I. Letter dated 23/04/2008 from Lord Bach to Lord Hodgson of Astley Abbotts regarding the drafting of clause 64 in the Regulatory Enforcement and Sanctions Bill. 8 p. II. Local Better Regulation Office (LBRO): Management statement. 16 p. III. Local Better Regulation Office (LBRO): Financial memorandum. 18 p."
+  "deposited_date" : "22/04/2008",
+  "legislature" : ["Lords"],
+  "legislation" : "Regulatory Enforcement and Sanctions Bill (HL) 2007-08",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1089.zip",
+  "year" : "2008",
+  "description" : "I. Letter dated 23/04/2008 from Lord Bach to Lord Hodgson of Astley Abbotts regarding the drafting of clause 64 in the Regulatory Enforcement and Sanctions Bill. 8 p. II. Local Better Regulation Office (LBRO): Management statement. 16 p. III. Local Better Regulation Office (LBRO): Financial memorandum. 18 p.",
   "department" : "Dept for Business Enterprise and Regulatory Reform"
 }

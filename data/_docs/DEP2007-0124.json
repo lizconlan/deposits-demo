@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "19/11/2007"
-  "legislature" : CommonsLords
-  "legislation" : "Land Registration Act 2002 (Amendment) Order 2008"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0124.zip"
-  "year" : "2007"
-  "description" : "Comprehensive land register: consultation paper. Incl. impact assessment and questionnaire. 42 p."
+  "deposited_date" : "19/11/2007",
+  "legislature" : ["Commons","Lords"],
+  "legislation" : "Land Registration Act 2002 (Amendment) Order 2008",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0124.zip",
+  "year" : "2007",
+  "description" : "Comprehensive land register: consultation paper. Incl. impact assessment and questionnaire. 42 p.",
   "department" : "Land Registry Ministry of Justice"
 }

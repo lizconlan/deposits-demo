@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/06/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1492.zip"
-  "year" : "2010"
-  "description" : "I. Dear colleague correspondence dated 01/06/2010 and 24/06/2010 from Network Rail regarding remuneration and executive pay. 11 p. II. Letter dated 28/05/2010 from Philip Hammond MP to Rick Haythornthwaite (Chairman, Network Rail) regarding remuneration and bonuses at Network Rail. 2 p."
+  "deposited_date" : "30/06/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1492.zip",
+  "year" : "2010",
+  "description" : "I. Dear colleague correspondence dated 01/06/2010 and 24/06/2010 from Network Rail regarding remuneration and executive pay. 11 p. II. Letter dated 28/05/2010 from Philip Hammond MP to Rick Haythornthwaite (Chairman, Network Rail) regarding remuneration and bonuses at Network Rail. 2 p.",
   "department" : "Department for Transport Network Rail"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/04/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0978.xls"
-  "year" : "2008"
-  "description" : "Table showing Number of special service incidents in England 1995/96 - 2004/05. 1 p."
+  "deposited_date" : "03/04/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0978.xls",
+  "year" : "2008",
+  "description" : "Table showing Number of special service incidents in England 1995/96 - 2004/05. 1 p.",
   "department" : "Dept for Communities and Local Government"
 }

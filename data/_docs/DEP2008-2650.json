@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2650.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 03/11/2008 from Alan Cook, Managing Director, to Simon Burns MP regarding post office closures in Chelmsford. 2 p."
+  "deposited_date" : "27/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2650.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 03/11/2008 from Alan Cook, Managing Director, to Simon Burns MP regarding post office closures in Chelmsford. 2 p.",
   "department" : "Dept for Business Enterprise and Regulatory Reform"
 }

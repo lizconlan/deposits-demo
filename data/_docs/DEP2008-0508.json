@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0508.zip"
-  "year" : "2008"
-  "description" : "I. Public procurement and race equality: guidelines for public authorities (CRE). 6 p. II. Public procurement and race equality: briefing for suppliers (CRE & CBI). 4 p. III. Public procurement and race equality: guidelines for local government (CRE). 6 p. IV. Race equality and public procurement: a guide for public authorities and contractors (CRE). 121 p. IV. Race equality and procurement in local government: a guide for authorities and local government. 131 p. V. Procurement and the disability equality duty (DRC). 63 p. VI. Gender equality guidance for Great Britain: procurement (EOC). 69 p."
+  "deposited_date" : "21/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0508.zip",
+  "year" : "2008",
+  "description" : "I. Public procurement and race equality: guidelines for public authorities (CRE). 6 p. II. Public procurement and race equality: briefing for suppliers (CRE & CBI). 4 p. III. Public procurement and race equality: guidelines for local government (CRE). 6 p. IV. Race equality and public procurement: a guide for public authorities and contractors (CRE). 121 p. IV. Race equality and procurement in local government: a guide for authorities and local government. 131 p. V. Procurement and the disability equality duty (DRC). 63 p. VI. Gender equality guidance for Great Britain: procurement (EOC). 69 p.",
   "department" : "Equal Opportunities Commission Disability Rights Commission Commission for Racial Equality Confederation of British Industry"
 }

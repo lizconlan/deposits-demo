@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1088.xls"
-  "year" : "2010"
-  "description" : "Table showing offence categories: violence against the person, sexual offences and robbery for South Yorkshire and Sheffield police force area for the years 1998/99 to 2008/09. 33 p."
+  "deposited_date" : "30/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1088.xls",
+  "year" : "2010",
+  "description" : "Table showing offence categories: violence against the person, sexual offences and robbery for South Yorkshire and Sheffield police force area for the years 1998/99 to 2008/09. 33 p.",
   "department" : "Home Office"
 }

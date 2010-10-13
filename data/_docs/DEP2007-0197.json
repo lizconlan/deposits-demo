@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0197.tif"
-  "year" : "2007"
-  "description" : "Letter dated 30/11/2007 from Derek Twigg MP to Ann Winterton MP regarding the number of personnel who have lost limbs from mine strikes in Afghanistan on WMIK and Snatch Landrover vehicles."
+  "deposited_date" : "03/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0197.tif",
+  "year" : "2007",
+  "description" : "Letter dated 30/11/2007 from Derek Twigg MP to Ann Winterton MP regarding the number of personnel who have lost limbs from mine strikes in Afghanistan on WMIK and Snatch Landrover vehicles.",
   "department" : "Ministry of Defence"
 }

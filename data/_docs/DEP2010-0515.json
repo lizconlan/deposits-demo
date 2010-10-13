@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0515.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 25/02/2010 from Helen Goodman MP to the Deposited Papers Clerk, House of Commons Library, regarding the in-year Social Fund loans budget - 2009/2010. 1 p."
+  "deposited_date" : "26/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0515.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 25/02/2010 from Helen Goodman MP to the Deposited Papers Clerk, House of Commons Library, regarding the in-year Social Fund loans budget - 2009/2010. 1 p.",
   "department" : "Department for Work and Pensions"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/03/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0762.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 22/03/2010 from Baroness Royall to Trevor Phillips (Chair, Equality and Human Rights Commission) regarding the Equality Bill's new public sector Equality Duty and childrens rights. 1 p."
+  "deposited_date" : "22/03/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0762.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 22/03/2010 from Baroness Royall to Trevor Phillips (Chair, Equality and Human Rights Commission) regarding the Equality Bill's new public sector Equality Duty and childrens rights. 1 p.",
   "department" : "Cabinet Office"
 }

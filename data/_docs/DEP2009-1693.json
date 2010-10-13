@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/06/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1693.pdf"
-  "year" : "2009"
-  "description" : "Personality disorder: no longer a diagnosis of exclusion-policy implementation guidance for the development of services for people with personality disorder. Incl. appendices. 54 p."
+  "deposited_date" : "15/06/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1693.pdf",
+  "year" : "2009",
+  "description" : "Personality disorder: no longer a diagnosis of exclusion-policy implementation guidance for the development of services for people with personality disorder. Incl. appendices. 54 p.",
   "department" : "Dept of Health National Institute for Mental Health"
 }

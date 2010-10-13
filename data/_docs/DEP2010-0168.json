@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/11/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0168.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 18/01/2010 from Lord Young to Baroness Sharp regarding Dept for Innovation, Universities and Skills spend on consultants. 2 p."
+  "deposited_date" : "11/11/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0168.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 18/01/2010 from Lord Young to Baroness Sharp regarding Dept for Innovation, Universities and Skills spend on consultants. 2 p.",
   "department" : "Dept for Innovation, Universities and Skills"
 }

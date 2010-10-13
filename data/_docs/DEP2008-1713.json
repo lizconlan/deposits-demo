@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "27/06/2008"
-  "legislature" : Lords
-  "legislation" : "Health and Social Care Bill 2007-08"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1713.pdf"
-  "year" : "2008"
-  "description" : "Letter [undated] from Lord Darzi of Denham to Lord Warner regarding the Care Quality Commission's role in relation to commissioned care in the context of the Health and Social Care Bill. 3 p."
+  "deposited_date" : "27/06/2008",
+  "legislature" : ["Lords"],
+  "legislation" : "Health and Social Care Bill 2007-08",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1713.pdf",
+  "year" : "2008",
+  "description" : "Letter [undated] from Lord Darzi of Denham to Lord Warner regarding the Care Quality Commission's role in relation to commissioned care in the context of the Health and Social Care Bill. 3 p.",
   "department" : "Dept of Health"
 }

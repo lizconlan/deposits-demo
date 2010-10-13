@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/07/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2119.zip"
-  "year" : "2009"
-  "description" : "Best value tendering for Criminal Defence Service (CDS) contracts 2010 : a response to consultation. Incl annexes. 155 p."
+  "deposited_date" : "20/07/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2119.zip",
+  "year" : "2009",
+  "description" : "Best value tendering for Criminal Defence Service (CDS) contracts 2010 : a response to consultation. Incl annexes. 155 p.",
   "department" : "Ministry of Justice Legal Services Commission"
 }

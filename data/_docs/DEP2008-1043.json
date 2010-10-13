@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/04/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1043.pdf"
-  "year" : "2008"
-  "description" : "Letter dated April 2008 from Baroness Ashton of Upholland to Baroness Walmsley regarding the protection of unborn children from HIV/AIDS infection. 2 p."
+  "deposited_date" : "03/04/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1043.pdf",
+  "year" : "2008",
+  "description" : "Letter dated April 2008 from Baroness Ashton of Upholland to Baroness Walmsley regarding the protection of unborn children from HIV/AIDS infection. 2 p.",
   "department" : "Dept for International Development"
 }

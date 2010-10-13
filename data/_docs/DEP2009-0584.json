@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/02/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0584.pdf"
-  "year" : "2009"
-  "description" : "House of Commons facilities time agreement, incorporating the Civil Service national Whitley Council revised agreement on facilities for indusrial-relations duties and trade union activities in the non-industrial Civil Service. 17 p."
+  "deposited_date" : "26/02/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0584.pdf",
+  "year" : "2009",
+  "description" : "House of Commons facilities time agreement, incorporating the Civil Service national Whitley Council revised agreement on facilities for indusrial-relations duties and trade union activities in the non-industrial Civil Service. 17 p.",
   "department" : "House of Commons Commission"
 }

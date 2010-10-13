@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1484.doc"
-  "year" : "2008"
-  "description" : "Tables showing a) number of passengers who entered and left each port in Wales and b) the tonnage of imports and exports from each port, for each year from 1995 to 2007."
+  "deposited_date" : "10/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1484.doc",
+  "year" : "2008",
+  "description" : "Tables showing a) number of passengers who entered and left each port in Wales and b) the tonnage of imports and exports from each port, for each year from 1995 to 2007.",
   "department" : "Dept for Transport"
 }

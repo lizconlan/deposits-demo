@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/01/2008"
-  "legislature" : Commons
-  "notes" : "House of Lords Library: This deposit is HARDCOPY ONLY, and will be placed in the red file boxes."
-  "year" : "2008"
-  "description" : "I. Model funding agreement, version SV2007.1, March 2007. II. Model deed of gift and declaration of trust to establish an endowment fund. 9 p."
+  "deposited_date" : "21/01/2008",
+  "legislature" : ["Commons"],
+  "notes" : "House of Lords Library: This deposit is HARDCOPY ONLY, and will be placed in the red file boxes.",
+  "year" : "2008",
+  "description" : "I. Model funding agreement, version SV2007.1, March 2007. II. Model deed of gift and declaration of trust to establish an endowment fund. 9 p.",
   "department" : "Dept for Children Schools and Families"
 }

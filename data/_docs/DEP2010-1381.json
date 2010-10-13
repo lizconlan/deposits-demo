@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/06/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1381.doc"
-  "year" : "2010"
-  "description" : "Table showing British Waterways major infrastructure works for the years 2000/01 to 2005/06. 1 p."
+  "deposited_date" : "30/06/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1381.doc",
+  "year" : "2010",
+  "description" : "Table showing British Waterways major infrastructure works for the years 2000/01 to 2005/06. 1 p.",
   "department" : "Department for Environment, Food and Rural Affairs"
 }

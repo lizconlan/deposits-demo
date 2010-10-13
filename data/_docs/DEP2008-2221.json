@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/09/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2221.zip"
-  "year" : "2008"
-  "description" : "Letter dated 11/08/2008 from Sharon Hedges, Passenger Focus, to Matthew Lodge, DFT, regarding their comments in response to the consultation document on the South Central franchise. Incl. copy of response. 13 p."
+  "deposited_date" : "15/09/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2221.zip",
+  "year" : "2008",
+  "description" : "Letter dated 11/08/2008 from Sharon Hedges, Passenger Focus, to Matthew Lodge, DFT, regarding their comments in response to the consultation document on the South Central franchise. Incl. copy of response. 13 p.",
   "department" : "Dept for Transport"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/10/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2462.xls"
-  "year" : "2009"
-  "description" : "Table showing successful applications to the Homes and Communities Agency for grant funding to build new council homes by local authority. 1 p."
+  "deposited_date" : "12/10/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2462.xls",
+  "year" : "2009",
+  "description" : "Table showing successful applications to the Homes and Communities Agency for grant funding to build new council homes by local authority. 1 p.",
   "department" : "Dept for Communities and Local Government"
 }

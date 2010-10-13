@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "13/03/2008"
-  "legislature" : Lords
-  "legislation" : "Health and Social Care Bill 2007-08"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1628.pdf"
-  "year" : "2008"
-  "description" : "Dear colleague letter dated 13/03/2008 from Lord Darzi regarding the second reading of the Health and Social Care Bill 2007-08."
+  "deposited_date" : "13/03/2008",
+  "legislature" : ["Lords"],
+  "legislation" : "Health and Social Care Bill 2007-08",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1628.pdf",
+  "year" : "2008",
+  "description" : "Dear colleague letter dated 13/03/2008 from Lord Darzi regarding the second reading of the Health and Social Care Bill 2007-08.",
   "department" : "Dept of Health"
 }

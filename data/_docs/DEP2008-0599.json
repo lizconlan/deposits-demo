@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0599.doc"
-  "year" : "2008"
-  "description" : "Table of databases owned and maintained by the department and its agencies: Department of Health maintained and owned system. 6 p."
+  "deposited_date" : "29/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0599.doc",
+  "year" : "2008",
+  "description" : "Table of databases owned and maintained by the department and its agencies: Department of Health maintained and owned system. 6 p.",
   "department" : "Dept of Health"
 }

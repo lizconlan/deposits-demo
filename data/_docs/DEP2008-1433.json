@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1433.doc"
-  "year" : "2008"
-  "description" : "Letter dated 03/06/2008 from Peter Viggers MP to Rob Marris MP regarding the late reporting of donations to political parties. Incl. tables of data provided by the Electoral Commission. 14 p."
+  "deposited_date" : "04/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1433.doc",
+  "year" : "2008",
+  "description" : "Letter dated 03/06/2008 from Peter Viggers MP to Rob Marris MP regarding the late reporting of donations to political parties. Incl. tables of data provided by the Electoral Commission. 14 p.",
   "department" : "Electoral Commission Speakers Committee on the Electoral Commission"
 }

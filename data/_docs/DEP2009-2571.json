@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/10/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2571.xls"
-  "year" : "2009"
-  "description" : "Table showing number of maternities among women under the age of 20 years for each parliamentary constituency in England, for the years 1997 to 2007. 14 p."
+  "deposited_date" : "20/10/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2571.xls",
+  "year" : "2009",
+  "description" : "Table showing number of maternities among women under the age of 20 years for each parliamentary constituency in England, for the years 1997 to 2007. 14 p.",
   "department" : "Cabinet Office"
 }

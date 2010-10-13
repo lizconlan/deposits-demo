@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/05/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1379.xls"
-  "year" : "2009"
-  "description" : "Tables showing benefit rates up to 2008/09. 10 p."
+  "deposited_date" : "01/05/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1379.xls",
+  "year" : "2009",
+  "description" : "Tables showing benefit rates up to 2008/09. 10 p.",
   "department" : "Dept for Work and Pensions"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2703.pdf"
-  "year" : "2008"
-  "description" : "The cost of alcohol harm to the NHS in England: an update to the Cabinet Office study (2003). 21 p."
+  "deposited_date" : "12/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2703.pdf",
+  "year" : "2008",
+  "description" : "The cost of alcohol harm to the NHS in England: an update to the Cabinet Office study (2003). 21 p.",
   "department" : "Dept of Health"
 }

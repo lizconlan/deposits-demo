@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0892.zip"
-  "year" : "2008"
-  "description" : "Minutes of the Digital Switchover Help Scheme Emerging Technologies Group dated a) 27th September 2007 and b) 27th February 2008. 12 p."
+  "deposited_date" : "27/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0892.zip",
+  "year" : "2008",
+  "description" : "Minutes of the Digital Switchover Help Scheme Emerging Technologies Group dated a) 27th September 2007 and b) 27th February 2008. 12 p.",
   "department" : "Dept for Culture Media and Sport"
 }

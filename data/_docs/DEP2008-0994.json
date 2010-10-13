@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/04/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0994.tif"
-  "year" : "2008"
-  "description" : "Letter dated 08/04/2008 from Paul Goggins MP to Nigel Dodds MP regarding the number of people arrested for offences related to alcohol consumption in North Belfast District Command Unit in the last five years, broken down by age and gender. 3 p."
+  "deposited_date" : "08/04/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0994.tif",
+  "year" : "2008",
+  "description" : "Letter dated 08/04/2008 from Paul Goggins MP to Nigel Dodds MP regarding the number of people arrested for offences related to alcohol consumption in North Belfast District Command Unit in the last five years, broken down by age and gender. 3 p.",
   "department" : "Northern Ireland Office"
 }

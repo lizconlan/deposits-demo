@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2770.zip"
-  "year" : "2008"
-  "description" : "Letter dated 13/11/2008 from Ed Richards, Chief Executive, to Andrew Murrison MP regarding the determination of public interest when making a television programme based on undercover filming. Incl. sections 7 and 8 of the Ofcom Broadcasting Code. 13 p."
+  "deposited_date" : "10/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2770.zip",
+  "year" : "2008",
+  "description" : "Letter dated 13/11/2008 from Ed Richards, Chief Executive, to Andrew Murrison MP regarding the determination of public interest when making a television programme based on undercover filming. Incl. sections 7 and 8 of the Ofcom Broadcasting Code. 13 p.",
   "department" : "Office of Communications Dept for Culture Media and Sport"
 }

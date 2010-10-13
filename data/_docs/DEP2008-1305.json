@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/05/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1305.xls"
-  "year" : "2008"
-  "description" : "Table showing number of a) inpatient beds in each hospital and b) outpatients seen in each hospital for each year from 2004/05 to 2006/07, broken down by NHS trust/PCT. 7 p."
+  "deposited_date" : "19/05/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1305.xls",
+  "year" : "2008",
+  "description" : "Table showing number of a) inpatient beds in each hospital and b) outpatients seen in each hospital for each year from 2004/05 to 2006/07, broken down by NHS trust/PCT. 7 p.",
   "department" : "Dept of Health"
 }

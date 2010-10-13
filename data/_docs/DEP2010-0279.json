@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "27/01/2010"
-  "legislature" : Lords
-  "legislation" : "Child Poverty Bill 2008-09 then 2009-10"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0279.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 27/01/2010 from Lord McKenzie of Luton to the Earl of Listowel regarding the Child Poverty Bill and social housing and traveller children. 5 p."
+  "deposited_date" : "27/01/2010",
+  "legislature" : ["Lords"],
+  "legislation" : "Child Poverty Bill 2008-09 then 2009-10",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0279.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 27/01/2010 from Lord McKenzie of Luton to the Earl of Listowel regarding the Child Poverty Bill and social housing and traveller children. 5 p.",
   "department" : "Department for Work and Pensions"
 }

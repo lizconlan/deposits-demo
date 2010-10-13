@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "28/01/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0248.doc"
-  "year" : "2010"
-  "description" : "List showing bilateral treaties between The United Kingdom and Azerbaijan/Central Asia as at 26 January 2010. 9 p."
+  "deposited_date" : "28/01/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0248.doc",
+  "year" : "2010",
+  "description" : "List showing bilateral treaties between The United Kingdom and Azerbaijan/Central Asia as at 26 January 2010. 9 p.",
   "department" : "Foreign and Commonwealth Office"
 }

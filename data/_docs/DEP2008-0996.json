@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/04/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0996.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 09/04/2008 from Baroness Thornton to Baroness Greengross regarding information and advice given by health trainers."
+  "deposited_date" : "09/04/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0996.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 09/04/2008 from Baroness Thornton to Baroness Greengross regarding information and advice given by health trainers.",
   "department" : "Dept of Health"
 }

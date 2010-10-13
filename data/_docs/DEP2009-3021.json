@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3021.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 04/12/2009 from Jim FitzPatrick MP to Tim Farron MP regarding the amount single payment scheme (SPS) claims from 2005 to 2008. 2 p."
+  "deposited_date" : "10/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3021.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 04/12/2009 from Jim FitzPatrick MP to Tim Farron MP regarding the amount single payment scheme (SPS) claims from 2005 to 2008. 2 p.",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

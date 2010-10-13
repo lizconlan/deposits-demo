@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/05/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1297.zip"
-  "year" : "2008"
-  "description" : "I. Operation black vote: how to achieve better Black and Minority Ethnic (BME) political representation. 41 p. II. Black, Asian and Minority Ethnic (BAME) Women Councillors Taskforce: Terms of reference. 2 p."
+  "deposited_date" : "19/05/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1297.zip",
+  "year" : "2008",
+  "description" : "I. Operation black vote: how to achieve better Black and Minority Ethnic (BME) political representation. 41 p. II. Black, Asian and Minority Ethnic (BAME) Women Councillors Taskforce: Terms of reference. 2 p.",
   "department" : "Dept for Work and Pensions"
 }

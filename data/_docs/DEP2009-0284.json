@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0284.zip"
-  "year" : "2009"
-  "description" : "I. Business Rate Supplements Bill : Delegated Powers Memorandum. 10 p. II. Letter dated 30/01/2009 from John Healey MP to the House of Commons librarian regarding depositing the Delegated Powers Memorandum in the library. 1 p."
+  "deposited_date" : "30/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0284.zip",
+  "year" : "2009",
+  "description" : "I. Business Rate Supplements Bill : Delegated Powers Memorandum. 10 p. II. Letter dated 30/01/2009 from John Healey MP to the House of Commons librarian regarding depositing the Delegated Powers Memorandum in the library. 1 p.",
   "department" : "Dept for Communities and Local Government"
 }

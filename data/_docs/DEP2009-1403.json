@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "13/05/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1403.pdf"
-  "year" : "2009"
-  "description" : "The water efficiency calculator for new dwellings: the Government's national calculation methodology for assessing water efficiency in new dwellings in support of the Code for sustainable homes, 05/2009 (and subsequent versions) and the Building regulations 2000 (as amended). 23 p."
+  "deposited_date" : "13/05/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1403.pdf",
+  "year" : "2009",
+  "description" : "The water efficiency calculator for new dwellings: the Government's national calculation methodology for assessing water efficiency in new dwellings in support of the Code for sustainable homes, 05/2009 (and subsequent versions) and the Building regulations 2000 (as amended). 23 p.",
   "department" : "Dept for Communities and Local Government"
 }

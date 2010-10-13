@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0374.doc"
-  "year" : "2008"
-  "description" : "Application of agenda for change to general practice. 3 p."
+  "deposited_date" : "06/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0374.doc",
+  "year" : "2008",
+  "description" : "Application of agenda for change to general practice. 3 p.",
   "department" : "Dept of Health"
 }

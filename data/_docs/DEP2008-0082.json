@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "14/01/2008"
-  "legislature" : Lords
-  "legislation" : "Children and Young Persons Bill (HL) 2007-08 Human Rights Act 1998"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0082.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 11/01/2008 from Lord Adonis to Baroness Butler-Sloss regarding social work practices and the Human Rights Act. 2 p."
+  "deposited_date" : "14/01/2008",
+  "legislature" : ["Lords"],
+  "legislation" : "Children and Young Persons Bill (HL) 2007-08 Human Rights Act 1998",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0082.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 11/01/2008 from Lord Adonis to Baroness Butler-Sloss regarding social work practices and the Human Rights Act. 2 p.",
   "department" : "Dept for Children Schools and Families"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "31/01/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0279.pdf"
-  "year" : "2008"
-  "description" : "Tables showing information about inquests into service deaths in Iraq and Afghanistan a) pre. 16/05/2006 b) between 16/05/2006 and 31/03/2007 and c) since 01/04/2007. Also tables showing inquests into service deaths of personnel overseas (not Iraq or Afghanistan) and civilians who died in Iraq, repatriated via RAF Brize Norton. 20 p."
+  "deposited_date" : "31/01/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0279.pdf",
+  "year" : "2008",
+  "description" : "Tables showing information about inquests into service deaths in Iraq and Afghanistan a) pre. 16/05/2006 b) between 16/05/2006 and 31/03/2007 and c) since 01/04/2007. Also tables showing inquests into service deaths of personnel overseas (not Iraq or Afghanistan) and civilians who died in Iraq, repatriated via RAF Brize Norton. 20 p.",
   "department" : "Ministry of Justice"
 }

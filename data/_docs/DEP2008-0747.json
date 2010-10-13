@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/03/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0747.zip"
-  "year" : "2008"
-  "description" : "Working for a health tomorrow. Carol Black's review of the health of Britain's working age population. Incl. summary of evidence. 169 p."
+  "deposited_date" : "17/03/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0747.zip",
+  "year" : "2008",
+  "description" : "Working for a health tomorrow. Carol Black's review of the health of Britain's working age population. Incl. summary of evidence. 169 p.",
   "department" : "Dept for Work and Pensions Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "28/01/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0251.zip"
-  "year" : "2009"
-  "description" : "I. Report of the Consultative Group on the Past. 192 p. II. Executive summary. 36 p."
+  "deposited_date" : "28/01/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0251.zip",
+  "year" : "2009",
+  "description" : "I. Report of the Consultative Group on the Past. 192 p. II. Executive summary. 36 p.",
   "department" : "Northern Ireland Office"
 }

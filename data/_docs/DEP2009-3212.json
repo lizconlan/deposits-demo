@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/06/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3212.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 14/12/2009 from Bridget Prentice MP to Edward Garnier QC MP regarding the Mrs Masuma Jariwalla: westminster hall adjournment debate and religious divorce. 2 p."
+  "deposited_date" : "10/06/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3212.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 14/12/2009 from Bridget Prentice MP to Edward Garnier QC MP regarding the Mrs Masuma Jariwalla: westminster hall adjournment debate and religious divorce. 2 p.",
   "department" : "Ministry of Justice"
 }

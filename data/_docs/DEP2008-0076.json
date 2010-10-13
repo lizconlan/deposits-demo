@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0076.zip"
-  "year" : "2008"
-  "description" : "Tables showing a) number of fixed period exclusions and b) number of permanent exclusions in 2005/06 in secondary schools, broken down by reason of exclusion and local authority. 4 p."
+  "deposited_date" : "11/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0076.zip",
+  "year" : "2008",
+  "description" : "Tables showing a) number of fixed period exclusions and b) number of permanent exclusions in 2005/06 in secondary schools, broken down by reason of exclusion and local authority. 4 p.",
   "department" : "Dept for Children Schools and Families"
 }

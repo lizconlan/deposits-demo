@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/05/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1286.doc"
-  "year" : "2008"
-  "description" : "Dear colleague letter dated 03/04/2008 from Caroline Flint MP regarding the consultation on eco-towns. 2 p."
+  "deposited_date" : "16/05/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1286.doc",
+  "year" : "2008",
+  "description" : "Dear colleague letter dated 03/04/2008 from Caroline Flint MP regarding the consultation on eco-towns. 2 p.",
   "department" : "Dept for Communities and Local Government"
 }

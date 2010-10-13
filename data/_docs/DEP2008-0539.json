@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/02/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0539.doc"
-  "year" : "2008"
-  "description" : "Letter dated 25/02/2008 from Lord Brabazon of Tara to Lord Tyler regarding the statue of Justice in the Prince's Chamber of the House of Lords. 2 p."
+  "deposited_date" : "25/02/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0539.doc",
+  "year" : "2008",
+  "description" : "Letter dated 25/02/2008 from Lord Brabazon of Tara to Lord Tyler regarding the statue of Justice in the Prince's Chamber of the House of Lords. 2 p.",
   "department" : "Chairman of Committees (HL)"
 }

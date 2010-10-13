@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/01/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0196.pdf"
-  "year" : "2010"
-  "description" : "Handling correspondence from Members of Parliament, Members of the House of Lords, MEPs and Members of Devolved Assemblies: guidance for departments. 15 p"
+  "deposited_date" : "14/01/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0196.pdf",
+  "year" : "2010",
+  "description" : "Handling correspondence from Members of Parliament, Members of the House of Lords, MEPs and Members of Devolved Assemblies: guidance for departments. 15 p",
   "department" : "Cabinet Office"
 }

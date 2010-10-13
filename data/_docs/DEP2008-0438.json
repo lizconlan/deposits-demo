@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0438.xls"
-  "year" : "2008"
-  "description" : "Table showing net current expenditure on street cleansing (not chargeable to highways) for each year from 2002-03 to 2006-07, broken down by local authority."
+  "deposited_date" : "18/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0438.xls",
+  "year" : "2008",
+  "description" : "Table showing net current expenditure on street cleansing (not chargeable to highways) for each year from 2002-03 to 2006-07, broken down by local authority.",
   "department" : "Dept for Communities and Local Government"
 }

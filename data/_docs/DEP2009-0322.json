@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/02/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0322.pdf"
-  "year" : "2009"
-  "description" : "The National Framework for NHS Continuing Healthcare and NHS-funded Nursing Care. 38 p."
+  "deposited_date" : "04/02/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0322.pdf",
+  "year" : "2009",
+  "description" : "The National Framework for NHS Continuing Healthcare and NHS-funded Nursing Care. 38 p.",
   "department" : "Dept of Health"
 }

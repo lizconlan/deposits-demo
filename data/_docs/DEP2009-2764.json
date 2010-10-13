@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2764.pdf"
-  "year" : "2009"
-  "description" : "Dear colleague letter dated 22/10/2009 regarding A (H1N1) Swine Influenza and additional planning guidance, winter management and reporting for 2009/10. 9 p."
+  "deposited_date" : "09/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2764.pdf",
+  "year" : "2009",
+  "description" : "Dear colleague letter dated 22/10/2009 regarding A (H1N1) Swine Influenza and additional planning guidance, winter management and reporting for 2009/10. 9 p.",
   "department" : "Dept of Health"
 }

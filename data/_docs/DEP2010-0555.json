@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/03/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0555.doc"
-  "year" : "2010"
-  "description" : "Supporting cities: a discussion paper on plans for an Urban Challenge Fund. 6 p."
+  "deposited_date" : "01/03/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0555.doc",
+  "year" : "2010",
+  "description" : "Supporting cities: a discussion paper on plans for an Urban Challenge Fund. 6 p.",
   "department" : "Department for Transport"
 }

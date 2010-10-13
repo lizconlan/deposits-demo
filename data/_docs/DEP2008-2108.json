@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2108.zip"
-  "year" : "2008"
-  "description" : "GP earnings and expenses enquiry 2005/06: final report. Incl. statistical annex. 87 p."
+  "deposited_date" : "29/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2108.zip",
+  "year" : "2008",
+  "description" : "GP earnings and expenses enquiry 2005/06: final report. Incl. statistical annex. 87 p.",
   "department" : "Dept of Health Health and Social Care Information Centre"
 }

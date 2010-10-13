@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/08/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2130.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 01/08/2008 from Michael Wills MP to Eleanor Laing MP correcting a written answer regarding unanswered freedom of information requests by the Ministry of Justice in the last 12 months."
+  "deposited_date" : "01/08/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2130.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 01/08/2008 from Michael Wills MP to Eleanor Laing MP correcting a written answer regarding unanswered freedom of information requests by the Ministry of Justice in the last 12 months.",
   "department" : "Ministry of Justice"
 }

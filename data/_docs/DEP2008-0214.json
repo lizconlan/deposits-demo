@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0214.pdf"
-  "year" : "2008"
-  "description" : "Letter dated January 2008 from Colin Mowl, Director, to Adrian Sanders MP regarding the statistics on deaths mentioning diabetes. Includes a table. 7 p."
+  "deposited_date" : "24/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0214.pdf",
+  "year" : "2008",
+  "description" : "Letter dated January 2008 from Colin Mowl, Director, to Adrian Sanders MP regarding the statistics on deaths mentioning diabetes. Includes a table. 7 p.",
   "department" : "Treasury Office for National Statistics"
 }

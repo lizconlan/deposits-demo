@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0217.xls"
-  "year" : "2007"
-  "description" : "Table showing number of people waiting for a solid organ transplant in November 2007, borken down by type of transplant and PCT."
+  "deposited_date" : "04/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0217.xls",
+  "year" : "2007",
+  "description" : "Table showing number of people waiting for a solid organ transplant in November 2007, borken down by type of transplant and PCT.",
   "department" : "Dept of Health"
 }

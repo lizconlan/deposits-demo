@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0519.zip"
-  "year" : "2010"
-  "description" : "I. Letter dated 27/01/2010 from Andrew Hind to David Bell MP regarding academies and charitable status. 1 p. II. Letter dated 28/01/2010 from David Bell MP to Vernon Coaker MP regarding Charity Commission. 2 p."
+  "deposited_date" : "23/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0519.zip",
+  "year" : "2010",
+  "description" : "I. Letter dated 27/01/2010 from Andrew Hind to David Bell MP regarding academies and charitable status. 1 p. II. Letter dated 28/01/2010 from David Bell MP to Vernon Coaker MP regarding Charity Commission. 2 p.",
   "department" : "Department for Children, Schools and Families Charity Commission"
 }

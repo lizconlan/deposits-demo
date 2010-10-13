@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2072.tif"
-  "year" : "2008"
-  "description" : "Letter dated 23/07/2008 from Bob Ainsworth MP to Gerald Howarth MP regarding the Department's main estimates for 2008-09. 7 p."
+  "deposited_date" : "14/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2072.tif",
+  "year" : "2008",
+  "description" : "Letter dated 23/07/2008 from Bob Ainsworth MP to Gerald Howarth MP regarding the Department's main estimates for 2008-09. 7 p.",
   "department" : "Ministry of Defence"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/03/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1021.pdf"
-  "year" : "2010"
-  "description" : "CLIMATE CHANGE: TAKING ACTION. Delivering the Low Carbon Transition Plan and preparing for a changing climate. 39 p."
+  "deposited_date" : "29/03/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1021.pdf",
+  "year" : "2010",
+  "description" : "CLIMATE CHANGE: TAKING ACTION. Delivering the Low Carbon Transition Plan and preparing for a changing climate. 39 p.",
   "department" : "Department for Environment, Food and Rural Affairs"
 }

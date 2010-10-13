@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/06/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1313.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 15/06/2010 from Baroness Wilcox to Lord Bishop of Wakefield his Queen's Speech Debate regarding his Queen's Speech Debate contribution on the Government's position on better regulation. 1 p."
+  "deposited_date" : "16/06/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1313.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 15/06/2010 from Baroness Wilcox to Lord Bishop of Wakefield his Queen's Speech Debate regarding his Queen's Speech Debate contribution on the Government's position on better regulation. 1 p.",
   "department" : "Department for Business, Innovation and Skills"
 }

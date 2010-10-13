@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0365.doc"
-  "year" : "2008"
-  "description" : "Probation circular 33/07, new accommodation and support service for bail and home detention curfew. 21 p."
+  "deposited_date" : "07/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0365.doc",
+  "year" : "2008",
+  "description" : "Probation circular 33/07, new accommodation and support service for bail and home detention curfew. 21 p.",
   "department" : "Ministry of Justice"
 }

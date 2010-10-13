@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/05/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1183.pdf"
-  "year" : "2008"
-  "description" : "Measures to counter piracy, armed robbery and other acts of violence against merchant shipping. Marine Guidance Note MGN 298 (M) dated November 2002. 28 p."
+  "deposited_date" : "06/05/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1183.pdf",
+  "year" : "2008",
+  "description" : "Measures to counter piracy, armed robbery and other acts of violence against merchant shipping. Marine Guidance Note MGN 298 (M) dated November 2002. 28 p.",
   "department" : "Maritime and Coastguard Agency Dept for Transport"
 }

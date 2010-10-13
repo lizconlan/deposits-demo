@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/04/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1061.doc"
-  "year" : "2010"
-  "description" : "Convention between The Government of The United Kingdom of Great Britain and Northern Ireland and The Federal Republic of Germany for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income and on capital. 42 p."
+  "deposited_date" : "06/04/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1061.doc",
+  "year" : "2010",
+  "description" : "Convention between The Government of The United Kingdom of Great Britain and Northern Ireland and The Federal Republic of Germany for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income and on capital. 42 p.",
   "department" : "Treasury"
 }

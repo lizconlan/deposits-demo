@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "06/05/2008"
-  "legislature" : CommonsLords
-  "legislation" : "Criminal Justice and Immigration Bill 2006-07 then 2007-08"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1181.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 06/05/2008 from David Hanson MP to Edward Garnier MP and others regarding Commons consideration of Lords amendments to the Criminal Justice and Immigration Bill. 3 p."
+  "deposited_date" : "06/05/2008",
+  "legislature" : ["Commons","Lords"],
+  "legislation" : "Criminal Justice and Immigration Bill 2006-07 then 2007-08",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1181.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 06/05/2008 from David Hanson MP to Edward Garnier MP and others regarding Commons consideration of Lords amendments to the Criminal Justice and Immigration Bill. 3 p.",
   "department" : "Ministry of Justice"
 }

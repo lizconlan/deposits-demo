@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "30/06/2009"
-  "legislature" : CommonsLords
-  "legislation" : "Health Bill (HL) 2008-09"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1844.zip"
-  "year" : "2009"
-  "description" : "I. Cross sectional study of young people's awareness of and involvement with tobacco marketing, 26 Jun 2009. 6 p. II. The influence of branding on adolescent smoking behaviour: exploring the mediating role of image and attitudes. 11 p."
+  "deposited_date" : "30/06/2009",
+  "legislature" : ["Commons","Lords"],
+  "legislation" : "Health Bill (HL) 2008-09",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1844.zip",
+  "year" : "2009",
+  "description" : "I. Cross sectional study of young people's awareness of and involvement with tobacco marketing, 26 Jun 2009. 6 p. II. The influence of branding on adolescent smoking behaviour: exploring the mediating role of image and attitudes. 11 p.",
   "department" : "Dept of Health British Medical Journal International Journal of Nonprofit and Voluntary Sector Marketing"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/01/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0039.zip"
-  "year" : "2010"
-  "description" : "All ministerial and official letters between the Northern Ireland Office (NIO) and the Northern Ireland Human Rights Commission (NIHRC) during October and November 2009. 9 docs."
+  "deposited_date" : "06/01/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0039.zip",
+  "year" : "2010",
+  "description" : "All ministerial and official letters between the Northern Ireland Office (NIO) and the Northern Ireland Human Rights Commission (NIHRC) during October and November 2009. 9 docs.",
   "department" : "Northern Ireland Office"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0242.xls"
-  "year" : "2009"
-  "description" : "Table showing the number of prescribed items of oral contraception and injectable contraceptives by primary care trust (PCT) for the years 2003 to 2007; First contacts with women in Community Contraceptive Clinics in England by each specified method of contraception for the years 2006/07 to 2007/08. 57 p."
+  "deposited_date" : "27/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0242.xls",
+  "year" : "2009",
+  "description" : "Table showing the number of prescribed items of oral contraception and injectable contraceptives by primary care trust (PCT) for the years 2003 to 2007; First contacts with women in Community Contraceptive Clinics in England by each specified method of contraception for the years 2006/07 to 2007/08. 57 p.",
   "department" : "Dept of Health"
 }

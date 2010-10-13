@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/07/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2026.zip"
-  "year" : "2008"
-  "description" : "I. Applying the proposed Strategic Siting Assessment (SSA)criteria: a study of the potential environmental and sustainability effects. 317 p. II. Appendices to above. 224 p. III. Habitats regulations assessment screening report. 36 p. IV. Consultation on the Strategic Siting Assessment process and siting criteria for new nuclear power stations in the UK. 90 p."
+  "deposited_date" : "22/07/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2026.zip",
+  "year" : "2008",
+  "description" : "I. Applying the proposed Strategic Siting Assessment (SSA)criteria: a study of the potential environmental and sustainability effects. 317 p. II. Appendices to above. 224 p. III. Habitats regulations assessment screening report. 36 p. IV. Consultation on the Strategic Siting Assessment process and siting criteria for new nuclear power stations in the UK. 90 p.",
   "department" : "Dept for Business Enterprise and Regulatory Reform"
 }

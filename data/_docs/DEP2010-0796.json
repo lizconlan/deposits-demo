@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0796.xls"
-  "year" : "2010"
-  "description" : "Table showing Average Actual Clearance Time (AACT), in days, of Jobseeker's Allowance (JSA) claims and outstanding claims, by region and by Benefit Delivery Centre, for May 2008 - January 2010. 12 p."
+  "deposited_date" : "23/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0796.xls",
+  "year" : "2010",
+  "description" : "Table showing Average Actual Clearance Time (AACT), in days, of Jobseeker's Allowance (JSA) claims and outstanding claims, by region and by Benefit Delivery Centre, for May 2008 - January 2010. 12 p.",
   "department" : "Department for Work and Pensions"
 }

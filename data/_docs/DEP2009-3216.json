@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/11/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3216.doc"
-  "year" : "2009"
-  "description" : "Letter dated 15/12/2009 from Lord Jenkin of Roding to Lord Hunt of Kings Heath regarding reprocessing spent fuel and the production of MOX. 1 p."
+  "deposited_date" : "24/11/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3216.doc",
+  "year" : "2009",
+  "description" : "Letter dated 15/12/2009 from Lord Jenkin of Roding to Lord Hunt of Kings Heath regarding reprocessing spent fuel and the production of MOX. 1 p.",
   "department" : "Dept of Energy and Climate Change"
 }

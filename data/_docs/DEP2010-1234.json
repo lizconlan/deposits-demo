@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/02/2006"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1234.zip"
-  "year" : "2010"
-  "description" : "Letter dated 14/02/2006 from Baroness Scotland to Andrew Dismore MP regarding use of restrictive physical restraint in secure training centres. Inc tables. 4 p."
+  "deposited_date" : "14/02/2006",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1234.zip",
+  "year" : "2010",
+  "description" : "Letter dated 14/02/2006 from Baroness Scotland to Andrew Dismore MP regarding use of restrictive physical restraint in secure training centres. Inc tables. 4 p.",
   "department" : "Ministry of Justice"
 }

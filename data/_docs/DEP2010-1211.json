@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/04/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1211.zip"
-  "year" : "2010"
-  "description" : "Council tax revaluation 2007 - Programme Closure documents PRMP-12, PRMP-37 and PRMP-38. 33 p."
+  "deposited_date" : "06/04/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1211.zip",
+  "year" : "2010",
+  "description" : "Council tax revaluation 2007 - Programme Closure documents PRMP-12, PRMP-37 and PRMP-38. 33 p.",
   "department" : "Treasury"
 }

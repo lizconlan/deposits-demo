@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0451.xls"
-  "year" : "2010"
-  "description" : "Tables showing bicalutamide; buserelin; cyproterone acetate; diethylstilbestrol; flutamide; goserelin acetate; leuprorelin acetate and triptorelin prescribed in England and dispensed in the community in the UK from 1997 to 2009, nationally and by primary care trust. 66 p."
+  "deposited_date" : "22/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0451.xls",
+  "year" : "2010",
+  "description" : "Tables showing bicalutamide; buserelin; cyproterone acetate; diethylstilbestrol; flutamide; goserelin acetate; leuprorelin acetate and triptorelin prescribed in England and dispensed in the community in the UK from 1997 to 2009, nationally and by primary care trust. 66 p.",
   "department" : "Department of Health"
 }

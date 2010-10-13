@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/12/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3033.tif"
-  "year" : "2008"
-  "description" : "Letter dated 10/12/2008 from Bob Ainsworth MP to Ian Duncan Smith regarding the Military Corrective Training Centre, Colchester. 3 p."
+  "deposited_date" : "10/12/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3033.tif",
+  "year" : "2008",
+  "description" : "Letter dated 10/12/2008 from Bob Ainsworth MP to Ian Duncan Smith regarding the Military Corrective Training Centre, Colchester. 3 p.",
   "department" : "Ministry of Defence"
 }

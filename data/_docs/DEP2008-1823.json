@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1823.zip"
-  "year" : "2008"
-  "description" : "I. Coronary heart disease. Chapter seven: cardiac rehabilitation. 32 p. II. Coronary heart disease. National Service Framework for Coronary Heart Disease. 128 p. III. MI: secondary prevention. Secondary prevention in primary and secondary care for patients following a myocardial infarction. This guideline replaces NICE inherited guideline A. 34 p. IV. Coronary Heart Disease: executive summary. 20 p. V. Coronary heart disease. Chapter eight: Arrhythmias and Sudden Cardiac Death. 25 p. VI. Coronary heart disease. Chapter one: Reducing heart disease in the population. 52 p. VII. Coronary heart disease. Chapter two: Preventing coronary heart disease in high risk patients. 48 p. VIII. Coronary heart disease. Chapter three: heart attacks & other acute coronary syndromes. 55 p. IX. Coronary heart disease. Chapter four: stable angina. 27 p. X. Coronary heart disease. Chapter five: revascularisation. 48 p. XI. Coronary heart disease. Chapter six: heart failure. 24 p."
+  "deposited_date" : "07/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1823.zip",
+  "year" : "2008",
+  "description" : "I. Coronary heart disease. Chapter seven: cardiac rehabilitation. 32 p. II. Coronary heart disease. National Service Framework for Coronary Heart Disease. 128 p. III. MI: secondary prevention. Secondary prevention in primary and secondary care for patients following a myocardial infarction. This guideline replaces NICE inherited guideline A. 34 p. IV. Coronary Heart Disease: executive summary. 20 p. V. Coronary heart disease. Chapter eight: Arrhythmias and Sudden Cardiac Death. 25 p. VI. Coronary heart disease. Chapter one: Reducing heart disease in the population. 52 p. VII. Coronary heart disease. Chapter two: Preventing coronary heart disease in high risk patients. 48 p. VIII. Coronary heart disease. Chapter three: heart attacks & other acute coronary syndromes. 55 p. IX. Coronary heart disease. Chapter four: stable angina. 27 p. X. Coronary heart disease. Chapter five: revascularisation. 48 p. XI. Coronary heart disease. Chapter six: heart failure. 24 p.",
   "department" : "Dept of Health"
 }

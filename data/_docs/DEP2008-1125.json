@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "28/04/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1125.doc"
-  "year" : "2008"
-  "description" : "Statement dated 25/04/2008 from the Chief of General Staff regarding the current situation in Iraq. 2 p."
+  "deposited_date" : "28/04/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1125.doc",
+  "year" : "2008",
+  "description" : "Statement dated 25/04/2008 from the Chief of General Staff regarding the current situation in Iraq. 2 p.",
   "department" : "Ministry of Defence"
 }

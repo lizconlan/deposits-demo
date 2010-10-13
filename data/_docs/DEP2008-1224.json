@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/05/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1224.pdf"
-  "year" : "2008"
-  "description" : "The case for change  Why England needs a new care and support system. 29 p. Consultation paper."
+  "deposited_date" : "12/05/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1224.pdf",
+  "year" : "2008",
+  "description" : "The case for change  Why England needs a new care and support system. 29 p. Consultation paper.",
   "department" : "Dept of Health HM Government"
 }

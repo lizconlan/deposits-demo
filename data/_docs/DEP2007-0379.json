@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0379.xls"
-  "year" : "2007"
-  "description" : "Table showing Central government funding per head by unitary local authority for the years 2000/01 to 2006/07. 7 p."
+  "deposited_date" : "17/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0379.xls",
+  "year" : "2007",
+  "description" : "Table showing Central government funding per head by unitary local authority for the years 2000/01 to 2006/07. 7 p.",
   "department" : "Dept for Communities and Local Government"
 }

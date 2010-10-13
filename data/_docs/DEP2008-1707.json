@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/06/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1707.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 26/06/2008 from Baroness Thornton to the Earl of Listowel reegarding information and statistics on child welfare and alcohol. 1 p."
+  "deposited_date" : "26/06/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1707.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 26/06/2008 from Baroness Thornton to the Earl of Listowel reegarding information and statistics on child welfare and alcohol. 1 p.",
   "department" : "Dept of Health Whips Office"
 }

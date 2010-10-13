@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/11/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3175.zip"
-  "year" : "2009"
-  "description" : "Concluding communique from the Commonswealth Heads of Government meeting in the Republic of Trinidad and Tobago, 27-29 November 2009. 33 p."
+  "deposited_date" : "30/11/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3175.zip",
+  "year" : "2009",
+  "description" : "Concluding communique from the Commonswealth Heads of Government meeting in the Republic of Trinidad and Tobago, 27-29 November 2009. 33 p.",
   "department" : "Foreign and Commonwealth Office"
 }

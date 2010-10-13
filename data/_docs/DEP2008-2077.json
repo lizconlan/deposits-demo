@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/07/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2077.xls"
-  "year" : "2008"
-  "description" : "Tables showing chart of accounts and resource account codes and usage descriptions for the current financial year."
+  "deposited_date" : "17/07/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2077.xls",
+  "year" : "2008",
+  "description" : "Tables showing chart of accounts and resource account codes and usage descriptions for the current financial year.",
   "department" : "Foreign and Commonwealth Office"
 }

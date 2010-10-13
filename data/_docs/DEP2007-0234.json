@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/12/2007"
-  "legislature" : Commons
-  "notes" : "House of Lords Library: This deposit is HARDCOPY ONLY, and will be placed in the red file boxes."
-  "year" : "2007"
-  "description" : "Copies of the 2006 - 2007 editions of the staff magazine (tsm), the Department for Communities and Local Government (DCLG) in-house staff magazine."
+  "deposited_date" : "05/12/2007",
+  "legislature" : ["Commons"],
+  "notes" : "House of Lords Library: This deposit is HARDCOPY ONLY, and will be placed in the red file boxes.",
+  "year" : "2007",
+  "description" : "Copies of the 2006 - 2007 editions of the staff magazine (tsm), the Department for Communities and Local Government (DCLG) in-house staff magazine.",
   "department" : "Dept for Communities and Local Government"
 }

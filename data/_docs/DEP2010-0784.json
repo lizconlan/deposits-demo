@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/03/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0784.doc"
-  "year" : "2010"
-  "description" : "Cefas (Centre for Environment, Fisheries and Aquaculture Science) plan 2010-11. 12 p."
+  "deposited_date" : "23/03/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0784.doc",
+  "year" : "2010",
+  "description" : "Cefas (Centre for Environment, Fisheries and Aquaculture Science) plan 2010-11. 12 p.",
   "department" : "Department for Environment, Food and Rural Affairs Centre for Environment Fisheries and Aquaculture Science"
 }

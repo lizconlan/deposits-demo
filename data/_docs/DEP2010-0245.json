@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "28/01/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0245.pdf"
-  "year" : "2010"
-  "description" : "Convergence Programme for the United Kingdom: submitted in line with the Stability and Growth Pact. Jan 2010. 124 p."
+  "deposited_date" : "28/01/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0245.pdf",
+  "year" : "2010",
+  "description" : "Convergence Programme for the United Kingdom: submitted in line with the Stability and Growth Pact. Jan 2010. 124 p.",
   "department" : "Treasury"
 }

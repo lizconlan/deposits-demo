@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0261.zip"
-  "year" : "2007"
-  "description" : "I. International Search and Rescue Advisory Group (INSARAG) guidelines and methodology. 160 p. II. International Federation of Red Cross and Red Crescent Societies (IFRC) code of conduct. 6 p."
+  "deposited_date" : "06/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0261.zip",
+  "year" : "2007",
+  "description" : "I. International Search and Rescue Advisory Group (INSARAG) guidelines and methodology. 160 p. II. International Federation of Red Cross and Red Crescent Societies (IFRC) code of conduct. 6 p.",
   "department" : "United Nations Dept for International Development"
 }

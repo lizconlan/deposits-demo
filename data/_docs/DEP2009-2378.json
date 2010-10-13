@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/09/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2378.tif"
-  "year" : "2009"
-  "description" : "Letter dated 09/09/2009 from John McCaughan, Superintendent, to William McCrea MP regarding the number of times the Army has provided assistance to the Police Service of Northern Ireland in its policy of the marching season 2009."
+  "deposited_date" : "09/09/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2378.tif",
+  "year" : "2009",
+  "description" : "Letter dated 09/09/2009 from John McCaughan, Superintendent, to William McCrea MP regarding the number of times the Army has provided assistance to the Police Service of Northern Ireland in its policy of the marching season 2009.",
   "department" : "Northern Ireland Office Police Service of Northern Ireland"
 }

@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "27/02/2009"
-  "legislature" : CommonsLords
-  "legislation" : "Borders, Citizenship and Immigration Bill (HL) 2008-09 British Nationality Act 1981"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0568.zip"
-  "year" : "2009"
-  "description" : "I. Draft : Section 4C of the British Nationality Act 1981 : as amended by clause 41 of the Borders, Citizenship and Immigration Bill : Section 4C of the 1981 Act : Acquisition by registration: certain persons born before 1983. 2 p. II. Active citizenship. 13 p. III. Draft : Section 1 of the 1981 Act : as amended by clause 40 of the BCI Bill) : Acquisition by birth or adoption. 3 p. IV. Draft : Sections 6 and 41 of, and Schedule 1 to, the 1981 Act : as amended by clauses 37, 38, 39 and 45(2) and (3) of the BCI Bill) : Section 6 of the 1981 Act : Acquisition by naturalisation. 15 p. V. Letter dated 27/02/2009 from Lord Brett to Lord Avebury regarding the BCI Bill. 1 p."
+  "deposited_date" : "27/02/2009",
+  "legislature" : ["Commons","Lords"],
+  "legislation" : "Borders, Citizenship and Immigration Bill (HL) 2008-09 British Nationality Act 1981",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0568.zip",
+  "year" : "2009",
+  "description" : "I. Draft : Section 4C of the British Nationality Act 1981 : as amended by clause 41 of the Borders, Citizenship and Immigration Bill : Section 4C of the 1981 Act : Acquisition by registration: certain persons born before 1983. 2 p. II. Active citizenship. 13 p. III. Draft : Section 1 of the 1981 Act : as amended by clause 40 of the BCI Bill) : Acquisition by birth or adoption. 3 p. IV. Draft : Sections 6 and 41 of, and Schedule 1 to, the 1981 Act : as amended by clauses 37, 38, 39 and 45(2) and (3) of the BCI Bill) : Section 6 of the 1981 Act : Acquisition by naturalisation. 15 p. V. Letter dated 27/02/2009 from Lord Brett to Lord Avebury regarding the BCI Bill. 1 p.",
   "department" : "Home Office"
 }

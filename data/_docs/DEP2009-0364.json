@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/01/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0364.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 05/02/2009 from Lord Bach to Lord Walton of Detchant regarding prisoners with long term medical conditions and disabilities. 1 p."
+  "deposited_date" : "29/01/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0364.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 05/02/2009 from Lord Bach to Lord Walton of Detchant regarding prisoners with long term medical conditions and disabilities. 1 p.",
   "department" : "Ministry of Justice"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2283.zip"
-  "year" : "2008"
-  "description" : "I. Effective Commissioning of Sexual Health and HIV Services. A Sexual Health and HIV Commissioning Toolkit for Primary Care Trusts and Local Authorities. 80 p. II. The Care of Women Requesting Induced Abortion. Evidence-based Clinical Guideline Number 7. 115 p. III. Independent Health Care: National Minimum Standards Regulations. 232 p."
+  "deposited_date" : "06/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2283.zip",
+  "year" : "2008",
+  "description" : "I. Effective Commissioning of Sexual Health and HIV Services. A Sexual Health and HIV Commissioning Toolkit for Primary Care Trusts and Local Authorities. 80 p. II. The Care of Women Requesting Induced Abortion. Evidence-based Clinical Guideline Number 7. 115 p. III. Independent Health Care: National Minimum Standards Regulations. 232 p.",
   "department" : "Dept of Health"
 }

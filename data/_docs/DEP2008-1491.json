@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1491.zip"
-  "year" : "2008"
-  "description" : "I. NHS dental statistics for England. Quarter 3: 31st December 2007. 28 p. II. Tables showing courses of different types of dental treatments October - December 2007, broken down by PCT."
+  "deposited_date" : "10/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1491.zip",
+  "year" : "2008",
+  "description" : "I. NHS dental statistics for England. Quarter 3: 31st December 2007. 28 p. II. Tables showing courses of different types of dental treatments October - December 2007, broken down by PCT.",
   "department" : "Dept of Health"
 }

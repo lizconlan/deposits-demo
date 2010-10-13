@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "31/07/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2132.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 31/07/2008 from Baroness Vadera to Lord Grenfell, Chair of European Union Committee, and Michael Connarty MP, Chair of the European Scrutiny Committee, regarding a summary of the Informal Competitiveness Council on 18/07/2008 in Versailles, France. 3 p."
+  "deposited_date" : "31/07/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2132.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 31/07/2008 from Baroness Vadera to Lord Grenfell, Chair of European Union Committee, and Michael Connarty MP, Chair of the European Scrutiny Committee, regarding a summary of the Informal Competitiveness Council on 18/07/2008 in Versailles, France. 3 p.",
   "department" : "Dept for Business Enterprise and Regulatory Reform"
 }

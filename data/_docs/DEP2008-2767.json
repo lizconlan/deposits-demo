@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2767.xls"
-  "year" : "2008"
-  "description" : "Table showing list of the names, addresses and size of the current non-sensitive vacant space in government property recorded on the e-PIMS database. 15 p."
+  "deposited_date" : "18/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2767.xls",
+  "year" : "2008",
+  "description" : "Table showing list of the names, addresses and size of the current non-sensitive vacant space in government property recorded on the e-PIMS database. 15 p.",
   "department" : "Treasury"
 }

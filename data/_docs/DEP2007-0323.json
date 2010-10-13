@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0323.zip"
-  "year" : "2007"
-  "description" : "Memoranda dated 4/10/2007 and 15/10/2007 from the DFT to the Southeastern Railway Company regarding alteration to zonal season tickets."
+  "deposited_date" : "12/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0323.zip",
+  "year" : "2007",
+  "description" : "Memoranda dated 4/10/2007 and 15/10/2007 from the DFT to the Southeastern Railway Company regarding alteration to zonal season tickets.",
   "department" : "Dept for Transport"
 }

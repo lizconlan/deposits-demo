@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0251.zip"
-  "year" : "2007"
-  "description" : "Letter dated 03/12/2007 from Karen Dunnell, Registrar General, to Shailesh Vara MP regarding deaths attributable to alcohol and illegal drugs. Includes a table. 3 p."
+  "deposited_date" : "03/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0251.zip",
+  "year" : "2007",
+  "description" : "Letter dated 03/12/2007 from Karen Dunnell, Registrar General, to Shailesh Vara MP regarding deaths attributable to alcohol and illegal drugs. Includes a table. 3 p.",
   "department" : "Treasury Office for National Statistics"
 }

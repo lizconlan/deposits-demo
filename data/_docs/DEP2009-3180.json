@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/12/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3180.doc"
-  "year" : "2009"
-  "description" : "List of bodies the Homes and Communities Agency has contracted with since 1 December 2008. 20 p."
+  "deposited_date" : "16/12/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3180.doc",
+  "year" : "2009",
+  "description" : "List of bodies the Homes and Communities Agency has contracted with since 1 December 2008. 20 p.",
   "department" : "Dept for Communities and Local Government"
 }

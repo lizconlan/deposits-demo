@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "10/07/2008"
-  "legislature" : Commons
-  "legislation" : "Home Energy Conservation Act 1995"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1889.pdf"
-  "year" : "2008"
-  "description" : "Home Energy Conservation Act 1995: eleventh progress report data for 1 April 2006 to 31 March 2007: energy conservation authorities in England. Inc. tables. 16 p."
+  "deposited_date" : "10/07/2008",
+  "legislature" : ["Commons"],
+  "legislation" : "Home Energy Conservation Act 1995",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1889.pdf",
+  "year" : "2008",
+  "description" : "Home Energy Conservation Act 1995: eleventh progress report data for 1 April 2006 to 31 March 2007: energy conservation authorities in England. Inc. tables. 16 p.",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

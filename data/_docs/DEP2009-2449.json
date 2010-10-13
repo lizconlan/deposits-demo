@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/10/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2449.pdf"
-  "year" : "2009"
-  "description" : "Lisbon Strategy for jobs and growth: UK national reform programme 2009. 52 p."
+  "deposited_date" : "12/10/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2449.pdf",
+  "year" : "2009",
+  "description" : "Lisbon Strategy for jobs and growth: UK national reform programme 2009. 52 p.",
   "department" : "Treasury"
 }

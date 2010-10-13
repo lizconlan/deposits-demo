@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0313.doc"
-  "year" : "2007"
-  "description" : "Table showing violent incidents in health authorities and primary care trusts for each year from 2000/2001 to 2002/03. 28 p."
+  "deposited_date" : "11/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0313.doc",
+  "year" : "2007",
+  "description" : "Table showing violent incidents in health authorities and primary care trusts for each year from 2000/2001 to 2002/03. 28 p.",
   "department" : "Dept of Health"
 }

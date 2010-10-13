@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/05/2007"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0224.pdf"
-  "year" : "2007"
-  "description" : "Notice of invitation to bid for the Post Office card account contract, as published in the Official Journal of the European Union on 16/05/2007. 10 p."
+  "deposited_date" : "17/05/2007",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0224.pdf",
+  "year" : "2007",
+  "description" : "Notice of invitation to bid for the Post Office card account contract, as published in the Official Journal of the European Union on 16/05/2007. 10 p.",
   "department" : "Dept for Work and Pensions"
 }

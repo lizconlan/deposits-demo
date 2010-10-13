@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/10/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2654.pdf"
-  "year" : "2009"
-  "description" : "Simplification review: the associated company rules as they apply to the small companies rate of corporation tax. Incl. annexes. 36 p."
+  "deposited_date" : "29/10/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2654.pdf",
+  "year" : "2009",
+  "description" : "Simplification review: the associated company rules as they apply to the small companies rate of corporation tax. Incl. annexes. 36 p.",
   "department" : "Treasury"
 }

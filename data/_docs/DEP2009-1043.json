@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "31/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1043.xls"
-  "year" : "2009"
-  "description" : "Table showing the number of children of each age at adoption who were adopted in each year since 2001 and who waited for more than (a) six, (b) 12, (c) 18, (d) 24, (e) 30, (f) 36, (g) 42, (h) 48, (i) 54 and (j) 60 months to be adopted. 8 p."
+  "deposited_date" : "31/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1043.xls",
+  "year" : "2009",
+  "description" : "Table showing the number of children of each age at adoption who were adopted in each year since 2001 and who waited for more than (a) six, (b) 12, (c) 18, (d) 24, (e) 30, (f) 36, (g) 42, (h) 48, (i) 54 and (j) 60 months to be adopted. 8 p.",
   "department" : "Dept for Children, Schools and Families"
 }

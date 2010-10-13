@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/05/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1671.zip"
-  "year" : "2009"
-  "description" : "St Helena: Department for International Development consultation document. Incl. annexes. 36 p."
+  "deposited_date" : "22/05/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1671.zip",
+  "year" : "2009",
+  "description" : "St Helena: Department for International Development consultation document. Incl. annexes. 36 p.",
   "department" : "Dept for International Development"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "28/11/2007"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0173.pdf"
-  "year" : "2007"
-  "description" : "Letter dated 28/11/2007 from Lord Darzi to Lord Colwyn regarding the NHS dental services. 4 p."
+  "deposited_date" : "28/11/2007",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0173.pdf",
+  "year" : "2007",
+  "description" : "Letter dated 28/11/2007 from Lord Darzi to Lord Colwyn regarding the NHS dental services. 4 p.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/12/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3184.pdf"
-  "year" : "2009"
-  "description" : "Revised national service guide: A resource for developing sexual assault referral centres. 39 p."
+  "deposited_date" : "16/12/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3184.pdf",
+  "year" : "2009",
+  "description" : "Revised national service guide: A resource for developing sexual assault referral centres. 39 p.",
   "department" : "Dept of Health Home Office Association of Chief Police Officers"
 }

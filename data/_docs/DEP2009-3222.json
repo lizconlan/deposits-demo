@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/12/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3222.doc"
-  "year" : "2009"
-  "description" : "PR Brief for the Department for Children, Schools and Families' tear of music project. 13 p."
+  "deposited_date" : "15/12/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3222.doc",
+  "year" : "2009",
+  "description" : "PR Brief for the Department for Children, Schools and Families' tear of music project. 13 p.",
   "department" : "Dept for Children, Schools and Families"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/07/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1508.zip"
-  "year" : "2010"
-  "description" : "Table showing research projects on marker-assisted plant breeding. 188 p."
+  "deposited_date" : "19/07/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1508.zip",
+  "year" : "2010",
+  "description" : "Table showing research projects on marker-assisted plant breeding. 188 p.",
   "department" : "Department for Business, Innovation and Skills"
 }

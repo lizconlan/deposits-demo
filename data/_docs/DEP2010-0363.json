@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/01/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0363.tif"
-  "year" : "2010"
-  "description" : "Letter dated 03/02/2010 from John McCaughan (Superintendent, PSNI) to Lord Maginnis regarding the Police Service of Northern Ireland, An Garda Siochana and the alleged sexual abuse by Liam Adams and what child security measures were discussed. 2 p."
+  "deposited_date" : "19/01/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0363.tif",
+  "year" : "2010",
+  "description" : "Letter dated 03/02/2010 from John McCaughan (Superintendent, PSNI) to Lord Maginnis regarding the Police Service of Northern Ireland, An Garda Siochana and the alleged sexual abuse by Liam Adams and what child security measures were discussed. 2 p.",
   "department" : "Northern Ireland Office"
 }

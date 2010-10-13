@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/07/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2065.zip"
-  "year" : "2009"
-  "description" : "I. Letter dated 27/09/2007 from Dawn Primarolo MP to Professor Pat Troop (Chief Executive, HPA) regarding the Health Protection Agency's (HPA) response of October 2007 to the Advisory Group on Extremely Low Frequency Electromagnetic Fields (SAGE) interim report. 1 p. II. Letter dated 15/10/2007 from Professor Pat Troop (Chief Executive, HPA) to Dawn Primarolo MP regarding HPA Advice on the First Interim Assessment of SAGE. 1 p."
+  "deposited_date" : "16/07/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2065.zip",
+  "year" : "2009",
+  "description" : "I. Letter dated 27/09/2007 from Dawn Primarolo MP to Professor Pat Troop (Chief Executive, HPA) regarding the Health Protection Agency's (HPA) response of October 2007 to the Advisory Group on Extremely Low Frequency Electromagnetic Fields (SAGE) interim report. 1 p. II. Letter dated 15/10/2007 from Professor Pat Troop (Chief Executive, HPA) to Dawn Primarolo MP regarding HPA Advice on the First Interim Assessment of SAGE. 1 p.",
   "department" : ""
 }

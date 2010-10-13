@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/02/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1273.zip"
-  "year" : "2009"
-  "description" : "Table showing I. Admissions to local authority maintained primary achools in England for the years 2000/01 to 2005/06. 5 p. II. Individual schools budget plus revenue grants for local authority maintained primary schools in England for 2008/09. 3 p. III. Projected change in population aged 5 to 10 (2006 Population estimates compared with mid-2006 population projections for 2007 through to 2015). 3 p."
+  "deposited_date" : "23/02/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1273.zip",
+  "year" : "2009",
+  "description" : "Table showing I. Admissions to local authority maintained primary achools in England for the years 2000/01 to 2005/06. 5 p. II. Individual schools budget plus revenue grants for local authority maintained primary schools in England for 2008/09. 3 p. III. Projected change in population aged 5 to 10 (2006 Population estimates compared with mid-2006 population projections for 2007 through to 2015). 3 p.",
   "department" : "Dept for Children, Schools and Families"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0741.xls"
-  "year" : "2009"
-  "description" : "Table showing the number and percentage of young people in England aged 16-24 who were not in education, employment or training (NEET) for each year from 2003 to 2007, broken down by local education authority. 4 p."
+  "deposited_date" : "10/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0741.xls",
+  "year" : "2009",
+  "description" : "Table showing the number and percentage of young people in England aged 16-24 who were not in education, employment or training (NEET) for each year from 2003 to 2007, broken down by local education authority. 4 p.",
   "department" : "Dept for Innovation, Universities and Skills"
 }

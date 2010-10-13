@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "26/01/2010"
-  "legislature" : Commons
-  "legislation" : "Constitutional Reform and Governance Bill 2008-09 then 2009-10"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0238.zip"
-  "year" : "2010"
-  "description" : "Letter dated 26/01/2010 from Jack Straw MP to Dominic Grieve MP regarding amendments to the Constitutional Reform and Governance Bill relating to recommendations of the Committee on Standards in Public Life's report on MPs' expenses and allowances. 3 p."
+  "deposited_date" : "26/01/2010",
+  "legislature" : ["Commons"],
+  "legislation" : "Constitutional Reform and Governance Bill 2008-09 then 2009-10",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0238.zip",
+  "year" : "2010",
+  "description" : "Letter dated 26/01/2010 from Jack Straw MP to Dominic Grieve MP regarding amendments to the Constitutional Reform and Governance Bill relating to recommendations of the Committee on Standards in Public Life's report on MPs' expenses and allowances. 3 p.",
   "department" : "Ministry of Justice"
 }

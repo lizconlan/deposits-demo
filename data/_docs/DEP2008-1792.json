@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1792.pdf"
-  "year" : "2008"
-  "description" : "Statistics on smoking: England, 2007. 180 p."
+  "deposited_date" : "03/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1792.pdf",
+  "year" : "2008",
+  "description" : "Statistics on smoking: England, 2007. 180 p.",
   "department" : "Dept of Health"
 }

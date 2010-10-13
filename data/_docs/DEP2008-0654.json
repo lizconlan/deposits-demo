@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/03/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0654.pdf"
-  "year" : "2008"
-  "description" : "Home Information Pack (HIP) area trials: research report. 106 p."
+  "deposited_date" : "06/03/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0654.pdf",
+  "year" : "2008",
+  "description" : "Home Information Pack (HIP) area trials: research report. 106 p.",
   "department" : "Dept for Communities and Local Government"
 }

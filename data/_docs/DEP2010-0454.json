@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0454.xls"
-  "year" : "2010"
-  "description" : "Tables showing mean and median length of stay where the primary diagnosis was prostate cancer for England, by NHS Hospital Provider from 1997/98 to 2008/09. 61 p."
+  "deposited_date" : "22/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0454.xls",
+  "year" : "2010",
+  "description" : "Tables showing mean and median length of stay where the primary diagnosis was prostate cancer for England, by NHS Hospital Provider from 1997/98 to 2008/09. 61 p.",
   "department" : "Department of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2450.doc"
-  "year" : "2008"
-  "description" : "Table showing which areas are covered by each Meteorological Station used to assess the temperature for the purpose of cold weather payments. 6 p."
+  "deposited_date" : "23/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2450.doc",
+  "year" : "2008",
+  "description" : "Table showing which areas are covered by each Meteorological Station used to assess the temperature for the purpose of cold weather payments. 6 p.",
   "department" : "Dept for Work and Pensions"
 }

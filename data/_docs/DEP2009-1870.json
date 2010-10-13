@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/07/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1870.zip"
-  "year" : "2009"
-  "description" : "I. Putting prevention first. Vascular Checks: risk assessment and management. Impact Assessment. 70 p. II. Economic Modelling for Vascular Checks: A technical consultation on the work undertaken to establish the clinical and cost effectiveness evidence base for the Department of Healths policy of vascular checks. 50 p."
+  "deposited_date" : "01/07/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1870.zip",
+  "year" : "2009",
+  "description" : "I. Putting prevention first. Vascular Checks: risk assessment and management. Impact Assessment. 70 p. II. Economic Modelling for Vascular Checks: A technical consultation on the work undertaken to establish the clinical and cost effectiveness evidence base for the Department of Healths policy of vascular checks. 50 p.",
   "department" : "Dept of Health"
 }

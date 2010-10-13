@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/12/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3061.xls"
-  "year" : "2008"
-  "description" : "Table showing the number of people receiving continuing NHS healthcare and number of people newly meeting eligibility criteria for continuing NHS healthcare, England, Q4 2005/06 to Q2 2008/09. 9 p."
+  "deposited_date" : "11/12/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3061.xls",
+  "year" : "2008",
+  "description" : "Table showing the number of people receiving continuing NHS healthcare and number of people newly meeting eligibility criteria for continuing NHS healthcare, England, Q4 2005/06 to Q2 2008/09. 9 p.",
   "department" : "Dept of Health"
 }

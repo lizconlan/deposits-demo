@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0194.pdf"
-  "year" : "2009"
-  "description" : "Information for people with bone and joint problems : getting the most from your local health services [patient information document]. 36 p."
+  "deposited_date" : "22/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0194.pdf",
+  "year" : "2009",
+  "description" : "Information for people with bone and joint problems : getting the most from your local health services [patient information document]. 36 p.",
   "department" : "Dept of Health"
 }

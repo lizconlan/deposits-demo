@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/03/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0675.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 07/03/2008 from Lord McKenzie of Luton to Lord Jones regarding statutory paternity leave and pay."
+  "deposited_date" : "07/03/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0675.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 07/03/2008 from Lord McKenzie of Luton to Lord Jones regarding statutory paternity leave and pay.",
   "department" : "Dept for Work and Pensions"
 }

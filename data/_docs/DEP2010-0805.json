@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0805.doc"
-  "year" : "2010"
-  "description" : "Table showing the number of deaths where rheumatoid arthritis was the underlying cause of death, broken down by local authority, for the years 1997 to 2008. 8 p."
+  "deposited_date" : "23/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0805.doc",
+  "year" : "2010",
+  "description" : "Table showing the number of deaths where rheumatoid arthritis was the underlying cause of death, broken down by local authority, for the years 1997 to 2008. 8 p.",
   "department" : "Cabinet Office"
 }

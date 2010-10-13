@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/04/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1011.zip"
-  "year" : "2008"
-  "description" : "Guidelines and codes of practice for the Commission for Social Care Inspection's employees. [8 documents]"
+  "deposited_date" : "15/04/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1011.zip",
+  "year" : "2008",
+  "description" : "Guidelines and codes of practice for the Commission for Social Care Inspection's employees. [8 documents]",
   "department" : "Commission for Social Care Inspection"
 }

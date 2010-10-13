@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0106.doc"
-  "year" : "2008"
-  "description" : "Tables showing immediate destination on leaving New Deal schemes for each year from 1998 to 2006."
+  "deposited_date" : "15/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0106.doc",
+  "year" : "2008",
+  "description" : "Tables showing immediate destination on leaving New Deal schemes for each year from 1998 to 2006.",
   "department" : "Dept for Work and Pensions"
 }

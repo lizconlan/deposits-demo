@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "01/04/2008"
-  "legislature" : CommonsLords
-  "legislation" : "Children Act 1989"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0920.zip"
-  "year" : "2008"
-  "description" : "I. The public law outline: guide to case management in public law proceedings. 46 p. II. Children Act 1989 guidance and regulations: volume 1 - court orders. 120 p."
+  "deposited_date" : "01/04/2008",
+  "legislature" : ["Commons","Lords"],
+  "legislation" : "Children Act 1989",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0920.zip",
+  "year" : "2008",
+  "description" : "I. The public law outline: guide to case management in public law proceedings. 46 p. II. Children Act 1989 guidance and regulations: volume 1 - court orders. 120 p.",
   "department" : "Ministry of Justice Dept for Children Schools and Families"
 }

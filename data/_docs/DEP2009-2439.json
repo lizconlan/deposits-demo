@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/10/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2439.pdf"
-  "year" : "2009"
-  "description" : "Protocol amending the agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Malaysia for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income and capital gains, signed at London on 10 December 1996. 5 p."
+  "deposited_date" : "12/10/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2439.pdf",
+  "year" : "2009",
+  "description" : "Protocol amending the agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Malaysia for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income and capital gains, signed at London on 10 December 1996. 5 p.",
   "department" : "Treasury"
 }

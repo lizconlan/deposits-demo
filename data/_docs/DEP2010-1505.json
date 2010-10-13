@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/07/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1505.zip"
-  "year" : "2010"
-  "description" : "A strategy for sustainable growth. Inc economic annex. 52 p."
+  "deposited_date" : "20/07/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1505.zip",
+  "year" : "2010",
+  "description" : "A strategy for sustainable growth. Inc economic annex. 52 p.",
   "department" : "Department for Business, Innovation and Skills"
 }

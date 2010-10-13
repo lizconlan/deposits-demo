@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/09/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2225.doc"
-  "year" : "2008"
-  "description" : "Table showing projects commissioned by the Ministry of Justice between 2006 and 2008 from think tanks or charities, including aim of project and cost. 15 p."
+  "deposited_date" : "15/09/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2225.doc",
+  "year" : "2008",
+  "description" : "Table showing projects commissioned by the Ministry of Justice between 2006 and 2008 from think tanks or charities, including aim of project and cost. 15 p.",
   "department" : "Ministry of Justice"
 }

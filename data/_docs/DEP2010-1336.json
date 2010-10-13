@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/06/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1336.doc"
-  "year" : "2010"
-  "description" : "Agreement between The Government of The United Kingdom of Great Britain and Northern Ireland and The Government of the Hong Kong Special Administrative Region of the People's Republic of China for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income and on capital. 27 p."
+  "deposited_date" : "22/06/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1336.doc",
+  "year" : "2010",
+  "description" : "Agreement between The Government of The United Kingdom of Great Britain and Northern Ireland and The Government of the Hong Kong Special Administrative Region of the People's Republic of China for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income and on capital. 27 p.",
   "department" : "Treasury"
 }

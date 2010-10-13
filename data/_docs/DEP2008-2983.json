@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/12/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2983.tif"
-  "year" : "2008"
-  "description" : "Letter dated 28/10/2008 from Paul Leighton, Deputy Chief Constable, to Alistair Carmichael MP regarding sectarianism within the Northern Ireland Police Service. 2 p."
+  "deposited_date" : "04/12/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2983.tif",
+  "year" : "2008",
+  "description" : "Letter dated 28/10/2008 from Paul Leighton, Deputy Chief Constable, to Alistair Carmichael MP regarding sectarianism within the Northern Ireland Police Service. 2 p.",
   "department" : "Police Service of Northern Ireland Northern Ireland Office"
 }

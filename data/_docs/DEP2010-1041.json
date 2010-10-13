@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "31/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1041.zip"
-  "year" : "2010"
-  "description" : "I. Response to the associate parliamentary group for Sudans report On the Brink: Towards Lasting Peace in Sudan. 10 p. II. Letter dated 31/03/2010 from Baroness Kinnock and Gareth Thomas MP to David Drew MP regarding Sudan. 1 p."
+  "deposited_date" : "31/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1041.zip",
+  "year" : "2010",
+  "description" : "I. Response to the associate parliamentary group for Sudans report On the Brink: Towards Lasting Peace in Sudan. 10 p. II. Letter dated 31/03/2010 from Baroness Kinnock and Gareth Thomas MP to David Drew MP regarding Sudan. 1 p.",
   "department" : "Foreign and Commonwealth Office"
 }

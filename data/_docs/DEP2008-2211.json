@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/09/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2211.zip"
-  "year" : "2008"
-  "description" : "NHS dental statistics for England 2007/08. Including 3 annexes. 72 p."
+  "deposited_date" : "10/09/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2211.zip",
+  "year" : "2008",
+  "description" : "NHS dental statistics for England 2007/08. Including 3 annexes. 72 p.",
   "department" : "Dept of Health"
 }

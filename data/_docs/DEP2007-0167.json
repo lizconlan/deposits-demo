@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/11/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0167.pdf"
-  "year" : "2007"
-  "description" : "Letter dated 27/11/2007 from Alan Johnson MP to Norman Lamb MP regarding the poultry workers in Norfolk."
+  "deposited_date" : "27/11/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0167.pdf",
+  "year" : "2007",
+  "description" : "Letter dated 27/11/2007 from Alan Johnson MP to Norman Lamb MP regarding the poultry workers in Norfolk.",
   "department" : "Dept of Health"
 }

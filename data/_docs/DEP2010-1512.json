@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/07/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1512.pdf"
-  "year" : "2010"
-  "description" : "Sexual Offences Act 2003: Definitive Guideline. 144 p."
+  "deposited_date" : "19/07/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1512.pdf",
+  "year" : "2010",
+  "description" : "Sexual Offences Act 2003: Definitive Guideline. 144 p.",
   "department" : "Home Office Sentencing Guidelines Council"
 }

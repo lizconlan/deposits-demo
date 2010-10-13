@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1973.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 15/07/2008 from James Purnell MP to Kate Hoey MP regarding the post office card account."
+  "deposited_date" : "16/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1973.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 15/07/2008 from James Purnell MP to Kate Hoey MP regarding the post office card account.",
   "department" : "Dept for Work and Pensions"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/02/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0400.zip"
-  "year" : "2009"
-  "description" : "I. Creating a gender equality scheme : a practical guide for the NHS. 80 p. II. Promoting equality and diversity in the NHS : a guide for board members. 10 p."
+  "deposited_date" : "10/02/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0400.zip",
+  "year" : "2009",
+  "description" : "I. Creating a gender equality scheme : a practical guide for the NHS. 80 p. II. Promoting equality and diversity in the NHS : a guide for board members. 10 p.",
   "department" : "Dept of Health"
 }

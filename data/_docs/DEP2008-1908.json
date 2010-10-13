@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1908.zip"
-  "year" : "2008"
-  "description" : "17 copies of Commission for Social Care Inspection (CSCI) published consultations. [500 p.]"
+  "deposited_date" : "14/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1908.zip",
+  "year" : "2008",
+  "description" : "17 copies of Commission for Social Care Inspection (CSCI) published consultations. [500 p.]",
   "department" : "Dept of Health"
 }

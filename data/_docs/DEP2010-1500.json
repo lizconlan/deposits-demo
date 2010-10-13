@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/07/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1500.pdf"
-  "year" : "2010"
-  "description" : "Healthy weight, healthy lives: national child measurement programme guidance for schools 2010/11. Incl. annex. 15 p."
+  "deposited_date" : "19/07/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1500.pdf",
+  "year" : "2010",
+  "description" : "Healthy weight, healthy lives: national child measurement programme guidance for schools 2010/11. Incl. annex. 15 p.",
   "department" : "Department of Health Department for Children, Schools and Families"
 }

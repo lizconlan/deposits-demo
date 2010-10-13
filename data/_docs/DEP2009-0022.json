@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0022.tif"
-  "year" : "2009"
-  "description" : "Letter dated 22/10/2008 from J M Stewarr, Director of Human Resources, to Alistair Carmichael regarding recruitment and retention in the Police Service of Northern Ireland. 2 p."
+  "deposited_date" : "06/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0022.tif",
+  "year" : "2009",
+  "description" : "Letter dated 22/10/2008 from J M Stewarr, Director of Human Resources, to Alistair Carmichael regarding recruitment and retention in the Police Service of Northern Ireland. 2 p.",
   "department" : "Northern Ireland Office Police Service of Northern Ireland"
 }

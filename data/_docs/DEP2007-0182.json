@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "28/11/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0182.pdf"
-  "year" : "2007"
-  "description" : "The way ahead: the local challenge. Improving diabetes services: the NSF four years on. Report from Dr Sue Roberts National Clinical Director for Diabetes, for the Secretary of state for Health. 64 p."
+  "deposited_date" : "28/11/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0182.pdf",
+  "year" : "2007",
+  "description" : "The way ahead: the local challenge. Improving diabetes services: the NSF four years on. Report from Dr Sue Roberts National Clinical Director for Diabetes, for the Secretary of state for Health. 64 p.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/06/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1842.pdf"
-  "year" : "2009"
-  "description" : "Youth Justice Agency of Northern Ireland corporate and business plan 2009-2010. 17 p."
+  "deposited_date" : "30/06/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1842.pdf",
+  "year" : "2009",
+  "description" : "Youth Justice Agency of Northern Ireland corporate and business plan 2009-2010. 17 p.",
   "department" : "Northern Ireland Youth Justice Agency Northern Ireland Office"
 }

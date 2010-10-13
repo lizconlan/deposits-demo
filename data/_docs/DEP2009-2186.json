@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/07/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2186.xls"
-  "year" : "2009"
-  "description" : "i. Table 1: Number of Penalty Notices issued to all persons aged 16 and over, by Police force area and Offence, England and Wales 2004 ii. Table 2: Number of Penalty Notices issued to all persons aged 16 and over, by Police force area and Offence, England and Wales 2005 iii. Table 3: Number of Penalty Notices issued to all persons aged 16 and over, by Police force area and Offence, England and Wales 2006 iv. Table 4: Number of Penalty Notices issued to all persons aged 16 and over, by Police force area and Offence, England and Wales 2007"
+  "deposited_date" : "21/07/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2186.xls",
+  "year" : "2009",
+  "description" : "i. Table 1: Number of Penalty Notices issued to all persons aged 16 and over, by Police force area and Offence, England and Wales 2004 ii. Table 2: Number of Penalty Notices issued to all persons aged 16 and over, by Police force area and Offence, England and Wales 2005 iii. Table 3: Number of Penalty Notices issued to all persons aged 16 and over, by Police force area and Offence, England and Wales 2006 iv. Table 4: Number of Penalty Notices issued to all persons aged 16 and over, by Police force area and Offence, England and Wales 2007",
   "department" : "Ministry of Justice"
 }

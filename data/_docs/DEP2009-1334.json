@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/05/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1334.zip"
-  "year" : "2009"
-  "description" : "6 display energy certificate and advisory reports for the Department for Business, Enterprise and Regulatory Reform."
+  "deposited_date" : "07/05/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1334.zip",
+  "year" : "2009",
+  "description" : "6 display energy certificate and advisory reports for the Department for Business, Enterprise and Regulatory Reform.",
   "department" : "Dept for Business, Enterprise and Regulatory Reform"
 }

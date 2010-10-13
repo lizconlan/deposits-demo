@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0779.zip"
-  "year" : "2009"
-  "description" : "I. Letter dated 07/02/2008 from Elizabeth Moore, Historic Buildings Architect, Government Historic Estates Unit, to Rachel Hamilton, Department of Planning and City Development, Westminster City Council regarding refurbishment of WCs in 10 Downing Street. 1 p. II. Letter dated 07/02/2008 from Elizabeth Moore to Rachel Hamilton the above planning application. 1 p."
+  "deposited_date" : "10/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0779.zip",
+  "year" : "2009",
+  "description" : "I. Letter dated 07/02/2008 from Elizabeth Moore, Historic Buildings Architect, Government Historic Estates Unit, to Rachel Hamilton, Department of Planning and City Development, Westminster City Council regarding refurbishment of WCs in 10 Downing Street. 1 p. II. Letter dated 07/02/2008 from Elizabeth Moore to Rachel Hamilton the above planning application. 1 p.",
   "department" : "English Heritage Dept for Culture, Media and Sport"
 }

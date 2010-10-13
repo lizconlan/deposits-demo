@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/11/2007"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0127.doc"
-  "year" : "2007"
-  "description" : "Independent Monitor for Entry Clearance refusals with limited rights of appeal. Report to the Secretary of State. 54 p."
+  "deposited_date" : "22/11/2007",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0127.doc",
+  "year" : "2007",
+  "description" : "Independent Monitor for Entry Clearance refusals with limited rights of appeal. Report to the Secretary of State. 54 p.",
   "department" : "Foreign and Commonwealth Office"
 }

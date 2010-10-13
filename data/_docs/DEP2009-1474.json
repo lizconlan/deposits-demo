@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/05/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1474.doc"
-  "year" : "2009"
-  "description" : "Proposals for fundamental reform of the Parliamentary allowances system. 3 p."
+  "deposited_date" : "19/05/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1474.doc",
+  "year" : "2009",
+  "description" : "Proposals for fundamental reform of the Parliamentary allowances system. 3 p.",
   "department" : "Leader of the House of Commons"
 }

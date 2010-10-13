@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/02/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0572.xls"
-  "year" : "2009"
-  "description" : "Table showing Third Sector Investment Programme 2009-10 : organisations with applications declined at Stage 1, broken down by organisation. 11 p."
+  "deposited_date" : "27/02/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0572.xls",
+  "year" : "2009",
+  "description" : "Table showing Third Sector Investment Programme 2009-10 : organisations with applications declined at Stage 1, broken down by organisation. 11 p.",
   "department" : "Dept of Health"
 }

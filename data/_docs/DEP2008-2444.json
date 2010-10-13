@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/10/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2444.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 21/10/2008 from Lord Patel of Bradford to Bishop of Chelmsford regarding the future of churches and faith communities. 3 p."
+  "deposited_date" : "22/10/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2444.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 21/10/2008 from Lord Patel of Bradford to Bishop of Chelmsford regarding the future of churches and faith communities. 3 p.",
   "department" : "Dept for Communities and Local Government"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/04/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0951.zip"
-  "year" : "2008"
-  "description" : "Contract between the Driving Standards Agency and Pearson Driving Assessments which relate to compliance with UK data protection rules. Incl. supplements. 42 p."
+  "deposited_date" : "02/04/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0951.zip",
+  "year" : "2008",
+  "description" : "Contract between the Driving Standards Agency and Pearson Driving Assessments which relate to compliance with UK data protection rules. Incl. supplements. 42 p.",
   "department" : "Dept for Transport"
 }

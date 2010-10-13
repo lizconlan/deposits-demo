@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/12/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3028.pdf"
-  "year" : "2008"
-  "description" : "Letter [not dated] from Alan Campbell MP to David Kidney MP regarding rural crime and Farm Watch. 2 p."
+  "deposited_date" : "10/12/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3028.pdf",
+  "year" : "2008",
+  "description" : "Letter [not dated] from Alan Campbell MP to David Kidney MP regarding rural crime and Farm Watch. 2 p.",
   "department" : "Home Office"
 }

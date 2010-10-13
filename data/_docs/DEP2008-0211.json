@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/01/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0211.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 24/01/2008 from Lord Darzi to Barones Tonge regarding the trusts for the training of doctors. 1 p."
+  "deposited_date" : "24/01/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0211.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 24/01/2008 from Lord Darzi to Barones Tonge regarding the trusts for the training of doctors. 1 p.",
   "department" : "Dept of Health"
 }

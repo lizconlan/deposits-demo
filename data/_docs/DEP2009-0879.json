@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0879.xls"
-  "year" : "2009"
-  "description" : "Table showing schools in England with 30% or more pupils known to be eligible for free school meals and a surplus revenue balance at the end of the 2007-08 financial year, broken down by local authority. 130 p."
+  "deposited_date" : "17/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0879.xls",
+  "year" : "2009",
+  "description" : "Table showing schools in England with 30% or more pupils known to be eligible for free school meals and a surplus revenue balance at the end of the 2007-08 financial year, broken down by local authority. 130 p.",
   "department" : "Dept for Children, Schools and Families"
 }

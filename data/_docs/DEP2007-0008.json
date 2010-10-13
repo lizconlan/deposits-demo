@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/10/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0008.zip"
-  "year" : "2007"
-  "description" : "Tables showing the spend per head of population in primary care trusts for 2006-07 and social services spending in 2005-06, broken down by local authority."
+  "deposited_date" : "10/10/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0008.zip",
+  "year" : "2007",
+  "description" : "Tables showing the spend per head of population in primary care trusts for 2006-07 and social services spending in 2005-06, broken down by local authority.",
   "department" : "Dept of Health"
 }

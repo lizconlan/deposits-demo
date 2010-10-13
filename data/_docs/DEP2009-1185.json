@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/04/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1185.zip"
-  "year" : "2009"
-  "description" : "7 substantive studies completed by the Ministry of Defence's Directorate of Management Consultancy Services between January 2000 and December 2008. 80 p."
+  "deposited_date" : "22/04/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1185.zip",
+  "year" : "2009",
+  "description" : "7 substantive studies completed by the Ministry of Defence's Directorate of Management Consultancy Services between January 2000 and December 2008. 80 p.",
   "department" : "Ministry of Defence"
 }

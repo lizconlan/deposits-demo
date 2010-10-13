@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/07/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1798.zip"
-  "year" : "2008"
-  "description" : "I. Letter dated 03/07/2008 from Ken Boston, Chief Executive of the QCA, to Jim Knight MP regarding the delay in delivery of results of the national curriculum tests. 2 p. II. Letter dated 03/07/2008 from Jim Knight MP to Ken Boston, replying to above letter. 1 p. III. Letter dated 04/07/2008 from Ed Balls MP to Barry Sheerman MP regarding the delay in release of Key Stage 2 and 3 national curriculum test results to schools. 2 p."
+  "deposited_date" : "04/07/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1798.zip",
+  "year" : "2008",
+  "description" : "I. Letter dated 03/07/2008 from Ken Boston, Chief Executive of the QCA, to Jim Knight MP regarding the delay in delivery of results of the national curriculum tests. 2 p. II. Letter dated 03/07/2008 from Jim Knight MP to Ken Boston, replying to above letter. 1 p. III. Letter dated 04/07/2008 from Ed Balls MP to Barry Sheerman MP regarding the delay in release of Key Stage 2 and 3 national curriculum test results to schools. 2 p.",
   "department" : "Qualifications and Curriculum Authority Dept for Children Schools and Families"
 }

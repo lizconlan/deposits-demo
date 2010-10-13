@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/05/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1344.xls"
-  "year" : "2009"
-  "description" : "Table showing net land and property receipts for NHS trusts for each year from 2004-05 to 2007-08. 44 p."
+  "deposited_date" : "07/05/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1344.xls",
+  "year" : "2009",
+  "description" : "Table showing net land and property receipts for NHS trusts for each year from 2004-05 to 2007-08. 44 p.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/08/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2304.tif"
-  "year" : "2009"
-  "description" : "Letter dated 03/08/2009 from JM Stewart, Director of Human Resources, to Owen Paterson MP regarding how many recruits to the Police Service of Northern Ireland had previous policing experience. 2 p."
+  "deposited_date" : "03/08/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2304.tif",
+  "year" : "2009",
+  "description" : "Letter dated 03/08/2009 from JM Stewart, Director of Human Resources, to Owen Paterson MP regarding how many recruits to the Police Service of Northern Ireland had previous policing experience. 2 p.",
   "department" : "Northern Ireland Office Police Service of Northern Ireland"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/05/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1340.pdf"
-  "year" : "2009"
-  "description" : "Keeping the right people on the DNA database: science and public protection. Consultation paper. 101 p."
+  "deposited_date" : "07/05/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1340.pdf",
+  "year" : "2009",
+  "description" : "Keeping the right people on the DNA database: science and public protection. Consultation paper. 101 p.",
   "department" : "Home Office"
 }

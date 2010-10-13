@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0424.zip"
-  "year" : "2010"
-  "description" : "I. Criminal Records Bureau: stress management policy guidance framework. Incl. annexes. 25 p. II. Criminal Records Bureau: line manager's guide to risk assessments. 10 p. III. Criminal Records Bureau: stress management policy. 8 p. IV. Home Office notice: working procedures. Managing the risk factors of work-related stress in Home Office headquarters and the Border & Immigration Agency. 24 p."
+  "deposited_date" : "08/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0424.zip",
+  "year" : "2010",
+  "description" : "I. Criminal Records Bureau: stress management policy guidance framework. Incl. annexes. 25 p. II. Criminal Records Bureau: line manager's guide to risk assessments. 10 p. III. Criminal Records Bureau: stress management policy. 8 p. IV. Home Office notice: working procedures. Managing the risk factors of work-related stress in Home Office headquarters and the Border & Immigration Agency. 24 p.",
   "department" : "Home Office"
 }

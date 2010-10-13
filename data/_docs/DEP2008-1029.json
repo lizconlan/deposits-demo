@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "22/04/2008"
-  "legislature" : Lords
-  "legislation" : "Domestic Violence Crime and Victims Act 2004 Protection from Harassment Act 1997"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1029.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 22/04/2008 from Baroness Thornton to Baroness Hanham regarding the implementation of s12 of the Domestic Violence Act 2004. 4 p."
+  "deposited_date" : "22/04/2008",
+  "legislature" : ["Lords"],
+  "legislation" : "Domestic Violence Crime and Victims Act 2004 Protection from Harassment Act 1997",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1029.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 22/04/2008 from Baroness Thornton to Baroness Hanham regarding the implementation of s12 of the Domestic Violence Act 2004. 4 p.",
   "department" : "Whips Office"
 }

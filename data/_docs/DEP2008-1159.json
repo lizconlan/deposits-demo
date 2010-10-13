@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/05/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1159.xls"
-  "year" : "2008"
-  "description" : "Table showing how many days it took the Department of Health on average to answer written parliamentary questions tabled by each MP in the last six months. 12 p."
+  "deposited_date" : "01/05/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1159.xls",
+  "year" : "2008",
+  "description" : "Table showing how many days it took the Department of Health on average to answer written parliamentary questions tabled by each MP in the last six months. 12 p.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/02/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0507.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 26/02/2010 from Lord Adonis to Sir Andrew Foster (former controller of the Audit Commission) regarding an independent assessment of the value for money of the inter-city express programme and the credibility and the value for money of any alternatives which meet the programme's objectives. 2 p."
+  "deposited_date" : "26/02/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0507.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 26/02/2010 from Lord Adonis to Sir Andrew Foster (former controller of the Audit Commission) regarding an independent assessment of the value for money of the inter-city express programme and the credibility and the value for money of any alternatives which meet the programme's objectives. 2 p.",
   "department" : "Department for Transport"
 }

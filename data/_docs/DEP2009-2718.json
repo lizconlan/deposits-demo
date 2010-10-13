@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "04/11/2009"
-  "legislature" : Lords
-  "legislation" : "Apprenticeships, Skills, Children and Learning Bill 2008-09"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2718.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 04/11/2009 from Baroness Delyth Morgan to Lord Low of Dalston regarding Office of the Qualifications and Examinations Regulator's (Ofqual) duties on equality and access."
+  "deposited_date" : "04/11/2009",
+  "legislature" : ["Lords"],
+  "legislation" : "Apprenticeships, Skills, Children and Learning Bill 2008-09",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2718.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 04/11/2009 from Baroness Delyth Morgan to Lord Low of Dalston regarding Office of the Qualifications and Examinations Regulator's (Ofqual) duties on equality and access.",
   "department" : ""
 }

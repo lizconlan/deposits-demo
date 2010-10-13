@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2092.zip"
-  "year" : "2008"
-  "description" : "I. The GP patient survey (hospital choice): summary report 2007/08. 6 p. II. The GP patient survey (access): summary report 2007/08. 11 p."
+  "deposited_date" : "29/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2092.zip",
+  "year" : "2008",
+  "description" : "I. The GP patient survey (hospital choice): summary report 2007/08. 6 p. II. The GP patient survey (access): summary report 2007/08. 11 p.",
   "department" : "Dept of Health Ipsos MORI"
 }

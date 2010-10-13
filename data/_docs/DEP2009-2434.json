@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "09/10/2009"
-  "legislature" : Commons
-  "legislation" : "Local Democracy, Economic Development and Construction Bill (HL) 2008-09"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2434.doc"
-  "year" : "2009"
-  "description" : "SNR (Sub-National Review) Transition Management Steering Group meetings: summary of discussions. 3 p."
+  "deposited_date" : "09/10/2009",
+  "legislature" : ["Commons"],
+  "legislation" : "Local Democracy, Economic Development and Construction Bill (HL) 2008-09",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2434.doc",
+  "year" : "2009",
+  "description" : "SNR (Sub-National Review) Transition Management Steering Group meetings: summary of discussions. 3 p.",
   "department" : "Dept for Communities and Local Government"
 }

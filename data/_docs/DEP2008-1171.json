@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/05/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1171.pdf"
-  "year" : "2008"
-  "description" : "Northern Ireland Prison Service's corporate and business plan for 2008-11. 28 p."
+  "deposited_date" : "01/05/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1171.pdf",
+  "year" : "2008",
+  "description" : "Northern Ireland Prison Service's corporate and business plan for 2008-11. 28 p.",
   "department" : "Northern Ireland Office"
 }

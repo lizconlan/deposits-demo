@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0750.zip"
-  "year" : "2010"
-  "description" : "Letter dated 19/03/2010 from Ed Balls MP to Barry Sheerman MP regarding public performances by children. Inc exploratory review of the system of regulating child performances. 64 p."
+  "deposited_date" : "19/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0750.zip",
+  "year" : "2010",
+  "description" : "Letter dated 19/03/2010 from Ed Balls MP to Barry Sheerman MP regarding public performances by children. Inc exploratory review of the system of regulating child performances. 64 p.",
   "department" : "Department for Children, Schools and Families"
 }

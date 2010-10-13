@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/05/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1355.doc"
-  "year" : "2008"
-  "description" : "I. United Kingdom: annual figures for holdings of civil unirradiated plutonium as of 31 December 2007. II. Estimated amounts of plutonium contained in spent civil reactor fuel as of 31 December 2007. III. United Kingdom: annual figures for holdings of civil high enriched uranium (HEU) as of 31 December 2007."
+  "deposited_date" : "22/05/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1355.doc",
+  "year" : "2008",
+  "description" : "I. United Kingdom: annual figures for holdings of civil unirradiated plutonium as of 31 December 2007. II. Estimated amounts of plutonium contained in spent civil reactor fuel as of 31 December 2007. III. United Kingdom: annual figures for holdings of civil high enriched uranium (HEU) as of 31 December 2007.",
   "department" : "Dept for Business Enterprise and Regulatory Reform"
 }

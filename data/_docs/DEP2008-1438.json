@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1438.doc"
-  "year" : "2008"
-  "description" : "Governement response to the review of the Royal Commission on Environmental Pollution. 32 p."
+  "deposited_date" : "04/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1438.doc",
+  "year" : "2008",
+  "description" : "Governement response to the review of the Royal Commission on Environmental Pollution. 32 p.",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

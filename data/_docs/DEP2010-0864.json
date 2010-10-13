@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0864.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 19/03/2010 from Tessa Jowell MP to Diane Abbott MP regarding employment and the Olympic Games 2012. 2 p."
+  "deposited_date" : "08/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0864.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 19/03/2010 from Tessa Jowell MP to Diane Abbott MP regarding employment and the Olympic Games 2012. 2 p.",
   "department" : "Cabinet Office"
 }

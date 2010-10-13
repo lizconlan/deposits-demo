@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0441.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 05/02/2010 from Peter Wanless, Chief Executive, to David Evennett MP regarding Big Lottery Fund grants. 1 p."
+  "deposited_date" : "01/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0441.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 05/02/2010 from Peter Wanless, Chief Executive, to David Evennett MP regarding Big Lottery Fund grants. 1 p.",
   "department" : "Department for Culture, Media and Sport"
 }

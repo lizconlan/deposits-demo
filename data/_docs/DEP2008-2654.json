@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2654.pdf"
-  "year" : "2008"
-  "description" : "Tables showing a) national average processing time for Income Support applications in each quarter from June 2004 to September 2008 and b) Income Support average actual clearance times between June 2004 and March 2006 broken down by Job Centre Plus District and from 2006 to 2008 by JCP Benefit Delivery Centre. 7 p."
+  "deposited_date" : "06/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2654.pdf",
+  "year" : "2008",
+  "description" : "Tables showing a) national average processing time for Income Support applications in each quarter from June 2004 to September 2008 and b) Income Support average actual clearance times between June 2004 and March 2006 broken down by Job Centre Plus District and from 2006 to 2008 by JCP Benefit Delivery Centre. 7 p.",
   "department" : "Dept for Work and Pensions"
 }

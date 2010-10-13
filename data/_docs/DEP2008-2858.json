@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2858.xls"
-  "year" : "2008"
-  "description" : "Table showing Finished Admission Episodes where there was a primary or secondary diagnosis of stroke in England for the years 1997/98 to 2006/07, broken down by Strategic Health Authority and Primary Care Trust. 50 p."
+  "deposited_date" : "25/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2858.xls",
+  "year" : "2008",
+  "description" : "Table showing Finished Admission Episodes where there was a primary or secondary diagnosis of stroke in England for the years 1997/98 to 2006/07, broken down by Strategic Health Authority and Primary Care Trust. 50 p.",
   "department" : "Dept of Health"
 }

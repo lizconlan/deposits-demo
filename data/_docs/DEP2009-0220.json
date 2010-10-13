@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0220.xls"
-  "year" : "2009"
-  "description" : "Table showing number and percentage of children in workless households, broken down by Parliamentary constituency in Great Britain, 2004 to 2007."
+  "deposited_date" : "26/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0220.xls",
+  "year" : "2009",
+  "description" : "Table showing number and percentage of children in workless households, broken down by Parliamentary constituency in Great Britain, 2004 to 2007.",
   "department" : "Chancellor of the Duchy of Lancaster Office for National Statistics"
 }

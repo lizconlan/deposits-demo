@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0529.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 30/01/2008 from Mandy Barrie, Head of Policy, Strategy and Resources Unit, to Francesco Bandarin, Director of UNESCO World Heritage Centre, regarding Stonehenge, Avebury and associated world heritage sites. 6 p."
+  "deposited_date" : "22/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0529.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 30/01/2008 from Mandy Barrie, Head of Policy, Strategy and Resources Unit, to Francesco Bandarin, Director of UNESCO World Heritage Centre, regarding Stonehenge, Avebury and associated world heritage sites. 6 p.",
   "department" : "Dept for Culture Media and Sport"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/06/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1692.doc"
-  "year" : "2009"
-  "description" : "Probation qualifications framework review: consultation paper. 29 p."
+  "deposited_date" : "16/06/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1692.doc",
+  "year" : "2009",
+  "description" : "Probation qualifications framework review: consultation paper. 29 p.",
   "department" : "Ministry of Justice"
 }

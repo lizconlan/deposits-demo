@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2761.xls"
-  "year" : "2009"
-  "description" : "Table showing the number of fatalities in reported personal injury road accidents by local authority and age from 2004 to 2008. 1 p."
+  "deposited_date" : "09/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2761.xls",
+  "year" : "2009",
+  "description" : "Table showing the number of fatalities in reported personal injury road accidents by local authority and age from 2004 to 2008. 1 p.",
   "department" : "Dept for Transport"
 }

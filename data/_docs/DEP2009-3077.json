@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/12/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3077.tif"
-  "year" : "2009"
-  "description" : "Letter dated 04/12/2009 from John McCaughan (Superintendent, PSNI) to Nigel Dodds MP regarding the number of disabled personnel employed as regular police officers and full-time reservists in the PSNI. 1 p."
+  "deposited_date" : "01/12/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3077.tif",
+  "year" : "2009",
+  "description" : "Letter dated 04/12/2009 from John McCaughan (Superintendent, PSNI) to Nigel Dodds MP regarding the number of disabled personnel employed as regular police officers and full-time reservists in the PSNI. 1 p.",
   "department" : "Northern Ireland Office"
 }

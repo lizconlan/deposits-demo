@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/02/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0445.zip"
-  "year" : "2009"
-  "description" : "Correspondence dated between 21/08/2008 and 14/10/2008 between the Dept for International Development and the Dept for Communities and Local Government, regarding new arrangements for UK Fire and Rescue services and voluntary search and rescue groups undertaking humanitarian work abroad. 5 files."
+  "deposited_date" : "05/02/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0445.zip",
+  "year" : "2009",
+  "description" : "Correspondence dated between 21/08/2008 and 14/10/2008 between the Dept for International Development and the Dept for Communities and Local Government, regarding new arrangements for UK Fire and Rescue services and voluntary search and rescue groups undertaking humanitarian work abroad. 5 files.",
   "department" : "Dept for International Development Dept for Communities and Local Government"
 }

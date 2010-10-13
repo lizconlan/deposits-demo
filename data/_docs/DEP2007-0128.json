@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "22/11/2007"
-  "legislature" : CommonsLords
-  "legislation" : "Immigration Asylum and Nationality Act 2006"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0128.zip"
-  "year" : "2007"
-  "description" : "I. Shutting down illegal working in the UK: illegal working actions plan update and next steps. Incl. results from consultation. 29 p. II. Sponsorship under the points based system (PBS): statement of intent. 52 p."
+  "deposited_date" : "22/11/2007",
+  "legislature" : ["Commons","Lords"],
+  "legislation" : "Immigration Asylum and Nationality Act 2006",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0128.zip",
+  "year" : "2007",
+  "description" : "I. Shutting down illegal working in the UK: illegal working actions plan update and next steps. Incl. results from consultation. 29 p. II. Sponsorship under the points based system (PBS): statement of intent. 52 p.",
   "department" : "Home Office Border and Immigration Agency"
 }

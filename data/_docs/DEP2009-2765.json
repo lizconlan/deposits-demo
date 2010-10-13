@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/10/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2765.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 24/10/2009 from David Hanson MP to Andrew Dismore MP regarding the response to the report 'Demonstrating respect for rights?'. 2 p."
+  "deposited_date" : "24/10/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2765.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 24/10/2009 from David Hanson MP to Andrew Dismore MP regarding the response to the report 'Demonstrating respect for rights?'. 2 p.",
   "department" : "Ministry of Justice"
 }

@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "15/01/2008"
-  "legislature" : Commons
-  "legislation" : "Payments into the Olympic Lottery Distribution Fund etc Order 2007"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0107.tif"
-  "year" : "2008"
-  "description" : "Letter dated 27/11/2007 from Anne Wright, Chair, to James Purnell MP regarding the likely returns from the third licence to operate the National Lottery. 2 p."
+  "deposited_date" : "15/01/2008",
+  "legislature" : ["Commons"],
+  "legislation" : "Payments into the Olympic Lottery Distribution Fund etc Order 2007",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0107.tif",
+  "year" : "2008",
+  "description" : "Letter dated 27/11/2007 from Anne Wright, Chair, to James Purnell MP regarding the likely returns from the third licence to operate the National Lottery. 2 p.",
   "department" : "National Lottery Commission Dept for Culture Media and Sport"
 }

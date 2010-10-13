@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/02/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2417.xls"
-  "year" : "2009"
-  "description" : "Tables showing all state funded nursery, primary, secondary, special schools and pupil referral units with between 30% and 50% of pupils eligible for free school meals. 2 p."
+  "deposited_date" : "01/02/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2417.xls",
+  "year" : "2009",
+  "description" : "Tables showing all state funded nursery, primary, secondary, special schools and pupil referral units with between 30% and 50% of pupils eligible for free school meals. 2 p.",
   "department" : "Dept for Children, Schools and Families"
 }

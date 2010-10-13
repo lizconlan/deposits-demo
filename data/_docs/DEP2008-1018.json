@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1018.doc"
-  "year" : "2008"
-  "description" : "Table showing a) the revenue funding allocated per pupil by local authorities to their individual schools (including grants) for 2006-07 and 2007-08 and (b) school based expenditure per pupil figures for 2006-07. 7 p."
+  "deposited_date" : "18/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1018.doc",
+  "year" : "2008",
+  "description" : "Table showing a) the revenue funding allocated per pupil by local authorities to their individual schools (including grants) for 2006-07 and 2007-08 and (b) school based expenditure per pupil figures for 2006-07. 7 p.",
   "department" : "Dept for Children Schools and Families"
 }

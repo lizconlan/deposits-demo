@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/09/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2375.tif"
-  "year" : "2009"
-  "description" : "Letter dated 08/09/2009 from Dave Jones, Assistant Chief Constable, to William McCrea MP regarding the number of death threats issued by dissident Republicans to former security forces and members of the public in the Magherafelt District Council area."
+  "deposited_date" : "08/09/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2375.tif",
+  "year" : "2009",
+  "description" : "Letter dated 08/09/2009 from Dave Jones, Assistant Chief Constable, to William McCrea MP regarding the number of death threats issued by dissident Republicans to former security forces and members of the public in the Magherafelt District Council area.",
   "department" : "Northern Ireland Office Police Service of Northern Ireland"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/02/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0475.zip"
-  "year" : "2009"
-  "description" : "I. Reducing the data burden on police forces in England and Wales. 16 p. II. Reducing bureaucracy in policing. 52 p."
+  "deposited_date" : "23/02/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0475.zip",
+  "year" : "2009",
+  "description" : "I. Reducing the data burden on police forces in England and Wales. 16 p. II. Reducing bureaucracy in policing. 52 p.",
   "department" : "Home Office"
 }

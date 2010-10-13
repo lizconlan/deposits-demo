@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "08/01/2010"
-  "legislature" : Lords
-  "legislation" : "Equality Bill 2008-09 then 2009-10"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0058.zip"
-  "year" : "2010"
-  "description" : "Letter dated 08/01/2010 from Baroness Royall to Lord Lester regarding the Equality Bill. Inc The Equality Bill: Duty to reduce socio-economic inequalities - guide. 50 p."
+  "deposited_date" : "08/01/2010",
+  "legislature" : ["Lords"],
+  "legislation" : "Equality Bill 2008-09 then 2009-10",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0058.zip",
+  "year" : "2010",
+  "description" : "Letter dated 08/01/2010 from Baroness Royall to Lord Lester regarding the Equality Bill. Inc The Equality Bill: Duty to reduce socio-economic inequalities - guide. 50 p.",
   "department" : "Government Equalities Office"
 }

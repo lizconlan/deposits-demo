@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0688.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 12/02/2008 from Ed Richards, Chief Executive, to Madeleine Moon MP regarding the number of mobile telecommunication masts that are shared between companies."
+  "deposited_date" : "12/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0688.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 12/02/2008 from Ed Richards, Chief Executive, to Madeleine Moon MP regarding the number of mobile telecommunication masts that are shared between companies.",
   "department" : "Office of Communications Dept for Business Enterprise and Regulatory Reform"
 }

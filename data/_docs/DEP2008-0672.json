@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "07/03/2008"
-  "legislature" : Commons
-  "legislation" : "Child Maintenance and Other Payments Bill"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0672.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 03/03/2008 from Lord McKenzie to Lord Kirkwood of Kirkhope regarding issues relating to the disclosure of information and Scottish provisions of the Child Maintenance and Other Payments Bill. 3 p."
+  "deposited_date" : "07/03/2008",
+  "legislature" : ["Commons"],
+  "legislation" : "Child Maintenance and Other Payments Bill",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0672.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 03/03/2008 from Lord McKenzie to Lord Kirkwood of Kirkhope regarding issues relating to the disclosure of information and Scottish provisions of the Child Maintenance and Other Payments Bill. 3 p.",
   "department" : "Dept for Work and Pensions"
 }

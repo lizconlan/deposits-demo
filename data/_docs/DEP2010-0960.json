@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/03/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0960.zip"
-  "year" : "2010"
-  "description" : "I. Physical punishment: improving consistency and protection. An independent Report by Sir Roger Singleton, Chief Adviser on the Safety of Children. March 2010. 20 p. II. Letter dated 30/03/2010 from Ed Balls MP to Sir Roger Singleton regarding the report the physical punishment of children. 1 p. III. Letter dated 30/03/2010 from Sir Roger Singleton to Ed Balls MP regarding his report on the physical punishment of children. 1 p. III."
+  "deposited_date" : "30/03/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0960.zip",
+  "year" : "2010",
+  "description" : "I. Physical punishment: improving consistency and protection. An independent Report by Sir Roger Singleton, Chief Adviser on the Safety of Children. March 2010. 20 p. II. Letter dated 30/03/2010 from Ed Balls MP to Sir Roger Singleton regarding the report the physical punishment of children. 1 p. III. Letter dated 30/03/2010 from Sir Roger Singleton to Ed Balls MP regarding his report on the physical punishment of children. 1 p. III.",
   "department" : "Department for Children, Schools and Families"
 }

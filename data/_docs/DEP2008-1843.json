@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1843.xls"
-  "year" : "2008"
-  "description" : "Table showing percentage of children aged 0-15 dependent on a parent/guardian claiming Jobseeker's Allowance: 50 local authorities with the highest proportion: April 2007. 2 p."
+  "deposited_date" : "08/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1843.xls",
+  "year" : "2008",
+  "description" : "Table showing percentage of children aged 0-15 dependent on a parent/guardian claiming Jobseeker's Allowance: 50 local authorities with the highest proportion: April 2007. 2 p.",
   "department" : "Dept for Work and Pensions"
 }

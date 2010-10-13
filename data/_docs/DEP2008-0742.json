@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0742.zip"
-  "year" : "2008"
-  "description" : "Department for Transport travel plan [undated]. Incl. annexes. 24 p."
+  "deposited_date" : "14/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0742.zip",
+  "year" : "2008",
+  "description" : "Department for Transport travel plan [undated]. Incl. annexes. 24 p.",
   "department" : "Dept for Transport"
 }

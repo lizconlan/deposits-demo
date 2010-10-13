@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0644.doc"
-  "year" : "2010"
-  "description" : "Table showing all-purpose trunk roads where the Highway Agency has responsibility for litter collection either through their maintaining contractors or DBFO concessionaires. 3 p."
+  "deposited_date" : "11/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0644.doc",
+  "year" : "2010",
+  "description" : "Table showing all-purpose trunk roads where the Highway Agency has responsibility for litter collection either through their maintaining contractors or DBFO concessionaires. 3 p.",
   "department" : "Department for Transport"
 }

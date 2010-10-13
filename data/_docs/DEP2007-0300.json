@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0300.xls"
-  "year" : "2007"
-  "description" : "Table showing schools which have (a) applied for and (b) been granted (i) trust and (ii) foundation status since 1st September 2006, broken down by local authority."
+  "deposited_date" : "11/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0300.xls",
+  "year" : "2007",
+  "description" : "Table showing schools which have (a) applied for and (b) been granted (i) trust and (ii) foundation status since 1st September 2006, broken down by local authority.",
   "department" : "Dept for Children Schools and Families"
 }

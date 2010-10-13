@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/02/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0370.doc"
-  "year" : "2009"
-  "description" : "Specification for two Contact Points, open to tender with the Department for Communities and Local Governments European Policy & Programmes division, for the North West Europe Territorial Cooperation Programme contract. 6 p."
+  "deposited_date" : "09/02/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0370.doc",
+  "year" : "2009",
+  "description" : "Specification for two Contact Points, open to tender with the Department for Communities and Local Governments European Policy & Programmes division, for the North West Europe Territorial Cooperation Programme contract. 6 p.",
   "department" : "Dept for Communities and Local Government"
 }

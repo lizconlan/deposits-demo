@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0772.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 22/03/2010 from Yvette Cooper MP to Terry Rooney MP regarding the efficiency programme for the Department for Work and Pensions. Inc the report. 25 p."
+  "deposited_date" : "22/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0772.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 22/03/2010 from Yvette Cooper MP to Terry Rooney MP regarding the efficiency programme for the Department for Work and Pensions. Inc the report. 25 p.",
   "department" : "Department for Work and Pensions"
 }

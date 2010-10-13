@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2678.pdf"
-  "year" : "2008"
-  "description" : "Chief Medical Officer guidance in 1994 in PL CMO(94)8 and PL CNO(94)10. Termination of pregnancy by medical methods: the role of the registered nurse or midwife and others who are not registered medical practitioners. 2 p."
+  "deposited_date" : "11/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2678.pdf",
+  "year" : "2008",
+  "description" : "Chief Medical Officer guidance in 1994 in PL CMO(94)8 and PL CNO(94)10. Termination of pregnancy by medical methods: the role of the registered nurse or midwife and others who are not registered medical practitioners. 2 p.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2321.xls"
-  "year" : "2008"
-  "description" : "Table showing the key performance indicators in the service-level agreements attached to the multi-professional education and training levy (MPET) for 200708. 1 p."
+  "deposited_date" : "08/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2321.xls",
+  "year" : "2008",
+  "description" : "Table showing the key performance indicators in the service-level agreements attached to the multi-professional education and training levy (MPET) for 200708. 1 p.",
   "department" : "Dept of Health"
 }

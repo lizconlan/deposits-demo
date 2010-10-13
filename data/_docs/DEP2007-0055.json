@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/02/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0055.pdf"
-  "year" : "2007"
-  "description" : "Letter dated 29/03/2007 from Ed Richards, Chief Executive, to Hugo Swire MP regarding complaints made to Ofcom on Big Brother."
+  "deposited_date" : "20/02/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0055.pdf",
+  "year" : "2007",
+  "description" : "Letter dated 29/03/2007 from Ed Richards, Chief Executive, to Hugo Swire MP regarding complaints made to Ofcom on Big Brother.",
   "department" : "Office of Communications"
 }

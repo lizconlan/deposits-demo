@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "14/05/2008"
-  "legislature" : Commons
-  "legislation" : "Energy Bill"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1260.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 14/05/2008 from Malcolm Wicks MP to John Robertson MP regarding the Energy Bill report stage. 3 p."
+  "deposited_date" : "14/05/2008",
+  "legislature" : ["Commons"],
+  "legislation" : "Energy Bill",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1260.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 14/05/2008 from Malcolm Wicks MP to John Robertson MP regarding the Energy Bill report stage. 3 p.",
   "department" : "Dept for Business Enterprise and Regulatory Reform"
 }

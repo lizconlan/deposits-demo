@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/12/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0003.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 22/12/2010 from Lord Bach to Lord Elystan-Morgan regarding drugs in prisons. 3 p."
+  "deposited_date" : "22/12/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0003.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 22/12/2010 from Lord Bach to Lord Elystan-Morgan regarding drugs in prisons. 3 p.",
   "department" : "Ministry of Justice"
 }

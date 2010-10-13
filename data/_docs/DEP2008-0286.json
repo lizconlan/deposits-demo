@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "31/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0286.pdf"
-  "year" : "2008"
-  "description" : "Charging for domestic waste: combining enviroment and equity considerations. By Simon Dresner and Paul Ekins. PSI Research Discussion Paper 20. 50 p."
+  "deposited_date" : "31/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0286.pdf",
+  "year" : "2008",
+  "description" : "Charging for domestic waste: combining enviroment and equity considerations. By Simon Dresner and Paul Ekins. PSI Research Discussion Paper 20. 50 p.",
   "department" : "Policy Studies Institute Dept for Environment, Food and Rural Affairs"
 }

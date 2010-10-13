@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "29/03/2010"
-  "legislature" : Commons
-  "notes" : "HL3303 - part I only"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0925.zip"
-  "year" : "2010"
-  "description" : "Valuing People Now: a new three-year strategy for people with learning disabilities. Making it happen for everyone. Inc equality impact assessments. 281 p."
+  "deposited_date" : "29/03/2010",
+  "legislature" : ["Commons"],
+  "notes" : "HL3303 - part I only",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0925.zip",
+  "year" : "2010",
+  "description" : "Valuing People Now: a new three-year strategy for people with learning disabilities. Making it happen for everyone. Inc equality impact assessments. 281 p.",
   "department" : "Department of Health"
 }

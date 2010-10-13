@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0361.zip"
-  "year" : "2007"
-  "description" : "Consultation on a recreational sea angling strategy for England. 25 p."
+  "deposited_date" : "17/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0361.zip",
+  "year" : "2007",
+  "description" : "Consultation on a recreational sea angling strategy for England. 25 p.",
   "department" : "Dept for Environment Food and Rural Affairs"
 }

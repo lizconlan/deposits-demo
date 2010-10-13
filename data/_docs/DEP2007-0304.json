@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0304.doc"
-  "year" : "2007"
-  "description" : "Taxes Management Act 1970: The Divisions of General Commissioners (Amendment No.2) Order 2007. 3 p."
+  "deposited_date" : "11/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0304.doc",
+  "year" : "2007",
+  "description" : "Taxes Management Act 1970: The Divisions of General Commissioners (Amendment No.2) Order 2007. 3 p.",
   "department" : "Ministry of Justice"
 }

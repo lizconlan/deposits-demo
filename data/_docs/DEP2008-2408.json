@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "20/10/2008"
-  "legislature" : CommonsLords
-  "legislation" : "Pensions Bill 2007-08 Pensions Act 2004"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2408.doc"
-  "year" : "2008"
-  "description" : "The powers of the Pensions Regulator: amendments to the anti-avoidance measures in the Pensions Act 2004. Government response to the consultation. 51 p."
+  "deposited_date" : "20/10/2008",
+  "legislature" : ["Commons","Lords"],
+  "legislation" : "Pensions Bill 2007-08 Pensions Act 2004",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2408.doc",
+  "year" : "2008",
+  "description" : "The powers of the Pensions Regulator: amendments to the anti-avoidance measures in the Pensions Act 2004. Government response to the consultation. 51 p.",
   "department" : "Dept for Work and Pensions"
 }

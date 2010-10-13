@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/03/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0797.zip"
-  "year" : "2009"
-  "description" : "I. Consultation letter dated 12/03/2009 regarding the Carbon Reduction Commitment. 4 p. II. Consultation on the Draft Order to Implement the Carbon Reduction Commitment. 214 p. III. Updated Regulatory Impact Assessment on the Carbon Reduction Commitment. 63 p. IV. Draft Statutory Instrument. Climate Change: The Carbon Reduction Commitment Order 2010. 93 p. V. List of consultees. 194 p."
+  "deposited_date" : "12/03/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0797.zip",
+  "year" : "2009",
+  "description" : "I. Consultation letter dated 12/03/2009 regarding the Carbon Reduction Commitment. 4 p. II. Consultation on the Draft Order to Implement the Carbon Reduction Commitment. 214 p. III. Updated Regulatory Impact Assessment on the Carbon Reduction Commitment. 63 p. IV. Draft Statutory Instrument. Climate Change: The Carbon Reduction Commitment Order 2010. 93 p. V. List of consultees. 194 p.",
   "department" : "Dept of Energy and Climate Change"
 }

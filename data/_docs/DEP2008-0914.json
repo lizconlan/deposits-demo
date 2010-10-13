@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "01/04/2008"
-  "legislature" : Lords
-  "legislation" : "Criminal Justice and Immigration Bill"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0914.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 01/04/2008 from Lord Hunt of Kings Heath to Baroness Howe of Idlicote regarding individuals aged under 18 and legal aid. Includes an annex on legal aid. 4 p."
+  "deposited_date" : "01/04/2008",
+  "legislature" : ["Lords"],
+  "legislation" : "Criminal Justice and Immigration Bill",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0914.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 01/04/2008 from Lord Hunt of Kings Heath to Baroness Howe of Idlicote regarding individuals aged under 18 and legal aid. Includes an annex on legal aid. 4 p.",
   "department" : "Ministry of Justice"
 }

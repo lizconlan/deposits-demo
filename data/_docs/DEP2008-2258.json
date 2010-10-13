@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/10/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2258.pdf"
-  "year" : "2008"
-  "description" : "Pensions Bill 2007. Peers Information Pack for Lords Report. 75 p."
+  "deposited_date" : "01/10/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2258.pdf",
+  "year" : "2008",
+  "description" : "Pensions Bill 2007. Peers Information Pack for Lords Report. 75 p.",
   "department" : "Dept for Work and Pensions"
 }

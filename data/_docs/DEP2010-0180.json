@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/01/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0180.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 21/01/2010 from Lord Faulkner to Lord Colwyn regarding Live Music Bill. 1 p."
+  "deposited_date" : "15/01/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0180.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 21/01/2010 from Lord Faulkner to Lord Colwyn regarding Live Music Bill. 1 p.",
   "department" : "Department for Culture, Media and Sport"
 }

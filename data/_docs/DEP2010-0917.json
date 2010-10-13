@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/12/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0917.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 05/01/2010 from Jennie Price (Chief Executive, Sport England) to Nick Hurd MP regarding payments made by Sport England public affairs companies. 1 p."
+  "deposited_date" : "07/12/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0917.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 05/01/2010 from Jennie Price (Chief Executive, Sport England) to Nick Hurd MP regarding payments made by Sport England public affairs companies. 1 p.",
   "department" : "Department for Culture, Media and Sport"
 }

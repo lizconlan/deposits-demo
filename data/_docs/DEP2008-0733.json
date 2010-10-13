@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "13/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0733.doc"
-  "year" : "2008"
-  "description" : "CC9 - Speaking out: guidance on campaigning and political activity by charities. 42 p."
+  "deposited_date" : "13/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0733.doc",
+  "year" : "2008",
+  "description" : "CC9 - Speaking out: guidance on campaigning and political activity by charities. 42 p.",
   "department" : "Charity Commission Cabinet Office"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0333.doc"
-  "year" : "2007"
-  "description" : "Speech to Marie Stopes International Conference by Andrea Duncan, programme manager for sexual health and HIV, on 24th October 2007. 8 p."
+  "deposited_date" : "12/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0333.doc",
+  "year" : "2007",
+  "description" : "Speech to Marie Stopes International Conference by Andrea Duncan, programme manager for sexual health and HIV, on 24th October 2007. 8 p.",
   "department" : "Dept of Health"
 }

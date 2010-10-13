@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/07/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1424.doc"
-  "year" : "2010"
-  "description" : "Department of Education capital review - terms of reference. 3 p."
+  "deposited_date" : "05/07/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1424.doc",
+  "year" : "2010",
+  "description" : "Department of Education capital review - terms of reference. 3 p.",
   "department" : "Department for Education"
 }

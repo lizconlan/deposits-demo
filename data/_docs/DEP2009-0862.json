@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "17/03/2009"
-  "legislature" : Lords
-  "legislation" : "Local Democracy, Economic Development and Construction Bill 2008-09"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0862.tif"
-  "year" : "2009"
-  "description" : "Letter dated 17/03/2009 from Baroness Andrews to Lord Graham of Edmonton regarding the legal provisions in Clause 16 of the Local Democracy, Economic Development and Construction Bill 2008-09 which relate to public meetings and petitions. 1 p."
+  "deposited_date" : "17/03/2009",
+  "legislature" : ["Lords"],
+  "legislation" : "Local Democracy, Economic Development and Construction Bill 2008-09",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0862.tif",
+  "year" : "2009",
+  "description" : "Letter dated 17/03/2009 from Baroness Andrews to Lord Graham of Edmonton regarding the legal provisions in Clause 16 of the Local Democracy, Economic Development and Construction Bill 2008-09 which relate to public meetings and petitions. 1 p.",
   "department" : "Dept for Communities and Local Government"
 }

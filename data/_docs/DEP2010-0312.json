@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/02/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0312.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 15/03/2010 from Lord McKenzie of Luton to John McDonnell MP regarding maximum working temperatures. Incl. annexes. 5 p."
+  "deposited_date" : "24/02/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0312.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 15/03/2010 from Lord McKenzie of Luton to John McDonnell MP regarding maximum working temperatures. Incl. annexes. 5 p.",
   "department" : "Department for Work and Pensions"
 }

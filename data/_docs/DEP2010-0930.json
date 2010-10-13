@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/03/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0930.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 24/03/2010 from Baroness Thornton to Baroness Masham of Ilton regarding prescription drugs. 1 p."
+  "deposited_date" : "17/03/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0930.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 24/03/2010 from Baroness Thornton to Baroness Masham of Ilton regarding prescription drugs. 1 p.",
   "department" : "Department of Health"
 }

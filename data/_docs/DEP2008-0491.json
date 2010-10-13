@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0491.xls"
-  "year" : "2008"
-  "description" : "Tables showing police officer strengths from 1997 to 2007 persons arrested and total offences from 1999 to 2006, broken down by police force area."
+  "deposited_date" : "18/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0491.xls",
+  "year" : "2008",
+  "description" : "Tables showing police officer strengths from 1997 to 2007 persons arrested and total offences from 1999 to 2006, broken down by police force area.",
   "department" : "Home Office"
 }

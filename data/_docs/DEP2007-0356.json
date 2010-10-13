@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "13/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0356.zip"
-  "year" : "2007"
-  "description" : "I. Diagnoses and rates of selected STIs seen at GUM clinics for the years 2002 to 2006. National & Strategic Health Authority Level: summary tables. 33 p. II. Table showing the number of chlamydia diagnoses by PCT of residence and age group for the years 2003/04 to 2005/06. 13 p."
+  "deposited_date" : "13/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0356.zip",
+  "year" : "2007",
+  "description" : "I. Diagnoses and rates of selected STIs seen at GUM clinics for the years 2002 to 2006. National & Strategic Health Authority Level: summary tables. 33 p. II. Table showing the number of chlamydia diagnoses by PCT of residence and age group for the years 2003/04 to 2005/06. 13 p.",
   "department" : "Dept of Health"
 }

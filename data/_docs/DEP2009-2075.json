@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/07/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2075.zip"
-  "year" : "2009"
-  "description" : "I. Letter dated 14/07/2009 from Bridget Prentice MP to the Law Commission regarding the Government's response to Housing: Proportionate Dispute Resolution LAWCOM 309. 3 p. II. Table of Government recommendations in response to Housing: Proportionate Dispute Resolution. 6 p."
+  "deposited_date" : "16/07/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2075.zip",
+  "year" : "2009",
+  "description" : "I. Letter dated 14/07/2009 from Bridget Prentice MP to the Law Commission regarding the Government's response to Housing: Proportionate Dispute Resolution LAWCOM 309. 3 p. II. Table of Government recommendations in response to Housing: Proportionate Dispute Resolution. 6 p.",
   "department" : "Ministry of Justice"
 }

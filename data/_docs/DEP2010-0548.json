@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0548.xls"
-  "year" : "2010"
-  "description" : "Table showing estimates of the number of empty local authority owned dwellings and stock and the the length of time they were empty, in London, from 2005 to 2009. 5 p."
+  "deposited_date" : "01/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0548.xls",
+  "year" : "2010",
+  "description" : "Table showing estimates of the number of empty local authority owned dwellings and stock and the the length of time they were empty, in London, from 2005 to 2009. 5 p.",
   "department" : "Communities and Local Government"
 }

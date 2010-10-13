@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0384.pdf"
-  "year" : "2008"
-  "description" : "Letter from Alan Johnson MP to Andrew Mackinlay MP regarding patients that do not pay for prescriptions. 1 p."
+  "deposited_date" : "05/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0384.pdf",
+  "year" : "2008",
+  "description" : "Letter from Alan Johnson MP to Andrew Mackinlay MP regarding patients that do not pay for prescriptions. 1 p.",
   "department" : "Dept of Health"
 }

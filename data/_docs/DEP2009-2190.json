@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/07/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2190.doc"
-  "year" : "2009"
-  "description" : "List of Jobcentre Plus sites requiring estates work to meet capacity pressures. 15 p"
+  "deposited_date" : "21/07/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2190.doc",
+  "year" : "2009",
+  "description" : "List of Jobcentre Plus sites requiring estates work to meet capacity pressures. 15 p",
   "department" : "Dept for Work and Pensions"
 }

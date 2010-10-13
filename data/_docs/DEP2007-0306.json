@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0306.pdf"
-  "year" : "2007"
-  "description" : "Delivering simplification plans: a summary. 48 p."
+  "deposited_date" : "04/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0306.pdf",
+  "year" : "2007",
+  "description" : "Delivering simplification plans: a summary. 48 p.",
   "department" : "Dept for Business Enterprise and Regulatory Reform"
 }

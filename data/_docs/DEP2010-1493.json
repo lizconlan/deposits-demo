@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/07/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1493.pdf"
-  "year" : "2010"
-  "description" : "HFEA Research Licence Committee Meeting-19 May 2010. Minutes-Item 2: Centre 0017 (Newcastle Fertility Centre at LIFE) - application to vary research licence R0152. 4 p."
+  "deposited_date" : "19/07/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1493.pdf",
+  "year" : "2010",
+  "description" : "HFEA Research Licence Committee Meeting-19 May 2010. Minutes-Item 2: Centre 0017 (Newcastle Fertility Centre at LIFE) - application to vary research licence R0152. 4 p.",
   "department" : "Department of Health Human Fertilisation and Embryology Authority"
 }

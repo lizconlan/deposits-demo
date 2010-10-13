@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0124.doc"
-  "year" : "2008"
-  "description" : "Table showing the number of men and women aged 80 years and over receiving the state retirement pension as at March 2007, broken down by consitituency. 12 p."
+  "deposited_date" : "16/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0124.doc",
+  "year" : "2008",
+  "description" : "Table showing the number of men and women aged 80 years and over receiving the state retirement pension as at March 2007, broken down by consitituency. 12 p.",
   "department" : "Dept for Work and Pensions"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/09/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2238.doc"
-  "year" : "2008"
-  "description" : "Summaries of the Ministry of Defence external assistance expenditure: financial year 2007/08. 3 p."
+  "deposited_date" : "18/09/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2238.doc",
+  "year" : "2008",
+  "description" : "Summaries of the Ministry of Defence external assistance expenditure: financial year 2007/08. 3 p.",
   "department" : "Ministry of Defence"
 }

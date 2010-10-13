@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "28/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0591.xls"
-  "year" : "2008"
-  "description" : "Table showing medical and dental staff working within the Obstetrics and Gynaecology specialty by organisation within each Strategic Health Authority and grade, for each year from 1997 to 2006. 3 p."
+  "deposited_date" : "28/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0591.xls",
+  "year" : "2008",
+  "description" : "Table showing medical and dental staff working within the Obstetrics and Gynaecology specialty by organisation within each Strategic Health Authority and grade, for each year from 1997 to 2006. 3 p.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/04/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1180.zip"
-  "year" : "2009"
-  "description" : "Tables showing monthly End of custody (ECL) releases by offence group and prison, for the priod July 2007 to February 2009. 15 p."
+  "deposited_date" : "21/04/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1180.zip",
+  "year" : "2009",
+  "description" : "Tables showing monthly End of custody (ECL) releases by offence group and prison, for the priod July 2007 to February 2009. 15 p.",
   "department" : "Ministry of Justice"
 }

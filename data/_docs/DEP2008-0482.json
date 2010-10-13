@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0482.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 15/02/2008 from Ed Richards, Chief Executive, to Alistair Carmichael regarding the review of charges for calls made to 0870 numbers."
+  "deposited_date" : "15/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0482.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 15/02/2008 from Ed Richards, Chief Executive, to Alistair Carmichael regarding the review of charges for calls made to 0870 numbers.",
   "department" : "Office of Communications Dept for Business Enterprise and Regulatory Reform"
 }

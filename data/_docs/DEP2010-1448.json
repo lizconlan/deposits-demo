@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/07/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1448.doc"
-  "year" : "2010"
-  "description" : "Letter dated 12/07/2010 from John Hemming (Chairman, James Paget University Hospitals NHS Foundation Trust) to Brandon Lewis MP regarding the availability of statistics on avoidable deaths and deaths resulting from complications during surgery. 1 p."
+  "deposited_date" : "06/07/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1448.doc",
+  "year" : "2010",
+  "description" : "Letter dated 12/07/2010 from John Hemming (Chairman, James Paget University Hospitals NHS Foundation Trust) to Brandon Lewis MP regarding the availability of statistics on avoidable deaths and deaths resulting from complications during surgery. 1 p.",
   "department" : "Department of Health"
 }

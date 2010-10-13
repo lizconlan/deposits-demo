@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1868.xls"
-  "year" : "2008"
-  "description" : "Table showing how many back boilers have been replaced under the Warm Front scheme in (a) Jarrow Constituency, (b) South Tyneside, (c) the North East and (d) England for the years 2000/01 to 2007/08. 1 p."
+  "deposited_date" : "09/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1868.xls",
+  "year" : "2008",
+  "description" : "Table showing how many back boilers have been replaced under the Warm Front scheme in (a) Jarrow Constituency, (b) South Tyneside, (c) the North East and (d) England for the years 2000/01 to 2007/08. 1 p.",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2093.pdf"
-  "year" : "2008"
-  "description" : "Ambulance Services England 2007-2008. 33 p."
+  "deposited_date" : "29/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2093.pdf",
+  "year" : "2008",
+  "description" : "Ambulance Services England 2007-2008. 33 p.",
   "department" : "Dept of Health"
 }

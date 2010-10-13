@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/05/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1294.pdf"
-  "year" : "2009"
-  "description" : "Consultation paper on a new planning policy statement 4: planning for prosperous economies. 119 p."
+  "deposited_date" : "05/05/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1294.pdf",
+  "year" : "2009",
+  "description" : "Consultation paper on a new planning policy statement 4: planning for prosperous economies. 119 p.",
   "department" : "Dept for Communities and Local Government"
 }

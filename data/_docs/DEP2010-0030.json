@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0030.xls"
-  "year" : "2010"
-  "description" : "Table showing the cost incurred on purchasing rrt work/posters for Department of Transport ministers from Feb 2009 to Dec 2009. 1 p."
+  "deposited_date" : "06/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0030.xls",
+  "year" : "2010",
+  "description" : "Table showing the cost incurred on purchasing rrt work/posters for Department of Transport ministers from Feb 2009 to Dec 2009. 1 p.",
   "department" : "Department for Transport"
 }

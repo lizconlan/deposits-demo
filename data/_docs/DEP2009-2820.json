@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2820.doc"
-  "year" : "2009"
-  "description" : "Table showing median income of households, Before Housing Costs by region/country and tenure type, 2003/04-2005/06 to 2005/06-2007/08, £ per week, 2007/08 prices. 5 p."
+  "deposited_date" : "10/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2820.doc",
+  "year" : "2009",
+  "description" : "Table showing median income of households, Before Housing Costs by region/country and tenure type, 2003/04-2005/06 to 2005/06-2007/08, £ per week, 2007/08 prices. 5 p.",
   "department" : "Dept for Work and Pensions"
 }

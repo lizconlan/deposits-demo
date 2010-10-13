@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0251.doc"
-  "year" : "2008"
-  "description" : "Table showing number of primary school surplus places as at January 2007, broken down by type of school and local authority. 7 p."
+  "deposited_date" : "29/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0251.doc",
+  "year" : "2008",
+  "description" : "Table showing number of primary school surplus places as at January 2007, broken down by type of school and local authority. 7 p.",
   "department" : "Dept for Children Schools and Families"
 }

@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "11/11/2008"
-  "legislature" : Lords
-  "legislation" : "Mental Health Act 2007 (Consequential Amendments) Order 2008"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2671.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 11/11/2008 from Baroness Thornton to the Earl Howe regarding the Mental Health Act 2007 (Consequential Amendments) Order 2008. 2 p."
+  "deposited_date" : "11/11/2008",
+  "legislature" : ["Lords"],
+  "legislation" : "Mental Health Act 2007 (Consequential Amendments) Order 2008",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2671.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 11/11/2008 from Baroness Thornton to the Earl Howe regarding the Mental Health Act 2007 (Consequential Amendments) Order 2008. 2 p.",
   "department" : "Dept of Health"
 }

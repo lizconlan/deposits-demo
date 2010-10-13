@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "13/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2365.xls"
-  "year" : "2008"
-  "description" : "Table showing the average number of weekly hours of work and other purposeful activity, per prisoner per week, in July for the years 2003 to 2008. 26 p."
+  "deposited_date" : "13/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2365.xls",
+  "year" : "2008",
+  "description" : "Table showing the average number of weekly hours of work and other purposeful activity, per prisoner per week, in July for the years 2003 to 2008. 26 p.",
   "department" : "Ministry of Justice"
 }

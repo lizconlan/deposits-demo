@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/12/2007"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0416.pdf"
-  "year" : "2007"
-  "description" : "Letter dated 17/12/2007 from Baroness Ashton of Upholland to Lord Strathclyde regarding the government's defence budget for operations in Iraq and Afghanistan."
+  "deposited_date" : "17/12/2007",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0416.pdf",
+  "year" : "2007",
+  "description" : "Letter dated 17/12/2007 from Baroness Ashton of Upholland to Lord Strathclyde regarding the government's defence budget for operations in Iraq and Afghanistan.",
   "department" : "Leader of the House of Lords"
 }

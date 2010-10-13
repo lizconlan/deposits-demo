@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/07/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1915.docm"
-  "year" : "2008"
-  "description" : "Pension, Disability and Carers Service business plan 2008/09. 21 p."
+  "deposited_date" : "14/07/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1915.docm",
+  "year" : "2008",
+  "description" : "Pension, Disability and Carers Service business plan 2008/09. 21 p.",
   "department" : "Dept for Work and Pensions"
 }

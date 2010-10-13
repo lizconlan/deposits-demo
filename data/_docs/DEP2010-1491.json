@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/07/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1491.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 19/07/2010 from Lord McNally to Lord Dubs regarding prisons. 3 p."
+  "deposited_date" : "19/07/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1491.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 19/07/2010 from Lord McNally to Lord Dubs regarding prisons. 3 p.",
   "department" : "Ministry of Justice"
 }

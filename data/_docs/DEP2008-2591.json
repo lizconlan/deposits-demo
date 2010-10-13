@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2591.pdf"
-  "year" : "2008"
-  "description" : "Government guidance dated 12/03/2004 on local government investments. 7 p."
+  "deposited_date" : "05/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2591.pdf",
+  "year" : "2008",
+  "description" : "Government guidance dated 12/03/2004 on local government investments. 7 p.",
   "department" : "Office of the Deputy Prime Minister Dept for Communities and Local Government"
 }

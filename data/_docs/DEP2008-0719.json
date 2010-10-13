@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "11/03/2008"
-  "legislature" : Lords
-  "legislation" : "Children and Young Persons Bill (HL) 2007-08"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0719.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 11/03/2008 from Lord Adonis to Baroness Howarth of Breckland and other peers regarding the Children and Young Persons Bill: Government amendments. 1 p."
+  "deposited_date" : "11/03/2008",
+  "legislature" : ["Lords"],
+  "legislation" : "Children and Young Persons Bill (HL) 2007-08",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0719.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 11/03/2008 from Lord Adonis to Baroness Howarth of Breckland and other peers regarding the Children and Young Persons Bill: Government amendments. 1 p.",
   "department" : "Dept for Children Schools and Families"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2677.zip"
-  "year" : "2008"
-  "description" : "I. Guidance on Cancer Services: improving supportive and palliative care for adults with cancer. The manual. 209 p. II. End of life care strategy: promoting hight quality care for all adults at the end of life. 171 p."
+  "deposited_date" : "11/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2677.zip",
+  "year" : "2008",
+  "description" : "I. Guidance on Cancer Services: improving supportive and palliative care for adults with cancer. The manual. 209 p. II. End of life care strategy: promoting hight quality care for all adults at the end of life. 171 p.",
   "department" : "Dept of Health"
 }

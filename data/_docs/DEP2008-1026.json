@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1026.xls"
-  "year" : "2008"
-  "description" : "Table showing the number of exclusions in England due to physical assault against an adult in maintained primary, secondary and special schools for 2004/05, and secondary schools in 2005/06, broken down by local authority. 8 p."
+  "deposited_date" : "10/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1026.xls",
+  "year" : "2008",
+  "description" : "Table showing the number of exclusions in England due to physical assault against an adult in maintained primary, secondary and special schools for 2004/05, and secondary schools in 2005/06, broken down by local authority. 8 p.",
   "department" : "Dept for Children Schools and Families"
 }

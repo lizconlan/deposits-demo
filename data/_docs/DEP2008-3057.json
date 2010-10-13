@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/12/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3057.pdf"
-  "year" : "2008"
-  "description" : "International investment position portfolio investment and external debt statement. 6 p."
+  "deposited_date" : "08/12/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3057.pdf",
+  "year" : "2008",
+  "description" : "International investment position portfolio investment and external debt statement. 6 p.",
   "department" : "Cabinet Office"
 }

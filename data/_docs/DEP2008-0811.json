@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/03/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0811.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 18/03/2008 from Lord West of Spithead to Baroness Hanham regarding the recommendation in the Reviw of Policing by Sir Ronnie Flanagan relating to the Risk and Regulation Advisory Council (RRAC). 2 p."
+  "deposited_date" : "12/03/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0811.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 18/03/2008 from Lord West of Spithead to Baroness Hanham regarding the recommendation in the Reviw of Policing by Sir Ronnie Flanagan relating to the Risk and Regulation Advisory Council (RRAC). 2 p.",
   "department" : "Home Office"
 }

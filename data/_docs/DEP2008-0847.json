@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0847.xls"
-  "year" : "2008"
-  "description" : "Table showing response time duration by the Fire Service for each year from 2000 to 2006, broken down by county."
+  "deposited_date" : "26/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0847.xls",
+  "year" : "2008",
+  "description" : "Table showing response time duration by the Fire Service for each year from 2000 to 2006, broken down by county.",
   "department" : "Dept for Communities and Local Government"
 }

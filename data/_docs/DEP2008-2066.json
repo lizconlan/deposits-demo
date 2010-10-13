@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2066.tif"
-  "year" : "2008"
-  "description" : "Letter dated 22/07/2008 from Rosie Winterton MP to Louise Ellman MP regarding a new European regulation on the rights of disabled persons when travelling by air. Incl. press release dated 23/07/2008."
+  "deposited_date" : "24/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2066.tif",
+  "year" : "2008",
+  "description" : "Letter dated 22/07/2008 from Rosie Winterton MP to Louise Ellman MP regarding a new European regulation on the rights of disabled persons when travelling by air. Incl. press release dated 23/07/2008.",
   "department" : "Dept for Transport Civil Aviation Authority Equality and Human Rights Commission"
 }

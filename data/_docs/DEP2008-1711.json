@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/06/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1711.pdf"
-  "year" : "2008"
-  "description" : "Letter [undated] from Lord Darzi of Denham to Lord Jenkin regarding disorders associated with specific ethnic groups. 2 p."
+  "deposited_date" : "27/06/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1711.pdf",
+  "year" : "2008",
+  "description" : "Letter [undated] from Lord Darzi of Denham to Lord Jenkin regarding disorders associated with specific ethnic groups. 2 p.",
   "department" : "Dept of Health"
 }

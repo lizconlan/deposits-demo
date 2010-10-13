@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/07/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2129.xls"
-  "year" : "2009"
-  "description" : "Table showing figures for metered and unmetered water bills for each water company area from 1989/90 to 2009/10. 1 p."
+  "deposited_date" : "21/07/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2129.xls",
+  "year" : "2009",
+  "description" : "Table showing figures for metered and unmetered water bills for each water company area from 1989/90 to 2009/10. 1 p.",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/11/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2607.xls"
-  "year" : "2008"
-  "description" : "Table showing a) Total and Three Month Vacancy Rates and Numbers for All HCHS Doctors (excluding doctors in training and equivalents) by Strategic Health Authority and organisation and b) Total and Three Month Vacancy Rates and Numbers for All Consultants by specialty and Strategic Health Authority and organisation. 21 p."
+  "deposited_date" : "06/11/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2607.xls",
+  "year" : "2008",
+  "description" : "Table showing a) Total and Three Month Vacancy Rates and Numbers for All HCHS Doctors (excluding doctors in training and equivalents) by Strategic Health Authority and organisation and b) Total and Three Month Vacancy Rates and Numbers for All Consultants by specialty and Strategic Health Authority and organisation. 21 p.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0523.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 24/02/2010 from Ann Keen MP to Angela Watkinson MP regarding the Health for North East London programme and maternity services at King George Hospital. 1 p."
+  "deposited_date" : "23/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0523.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 24/02/2010 from Ann Keen MP to Angela Watkinson MP regarding the Health for North East London programme and maternity services at King George Hospital. 1 p.",
   "department" : "Department of Health"
 }

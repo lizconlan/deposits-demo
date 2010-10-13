@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/03/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0616.tif"
-  "year" : "2008"
-  "description" : "Letter dated 29/02/2008 from Baroness Taylor of Bolton to Lord Astor of Hever regarding the cost of employing civilian medical practitioners to work for the MOD during 2006-07."
+  "deposited_date" : "03/03/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0616.tif",
+  "year" : "2008",
+  "description" : "Letter dated 29/02/2008 from Baroness Taylor of Bolton to Lord Astor of Hever regarding the cost of employing civilian medical practitioners to work for the MOD during 2006-07.",
   "department" : "Ministry of Defence"
 }

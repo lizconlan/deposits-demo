@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3010.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 01/11/2009 from Alan Cook (Managing Director, Post Office) to Greg Hands MP regarding funding for the National Federation of SubPostmasters. 1 p."
+  "deposited_date" : "11/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3010.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 01/11/2009 from Alan Cook (Managing Director, Post Office) to Greg Hands MP regarding funding for the National Federation of SubPostmasters. 1 p.",
   "department" : ""
 }

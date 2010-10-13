@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/07/2008"
-  "legislature" : CommonsLords
-  "notes" : "Available only as a CD-ROM in the Commons and Lords libraries."
-  "year" : "2008"
-  "description" : "North east of England regional spatial strategy. [Final version] Incl. all accompanying documents and addenda. [CD-ROM]"
+  "deposited_date" : "15/07/2008",
+  "legislature" : ["Commons","Lords"],
+  "notes" : "Available only as a CD-ROM in the Commons and Lords libraries.",
+  "year" : "2008",
+  "description" : "North east of England regional spatial strategy. [Final version] Incl. all accompanying documents and addenda. [CD-ROM]",
   "department" : "Government Office for the North East Dept for Communities and Local Government"
 }

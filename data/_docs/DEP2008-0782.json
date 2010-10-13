@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/03/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0782.pdf"
-  "year" : "2008"
-  "description" : "Table showing breakdown of offences prosecuted under the Health and Safety at Work etc. Act 1974 and other legislation for the years 2004/05 to 2006/07. 6 p."
+  "deposited_date" : "19/03/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0782.pdf",
+  "year" : "2008",
+  "description" : "Table showing breakdown of offences prosecuted under the Health and Safety at Work etc. Act 1974 and other legislation for the years 2004/05 to 2006/07. 6 p.",
   "department" : "Dept for Work and Pensions"
 }

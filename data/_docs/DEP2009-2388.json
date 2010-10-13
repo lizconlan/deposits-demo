@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/08/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2388.zip"
-  "year" : "2009"
-  "description" : "Letter dated 11/08/2009 from Lord Hunt of Kings Heath to Alan Whitehead MP regarding the Committee on radioactive waste management report on Geological disposal of higher activity radioactive wastes. Inc report. 75 p."
+  "deposited_date" : "11/08/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2388.zip",
+  "year" : "2009",
+  "description" : "Letter dated 11/08/2009 from Lord Hunt of Kings Heath to Alan Whitehead MP regarding the Committee on radioactive waste management report on Geological disposal of higher activity radioactive wastes. Inc report. 75 p.",
   "department" : "Dept of Energy and Climate Change Radioactive Waste Management Committee"
 }

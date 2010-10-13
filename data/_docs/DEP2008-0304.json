@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0304.tif"
-  "year" : "2008"
-  "description" : "Letter dated 01/02/2008 from Jim Fitzpatrick MP to Helen Southworth MP regarding the safety of Longer and Heavier Goods Vehicles. 2 p."
+  "deposited_date" : "01/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0304.tif",
+  "year" : "2008",
+  "description" : "Letter dated 01/02/2008 from Jim Fitzpatrick MP to Helen Southworth MP regarding the safety of Longer and Heavier Goods Vehicles. 2 p.",
   "department" : "Dept for Transport"
 }

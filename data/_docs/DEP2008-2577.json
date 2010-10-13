@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2577.xls"
-  "year" : "2008"
-  "description" : "Table showing total number of Housing Benefit and Council Tax Benefit (HB and CTB) claims outstanding on the last day of the fourth quarter of 2007/08. 11 p."
+  "deposited_date" : "04/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2577.xls",
+  "year" : "2008",
+  "description" : "Table showing total number of Housing Benefit and Council Tax Benefit (HB and CTB) claims outstanding on the last day of the fourth quarter of 2007/08. 11 p.",
   "department" : "Dept for Work and Pensions"
 }

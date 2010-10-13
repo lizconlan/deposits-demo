@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/11/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3090.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 07/12/2009 from Baroness Kinnock to Lord Maginnis regarding Cyprus and Turkey. 2 p."
+  "deposited_date" : "19/11/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3090.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 07/12/2009 from Baroness Kinnock to Lord Maginnis regarding Cyprus and Turkey. 2 p.",
   "department" : "Foreign and Commonwealth Office"
 }

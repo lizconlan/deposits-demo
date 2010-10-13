@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/07/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1513.zip"
-  "year" : "2010"
-  "description" : "I. Letter dated 19/07/2010 from Damian Green MP to Keith Vaz MP regarding UK Border Agency updates. 1 p. II. Letter dated 19/07/2010 from Lin Homer, Chief Executive, to Keith Vaz MP regarding foreign national prisoners. 8 p."
+  "deposited_date" : "19/07/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1513.zip",
+  "year" : "2010",
+  "description" : "I. Letter dated 19/07/2010 from Damian Green MP to Keith Vaz MP regarding UK Border Agency updates. 1 p. II. Letter dated 19/07/2010 from Lin Homer, Chief Executive, to Keith Vaz MP regarding foreign national prisoners. 8 p.",
   "department" : "Border and Immigration Agency Home Office"
 }

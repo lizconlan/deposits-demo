@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/02/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0760.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 16/02/2009 from David Hughes, Regional Director, Learning and Skills Council, to David Laws MP regarding Education Maintenance Allowance (EMA). 1 p."
+  "deposited_date" : "16/02/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0760.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 16/02/2009 from David Hughes, Regional Director, Learning and Skills Council, to David Laws MP regarding Education Maintenance Allowance (EMA). 1 p.",
   "department" : "Dept for Children, Schools and Families"
 }

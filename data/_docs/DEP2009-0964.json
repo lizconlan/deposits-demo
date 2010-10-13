@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0964.pdf"
-  "year" : "2009"
-  "description" : "Capping principles 2009/10 [council tax]. 2 p."
+  "deposited_date" : "26/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0964.pdf",
+  "year" : "2009",
+  "description" : "Capping principles 2009/10 [council tax]. 2 p.",
   "department" : "Dept for Communities and Local Government"
 }

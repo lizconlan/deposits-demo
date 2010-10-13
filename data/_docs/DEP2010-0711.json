@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0711.doc"
-  "year" : "2010"
-  "description" : "A copy of the minutes of the meeting of the ministerial advisory group on dementia research held on 24 February 2010. 6 p."
+  "deposited_date" : "16/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0711.doc",
+  "year" : "2010",
+  "description" : "A copy of the minutes of the meeting of the ministerial advisory group on dementia research held on 24 February 2010. 6 p.",
   "department" : "Department of Health"
 }

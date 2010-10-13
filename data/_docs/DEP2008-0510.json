@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/02/2008"
-  "legislature" : Commons
-  "notes" : "Copy of CD-ROM available in House Libraries"
-  "year" : "2008"
-  "description" : "Copies of various letters, minutes, plans and reports relating to the planning application for Durham Green business park [CD-ROM]."
+  "deposited_date" : "21/02/2008",
+  "legislature" : ["Commons"],
+  "notes" : "Copy of CD-ROM available in House Libraries",
+  "year" : "2008",
+  "description" : "Copies of various letters, minutes, plans and reports relating to the planning application for Durham Green business park [CD-ROM].",
   "department" : "Dept for Transport"
 }

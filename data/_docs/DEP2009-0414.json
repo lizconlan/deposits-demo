@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/02/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0414.zip"
-  "year" : "2009"
-  "description" : "I. Enforcement and prosecution policy [environmental offences]. 8 p. II. Guidance for the enforcement and prosecution policy. 131 p."
+  "deposited_date" : "11/02/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0414.zip",
+  "year" : "2009",
+  "description" : "I. Enforcement and prosecution policy [environmental offences]. 8 p. II. Guidance for the enforcement and prosecution policy. 131 p.",
   "department" : "Environment Agency Dept for Environment, Food and Rural Affairs"
 }

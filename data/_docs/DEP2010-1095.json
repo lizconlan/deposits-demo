@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/04/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1095.zip"
-  "year" : "2010"
-  "description" : "I. Letter dated 24/03/2010 from Shaun Woodward MP to Lord Saville of Newdigate regarding the report on the Bloody Sunday Inquiry. Incl. Article 2: checking team-terms of reference, 23/03/2010. 5 p. II. Letter dated 06/04/2010 from Shaun Woodward MP to Lord Saville of Newdigate regarding the Bloody Sunday Inquiry and meeting obligations in relation to Article 2 of the ECHR and national security in light of the General Election. 2 p."
+  "deposited_date" : "08/04/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1095.zip",
+  "year" : "2010",
+  "description" : "I. Letter dated 24/03/2010 from Shaun Woodward MP to Lord Saville of Newdigate regarding the report on the Bloody Sunday Inquiry. Incl. Article 2: checking team-terms of reference, 23/03/2010. 5 p. II. Letter dated 06/04/2010 from Shaun Woodward MP to Lord Saville of Newdigate regarding the Bloody Sunday Inquiry and meeting obligations in relation to Article 2 of the ECHR and national security in light of the General Election. 2 p.",
   "department" : ""
 }

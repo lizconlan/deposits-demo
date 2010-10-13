@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2681.pdf"
-  "year" : "2008"
-  "description" : "Medicines and Healthcare products Regulatory Agency (MHRA) regulatory fees: proposals for April 2009. Consultation paper. Incl. impact assessments of i) Medicines (Products for Human Use-Fees) Regulations 2009 and ii) Blood Safety and Quality (Fees Amendment) Regulations 2009. 54 p."
+  "deposited_date" : "11/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2681.pdf",
+  "year" : "2008",
+  "description" : "Medicines and Healthcare products Regulatory Agency (MHRA) regulatory fees: proposals for April 2009. Consultation paper. Incl. impact assessments of i) Medicines (Products for Human Use-Fees) Regulations 2009 and ii) Blood Safety and Quality (Fees Amendment) Regulations 2009. 54 p.",
   "department" : "Medicines and Healthcare Products Regulatory Agency Dept of Health"
 }

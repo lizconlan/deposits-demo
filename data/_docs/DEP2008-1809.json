@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/07/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1809.doc"
-  "year" : "2008"
-  "description" : "List of agency key targets for 200809 for the Ministry of Defence. 4 p."
+  "deposited_date" : "07/07/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1809.doc",
+  "year" : "2008",
+  "description" : "List of agency key targets for 200809 for the Ministry of Defence. 4 p.",
   "department" : "Ministry of Defence"
 }

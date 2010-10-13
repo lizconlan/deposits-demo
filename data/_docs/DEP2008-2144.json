@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "01/08/2008"
-  "legislature" : Lords
-  "legislation" : "Education and Skills Bill 2007/08"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2144.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 01/08/2008 from Lord Adonis to Lord Lucas regarding inspection of support services provided by local authorities or internet and telephone support services. 2 p."
+  "deposited_date" : "01/08/2008",
+  "legislature" : ["Lords"],
+  "legislation" : "Education and Skills Bill 2007/08",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2144.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 01/08/2008 from Lord Adonis to Lord Lucas regarding inspection of support services provided by local authorities or internet and telephone support services. 2 p.",
   "department" : "Dept for Children Schools and Families"
 }

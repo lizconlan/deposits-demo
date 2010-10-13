@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3105.doc"
-  "year" : "2009"
-  "description" : "Table showing Income Contingent loan borrowers past SRDD for Mar 2009 by age and local authority in the North West. 8 p."
+  "deposited_date" : "09/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3105.doc",
+  "year" : "2009",
+  "description" : "Table showing Income Contingent loan borrowers past SRDD for Mar 2009 by age and local authority in the North West. 8 p.",
   "department" : "Dept for Business, Innovation and Skills"
 }

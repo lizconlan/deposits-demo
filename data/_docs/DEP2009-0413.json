@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/02/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0413.zip"
-  "year" : "2009"
-  "description" : "I. Getting ready for LINks : contracting a host organisation for your Local Involvement Network. 24 p. II. Getting ready for LINks : planning your Local Involvement Network. 56 p."
+  "deposited_date" : "11/02/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0413.zip",
+  "year" : "2009",
+  "description" : "I. Getting ready for LINks : contracting a host organisation for your Local Involvement Network. 24 p. II. Getting ready for LINks : planning your Local Involvement Network. 56 p.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/10/2007"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0218.pdf"
-  "year" : "2008"
-  "description" : "Letter [not dated] from Lord West of Spithead to Lord Wright of Richmond regarding the Schengen Information System II. 3 p."
+  "deposited_date" : "12/10/2007",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0218.pdf",
+  "year" : "2008",
+  "description" : "Letter [not dated] from Lord West of Spithead to Lord Wright of Richmond regarding the Schengen Information System II. 3 p.",
   "department" : "Home Office"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0496.xls"
-  "year" : "2009"
-  "description" : "Table showing numbers of civil servants employed in each Government department for the year 2008, broken down by department. 2 p."
+  "deposited_date" : "24/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0496.xls",
+  "year" : "2009",
+  "description" : "Table showing numbers of civil servants employed in each Government department for the year 2008, broken down by department. 2 p.",
   "department" : "Cabinet Office"
 }

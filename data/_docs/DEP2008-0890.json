@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "31/03/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0890.tif"
-  "year" : "2008"
-  "description" : "Letter dated 27/03/2008 from Baroness Thornton to Lord Mawhinney regarding the legal basis on which the NHS might refuse treatment to a person who is otherwise entitled to NHS treatment."
+  "deposited_date" : "31/03/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0890.tif",
+  "year" : "2008",
+  "description" : "Letter dated 27/03/2008 from Baroness Thornton to Lord Mawhinney regarding the legal basis on which the NHS might refuse treatment to a person who is otherwise entitled to NHS treatment.",
   "department" : "Dept of Health"
 }

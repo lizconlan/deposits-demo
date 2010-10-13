@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1088.pdf"
-  "year" : "2009"
-  "description" : "HM Treasury staff survey 2008: summary of key findings. 3 p."
+  "deposited_date" : "17/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1088.pdf",
+  "year" : "2009",
+  "description" : "HM Treasury staff survey 2008: summary of key findings. 3 p.",
   "department" : "Treasury"
 }

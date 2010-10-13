@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1820.pdf"
-  "year" : "2008"
-  "description" : "Making every young person with diabetes matter. Report of the Children and Young People with Diabetes Working Group. 76 p."
+  "deposited_date" : "07/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1820.pdf",
+  "year" : "2008",
+  "description" : "Making every young person with diabetes matter. Report of the Children and Young People with Diabetes Working Group. 76 p.",
   "department" : "Dept of Health"
 }

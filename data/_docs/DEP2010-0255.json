@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "28/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0255.xls"
-  "year" : "2010"
-  "description" : "Table showing the level of notional housing debt, and associated assumed interest costs, for each local authority with housing stock from 2007-08 to 2009-10. 4 p."
+  "deposited_date" : "28/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0255.xls",
+  "year" : "2010",
+  "description" : "Table showing the level of notional housing debt, and associated assumed interest costs, for each local authority with housing stock from 2007-08 to 2009-10. 4 p.",
   "department" : "Communities and Local Government"
 }

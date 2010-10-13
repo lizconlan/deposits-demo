@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/01/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0105.zip"
-  "year" : "2008"
-  "description" : "Letter dated 14/01/2008 from Lord Darzi of Denham to Lord Alton of Liverpool regarding incidents where ovarian hyperstimulation syndrome (OHSS) was implicated in relation to the treatment of egg donors and also information on reports on egg collections. Incl. tables of data. 11 p."
+  "deposited_date" : "15/01/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0105.zip",
+  "year" : "2008",
+  "description" : "Letter dated 14/01/2008 from Lord Darzi of Denham to Lord Alton of Liverpool regarding incidents where ovarian hyperstimulation syndrome (OHSS) was implicated in relation to the treatment of egg donors and also information on reports on egg collections. Incl. tables of data. 11 p.",
   "department" : "Dept of Health"
 }

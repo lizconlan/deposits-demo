@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/06/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1290.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 08/06/2010 from Dominic Grieve QC MP to Chris Huhne MP regarding when the Merseyside CPS received the report of the review into 'R v Eddie Gilfoyle' ['the Humphreys Report']. 2 p."
+  "deposited_date" : "08/06/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1290.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 08/06/2010 from Dominic Grieve QC MP to Chris Huhne MP regarding when the Merseyside CPS received the report of the review into 'R v Eddie Gilfoyle' ['the Humphreys Report']. 2 p.",
   "department" : "Attorney General"
 }

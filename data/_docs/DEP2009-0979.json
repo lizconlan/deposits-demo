@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0979.doc"
-  "year" : "2009"
-  "description" : "Table showing schemes in England which have been allocated funding under the Community Infrastructure Fund 2, round 1, broken down by region. 4 p."
+  "deposited_date" : "27/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0979.doc",
+  "year" : "2009",
+  "description" : "Table showing schemes in England which have been allocated funding under the Community Infrastructure Fund 2, round 1, broken down by region. 4 p.",
   "department" : "Dept for Communities and Local Government"
 }

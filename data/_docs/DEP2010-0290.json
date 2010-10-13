@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0290.pdf"
-  "year" : "2010"
-  "description" : "Road Safety Research Report 98. Strapping Yarns: Why People Do and Do Not Wear Seat Belts. 111 p."
+  "deposited_date" : "01/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0290.pdf",
+  "year" : "2010",
+  "description" : "Road Safety Research Report 98. Strapping Yarns: Why People Do and Do Not Wear Seat Belts. 111 p.",
   "department" : "Department for Transport"
 }

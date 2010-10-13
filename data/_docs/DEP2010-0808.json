@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0808.xls"
-  "year" : "2010"
-  "description" : "Table showing a count of Finished Admission Episodes where the was a primary diagnosis and deaths of Skin Cancer in London Primary Care Trusts (PCT) of responsibility for 2000/01 to 2008/09. 3 p."
+  "deposited_date" : "23/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0808.xls",
+  "year" : "2010",
+  "description" : "Table showing a count of Finished Admission Episodes where the was a primary diagnosis and deaths of Skin Cancer in London Primary Care Trusts (PCT) of responsibility for 2000/01 to 2008/09. 3 p.",
   "department" : "Department of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/07/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2038.pdf"
-  "year" : "2009"
-  "description" : "Highways Agency framework document 2009. 38 p."
+  "deposited_date" : "16/07/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2038.pdf",
+  "year" : "2009",
+  "description" : "Highways Agency framework document 2009. 38 p.",
   "department" : "Highways Agency Dept for Transport"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/02/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0483.pdf"
-  "year" : "2008"
-  "description" : "The path to citizenship: next steps in reforming the immigration system. (Consultation paper). 55 p."
+  "deposited_date" : "20/02/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0483.pdf",
+  "year" : "2008",
+  "description" : "The path to citizenship: next steps in reforming the immigration system. (Consultation paper). 55 p.",
   "department" : "Border and Immigration Agency Home Office"
 }

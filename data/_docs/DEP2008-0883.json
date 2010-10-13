@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0883.zip"
-  "year" : "2008"
-  "description" : "Letter dated 26/03/2008 from Bob Ainsworth MP to Gerald Howarth MP regarding departmental expenditure."
+  "deposited_date" : "18/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0883.zip",
+  "year" : "2008",
+  "description" : "Letter dated 26/03/2008 from Bob Ainsworth MP to Gerald Howarth MP regarding departmental expenditure.",
   "department" : "Ministry of Defence"
 }

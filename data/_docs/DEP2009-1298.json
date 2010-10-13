@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/05/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1298.doc"
-  "year" : "2009"
-  "description" : "Table showing the number of attendances at major Accident and Emergency departments, NHS organisations in England, for January - December 2008. 5 p."
+  "deposited_date" : "05/05/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1298.doc",
+  "year" : "2009",
+  "description" : "Table showing the number of attendances at major Accident and Emergency departments, NHS organisations in England, for January - December 2008. 5 p.",
   "department" : "Dept of Health"
 }

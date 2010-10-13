@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/05/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1192.pdf"
-  "year" : "2008"
-  "description" : "The Royal Commission on Environmental Pollution's report on the urban environment (Cm 7009): government response. 53 p."
+  "deposited_date" : "07/05/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1192.pdf",
+  "year" : "2008",
+  "description" : "The Royal Commission on Environmental Pollution's report on the urban environment (Cm 7009): government response. 53 p.",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

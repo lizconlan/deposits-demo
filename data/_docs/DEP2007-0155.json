@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/11/2007"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0155.pdf"
-  "year" : "2007"
-  "description" : "Letter dated 23/11/2007 from Lord McKenzie of Luton to Lord Higgins regarding the government's draft legislative programme consultation."
+  "deposited_date" : "27/11/2007",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0155.pdf",
+  "year" : "2007",
+  "description" : "Letter dated 23/11/2007 from Lord McKenzie of Luton to Lord Higgins regarding the government's draft legislative programme consultation.",
   "department" : "Dept for Work and Pensions"
 }

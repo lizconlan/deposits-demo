@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0636.xls"
-  "year" : "2008"
-  "description" : "Table showing the number of working age Incapacity Benefit/Severe Disablement Allowance claimants in May 2007, broken down by local authority. 10 p."
+  "deposited_date" : "04/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0636.xls",
+  "year" : "2008",
+  "description" : "Table showing the number of working age Incapacity Benefit/Severe Disablement Allowance claimants in May 2007, broken down by local authority. 10 p.",
   "department" : "Dept for Work and Pensions"
 }

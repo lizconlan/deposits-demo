@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1488.zip"
-  "year" : "2008"
-  "description" : "I. Good practice in continence services. March 2000. 45 p. II. Children and young people who are ill. October 2004. 46 p. III. Continence. October 2007. 15 p. IV. Supporting pupils with medical needs. [Undated] 37 p."
+  "deposited_date" : "10/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1488.zip",
+  "year" : "2008",
+  "description" : "I. Good practice in continence services. March 2000. 45 p. II. Children and young people who are ill. October 2004. 46 p. III. Continence. October 2007. 15 p. IV. Supporting pupils with medical needs. [Undated] 37 p.",
   "department" : "Dept of Health"
 }

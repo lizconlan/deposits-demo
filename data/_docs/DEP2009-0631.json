@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0631.pdf"
-  "year" : "2009"
-  "description" : "Payment by Results guidance for 2009-10. 69 p."
+  "deposited_date" : "03/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0631.pdf",
+  "year" : "2009",
+  "description" : "Payment by Results guidance for 2009-10. 69 p.",
   "department" : "Dept of Health"
 }

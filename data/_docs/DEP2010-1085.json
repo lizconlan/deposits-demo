@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "07/04/2010"
-  "legislature" : Lords
-  "legislation" : "Child Poverty Bill 2008-09 then 2009-10"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1085.pdf"
-  "year" : "2010"
-  "description" : "Letter [not dated] from Helen Goodman MP to Steve Webb MP regarding free school meal eligibility. 2 p."
+  "deposited_date" : "07/04/2010",
+  "legislature" : ["Lords"],
+  "legislation" : "Child Poverty Bill 2008-09 then 2009-10",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1085.pdf",
+  "year" : "2010",
+  "description" : "Letter [not dated] from Helen Goodman MP to Steve Webb MP regarding free school meal eligibility. 2 p.",
   "department" : "Department for Work and Pensions"
 }

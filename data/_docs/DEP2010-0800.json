@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0800.xls"
-  "year" : "2010"
-  "description" : "Table showing the average change in (a) rateable value and (b) the national non-domestic rates bill after transitional relief, broken down by the billing authority. 14 p."
+  "deposited_date" : "23/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0800.xls",
+  "year" : "2010",
+  "description" : "Table showing the average change in (a) rateable value and (b) the national non-domestic rates bill after transitional relief, broken down by the billing authority. 14 p.",
   "department" : "Communities and Local Government"
 }

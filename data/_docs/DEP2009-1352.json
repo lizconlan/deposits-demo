@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/04/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1352.xls"
-  "year" : "2009"
-  "description" : "Table showing special schools in the most deprived decile of lower layer super output area by Income Deprivation Affecting Children Indices in 2008, broken down by local authority. 5 p."
+  "deposited_date" : "16/04/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1352.xls",
+  "year" : "2009",
+  "description" : "Table showing special schools in the most deprived decile of lower layer super output area by Income Deprivation Affecting Children Indices in 2008, broken down by local authority. 5 p.",
   "department" : "Dept for Children, Schools and Families"
 }

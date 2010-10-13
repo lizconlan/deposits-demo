@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "11/11/2009"
-  "legislature" : Lords
-  "notes" : "The command paper 'Chromium and sino-nasal cancer' is already held on PIMS."
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3036.zip"
-  "year" : "2009"
-  "description" : "I. Beryllium and lung cancer. Position paper 27. 23 p. II. Laryngeal cancer and strong inorganic acid mists  containing sulphuric acid. Position paper 26. 31 p. III. The association between shift working and breast cancer and ischaemic heart disease. Position paper 25. 37 p. IV. Letter dated 11/11/2009 from Lord McKenzie of Luton depositing the documents (please note-the command paper 'Chromium and sino-nasal cancer' is already held on PIMS). 1 p."
+  "deposited_date" : "11/11/2009",
+  "legislature" : ["Lords"],
+  "notes" : "The command paper 'Chromium and sino-nasal cancer' is already held on PIMS.",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3036.zip",
+  "year" : "2009",
+  "description" : "I. Beryllium and lung cancer. Position paper 27. 23 p. II. Laryngeal cancer and strong inorganic acid mists  containing sulphuric acid. Position paper 26. 31 p. III. The association between shift working and breast cancer and ischaemic heart disease. Position paper 25. 37 p. IV. Letter dated 11/11/2009 from Lord McKenzie of Luton depositing the documents (please note-the command paper 'Chromium and sino-nasal cancer' is already held on PIMS). 1 p.",
   "department" : "Dept for Work and Pensions Industrial Injuries Advisory Council"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/02/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0340.doc"
-  "year" : "2009"
-  "description" : "Table showing traffic volumes for all motor vehicles on all roads in England for each year from 1997 to 2007, broken down by region, and by county, county borough, metropolitan borough or London borough. 5 p."
+  "deposited_date" : "05/02/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0340.doc",
+  "year" : "2009",
+  "description" : "Table showing traffic volumes for all motor vehicles on all roads in England for each year from 1997 to 2007, broken down by region, and by county, county borough, metropolitan borough or London borough. 5 p.",
   "department" : "Dept for Transport"
 }

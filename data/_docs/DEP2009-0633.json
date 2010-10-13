@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0633.xls"
-  "year" : "2009"
-  "description" : "Table showing percentage of GP practices using 'Choose and Book', for each month from April 2006 to December 2008, broken down by Primary Care Trust. 3 p."
+  "deposited_date" : "03/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0633.xls",
+  "year" : "2009",
+  "description" : "Table showing percentage of GP practices using 'Choose and Book', for each month from April 2006 to December 2008, broken down by Primary Care Trust. 3 p.",
   "department" : "Dept of Health"
 }

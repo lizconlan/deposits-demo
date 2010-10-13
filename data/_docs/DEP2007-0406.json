@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0406.zip"
-  "year" : "2007"
-  "description" : "I. Cabinet Office. Visual identity guidelines. October 2007. 26 p. II. Cabinet Office, Office of the Third Sector. Visual identity guidelines. 27 p. III. Cabinet Office, Social Exclusion Task Force. Visual identity guidelines. 17 p."
+  "deposited_date" : "18/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0406.zip",
+  "year" : "2007",
+  "description" : "I. Cabinet Office. Visual identity guidelines. October 2007. 26 p. II. Cabinet Office, Office of the Third Sector. Visual identity guidelines. 27 p. III. Cabinet Office, Social Exclusion Task Force. Visual identity guidelines. 17 p.",
   "department" : "Cabinet Office Social Exclusion Task Force Office of the Third Sector"
 }

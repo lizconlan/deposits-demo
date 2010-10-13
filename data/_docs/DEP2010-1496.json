@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/07/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1496.xls"
-  "year" : "2010"
-  "description" : "Table showing the registration of electors - net current expenditure per head reported by each local authority in England in 2008/09. 12 p."
+  "deposited_date" : "15/07/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1496.xls",
+  "year" : "2010",
+  "description" : "Table showing the registration of electors - net current expenditure per head reported by each local authority in England in 2008/09. 12 p.",
   "department" : "Communities and Local Government"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2009.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 17/07/2008 from Kitty Ussher MP to John McFall MP regarding the Child Trust Fund. 3 p."
+  "deposited_date" : "21/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2009.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 17/07/2008 from Kitty Ussher MP to John McFall MP regarding the Child Trust Fund. 3 p.",
   "department" : "Treasury"
 }

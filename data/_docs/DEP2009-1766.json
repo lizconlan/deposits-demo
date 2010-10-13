@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/06/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1766.pdf"
-  "year" : "2009"
-  "description" : "UK inward investment 2008/09 report by UK Trade and Investment: UK-your springboard for global growth. 44 p."
+  "deposited_date" : "17/06/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1766.pdf",
+  "year" : "2009",
+  "description" : "UK inward investment 2008/09 report by UK Trade and Investment: UK-your springboard for global growth. 44 p.",
   "department" : "Dept for Business, Enterprise and Regulatory Reform"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/12/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3136.pdf"
-  "year" : "2009"
-  "description" : "Further consultation on termination provisions in the Mobile Homes Act 1983 (as amended): Government response. 19 p."
+  "deposited_date" : "16/12/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3136.pdf",
+  "year" : "2009",
+  "description" : "Further consultation on termination provisions in the Mobile Homes Act 1983 (as amended): Government response. 19 p.",
   "department" : "Dept for Communities and Local Government"
 }

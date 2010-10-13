@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/12/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3088.zip"
-  "year" : "2008"
-  "description" : "Tables showing number of driving tests taken by DSA and by non-DSA driving examiners in 1997/98 to 2008, broken down by vehicle type. 6 p."
+  "deposited_date" : "15/12/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3088.zip",
+  "year" : "2008",
+  "description" : "Tables showing number of driving tests taken by DSA and by non-DSA driving examiners in 1997/98 to 2008, broken down by vehicle type. 6 p.",
   "department" : "Dept for Transport"
 }

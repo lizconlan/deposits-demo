@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2756.xls"
-  "year" : "2008"
-  "description" : "Table showing Primary Dental Care Patient Re-Attendance Intervals, England, for the period April 2008 to September 2008. 10 p."
+  "deposited_date" : "18/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2756.xls",
+  "year" : "2008",
+  "description" : "Table showing Primary Dental Care Patient Re-Attendance Intervals, England, for the period April 2008 to September 2008. 10 p.",
   "department" : "Dept of Health"
 }

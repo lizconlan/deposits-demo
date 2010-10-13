@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2949.xls"
-  "year" : "2009"
-  "description" : "Table showing how many (a) elective and (b) emergency bed days were accounted for by breast cancer patients in each year since 1997-98 (a) in total and (b) broken down by (i) primary care trust area of responsibility and (ii) cancer network area of responsibility, as recorded in the Hospital Episodes Statistics database; and at what overall cost to the public purse. 27 p."
+  "deposited_date" : "26/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2949.xls",
+  "year" : "2009",
+  "description" : "Table showing how many (a) elective and (b) emergency bed days were accounted for by breast cancer patients in each year since 1997-98 (a) in total and (b) broken down by (i) primary care trust area of responsibility and (ii) cancer network area of responsibility, as recorded in the Hospital Episodes Statistics database; and at what overall cost to the public purse. 27 p.",
   "department" : "Dept of Health"
 }

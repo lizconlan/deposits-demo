@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "16/03/2009"
-  "legislature" : Commons
-  "legislation" : "Local Education Authorities and Childrens Services Authorities (Integration of Functions) Order 2009"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0829.doc"
-  "year" : "2009"
-  "description" : "The draft Local Education Authorities and Childrens Services Authorities (Integration of Functions) Order 2009. 25 p."
+  "deposited_date" : "16/03/2009",
+  "legislature" : ["Commons"],
+  "legislation" : "Local Education Authorities and Childrens Services Authorities (Integration of Functions) Order 2009",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0829.doc",
+  "year" : "2009",
+  "description" : "The draft Local Education Authorities and Childrens Services Authorities (Integration of Functions) Order 2009. 25 p.",
   "department" : "Dept for Children, Schools and Families"
 }

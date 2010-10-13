@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "13/11/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2818.zip"
-  "year" : "2009"
-  "description" : "Letter dated 12/11/2009 from Gillian Merron MP to Mike Penning MP regarding consultation on proposed tobacco control regulations for England (under the Health Bill 2009). Incl. the consultation pack. 111 p."
+  "deposited_date" : "13/11/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2818.zip",
+  "year" : "2009",
+  "description" : "Letter dated 12/11/2009 from Gillian Merron MP to Mike Penning MP regarding consultation on proposed tobacco control regulations for England (under the Health Bill 2009). Incl. the consultation pack. 111 p.",
   "department" : "Dept of Health"
 }

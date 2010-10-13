@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "05/11/2007"
-  "legislature" : Commons
-  "notes" : "Incomplete deposited paper. Further documents to follow."
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0050.zip"
-  "year" : "2007"
-  "description" : "I. Valuation Office corporate communications toolkit. 3 p. II. Office of Government Commerce corporate design guidelines. 41 p. III. National Savings and Investment companion to brand identity. 32 p. IV. Treasury design guidelines. 12 p."
+  "deposited_date" : "05/11/2007",
+  "legislature" : ["Commons"],
+  "notes" : "Incomplete deposited paper. Further documents to follow.",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0050.zip",
+  "year" : "2007",
+  "description" : "I. Valuation Office corporate communications toolkit. 3 p. II. Office of Government Commerce corporate design guidelines. 41 p. III. National Savings and Investment companion to brand identity. 32 p. IV. Treasury design guidelines. 12 p.",
   "department" : "Treasury"
 }

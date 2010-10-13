@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/05/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1307.pdf"
-  "year" : "2008"
-  "description" : "A copy of the contents of file CPO 2/29: "David Amess Abortion (Amendment) Bill". [Redacted] 14 p."
+  "deposited_date" : "19/05/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1307.pdf",
+  "year" : "2008",
+  "description" : "A copy of the contents of file CPO 2/29: \"David Amess Abortion (Amendment) Bill\". [Redacted] 14 p.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2247.tif"
-  "year" : "2008"
-  "description" : "Letter dated 02/06/2008 from Bob Ainsworth MP to Nick Harvey MP regarding various issues arising from the debate on defence in the world. 2 p."
+  "deposited_date" : "02/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2247.tif",
+  "year" : "2008",
+  "description" : "Letter dated 02/06/2008 from Bob Ainsworth MP to Nick Harvey MP regarding various issues arising from the debate on defence in the world. 2 p.",
   "department" : "Ministry of Defence"
 }

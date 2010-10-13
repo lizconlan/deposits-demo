@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1905.doc"
-  "year" : "2008"
-  "description" : "Table showing number of claimants receiving Jobseeker's Allowance by nation and government office region for the years 2005 to 2008 (seasonally adjusted). 2 p."
+  "deposited_date" : "14/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1905.doc",
+  "year" : "2008",
+  "description" : "Table showing number of claimants receiving Jobseeker's Allowance by nation and government office region for the years 2005 to 2008 (seasonally adjusted). 2 p.",
   "department" : "Dept for Work and Pensions"
 }

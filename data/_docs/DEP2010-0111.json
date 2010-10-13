@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0111.xls"
-  "year" : "2010"
-  "description" : "Table showing how many cases of (a) UK national and (b) non-UK national missing persons of each age have been recorded by the Missing Persons Bureau in each year since 1997. 14 p."
+  "deposited_date" : "14/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0111.xls",
+  "year" : "2010",
+  "description" : "Table showing how many cases of (a) UK national and (b) non-UK national missing persons of each age have been recorded by the Missing Persons Bureau in each year since 1997. 14 p.",
   "department" : "Home Office"
 }

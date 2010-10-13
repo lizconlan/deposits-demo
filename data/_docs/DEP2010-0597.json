@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0597.xls"
-  "year" : "2010"
-  "description" : "Table showing state funded secondary schools by size of school (pupil number) in Jan 1997 and Jan 2009. 6 p."
+  "deposited_date" : "02/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0597.xls",
+  "year" : "2010",
+  "description" : "Table showing state funded secondary schools by size of school (pupil number) in Jan 1997 and Jan 2009. 6 p.",
   "department" : "Department for Children, Schools and Families"
 }

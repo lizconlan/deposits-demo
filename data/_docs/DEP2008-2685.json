@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2685.pdf"
-  "year" : "2008"
-  "description" : "Decision by Lord Mandelson, the Secretary of State for Business, not to refer to the Competition Commission the merger between Lloyds TSB Group plc and HBOS plc under Section 45 of the Enterprise Act 2002 dated 31 October 2008. 9 p."
+  "deposited_date" : "03/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2685.pdf",
+  "year" : "2008",
+  "description" : "Decision by Lord Mandelson, the Secretary of State for Business, not to refer to the Competition Commission the merger between Lloyds TSB Group plc and HBOS plc under Section 45 of the Enterprise Act 2002 dated 31 October 2008. 9 p.",
   "department" : "Dept for Business Enterprise and Regulatory Reform"
 }

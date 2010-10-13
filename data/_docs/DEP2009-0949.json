@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "23/03/2009"
-  "legislature" : Commons
-  "legislation" : "Coroners and Justice Bill 2008-09"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0949.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 23/03/2009 from Bridget Prentice MP to Andrew Mackinlay MP regarding the exclusion of Northern Ireland from aspects of the Coroners and Justice Bill relating to certified inquests. 2 p."
+  "deposited_date" : "23/03/2009",
+  "legislature" : ["Commons"],
+  "legislation" : "Coroners and Justice Bill 2008-09",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0949.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 23/03/2009 from Bridget Prentice MP to Andrew Mackinlay MP regarding the exclusion of Northern Ireland from aspects of the Coroners and Justice Bill relating to certified inquests. 2 p.",
   "department" : "Ministry of Justice"
 }

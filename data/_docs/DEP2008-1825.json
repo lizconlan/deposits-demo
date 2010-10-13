@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1825.pdf"
-  "year" : "2008"
-  "description" : "CSCI Clinical Trigger. The management of nutritional care for older people in care homes. 13 p."
+  "deposited_date" : "07/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1825.pdf",
+  "year" : "2008",
+  "description" : "CSCI Clinical Trigger. The management of nutritional care for older people in care homes. 13 p.",
   "department" : "Dept of Health"
 }

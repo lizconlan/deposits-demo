@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/04/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1188.xls"
-  "year" : "2010"
-  "description" : "Table showing children looked after who went missing from care during the years 2005 to 2009 ending 31 March, broken down by Local Authority. 8 p."
+  "deposited_date" : "06/04/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1188.xls",
+  "year" : "2010",
+  "description" : "Table showing children looked after who went missing from care during the years 2005 to 2009 ending 31 March, broken down by Local Authority. 8 p.",
   "department" : "Department for Children, Schools and Families"
 }

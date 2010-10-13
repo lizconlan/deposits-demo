@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "03/10/2008"
-  "legislature" : Commons
-  "legislation" : "Children and Young Persons Bill"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2304.zip"
-  "year" : "2008"
-  "description" : "Letter dated October 2008 from Kevin Brennan MP regarding the Report Stage for the Children and Young Persons Bill. Inc. Government amendments. 7 p."
+  "deposited_date" : "03/10/2008",
+  "legislature" : ["Commons"],
+  "legislation" : "Children and Young Persons Bill",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2304.zip",
+  "year" : "2008",
+  "description" : "Letter dated October 2008 from Kevin Brennan MP regarding the Report Stage for the Children and Young Persons Bill. Inc. Government amendments. 7 p.",
   "department" : "Dept for Children Schools and Families"
 }

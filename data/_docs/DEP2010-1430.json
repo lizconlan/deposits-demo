@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/07/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1430.zip"
-  "year" : "2010"
-  "description" : "Letter dated 05/07/2010 from Edward Davey MP to Adrian Bailey MP regarding the Central Arbitration Committee (CAC) annual report 20098/10. Incl. copy of report. 20 p."
+  "deposited_date" : "08/07/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1430.zip",
+  "year" : "2010",
+  "description" : "Letter dated 05/07/2010 from Edward Davey MP to Adrian Bailey MP regarding the Central Arbitration Committee (CAC) annual report 20098/10. Incl. copy of report. 20 p.",
   "department" : "Central Arbitration Committee Department for Business, Innovation and Skills"
 }

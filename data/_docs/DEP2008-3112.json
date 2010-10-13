@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/12/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3112.zip"
-  "year" : "2008"
-  "description" : "Letter dated December 2008 from Karen Dunnell, Statistician, to Edward Garnier MP regarding mortality rate for bowel cancer. Inc a table. 24 p."
+  "deposited_date" : "16/12/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3112.zip",
+  "year" : "2008",
+  "description" : "Letter dated December 2008 from Karen Dunnell, Statistician, to Edward Garnier MP regarding mortality rate for bowel cancer. Inc a table. 24 p.",
   "department" : "Cabinet Office"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/01/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0051.zip"
-  "year" : "2010"
-  "description" : "I. Pension credit payment pilot: summary of consultation responses. Dec 2009. 11 p. II. Letter dated 04/01/2010 from Angela Eagle MP depositing the 'Pension credit payment pilot summary of consultation responses' document. 1 p."
+  "deposited_date" : "07/01/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0051.zip",
+  "year" : "2010",
+  "description" : "I. Pension credit payment pilot: summary of consultation responses. Dec 2009. 11 p. II. Letter dated 04/01/2010 from Angela Eagle MP depositing the 'Pension credit payment pilot summary of consultation responses' document. 1 p.",
   "department" : "Department for Work and Pensions"
 }

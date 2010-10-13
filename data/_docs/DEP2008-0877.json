@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0877.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 27/03/2008 from Andrew Hind, Chief Executive, to David Evenett MP regarding charities in Bexley. 1 p."
+  "deposited_date" : "27/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0877.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 27/03/2008 from Andrew Hind, Chief Executive, to David Evenett MP regarding charities in Bexley. 1 p.",
   "department" : "Cabinet Office"
 }

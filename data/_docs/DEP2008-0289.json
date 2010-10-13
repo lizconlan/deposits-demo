@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "31/01/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0289.pdf"
-  "year" : "2008"
-  "description" : "UK Armed Forces psychiatric morbidity: assessment of presenting complaints at Ministry of Defence DCMHs (Departments of Community Mental Health) and association with deployment on recent operations in the Iraq/Afghanistan theatres of operation April  June 2007. 27 p."
+  "deposited_date" : "31/01/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0289.pdf",
+  "year" : "2008",
+  "description" : "UK Armed Forces psychiatric morbidity: assessment of presenting complaints at Ministry of Defence DCMHs (Departments of Community Mental Health) and association with deployment on recent operations in the Iraq/Afghanistan theatres of operation April  June 2007. 27 p.",
   "department" : "Ministry of Defence Defence Analytical Services Agency"
 }

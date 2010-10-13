@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "13/05/2008"
-  "legislature" : Lords
-  "legislation" : "Housing and Regeneration Bill"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1242.tif"
-  "year" : "2008"
-  "description" : "Letter dated 12/05/2008 from Baroness Andrews to Lord Whitty regarding the Housing and Regeneration Bill - Housing Revenue Account Subsidy. 2 p."
+  "deposited_date" : "13/05/2008",
+  "legislature" : ["Lords"],
+  "legislation" : "Housing and Regeneration Bill",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1242.tif",
+  "year" : "2008",
+  "description" : "Letter dated 12/05/2008 from Baroness Andrews to Lord Whitty regarding the Housing and Regeneration Bill - Housing Revenue Account Subsidy. 2 p.",
   "department" : "Dept for Communities and Local Government"
 }

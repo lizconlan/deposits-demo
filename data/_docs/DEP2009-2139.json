@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/07/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2139.doc"
-  "year" : "2009"
-  "description" : "Table showing number of Staff in Jobcentre Plus, broken down by London Borough, for July 2007 to June 2009. 8 p."
+  "deposited_date" : "21/07/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2139.doc",
+  "year" : "2009",
+  "description" : "Table showing number of Staff in Jobcentre Plus, broken down by London Borough, for July 2007 to June 2009. 8 p.",
   "department" : "Dept for Work and Pensions"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1875.doc"
-  "year" : "2008"
-  "description" : "List showing Voluntary Organisations in which the Department for Work and Pensions (DWP) staff have volunteered through Community 5000 Scheme in last 12 months (ending June 2008). 7 p."
+  "deposited_date" : "09/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1875.doc",
+  "year" : "2008",
+  "description" : "List showing Voluntary Organisations in which the Department for Work and Pensions (DWP) staff have volunteered through Community 5000 Scheme in last 12 months (ending June 2008). 7 p.",
   "department" : "Dept for Work and Pensions"
 }

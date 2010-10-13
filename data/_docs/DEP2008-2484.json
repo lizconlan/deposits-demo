@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2484.zip"
-  "year" : "2008"
-  "description" : "Local elections 2008: summary report and detailed tables. 109 p."
+  "deposited_date" : "29/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2484.zip",
+  "year" : "2008",
+  "description" : "Local elections 2008: summary report and detailed tables. 109 p.",
   "department" : "Electoral Commission Speakers Committee on the Electoral Commission ICM RESEARCH"
 }

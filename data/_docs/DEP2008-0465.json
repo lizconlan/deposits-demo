@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0465.zip"
-  "year" : "2008"
-  "description" : "Civil Service Appeal Board annual reports for each year from 1998 to 2007. 377 p."
+  "deposited_date" : "19/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0465.zip",
+  "year" : "2008",
+  "description" : "Civil Service Appeal Board annual reports for each year from 1998 to 2007. 377 p.",
   "department" : "Cabinet Office"
 }

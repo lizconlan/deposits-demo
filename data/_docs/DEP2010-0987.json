@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0987.doc"
-  "year" : "2010"
-  "description" : "List showing all consultations carried out by DEFRA with date of opening and closing. 10 p."
+  "deposited_date" : "30/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0987.doc",
+  "year" : "2010",
+  "description" : "List showing all consultations carried out by DEFRA with date of opening and closing. 10 p.",
   "department" : "Department for Environment, Food and Rural Affairs"
 }

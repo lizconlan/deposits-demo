@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/04/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1210.xls"
-  "year" : "2009"
-  "description" : "Table showing the average response time to pick up new incoming calls to the national health service organisations main telephone number, across a representative period of not less than one month within the reporting year, for the period 2007/08. 8 p."
+  "deposited_date" : "23/04/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1210.xls",
+  "year" : "2009",
+  "description" : "Table showing the average response time to pick up new incoming calls to the national health service organisations main telephone number, across a representative period of not less than one month within the reporting year, for the period 2007/08. 8 p.",
   "department" : "Dept of Health"
 }

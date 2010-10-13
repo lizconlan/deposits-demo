@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/05/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1301.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 02/05/2008 from Alan Cook, Managing Director, to Geoffrey Clifton-Brown MP regarding post office closures and the cost of outreach services."
+  "deposited_date" : "02/05/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1301.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 02/05/2008 from Alan Cook, Managing Director, to Geoffrey Clifton-Brown MP regarding post office closures and the cost of outreach services.",
   "department" : "Post Office Dept for Business Enterprise and Regulatory Reform"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/10/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2605.pdf"
-  "year" : "2009"
-  "description" : "Report of the Standing Commission on Carers. Incl. appendices. 55 p."
+  "deposited_date" : "26/10/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2605.pdf",
+  "year" : "2009",
+  "description" : "Report of the Standing Commission on Carers. Incl. appendices. 55 p.",
   "department" : "Dept of Health"
 }

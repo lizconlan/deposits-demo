@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1835.zip"
-  "year" : "2008"
-  "description" : "Letter dated 08/07/2008 from Michael Scholar, Chair, to Deposited Papers Clerk regarding "Official statistics serving the public good: consultation on the code of practice". Includes the consultation paper. 68 p."
+  "deposited_date" : "08/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1835.zip",
+  "year" : "2008",
+  "description" : "Letter dated 08/07/2008 from Michael Scholar, Chair, to Deposited Papers Clerk regarding \"Official statistics serving the public good: consultation on the code of practice\". Includes the consultation paper. 68 p.",
   "department" : "United Kingdom Statistics Authority"
 }

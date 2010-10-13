@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2727.rtf"
-  "year" : "2008"
-  "description" : "List of websites for the DFT and its agencies, including number of visits and annual maintenance costs. 2 p."
+  "deposited_date" : "17/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2727.rtf",
+  "year" : "2008",
+  "description" : "List of websites for the DFT and its agencies, including number of visits and annual maintenance costs. 2 p.",
   "department" : "Dept for Transport"
 }

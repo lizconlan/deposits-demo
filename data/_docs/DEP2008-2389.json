@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/10/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2389.pdf"
-  "year" : "2008"
-  "description" : "Report on Flycapture results April 2007 to March 2008. Incl. tables. 7 p."
+  "deposited_date" : "16/10/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2389.pdf",
+  "year" : "2008",
+  "description" : "Report on Flycapture results April 2007 to March 2008. Incl. tables. 7 p.",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

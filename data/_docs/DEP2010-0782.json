@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/03/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0782.zip"
-  "year" : "2010"
-  "description" : "I. Government response to the consultation on the form and content of new climate change agreements. Incl. annexes. 31 p. II. Climate change agreements: consultation on draft revised agreements and scheme rules. 69 p. III. Letters dated 23/03/2010 from Joan Ruddock MP to Tim Yeo MP and Paddy Lipping, Chair regarding the the Government response to our consultation on the form and content of new Climate Change Agreements . 4 p."
+  "deposited_date" : "23/03/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0782.zip",
+  "year" : "2010",
+  "description" : "I. Government response to the consultation on the form and content of new climate change agreements. Incl. annexes. 31 p. II. Climate change agreements: consultation on draft revised agreements and scheme rules. 69 p. III. Letters dated 23/03/2010 from Joan Ruddock MP to Tim Yeo MP and Paddy Lipping, Chair regarding the the Government response to our consultation on the form and content of new Climate Change Agreements . 4 p.",
   "department" : "Department of Energy and Climate Change"
 }

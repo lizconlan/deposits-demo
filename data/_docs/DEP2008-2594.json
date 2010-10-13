@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/11/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2594.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 24/10/2008 from David Colin-Thome, Director, to SHA Chief Executives regarding GP referral incentive schemes. 1 p."
+  "deposited_date" : "05/11/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2594.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 24/10/2008 from David Colin-Thome, Director, to SHA Chief Executives regarding GP referral incentive schemes. 1 p.",
   "department" : "Dept of Health"
 }

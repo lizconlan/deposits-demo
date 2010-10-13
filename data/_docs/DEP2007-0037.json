@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/10/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0037.zip"
-  "year" : "2007"
-  "description" : "Letters and memos dated between 13th April 2007 and 14th September 2007 between officials of the government of Jersey and Guernsey and the MHRA and Food standards Agency regarding the sale of food supplements."
+  "deposited_date" : "25/10/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0037.zip",
+  "year" : "2007",
+  "description" : "Letters and memos dated between 13th April 2007 and 14th September 2007 between officials of the government of Jersey and Guernsey and the MHRA and Food standards Agency regarding the sale of food supplements.",
   "department" : "Dept of Health"
 }

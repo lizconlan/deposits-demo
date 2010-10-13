@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0997.doc"
-  "year" : "2008"
-  "description" : "Assessing the cost of the Digital Switchover Help Scheme. 13 p."
+  "deposited_date" : "10/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0997.doc",
+  "year" : "2008",
+  "description" : "Assessing the cost of the Digital Switchover Help Scheme. 13 p.",
   "department" : "Dept for Culture Media and Sport"
 }

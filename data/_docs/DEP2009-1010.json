@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1010.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 09/03/2009 from Mark Haysom, Chief Executive, to David Willetts MP regarding submissions for capital projects. 1 p."
+  "deposited_date" : "27/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1010.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 09/03/2009 from Mark Haysom, Chief Executive, to David Willetts MP regarding submissions for capital projects. 1 p.",
   "department" : "Learning and Skills Council for England Dept for Innovation, Universities and Skills"
 }

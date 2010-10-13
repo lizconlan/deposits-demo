@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "07/05/2008"
-  "legislature" : CommonsLords
-  "legislation" : "Health and Social Care Bill"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1201.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 07/05/2008 from Lord Darzi of Denham to Andrew Dismore MP regarding the Health and Social Care Bill. 3 p."
+  "deposited_date" : "07/05/2008",
+  "legislature" : ["Commons","Lords"],
+  "legislation" : "Health and Social Care Bill",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1201.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 07/05/2008 from Lord Darzi of Denham to Andrew Dismore MP regarding the Health and Social Care Bill. 3 p.",
   "department" : "Dept of Health"
 }

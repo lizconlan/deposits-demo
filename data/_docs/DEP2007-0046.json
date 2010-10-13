@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/10/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0046.zip"
-  "year" : "2007"
-  "description" : "Tables showing numbers of a) people over 65 immunised against influenza 2001/02 to 2003/04 in London and b) childhood immunisations for 2004-05 by health authority."
+  "deposited_date" : "30/10/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0046.zip",
+  "year" : "2007",
+  "description" : "Tables showing numbers of a) people over 65 immunised against influenza 2001/02 to 2003/04 in London and b) childhood immunisations for 2004-05 by health authority.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/03/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0698.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 15/03/2010 from Baroness Kinnock to Viscount Waverley regarding treaties and co-operatio nagreements with Central Asia. 1 p."
+  "deposited_date" : "15/03/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0698.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 15/03/2010 from Baroness Kinnock to Viscount Waverley regarding treaties and co-operatio nagreements with Central Asia. 1 p.",
   "department" : "Foreign and Commonwealth Office"
 }

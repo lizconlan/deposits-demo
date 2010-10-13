@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1148.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 30/03/2009 from Geoff Russell, Chief Executive, to Phil Willis MP regarding allocation for Further Education Colleges. Inc a table. 6 p."
+  "deposited_date" : "30/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1148.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 30/03/2009 from Geoff Russell, Chief Executive, to Phil Willis MP regarding allocation for Further Education Colleges. Inc a table. 6 p.",
   "department" : "Dept for Innovation, Universities and Skills Learning and Skills Council for England"
 }

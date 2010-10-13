@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "25/03/2010"
-  "legislature" : CommonsLords
-  "legislation" : "Digital Economy Bill, 2009-10"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0848.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 23/03/2010 from Lord Young of Norwood Green to Peter Luff MP regarding the Digital Economy Bill and remaining issues from the House of Lords. 2 p."
+  "deposited_date" : "25/03/2010",
+  "legislature" : ["Commons","Lords"],
+  "legislation" : "Digital Economy Bill, 2009-10",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0848.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 23/03/2010 from Lord Young of Norwood Green to Peter Luff MP regarding the Digital Economy Bill and remaining issues from the House of Lords. 2 p.",
   "department" : "Department for Business, Innovation and Skills"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/06/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1728.pdf"
-  "year" : "2009"
-  "description" : "Letters dated 17/06/2009 from Baroness Thornton to Lord Kirkwood of Kirkhope and Baroness Howarth of Breckland regarding the European Union Committee's report 'Healthcare across EU borders: a safe framework'. 4 p."
+  "deposited_date" : "08/06/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1728.pdf",
+  "year" : "2009",
+  "description" : "Letters dated 17/06/2009 from Baroness Thornton to Lord Kirkwood of Kirkhope and Baroness Howarth of Breckland regarding the European Union Committee's report 'Healthcare across EU borders: a safe framework'. 4 p.",
   "department" : "Dept of Health"
 }

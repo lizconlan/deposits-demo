@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2876.zip"
-  "year" : "2008"
-  "description" : "Fraud return for 2007/08. Includes annexes."
+  "deposited_date" : "26/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2876.zip",
+  "year" : "2008",
+  "description" : "Fraud return for 2007/08. Includes annexes.",
   "department" : "Treasury"
 }

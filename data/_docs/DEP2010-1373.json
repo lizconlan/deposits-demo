@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/06/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1373.xls"
-  "year" : "2010"
-  "description" : "Table showing the number of enquiries made by hon. Members to the UK Border Agency, each year from 2007 to 31 May 2010. 24 p."
+  "deposited_date" : "23/06/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1373.xls",
+  "year" : "2010",
+  "description" : "Table showing the number of enquiries made by hon. Members to the UK Border Agency, each year from 2007 to 31 May 2010. 24 p.",
   "department" : "Home Office UK Border Agency"
 }

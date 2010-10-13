@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/01/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0184.zip"
-  "year" : "2009"
-  "description" : "Letter dated 15/01/2009 from Kitty Ussher MP regarding Child Support Agency report on handover to the Child Maintenance and Enforcement Commission. Inc the report. 42 p."
+  "deposited_date" : "22/01/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0184.zip",
+  "year" : "2009",
+  "description" : "Letter dated 15/01/2009 from Kitty Ussher MP regarding Child Support Agency report on handover to the Child Maintenance and Enforcement Commission. Inc the report. 42 p.",
   "department" : "Dept for Work and Pensions"
 }

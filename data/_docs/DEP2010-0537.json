@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0537.pdf"
-  "year" : "2010"
-  "description" : "Selected STI diagnoses (numbers and rates) from GUM clinics in the UK: 2004-2008. 27 p."
+  "deposited_date" : "26/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0537.pdf",
+  "year" : "2010",
+  "description" : "Selected STI diagnoses (numbers and rates) from GUM clinics in the UK: 2004-2008. 27 p.",
   "department" : "Health Protection Agency Department of Health"
 }

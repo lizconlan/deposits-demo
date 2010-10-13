@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "30/06/2008"
-  "legislature" : CommonsLords
-  "notes" : "Research HA holds a copy of the report only which is kept for 1 year (Sep 08)."
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1743.zip"
-  "year" : "2008"
-  "description" : "Letter dated 30/06/2008 from Barones Morgan of Drefelin to David Willets MP regarding consultation on changes to exemptions from public performance rights in sound recordings and performers rights. Includes the report. 70 p."
+  "deposited_date" : "30/06/2008",
+  "legislature" : ["Commons","Lords"],
+  "notes" : "Research HA holds a copy of the report only which is kept for 1 year (Sep 08).",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1743.zip",
+  "year" : "2008",
+  "description" : "Letter dated 30/06/2008 from Barones Morgan of Drefelin to David Willets MP regarding consultation on changes to exemptions from public performance rights in sound recordings and performers rights. Includes the report. 70 p.",
   "department" : "Dept for Innovation, Universities and Skills"
 }

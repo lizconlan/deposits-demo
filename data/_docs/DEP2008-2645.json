@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2645.pdf"
-  "year" : "2008"
-  "description" : "Offender management caseload statistics 2007. 172 p."
+  "deposited_date" : "04/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2645.pdf",
+  "year" : "2008",
+  "description" : "Offender management caseload statistics 2007. 172 p.",
   "department" : "Ministry of Justice"
 }

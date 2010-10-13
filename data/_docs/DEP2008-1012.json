@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/04/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1012.tif"
-  "year" : "2008"
-  "description" : "Letter dated 10/04/2008 from Baroness Andrews to Lord Skelmersdale regarding the progress on pilot schemes with housing benefit sanctions."
+  "deposited_date" : "15/04/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1012.tif",
+  "year" : "2008",
+  "description" : "Letter dated 10/04/2008 from Baroness Andrews to Lord Skelmersdale regarding the progress on pilot schemes with housing benefit sanctions.",
   "department" : "Dept for Communities and Local Government Dept for Work and Pensions"
 }

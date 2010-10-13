@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/05/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1308.doc"
-  "year" : "2008"
-  "description" : "Table showing mean and median time waited for hospital admissions with a main operation of gastric bypass surgery in 2006/07, broken down by NHS trust. 5 p."
+  "deposited_date" : "19/05/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1308.doc",
+  "year" : "2008",
+  "description" : "Table showing mean and median time waited for hospital admissions with a main operation of gastric bypass surgery in 2006/07, broken down by NHS trust. 5 p.",
   "department" : "Dept of Health"
 }

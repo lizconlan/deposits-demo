@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0930.xls"
-  "year" : "2009"
-  "description" : "Table showing capital resource limit allocations to Primary care trusts, NHS trusts and part years NHS trusts (Foundation trusts) as at quarter 3 2008/09. 4 p."
+  "deposited_date" : "23/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0930.xls",
+  "year" : "2009",
+  "description" : "Table showing capital resource limit allocations to Primary care trusts, NHS trusts and part years NHS trusts (Foundation trusts) as at quarter 3 2008/09. 4 p.",
   "department" : "Dept of Health"
 }

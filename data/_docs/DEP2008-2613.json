@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2613.tif"
-  "year" : "2008"
-  "description" : "Letter dated 06/11/2008 from Ben Bradshaw MP to Richard Bacon MP regarding the implementation of the Cerner Millennium at the Royal Free Hampstead NHS Trust. 1 p."
+  "deposited_date" : "07/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2613.tif",
+  "year" : "2008",
+  "description" : "Letter dated 06/11/2008 from Ben Bradshaw MP to Richard Bacon MP regarding the implementation of the Cerner Millennium at the Royal Free Hampstead NHS Trust. 1 p.",
   "department" : "Dept of Health"
 }

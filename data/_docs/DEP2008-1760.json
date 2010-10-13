@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/07/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1760.tif"
-  "year" : "2008"
-  "description" : "Letter dated 30/06/2008 from Baroness Andrews to Viscount Eccles regarding the Housing and Regeneration Bill: reference to the Treasury. 2 p."
+  "deposited_date" : "02/07/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1760.tif",
+  "year" : "2008",
+  "description" : "Letter dated 30/06/2008 from Baroness Andrews to Viscount Eccles regarding the Housing and Regeneration Bill: reference to the Treasury. 2 p.",
   "department" : "Dept for Communities and Local Government"
 }

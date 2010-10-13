@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0214.tif"
-  "year" : "2007"
-  "description" : "Various documents (incl. letters, minutes, plans and reports) regarding the Planning Delivery Agreement (PDA) pilot project in Durham in 2006. 17 p."
+  "deposited_date" : "03/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0214.tif",
+  "year" : "2007",
+  "description" : "Various documents (incl. letters, minutes, plans and reports) regarding the Planning Delivery Agreement (PDA) pilot project in Durham in 2006. 17 p.",
   "department" : "Planning Advisory Service"
 }

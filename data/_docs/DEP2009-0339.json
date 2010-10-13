@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/02/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0339.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 04/02/2009 from Ed Balls MP to Barry Sheerman MP regarding the numbers of children who die in circumstances where abuse is known or suspected. 3 p."
+  "deposited_date" : "05/02/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0339.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 04/02/2009 from Ed Balls MP to Barry Sheerman MP regarding the numbers of children who die in circumstances where abuse is known or suspected. 3 p.",
   "department" : "Dept for Children, Schools and Families"
 }

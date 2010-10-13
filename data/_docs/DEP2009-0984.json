@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0984.xls"
-  "year" : "2009"
-  "description" : "Table showing the number of 18- and 19-year-old entrants to higher education institutions in the UK for the years 1997/98 and 2007/08, broken down by local authority. 5 p."
+  "deposited_date" : "25/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0984.xls",
+  "year" : "2009",
+  "description" : "Table showing the number of 18- and 19-year-old entrants to higher education institutions in the UK for the years 1997/98 and 2007/08, broken down by local authority. 5 p.",
   "department" : "Dept for Innovation, Universities and Skills"
 }

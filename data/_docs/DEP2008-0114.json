@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/01/2008"
-  "legislature" : Commons
-  "notes" : "House of Lords Library: This deposit is HARDCOPY ONLY, and will be placed in the red file boxes."
-  "year" : "2008"
-  "description" : "Flycapture enforcement manual. [Large document]"
+  "deposited_date" : "14/01/2008",
+  "legislature" : ["Commons"],
+  "notes" : "House of Lords Library: This deposit is HARDCOPY ONLY, and will be placed in the red file boxes.",
+  "year" : "2008",
+  "description" : "Flycapture enforcement manual. [Large document]",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

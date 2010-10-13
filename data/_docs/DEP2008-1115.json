@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "28/04/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1115.zip"
-  "year" : "2008"
-  "description" : "Medical services agreement dated 15/03/2008 between the Department for Work and Pensions and Atos Origin IT Services Ltd. 76 p. Incl. 33 schedules."
+  "deposited_date" : "28/04/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1115.zip",
+  "year" : "2008",
+  "description" : "Medical services agreement dated 15/03/2008 between the Department for Work and Pensions and Atos Origin IT Services Ltd. 76 p. Incl. 33 schedules.",
   "department" : "Dept for Work and Pensions"
 }

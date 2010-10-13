@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2863.zip"
-  "year" : "2008"
-  "description" : "Table showing a) the number of social dwellings owned by local authorities for the years 1994 to 2007 and registered social landlords for the years 1997 to 2007 and b) the number of households with dependant children in temporary accommodation, broken down by local authority, on 30th June 2008. 42 p."
+  "deposited_date" : "26/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2863.zip",
+  "year" : "2008",
+  "description" : "Table showing a) the number of social dwellings owned by local authorities for the years 1994 to 2007 and registered social landlords for the years 1997 to 2007 and b) the number of households with dependant children in temporary accommodation, broken down by local authority, on 30th June 2008. 42 p.",
   "department" : "Dept for Communities and Local Government"
 }

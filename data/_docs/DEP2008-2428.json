@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2428.doc"
-  "year" : "2008"
-  "description" : "Table showing Flu Vaccine Campaign, Flu Vaccine Survey patients aged over and under 65; registered between 1 September 2007 to 31 January 2008. 7 p."
+  "deposited_date" : "21/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2428.doc",
+  "year" : "2008",
+  "description" : "Table showing Flu Vaccine Campaign, Flu Vaccine Survey patients aged over and under 65; registered between 1 September 2007 to 31 January 2008. 7 p.",
   "department" : "Dept of Health"
 }

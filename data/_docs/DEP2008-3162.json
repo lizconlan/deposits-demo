@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/12/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3162.xls"
-  "year" : "2008"
-  "description" : "Table showing the number of people receiving continuing NHS healthcare from Q4 2002/03 to Q2 2008/09, broken down by PCT. 6 p."
+  "deposited_date" : "18/12/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3162.xls",
+  "year" : "2008",
+  "description" : "Table showing the number of people receiving continuing NHS healthcare from Q4 2002/03 to Q2 2008/09, broken down by PCT. 6 p.",
   "department" : "Dept of Health"
 }

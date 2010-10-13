@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "20/02/2008"
-  "legislature" : Commons
-  "legislation" : "Pensions Bill 2007-08"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0488.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 20/02/2008 from Mike O'Brien MP to Nicholas Winterton MP regarding pensions and the reserved forces in the context of the Pensions Bill. 2 p."
+  "deposited_date" : "20/02/2008",
+  "legislature" : ["Commons"],
+  "legislation" : "Pensions Bill 2007-08",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0488.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 20/02/2008 from Mike O'Brien MP to Nicholas Winterton MP regarding pensions and the reserved forces in the context of the Pensions Bill. 2 p.",
   "department" : "Dept for Work and Pensions"
 }

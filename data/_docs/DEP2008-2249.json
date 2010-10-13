@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/09/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2249.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 22/09/2008 from Jim Knight MP to Barry Shearman MP regarding the delays in delivering the education maintenance allowance (EMA). 3 p."
+  "deposited_date" : "23/09/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2249.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 22/09/2008 from Jim Knight MP to Barry Shearman MP regarding the delays in delivering the education maintenance allowance (EMA). 3 p.",
   "department" : "Dept for Children Schools and Families"
 }

@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "27/10/2008"
-  "legislature" : Lords
-  "legislation" : "Counter-Terrorism Bill"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2558.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 27/10/2008 from Lord West of Spithead to Barones Neville-Jones regarding Counter-Terrorism Bill. 12 p."
+  "deposited_date" : "27/10/2008",
+  "legislature" : ["Lords"],
+  "legislation" : "Counter-Terrorism Bill",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2558.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 27/10/2008 from Lord West of Spithead to Barones Neville-Jones regarding Counter-Terrorism Bill. 12 p.",
   "department" : "Home Office"
 }

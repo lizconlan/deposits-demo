@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0387.doc"
-  "year" : "2008"
-  "description" : "Sites of archaeological importance near the proposed runway 3 at Heathrow Airport. 1 p."
+  "deposited_date" : "07/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0387.doc",
+  "year" : "2008",
+  "description" : "Sites of archaeological importance near the proposed runway 3 at Heathrow Airport. 1 p.",
   "department" : "Dept for Transport"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/06/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1860.zip"
-  "year" : "2009"
-  "description" : "I. Dear colleague letter dated 30/06/2009 from Lord McKenzie regarding the Industrial Injuries Advisory Council's position paper review of pleural plaques. 1 p. II. Industrial Injuries Advisory Council position paper 23, pleural plaques. 60 p."
+  "deposited_date" : "30/06/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1860.zip",
+  "year" : "2009",
+  "description" : "I. Dear colleague letter dated 30/06/2009 from Lord McKenzie regarding the Industrial Injuries Advisory Council's position paper review of pleural plaques. 1 p. II. Industrial Injuries Advisory Council position paper 23, pleural plaques. 60 p.",
   "department" : "Dept for Work and Pensions"
 }

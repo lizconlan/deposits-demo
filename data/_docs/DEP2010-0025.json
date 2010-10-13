@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0025.pdf"
-  "year" : "2010"
-  "description" : "Rodent infestations in domestic properties in England, 2003-2004. An interim report arising from the 2003 and 2004 English House Condition Survey data. 5 p."
+  "deposited_date" : "06/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0025.pdf",
+  "year" : "2010",
+  "description" : "Rodent infestations in domestic properties in England, 2003-2004. An interim report arising from the 2003 and 2004 English House Condition Survey data. 5 p.",
   "department" : "Department for Environment, Food and Rural Affairs"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2068.zip"
-  "year" : "2008"
-  "description" : "I. Report on the Forestry Commission re-survey of woodlands 2007 to assess the level of incidence of Phytophthora ramorum and Phytophthora kernoviae in woodlands in England and Wales. 7 p. II. Report on survey for Oak Processionary Moth Thaumetopoea processionea (Linnaeus) (Lepidoptera: Thaumetopoeidae) (OPM) in London in 2007. 17 p. III. Report on the National Survey to Assess the Presence of Bleeding Canker of Horse Chestnut Trees in Great Britain. March 2008. 13 p."
+  "deposited_date" : "24/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2068.zip",
+  "year" : "2008",
+  "description" : "I. Report on the Forestry Commission re-survey of woodlands 2007 to assess the level of incidence of Phytophthora ramorum and Phytophthora kernoviae in woodlands in England and Wales. 7 p. II. Report on survey for Oak Processionary Moth Thaumetopoea processionea (Linnaeus) (Lepidoptera: Thaumetopoeidae) (OPM) in London in 2007. 17 p. III. Report on the National Survey to Assess the Presence of Bleeding Canker of Horse Chestnut Trees in Great Britain. March 2008. 13 p.",
   "department" : "Forestry Commission Dept for Environment, Food and Rural Affairs"
 }

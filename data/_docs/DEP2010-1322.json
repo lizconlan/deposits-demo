@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/06/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1322.doc"
-  "year" : "2010"
-  "description" : "House of Commons catering and retail services sustainable procurement policy. 8 p."
+  "deposited_date" : "17/06/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1322.doc",
+  "year" : "2010",
+  "description" : "House of Commons catering and retail services sustainable procurement policy. 8 p.",
   "department" : "House of Commons Commission"
 }

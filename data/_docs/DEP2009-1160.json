@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/04/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1160.xls"
-  "year" : "2009"
-  "description" : "Table showing the number of finished consultant episodes for intentional self-harm, broken down by Strategic Health Authority and age group, for the years 2003/04 to 2007/08. 8 p."
+  "deposited_date" : "20/04/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1160.xls",
+  "year" : "2009",
+  "description" : "Table showing the number of finished consultant episodes for intentional self-harm, broken down by Strategic Health Authority and age group, for the years 2003/04 to 2007/08. 8 p.",
   "department" : "Dept of Health"
 }

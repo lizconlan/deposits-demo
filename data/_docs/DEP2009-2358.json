@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/07/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2358.zip"
-  "year" : "2009"
-  "description" : "I. Protocol for the appointment of Lord Lieutenants. 14 p. II. Letter dated 22/07/2009 from Michael Wills MP to Sir Alan Bleith MP regarding a protocol on the appointment of Lord Lieutenants. 1 p."
+  "deposited_date" : "22/07/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2358.zip",
+  "year" : "2009",
+  "description" : "I. Protocol for the appointment of Lord Lieutenants. 14 p. II. Letter dated 22/07/2009 from Michael Wills MP to Sir Alan Bleith MP regarding a protocol on the appointment of Lord Lieutenants. 1 p.",
   "department" : "Ministry of Justice"
 }

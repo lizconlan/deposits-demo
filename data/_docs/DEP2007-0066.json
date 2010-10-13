@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/11/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0066.doc"
-  "year" : "2007"
-  "description" : "Government decontamination service: business plan, 1 April 2007  31 March 2008. 15 p."
+  "deposited_date" : "08/11/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0066.doc",
+  "year" : "2007",
+  "description" : "Government decontamination service: business plan, 1 April 2007  31 March 2008. 15 p.",
   "department" : ""
 }

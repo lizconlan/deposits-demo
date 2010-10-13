@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/04/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1077.zip"
-  "year" : "2010"
-  "description" : "I. Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the for the Government of the Commonwealth of Dominica on the exchange of information relating to taxes and tax matters. 10 p. II. Agreement between the United Kingdom of Great Britain and Northern Ireland and Grenada for the exchange of information relating to tax matters. 9 p"
+  "deposited_date" : "07/04/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1077.zip",
+  "year" : "2010",
+  "description" : "I. Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the for the Government of the Commonwealth of Dominica on the exchange of information relating to taxes and tax matters. 10 p. II. Agreement between the United Kingdom of Great Britain and Northern Ireland and Grenada for the exchange of information relating to tax matters. 9 p",
   "department" : "Treasury"
 }

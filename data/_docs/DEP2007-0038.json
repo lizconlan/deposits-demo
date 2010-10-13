@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/10/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0038.zip"
-  "year" : "2007"
-  "description" : "I. Chlamydia Screening evaluation: interim report wave one. 205 p. II. Chlamydia Screening evaluation: interim report wave two. 337 p."
+  "deposited_date" : "25/10/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0038.zip",
+  "year" : "2007",
+  "description" : "I. Chlamydia Screening evaluation: interim report wave one. 205 p. II. Chlamydia Screening evaluation: interim report wave two. 337 p.",
   "department" : "Dept of Health"
 }

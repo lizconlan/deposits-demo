@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/02/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0438.doc"
-  "year" : "2009"
-  "description" : "Table showing the name and postcode location of each NHS dentist listed on the NHS choices website, broken down by dental service. 165 p."
+  "deposited_date" : "12/02/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0438.doc",
+  "year" : "2009",
+  "description" : "Table showing the name and postcode location of each NHS dentist listed on the NHS choices website, broken down by dental service. 165 p.",
   "department" : "Dept of Health"
 }

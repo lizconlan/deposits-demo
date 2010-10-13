@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/07/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1443.zip"
-  "year" : "2010"
-  "description" : "I. Letter dated 12/07/2010 from Charles Hendry MP to Tim Yeo MP regarding Poyry Energy Consulting reports on security of gas supply. 1 p. II. Great Britian Gas Security Of Supply & Options For Improvement. 156 p. III. Security Of Gas Supply: European Scenarios, Policy Drivers And Impact On Great Britain. 134 p. IV. Global Gas And LNG Markets & Great Britains Security Of Supply. 136 p."
+  "deposited_date" : "12/07/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1443.zip",
+  "year" : "2010",
+  "description" : "I. Letter dated 12/07/2010 from Charles Hendry MP to Tim Yeo MP regarding Poyry Energy Consulting reports on security of gas supply. 1 p. II. Great Britian Gas Security Of Supply & Options For Improvement. 156 p. III. Security Of Gas Supply: European Scenarios, Policy Drivers And Impact On Great Britain. 134 p. IV. Global Gas And LNG Markets & Great Britains Security Of Supply. 136 p.",
   "department" : "Department of Energy and Climate Change"
 }

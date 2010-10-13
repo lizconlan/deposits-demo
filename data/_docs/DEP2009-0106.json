@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0106.zip"
-  "year" : "2009"
-  "description" : "Tabls showing pipils who received one or more fixed period exclusions in Leicestershire, broken down by age and reason of exclusion for the years 1997/98 to 2006/07. 9 p."
+  "deposited_date" : "26/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0106.zip",
+  "year" : "2009",
+  "description" : "Tabls showing pipils who received one or more fixed period exclusions in Leicestershire, broken down by age and reason of exclusion for the years 1997/98 to 2006/07. 9 p.",
   "department" : "Dept for Children, Schools and Families"
 }

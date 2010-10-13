@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/12/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3213.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 17/12/2009 from Alistair Darling MP to Andrew Mackinlay MP regarding the US fine against Lloyds TSB and any implications for the Government as a shareholder. 1 p."
+  "deposited_date" : "15/12/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3213.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 17/12/2009 from Alistair Darling MP to Andrew Mackinlay MP regarding the US fine against Lloyds TSB and any implications for the Government as a shareholder. 1 p.",
   "department" : "Treasury"
 }

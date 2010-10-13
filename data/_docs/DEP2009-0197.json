@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0197.xls"
-  "year" : "2009"
-  "description" : "Table showing details of food and drink suppliers to the Department for Transport and its agencies for each year from 2005-06 to 2007-08, including costs."
+  "deposited_date" : "22/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0197.xls",
+  "year" : "2009",
+  "description" : "Table showing details of food and drink suppliers to the Department for Transport and its agencies for each year from 2005-06 to 2007-08, including costs.",
   "department" : "Dept for Transport"
 }

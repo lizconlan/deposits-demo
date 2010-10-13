@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/06/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2237.pdf"
-  "year" : "2008"
-  "description" : "Anti-counterfeiting strategy 2007-2010. 43 p."
+  "deposited_date" : "19/06/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2237.pdf",
+  "year" : "2008",
+  "description" : "Anti-counterfeiting strategy 2007-2010. 43 p.",
   "department" : "Medicines and Healthcare Products Regulatory Agency Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/12/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0019.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 16/12/2009 from Dr donal O'Donoghue (National Clinical Director for Kidney Care) to Dr Marisa Mason (Chief Executive, NCEPOD) regarding the report on acute kidney injury: 'Adding insult to injury'. 4 p."
+  "deposited_date" : "14/12/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0019.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 16/12/2009 from Dr donal O'Donoghue (National Clinical Director for Kidney Care) to Dr Marisa Mason (Chief Executive, NCEPOD) regarding the report on acute kidney injury: 'Adding insult to injury'. 4 p.",
   "department" : "Department of Health"
 }

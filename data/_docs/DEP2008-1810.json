@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1810.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 04/07/2008 from Sheila Collins, Chairman, to Tobias Ellwood MP regarding computer systems used for patient records in the Royal Bournemouth and Christchurch Hospitals Trust. 2 p."
+  "deposited_date" : "30/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1810.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 04/07/2008 from Sheila Collins, Chairman, to Tobias Ellwood MP regarding computer systems used for patient records in the Royal Bournemouth and Christchurch Hospitals Trust. 2 p.",
   "department" : "Dept of Health Royal Bournemouth and Christchurch Hospitals NHS Foundation Trust"
 }

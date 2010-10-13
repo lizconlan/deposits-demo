@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "13/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0347.xls"
-  "year" : "2007"
-  "description" : "Table showing number of searches of persons and vehicles and resultant arrests for each year from 2000-01 to 2005-06, broken down by police force area. 6 p."
+  "deposited_date" : "13/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0347.xls",
+  "year" : "2007",
+  "description" : "Table showing number of searches of persons and vehicles and resultant arrests for each year from 2000-01 to 2005-06, broken down by police force area. 6 p.",
   "department" : "Home Office"
 }

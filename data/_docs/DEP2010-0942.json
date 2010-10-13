@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0942.zip"
-  "year" : "2010"
-  "description" : "Written ministerial directions from Alistair Darling MP to Peter Mathison (Chief Exec., Benefits Agency) regarding benefits and disability, dated 30/07/1998, 15/09/1998, 21/12/1998, 28/01/1999 and 25/02/1999. 10 p."
+  "deposited_date" : "30/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0942.zip",
+  "year" : "2010",
+  "description" : "Written ministerial directions from Alistair Darling MP to Peter Mathison (Chief Exec., Benefits Agency) regarding benefits and disability, dated 30/07/1998, 15/09/1998, 21/12/1998, 28/01/1999 and 25/02/1999. 10 p.",
   "department" : "Department for Work and Pensions"
 }

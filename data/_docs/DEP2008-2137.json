@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2137.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 11/07/2008 from Ed Richards, Chief Executive, to Phyllis Starkey MP regarding migration authorisation code. 2 p."
+  "deposited_date" : "11/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2137.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 11/07/2008 from Ed Richards, Chief Executive, to Phyllis Starkey MP regarding migration authorisation code. 2 p.",
   "department" : "Dept for Business Enterprise and Regulatory Reform Office of Communications"
 }

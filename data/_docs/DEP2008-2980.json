@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "04/12/2008"
-  "legislature" : Commons
-  "legislation" : "Business Rate Supplements Bill 2008-09"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2980.doc"
-  "year" : "2008"
-  "description" : "Business Rate Supplements Bill, list of older relevant papers. 2 p."
+  "deposited_date" : "04/12/2008",
+  "legislature" : ["Commons"],
+  "legislation" : "Business Rate Supplements Bill 2008-09",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2980.doc",
+  "year" : "2008",
+  "description" : "Business Rate Supplements Bill, list of older relevant papers. 2 p.",
   "department" : "Dept for Communities and Local Government"
 }

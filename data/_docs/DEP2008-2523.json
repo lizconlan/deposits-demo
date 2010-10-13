@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2523.xls"
-  "year" : "2008"
-  "description" : "Tables showing completed transactions there under each HomeBuy scheme in each month between April 2006 and March 2008, broken down by local authority."
+  "deposited_date" : "30/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2523.xls",
+  "year" : "2008",
+  "description" : "Tables showing completed transactions there under each HomeBuy scheme in each month between April 2006 and March 2008, broken down by local authority.",
   "department" : "Dept for Communities and Local Government"
 }

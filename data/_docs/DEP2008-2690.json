@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2690.zip"
-  "year" : "2008"
-  "description" : "I. National DNA Database (NDNAD): equality impact assessment. Stage 1. 9 p. II. Association of Chief Police Officers (ACPO) DNA good practice manual: equality impact assessment. Stage 1. 3rd ed. 2007. 8 p."
+  "deposited_date" : "12/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2690.zip",
+  "year" : "2008",
+  "description" : "I. National DNA Database (NDNAD): equality impact assessment. Stage 1. 9 p. II. Association of Chief Police Officers (ACPO) DNA good practice manual: equality impact assessment. Stage 1. 3rd ed. 2007. 8 p.",
   "department" : "National Policing Improvement Agency Home Office"
 }

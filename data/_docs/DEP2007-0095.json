@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/11/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0095.zip"
-  "year" : "2007"
-  "description" : "Responses to the consultation paper on updating standards relating to overcrowded housing. [75 separate documents]"
+  "deposited_date" : "14/11/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0095.zip",
+  "year" : "2007",
+  "description" : "Responses to the consultation paper on updating standards relating to overcrowded housing. [75 separate documents]",
   "department" : "Dept for Communities and Local Government"
 }

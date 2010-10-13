@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/04/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1112.tif"
-  "year" : "2009"
-  "description" : "Letter dated 06/04/2009 from Alistair Finlay, Assistant Chief Constable, to Lord Laird regarding the cost of policing the student riot in Belfast on 17/03/2009. 2 p."
+  "deposited_date" : "14/04/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1112.tif",
+  "year" : "2009",
+  "description" : "Letter dated 06/04/2009 from Alistair Finlay, Assistant Chief Constable, to Lord Laird regarding the cost of policing the student riot in Belfast on 17/03/2009. 2 p.",
   "department" : "Police Service of Northern Ireland"
 }

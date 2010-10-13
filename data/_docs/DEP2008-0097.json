@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0097.pdf"
-  "year" : "2008"
-  "description" : "The Food Standards Agency's (FSA) 230 food alerts for the period April 2005 to December 2007. 26 p."
+  "deposited_date" : "14/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0097.pdf",
+  "year" : "2008",
+  "description" : "The Food Standards Agency's (FSA) 230 food alerts for the period April 2005 to December 2007. 26 p.",
   "department" : "Dept of Health"
 }

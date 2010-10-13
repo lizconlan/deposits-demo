@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/11/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0133.tif"
-  "year" : "2007"
-  "description" : "Letter dated 20/11/2007 from Des Browne MP to Nick Harvey MP regarding the Defence Policy debate."
+  "deposited_date" : "20/11/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0133.tif",
+  "year" : "2007",
+  "description" : "Letter dated 20/11/2007 from Des Browne MP to Nick Harvey MP regarding the Defence Policy debate.",
   "department" : "Ministry of Defence"
 }

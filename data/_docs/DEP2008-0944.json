@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/04/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0944.doc"
-  "year" : "2008"
-  "description" : "Dear colleague letter [undated] from David Nicholson, NHS Chief Executive, following up from the cleanliness summit held on 28th February 2008. Incl. agenda, meeting notes, action for the future and list of attendees. 8 p."
+  "deposited_date" : "02/04/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0944.doc",
+  "year" : "2008",
+  "description" : "Dear colleague letter [undated] from David Nicholson, NHS Chief Executive, following up from the cleanliness summit held on 28th February 2008. Incl. agenda, meeting notes, action for the future and list of attendees. 8 p.",
   "department" : "Dept of Health"
 }

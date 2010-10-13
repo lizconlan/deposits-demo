@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2402.xls"
-  "year" : "2008"
-  "description" : "Table showing the numbers and percentages of (a) pensioners and (b) children living in income-deprived households in each parliamentary constituency in England for 2007. 10 p."
+  "deposited_date" : "17/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2402.xls",
+  "year" : "2008",
+  "description" : "Table showing the numbers and percentages of (a) pensioners and (b) children living in income-deprived households in each parliamentary constituency in England for 2007. 10 p.",
   "department" : "Dept for Communities and Local Government"
 }

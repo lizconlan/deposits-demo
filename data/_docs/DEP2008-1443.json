@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1443.zip"
-  "year" : "2008"
-  "description" : "Tables showing total expenditure by region for the years 1997/98 to 2006/07 for a) jobseekers allowance b) income support c) incapacity benefit and severe disablement allowance and d) key out-of-work benefits. 22 p."
+  "deposited_date" : "04/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1443.zip",
+  "year" : "2008",
+  "description" : "Tables showing total expenditure by region for the years 1997/98 to 2006/07 for a) jobseekers allowance b) income support c) incapacity benefit and severe disablement allowance and d) key out-of-work benefits. 22 p.",
   "department" : "Dept for Work and Pensions"
 }

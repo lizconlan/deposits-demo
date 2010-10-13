@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/04/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1187.xls"
-  "year" : "2010"
-  "description" : "Table showing number and percentage of pupil enrolments that are persistent absentees for the years 2006/07 to 2008/09. 7 p."
+  "deposited_date" : "06/04/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1187.xls",
+  "year" : "2010",
+  "description" : "Table showing number and percentage of pupil enrolments that are persistent absentees for the years 2006/07 to 2008/09. 7 p.",
   "department" : "Department for Children, Schools and Families"
 }

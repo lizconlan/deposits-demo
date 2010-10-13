@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0156.zip"
-  "year" : "2008"
-  "description" : "I. Letter dated 17/01/2008 from Tessa Jowell MP to Hugh Robertson MP regarding the ODA programme baseline summary. II. Olympic Delivery Authority programme delivery baseline report, January 2008. 96 p."
+  "deposited_date" : "17/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0156.zip",
+  "year" : "2008",
+  "description" : "I. Letter dated 17/01/2008 from Tessa Jowell MP to Hugh Robertson MP regarding the ODA programme baseline summary. II. Olympic Delivery Authority programme delivery baseline report, January 2008. 96 p.",
   "department" : "Olympic Delivery Authority Dept for Culture Media and Sport"
 }

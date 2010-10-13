@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/10/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0002.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 14/12/2010 from Michael Wills MP to Christopher Cope MP regarding Law Commission Bill. 4 p."
+  "deposited_date" : "16/10/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0002.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 14/12/2010 from Michael Wills MP to Christopher Cope MP regarding Law Commission Bill. 4 p.",
   "department" : "Ministry of Justice"
 }

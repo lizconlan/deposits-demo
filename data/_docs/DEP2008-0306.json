@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0306.tif"
-  "year" : "2008"
-  "description" : "Letter dated 01/02/2008 from Bob Ainsworth MP to Norman Baker MP regarding contracts placed by the Royal Fleet Auxiliary Support Integrated Project Team (RFAS IPT). Incl. list of contracts. 18 p."
+  "deposited_date" : "07/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0306.tif",
+  "year" : "2008",
+  "description" : "Letter dated 01/02/2008 from Bob Ainsworth MP to Norman Baker MP regarding contracts placed by the Royal Fleet Auxiliary Support Integrated Project Team (RFAS IPT). Incl. list of contracts. 18 p.",
   "department" : "Ministry of Defence"
 }

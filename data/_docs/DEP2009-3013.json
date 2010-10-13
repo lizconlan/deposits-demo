@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/12/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3013.xls"
-  "year" : "2009"
-  "description" : "Table showing the volume of oils consigned for processing as waste and to which facilities and companies such oils were consigned for processing from 2005 to 2008. 4 p."
+  "deposited_date" : "03/12/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3013.xls",
+  "year" : "2009",
+  "description" : "Table showing the volume of oils consigned for processing as waste and to which facilities and companies such oils were consigned for processing from 2005 to 2008. 4 p.",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

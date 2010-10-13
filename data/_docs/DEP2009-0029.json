@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0029.tif"
-  "year" : "2009"
-  "description" : "Letter dated 05/01/2009 from J A Harris, Assistant Chief Constable, to David Simpson MP regarding the loss prostitution. 2 p."
+  "deposited_date" : "06/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0029.tif",
+  "year" : "2009",
+  "description" : "Letter dated 05/01/2009 from J A Harris, Assistant Chief Constable, to David Simpson MP regarding the loss prostitution. 2 p.",
   "department" : "Northern Ireland Office Police Service of Northern Ireland"
 }

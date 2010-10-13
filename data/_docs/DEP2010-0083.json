@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/12/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0083.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 12/01/2010 from Lord Davies of Abersoch to Lord Newby regarding Legislative Reform (Insolvency) (Miscellaneous Provisions) Order 2010. 4 p."
+  "deposited_date" : "15/12/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0083.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 12/01/2010 from Lord Davies of Abersoch to Lord Newby regarding Legislative Reform (Insolvency) (Miscellaneous Provisions) Order 2010. 4 p.",
   "department" : "Department for Business, Innovation and Skills Foreign and Commonwealth Office"
 }

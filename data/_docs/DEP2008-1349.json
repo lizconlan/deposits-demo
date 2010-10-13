@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/05/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1349.pdf"
-  "year" : "2008"
-  "description" : "Resolving disputes in the workplace: Government response. 60 p. URN 08/539."
+  "deposited_date" : "19/05/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1349.pdf",
+  "year" : "2008",
+  "description" : "Resolving disputes in the workplace: Government response. 60 p. URN 08/539.",
   "department" : "Dept for Business Enterprise and Regulatory Reform"
 }

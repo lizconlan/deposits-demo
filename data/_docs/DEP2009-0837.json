@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0837.zip"
-  "year" : "2009"
-  "description" : "I. Table showing the gross internal floor area attributable to hospital buildings with temporary planning consent for the year 2007/08, broken down by hospital. 23 p. II. Table showing the organisations codes used in the Estates Returns Information Collection) ERIC, broken down by hospital. 11 p."
+  "deposited_date" : "16/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0837.zip",
+  "year" : "2009",
+  "description" : "I. Table showing the gross internal floor area attributable to hospital buildings with temporary planning consent for the year 2007/08, broken down by hospital. 23 p. II. Table showing the organisations codes used in the Estates Returns Information Collection) ERIC, broken down by hospital. 11 p.",
   "department" : "Dept of Health"
 }

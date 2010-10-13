@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2775.xls"
-  "year" : "2009"
-  "description" : "Table showing the number of households receiving Housing Benefit by tenure, broken down by Government Office Region for the years 1997 to 2009 and registered social landlord rented homes in receipt of (i) housing and (ii) council tax benefit in each region for 2008/09. 6 p."
+  "deposited_date" : "10/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2775.xls",
+  "year" : "2009",
+  "description" : "Table showing the number of households receiving Housing Benefit by tenure, broken down by Government Office Region for the years 1997 to 2009 and registered social landlord rented homes in receipt of (i) housing and (ii) council tax benefit in each region for 2008/09. 6 p.",
   "department" : "Dept for Work and Pensions"
 }

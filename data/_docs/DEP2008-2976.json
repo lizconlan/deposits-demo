@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/12/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2976.zip"
-  "year" : "2008"
-  "description" : "I. The future of Scottish Devolution within the Union: a first report, December 2008. 124 p. II. The future of Scottish Devolution within the Union: a first report. Volume II: a summary of evidence. 151 p. III. The future of Scottish Devolution within the Union: a first report, a summary. 12 p."
+  "deposited_date" : "04/12/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2976.zip",
+  "year" : "2008",
+  "description" : "I. The future of Scottish Devolution within the Union: a first report, December 2008. 124 p. II. The future of Scottish Devolution within the Union: a first report. Volume II: a summary of evidence. 151 p. III. The future of Scottish Devolution within the Union: a first report, a summary. 12 p.",
   "department" : "Scotland Office"
 }

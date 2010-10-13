@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/06/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1655.pdf"
-  "year" : "2008"
-  "description" : "Letter dated June 2008 from Barones Thornton to Baroness Trumpington regarding liaison between the United Kingdom and the Jamaica Sickle Cell Unit. 1 p."
+  "deposited_date" : "24/06/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1655.pdf",
+  "year" : "2008",
+  "description" : "Letter dated June 2008 from Barones Thornton to Baroness Trumpington regarding liaison between the United Kingdom and the Jamaica Sickle Cell Unit. 1 p.",
   "department" : "Dept of Health"
 }

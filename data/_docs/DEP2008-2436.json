@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/10/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2436.pdf"
-  "year" : "2008"
-  "description" : "Government response to the Office of Fair Trading (OFT) sale and rent back market (SRB) study. 6 p."
+  "deposited_date" : "22/10/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2436.pdf",
+  "year" : "2008",
+  "description" : "Government response to the Office of Fair Trading (OFT) sale and rent back market (SRB) study. 6 p.",
   "department" : "Office of Fair Trading Treasury"
 }

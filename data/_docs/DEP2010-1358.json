@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "28/06/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1358.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 09/06/2010 from Christine Gilbert, Her Majesty's Chief Inspector, to Ed Balls MP regarding free school meals and special education needs. Inc a table. 2 p."
+  "deposited_date" : "28/06/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1358.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 09/06/2010 from Christine Gilbert, Her Majesty's Chief Inspector, to Ed Balls MP regarding free school meals and special education needs. Inc a table. 2 p.",
   "department" : "Department for Children, Schools and Families Office for Standards in Education, Children's Services and Skills"
 }

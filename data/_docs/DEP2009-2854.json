@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2854.xls"
-  "year" : "2009"
-  "description" : "Table showing the average rateable values for all properties, small properties and large properties for England, broken down by local authority on both the 2005 Ratings List and the draft 2010 Ratings List at 29 May 2009. 10 p."
+  "deposited_date" : "16/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2854.xls",
+  "year" : "2009",
+  "description" : "Table showing the average rateable values for all properties, small properties and large properties for England, broken down by local authority on both the 2005 Ratings List and the draft 2010 Ratings List at 29 May 2009. 10 p.",
   "department" : "Dept for Communities and Local Government"
 }

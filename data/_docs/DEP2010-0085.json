@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "13/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0085.zip"
-  "year" : "2010"
-  "description" : "Copies of the annual reports and financial accounts of the Northern Ireland Human Rights Commission. 45 p."
+  "deposited_date" : "13/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0085.zip",
+  "year" : "2010",
+  "description" : "Copies of the annual reports and financial accounts of the Northern Ireland Human Rights Commission. 45 p.",
   "department" : "Northern Ireland Office"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/07/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1974.pdf"
-  "year" : "2008"
-  "description" : "National Offender Management Service agency framework document. 45 p."
+  "deposited_date" : "17/07/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1974.pdf",
+  "year" : "2008",
+  "description" : "National Offender Management Service agency framework document. 45 p.",
   "department" : "Ministry of Justice"
 }

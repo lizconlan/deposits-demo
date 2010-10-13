@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "31/01/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0281.pdf"
-  "year" : "2008"
-  "description" : "Prison policy update: briefing paper. 26 p."
+  "deposited_date" : "31/01/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0281.pdf",
+  "year" : "2008",
+  "description" : "Prison policy update: briefing paper. 26 p.",
   "department" : "Ministry of Justice"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0390.xls"
-  "year" : "2010"
-  "description" : "Tables showing the results of the GP patient survey for 2008/09-2009/10 by primary care trust and strategic health authority. 65 p."
+  "deposited_date" : "09/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0390.xls",
+  "year" : "2010",
+  "description" : "Tables showing the results of the GP patient survey for 2008/09-2009/10 by primary care trust and strategic health authority. 65 p.",
   "department" : "Department of Health"
 }

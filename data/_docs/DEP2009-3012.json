@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3012.doc"
-  "year" : "2009"
-  "description" : "Landfill prosecutions related to water pollution from 2000 to 2009. 20 p."
+  "deposited_date" : "30/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3012.doc",
+  "year" : "2009",
+  "description" : "Landfill prosecutions related to water pollution from 2000 to 2009. 20 p.",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

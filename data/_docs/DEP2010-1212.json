@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/04/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1212.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 13/04/2010 from Christine Gilbert, Her Majesty's Chief Inspector, to Lord Moonie regarding creche and nursery closures. 2 p."
+  "deposited_date" : "08/04/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1212.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 13/04/2010 from Christine Gilbert, Her Majesty's Chief Inspector, to Lord Moonie regarding creche and nursery closures. 2 p.",
   "department" : "Department for Children, Schools and Families"
 }

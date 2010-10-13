@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2974.xls"
-  "year" : "2009"
-  "description" : "Table showing the number of prescription items and net ingredient cost (NIC) per 1,000 women aged 15-49, prescribed in England and dispensed in the community in the UK in 2008. 1 p."
+  "deposited_date" : "30/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2974.xls",
+  "year" : "2009",
+  "description" : "Table showing the number of prescription items and net ingredient cost (NIC) per 1,000 women aged 15-49, prescribed in England and dispensed in the community in the UK in 2008. 1 p.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/12/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3111.xls"
-  "year" : "2008"
-  "description" : "Table showing data regarding costs of backlogs on maintenance in the NHS for each year from 2004-05 to 2007-08, broken down by NHS trust/PCT. 88 p."
+  "deposited_date" : "16/12/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3111.xls",
+  "year" : "2008",
+  "description" : "Table showing data regarding costs of backlogs on maintenance in the NHS for each year from 2004-05 to 2007-08, broken down by NHS trust/PCT. 88 p.",
   "department" : "Dept of Health"
 }

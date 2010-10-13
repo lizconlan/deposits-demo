@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0894.pdf"
-  "year" : "2010"
-  "description" : "Response from DCMS detailing the amount spent on taxi, bus and rail travel by Arts Council England staff at the head office from 2006/07 to 2009/10. 1 p."
+  "deposited_date" : "05/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0894.pdf",
+  "year" : "2010",
+  "description" : "Response from DCMS detailing the amount spent on taxi, bus and rail travel by Arts Council England staff at the head office from 2006/07 to 2009/10. 1 p.",
   "department" : "Department for Culture, Media and Sport"
 }

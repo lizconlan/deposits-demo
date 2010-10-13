@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/06/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1329.zip"
-  "year" : "2010"
-  "description" : "Explanatory memoranda between 12/04/2010 to 09/06/2010. 91 p."
+  "deposited_date" : "21/06/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1329.zip",
+  "year" : "2010",
+  "description" : "Explanatory memoranda between 12/04/2010 to 09/06/2010. 91 p.",
   "department" : "Foreign and Commonwealth Office"
 }

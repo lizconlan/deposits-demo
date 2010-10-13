@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1019.xls"
-  "year" : "2008"
-  "description" : "Table showing number of pupils with statements of special educational needs or at "School action plus" as at January 2007, broken down by type of need and local authority. 31 p."
+  "deposited_date" : "26/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1019.xls",
+  "year" : "2008",
+  "description" : "Table showing number of pupils with statements of special educational needs or at \"School action plus\" as at January 2007, broken down by type of need and local authority. 31 p.",
   "department" : "Dept for Children Schools and Families"
 }

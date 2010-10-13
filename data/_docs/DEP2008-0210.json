@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0210.xls"
-  "year" : "2008"
-  "description" : "Table showing central government grant per capita by local authority for 2006-07 and 2007-08."
+  "deposited_date" : "25/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0210.xls",
+  "year" : "2008",
+  "description" : "Table showing central government grant per capita by local authority for 2006-07 and 2007-08.",
   "department" : "Dept for Communities and Local Government"
 }

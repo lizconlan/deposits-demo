@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0938.pdf"
-  "year" : "2010"
-  "description" : "Email correspondence from 13/08/2004 to 26/08/2004 between Alison Dewar (Audit Commission) and Gordon Adams (Southampton City Council) regarding a waste management inspection report. 3 p."
+  "deposited_date" : "29/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0938.pdf",
+  "year" : "2010",
+  "description" : "Email correspondence from 13/08/2004 to 26/08/2004 between Alison Dewar (Audit Commission) and Gordon Adams (Southampton City Council) regarding a waste management inspection report. 3 p.",
   "department" : "Communities and Local Government"
 }

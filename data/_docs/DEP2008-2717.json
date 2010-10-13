@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/11/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2717.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 07/11/2008 from Lord McKenzie of Luton to Lord Oakeshott of Seagrove Bay regarding the Memorandum of Understanding between the FSA and the Pensions Regulator. Incl. copy of Memorandum."
+  "deposited_date" : "14/11/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2717.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 07/11/2008 from Lord McKenzie of Luton to Lord Oakeshott of Seagrove Bay regarding the Memorandum of Understanding between the FSA and the Pensions Regulator. Incl. copy of Memorandum.",
   "department" : "Dept for Work and Pensions"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/09/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2213.xls"
-  "year" : "2008"
-  "description" : "Tables showing number of maternity incidents that occurred in each year from 2005 to 2007, broken down by health authority and incident type. 7 p."
+  "deposited_date" : "10/09/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2213.xls",
+  "year" : "2008",
+  "description" : "Tables showing number of maternity incidents that occurred in each year from 2005 to 2007, broken down by health authority and incident type. 7 p.",
   "department" : "Dept of Health"
 }

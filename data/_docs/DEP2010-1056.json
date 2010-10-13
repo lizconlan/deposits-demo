@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/04/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1056.zip"
-  "year" : "2010"
-  "description" : "Study on the feasibility of the establishment of a Waste Implementation Agency: overview, summary of the study's interim report and summary of the first and second informal workshops. 16 p."
+  "deposited_date" : "06/04/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1056.zip",
+  "year" : "2010",
+  "description" : "Study on the feasibility of the establishment of a Waste Implementation Agency: overview, summary of the study's interim report and summary of the first and second informal workshops. 16 p.",
   "department" : "Department for Environment, Food and Rural Affairs"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0705.xls"
-  "year" : "2010"
-  "description" : "Table showing the number and proportion of people of working age who were classified as underemployed in (a) Scotland, (b) Wales, (c) England and (d) Northern Ireland for the years 2000 to 2009. 1 p,"
+  "deposited_date" : "16/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0705.xls",
+  "year" : "2010",
+  "description" : "Table showing the number and proportion of people of working age who were classified as underemployed in (a) Scotland, (b) Wales, (c) England and (d) Northern Ireland for the years 2000 to 2009. 1 p,",
   "department" : "Cabinet Office"
 }

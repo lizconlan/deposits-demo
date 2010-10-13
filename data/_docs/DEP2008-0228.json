@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/01/2008"
-  "legislature" : Commons
-  "notes" : "House of Lords Library: This deposit is HARDCOPY ONLY, and will be placed in the red file boxes."
-  "year" : "2008"
-  "description" : "The army's total fleet requirement (TFR) as at 7th April 2006. 138 p. + appendices."
+  "deposited_date" : "07/01/2008",
+  "legislature" : ["Commons"],
+  "notes" : "House of Lords Library: This deposit is HARDCOPY ONLY, and will be placed in the red file boxes.",
+  "year" : "2008",
+  "description" : "The army's total fleet requirement (TFR) as at 7th April 2006. 138 p. + appendices.",
   "department" : "Ministry of Defence Army Policy and Resources Committee"
 }

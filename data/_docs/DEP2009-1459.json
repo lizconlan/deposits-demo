@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/02/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1459.zip"
-  "year" : "2009"
-  "description" : "I. Valuation Office Agency non-domestic rating reference manual. 27 p. II. Valuation Office Agency non-domestic rating toolkit. 27 p. III. Council tax referencing manual. incl. appendices. 82 p."
+  "deposited_date" : "02/02/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1459.zip",
+  "year" : "2009",
+  "description" : "I. Valuation Office Agency non-domestic rating reference manual. 27 p. II. Valuation Office Agency non-domestic rating toolkit. 27 p. III. Council tax referencing manual. incl. appendices. 82 p.",
   "department" : "Treasury"
 }

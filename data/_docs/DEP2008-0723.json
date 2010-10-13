@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/02/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0723.pdf"
-  "year" : "2008"
-  "description" : "Biennial conservation report of the Government Historic Estate 2005-2007. 76 p."
+  "deposited_date" : "18/02/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0723.pdf",
+  "year" : "2008",
+  "description" : "Biennial conservation report of the Government Historic Estate 2005-2007. 76 p.",
   "department" : "Dept for Culture Media and Sport Government Historic Estates Unit"
 }

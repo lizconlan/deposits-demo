@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1862.xls"
-  "year" : "2008"
-  "description" : "Table showing the number of HMRC offices that have been closed between 2001 and 2008, broken down by parliamentary constituency. 13 p."
+  "deposited_date" : "08/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1862.xls",
+  "year" : "2008",
+  "description" : "Table showing the number of HMRC offices that have been closed between 2001 and 2008, broken down by parliamentary constituency. 13 p.",
   "department" : "Revenue and Customs Treasury"
 }

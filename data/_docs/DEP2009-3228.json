@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/12/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3228.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 15/12/2009 from Christine Gilbert, Chief Inspector, to Baroness Neville-Jones regarding schools and extremist groups. 1 p."
+  "deposited_date" : "18/12/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3228.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 15/12/2009 from Christine Gilbert, Chief Inspector, to Baroness Neville-Jones regarding schools and extremist groups. 1 p.",
   "department" : "Dept for Children, Schools and Families"
 }

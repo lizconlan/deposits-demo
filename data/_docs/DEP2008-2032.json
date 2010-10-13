@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2032.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 22/07/2008 from Helen Goodman MP to Paul Burstow MP regarding pay increases for public sector groups. Incl. figures. 1 p."
+  "deposited_date" : "15/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2032.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 22/07/2008 from Helen Goodman MP to Paul Burstow MP regarding pay increases for public sector groups. Incl. figures. 1 p.",
   "department" : "Leader of the House of Commons"
 }

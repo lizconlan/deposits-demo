@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "03/12/2008"
-  "legislature" : Commons
-  "legislation" : "Pensions Bill"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2972.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 29/11/2008 from Rosie Winterton MP to Andrew Selous MP regarding the Pensions Bill. 5 p."
+  "deposited_date" : "03/12/2008",
+  "legislature" : ["Commons"],
+  "legislation" : "Pensions Bill",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2972.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 29/11/2008 from Rosie Winterton MP to Andrew Selous MP regarding the Pensions Bill. 5 p.",
   "department" : "Dept for Work and Pensions"
 }

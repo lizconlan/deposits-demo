@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0637.xls"
-  "year" : "2008"
-  "description" : "Table showing working age and pensioner client groups, by statistical group and % of adult population in Cornwall, the South West and England, for each year from 2002 to 2007"
+  "deposited_date" : "04/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0637.xls",
+  "year" : "2008",
+  "description" : "Table showing working age and pensioner client groups, by statistical group and % of adult population in Cornwall, the South West and England, for each year from 2002 to 2007",
   "department" : "Dept for Work and Pensions"
 }

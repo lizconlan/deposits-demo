@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/04/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1066.xls"
-  "year" : "2008"
-  "description" : "Table showing number of people admitted to hospital with eating disorders for each year from 2002-03 to 2006-07, broken down by age and region."
+  "deposited_date" : "22/04/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1066.xls",
+  "year" : "2008",
+  "description" : "Table showing number of people admitted to hospital with eating disorders for each year from 2002-03 to 2006-07, broken down by age and region.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/04/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1071.pdf"
-  "year" : "2010"
-  "description" : "Prioritising need in the context of Putting People First: A whole system approach to eligibility for social care. Guidance on Eligibility Criteria for Adult Social Care, England 2010. 50 p."
+  "deposited_date" : "06/04/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1071.pdf",
+  "year" : "2010",
+  "description" : "Prioritising need in the context of Putting People First: A whole system approach to eligibility for social care. Guidance on Eligibility Criteria for Adult Social Care, England 2010. 50 p.",
   "department" : "Department of Health"
 }

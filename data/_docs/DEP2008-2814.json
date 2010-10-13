@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/11/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2814.tif"
-  "year" : "2008"
-  "description" : "Letter dated 07/11/2008 from J.K. Gillespie, Assistant Chief Constable, to Lord Morrow regarding the number of operational police stations in Northern Ireland. 2 p."
+  "deposited_date" : "21/11/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2814.tif",
+  "year" : "2008",
+  "description" : "Letter dated 07/11/2008 from J.K. Gillespie, Assistant Chief Constable, to Lord Morrow regarding the number of operational police stations in Northern Ireland. 2 p.",
   "department" : "Police Service of Northern Ireland Northern Ireland Office"
 }

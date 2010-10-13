@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0703.xls"
-  "year" : "2009"
-  "description" : "Table showing the number of finished admission episodes with a primary diagnosis of mental and behavioural disorders for patients in England aged 18 - 21 at start of episode for each year from 1998/99 to 2007/08, broken down by treatment provider. 53 p."
+  "deposited_date" : "09/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0703.xls",
+  "year" : "2009",
+  "description" : "Table showing the number of finished admission episodes with a primary diagnosis of mental and behavioural disorders for patients in England aged 18 - 21 at start of episode for each year from 1998/99 to 2007/08, broken down by treatment provider. 53 p.",
   "department" : "Dept of Health"
 }

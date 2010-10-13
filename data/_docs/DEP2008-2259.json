@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/10/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2259.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 20/09/2008 from Lord McKenzie to Lord Skelmersdale regarding the Pensions Bill: Government amendments and updated resources ahead of Lord's Report stage. 6 p."
+  "deposited_date" : "01/10/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2259.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 20/09/2008 from Lord McKenzie to Lord Skelmersdale regarding the Pensions Bill: Government amendments and updated resources ahead of Lord's Report stage. 6 p.",
   "department" : "Dept for Work and Pensions"
 }

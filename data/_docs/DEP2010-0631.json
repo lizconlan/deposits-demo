@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/03/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0631.zip"
-  "year" : "2010"
-  "description" : "Planning policy statements: Planning for a Low-Carbon Future in a Changing Climate; Planning for a Natural and Healthy Environment and Final policy planning policy statement 25 supplement: Development and Coastal Change. 4 docs."
+  "deposited_date" : "09/03/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0631.zip",
+  "year" : "2010",
+  "description" : "Planning policy statements: Planning for a Low-Carbon Future in a Changing Climate; Planning for a Natural and Healthy Environment and Final policy planning policy statement 25 supplement: Development and Coastal Change. 4 docs.",
   "department" : "Communities and Local Government"
 }

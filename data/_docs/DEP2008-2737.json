@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2737.zip"
-  "year" : "2008"
-  "description" : "Letter dated November 2008 from Karen Dunnell, National Statistician, to Tim Loughton MP regarding resident population of children in 2007. Incl. two tables. 26 p."
+  "deposited_date" : "07/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2737.zip",
+  "year" : "2008",
+  "description" : "Letter dated November 2008 from Karen Dunnell, National Statistician, to Tim Loughton MP regarding resident population of children in 2007. Incl. two tables. 26 p.",
   "department" : "Cabinet Office"
 }

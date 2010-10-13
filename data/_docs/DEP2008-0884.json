@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0884.tif"
-  "year" : "2008"
-  "description" : "Letter dated 26/03/2008 from Bob Ainsworth MP to Patrick Mercer MP regarding replacements for soldiers killed during the recent operational tour in Helmand province."
+  "deposited_date" : "07/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0884.tif",
+  "year" : "2008",
+  "description" : "Letter dated 26/03/2008 from Bob Ainsworth MP to Patrick Mercer MP regarding replacements for soldiers killed during the recent operational tour in Helmand province.",
   "department" : "Ministry of Defence"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/10/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2582.pdf"
-  "year" : "2009"
-  "description" : "Achieving age equality in health and social care. 63 p."
+  "deposited_date" : "22/10/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2582.pdf",
+  "year" : "2009",
+  "description" : "Achieving age equality in health and social care. 63 p.",
   "department" : "Dept of Health"
 }

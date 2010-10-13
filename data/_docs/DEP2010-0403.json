@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0403.zip"
-  "year" : "2010"
-  "description" : "Department for Business, Innovation and Skills advice issued to staff of the Department on stress recognition and management. 6 docs."
+  "deposited_date" : "11/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0403.zip",
+  "year" : "2010",
+  "description" : "Department for Business, Innovation and Skills advice issued to staff of the Department on stress recognition and management. 6 docs.",
   "department" : "Department for Business, Innovation and Skills"
 }

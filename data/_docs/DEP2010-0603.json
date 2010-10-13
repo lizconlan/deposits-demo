@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/03/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0603.zip"
-  "year" : "2010"
-  "description" : "I. The NHS Constitution: Government response to consultation on new patient rights. 27 p. II. The NHS Constitution: the NHS belongs to us all. 12 p."
+  "deposited_date" : "08/03/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0603.zip",
+  "year" : "2010",
+  "description" : "I. The NHS Constitution: Government response to consultation on new patient rights. 27 p. II. The NHS Constitution: the NHS belongs to us all. 12 p.",
   "department" : "Department of Health"
 }

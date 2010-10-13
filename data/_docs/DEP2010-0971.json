@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/03/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0971.zip"
-  "year" : "2010"
-  "description" : "I. DSA business plan 2010/11. 44 p. II. VOSA business plan 2010/11. 25 p. III. VCA business plan 2010/11. 25 p. IV. DVLA business plan 2010/11. 32 p. V. Government car and despatch agency business plan 2010/11. 22 p."
+  "deposited_date" : "30/03/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0971.zip",
+  "year" : "2010",
+  "description" : "I. DSA business plan 2010/11. 44 p. II. VOSA business plan 2010/11. 25 p. III. VCA business plan 2010/11. 25 p. IV. DVLA business plan 2010/11. 32 p. V. Government car and despatch agency business plan 2010/11. 22 p.",
   "department" : "Department for Transport"
 }

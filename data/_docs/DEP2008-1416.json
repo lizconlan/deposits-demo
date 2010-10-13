@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/05/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1416.tif"
-  "year" : "2008"
-  "description" : "Letter dated 27/05/2008 from Lord Malloch-Brown to Lord Hannay of Chiswick regarding the Marshall scholarship. 1 p."
+  "deposited_date" : "27/05/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1416.tif",
+  "year" : "2008",
+  "description" : "Letter dated 27/05/2008 from Lord Malloch-Brown to Lord Hannay of Chiswick regarding the Marshall scholarship. 1 p.",
   "department" : "Foreign and Commonwealth Office"
 }

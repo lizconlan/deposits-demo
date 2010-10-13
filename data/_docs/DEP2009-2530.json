@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/10/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2530.xls"
-  "year" : "2009"
-  "description" : "Table showing civil service employment by department and agency for Quarter 4 2008 and Quarter 1 2009. 1 p."
+  "deposited_date" : "15/10/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2530.xls",
+  "year" : "2009",
+  "description" : "Table showing civil service employment by department and agency for Quarter 4 2008 and Quarter 1 2009. 1 p.",
   "department" : "Cabinet Office"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0716.xls"
-  "year" : "2008"
-  "description" : "Tables showing count of finished admission episodes for patients admitted via Accident & Emergency where the primary or secondary diagnosis was alcohol related for each year from 2002/03 to 2006/07, broken down NHS Trust. 2 p."
+  "deposited_date" : "12/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0716.xls",
+  "year" : "2008",
+  "description" : "Tables showing count of finished admission episodes for patients admitted via Accident & Emergency where the primary or secondary diagnosis was alcohol related for each year from 2002/03 to 2006/07, broken down NHS Trust. 2 p.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/06/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1280.xls"
-  "year" : "2010"
-  "description" : "Table showing the number of undergraduate [aged under 21] enrolments at UK higher education institutions from each constituency and local authority in England, in 1997/98 and 2008/09. 13 p."
+  "deposited_date" : "09/06/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1280.xls",
+  "year" : "2010",
+  "description" : "Table showing the number of undergraduate [aged under 21] enrolments at UK higher education institutions from each constituency and local authority in England, in 1997/98 and 2008/09. 13 p.",
   "department" : "Department for Business, Innovation and Skills Higher Education Statistics Agency"
 }

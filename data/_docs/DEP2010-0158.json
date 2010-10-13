@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0158.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 15/01/2010 from Tim Brown, Chief Executive, to Graham Stuart MP regarding away days and conferences. 2 p."
+  "deposited_date" : "20/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0158.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 15/01/2010 from Tim Brown, Chief Executive, to Graham Stuart MP regarding away days and conferences. 2 p.",
   "department" : "Department for Business, Innovation and Skills"
 }

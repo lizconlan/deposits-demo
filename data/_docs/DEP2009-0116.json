@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0116.xls"
-  "year" : "2009"
-  "description" : "Table showing the Quality and Outcomes Framework (QOF) exception reporting for 2007/08 for coronary heart disease, broken down by PCT. 792 p."
+  "deposited_date" : "14/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0116.xls",
+  "year" : "2009",
+  "description" : "Table showing the Quality and Outcomes Framework (QOF) exception reporting for 2007/08 for coronary heart disease, broken down by PCT. 792 p.",
   "department" : "Dept of Health"
 }

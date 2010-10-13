@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/01/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0319.tif"
-  "year" : "2008"
-  "description" : "Letter dated 30/01/2008 from Baroness Crawley to Lord Dubs correcting an oral answer regarding the removal of landmines."
+  "deposited_date" : "30/01/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0319.tif",
+  "year" : "2008",
+  "description" : "Letter dated 30/01/2008 from Baroness Crawley to Lord Dubs correcting an oral answer regarding the removal of landmines.",
   "department" : "Whips Office"
 }

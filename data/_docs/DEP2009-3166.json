@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/12/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3166.zip"
-  "year" : "2009"
-  "description" : "I. Options for dealing with housing loan debt in the local authority sector. 20 p. II. Review of council housing finance: analysis of rents. 92 p."
+  "deposited_date" : "14/12/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3166.zip",
+  "year" : "2009",
+  "description" : "I. Options for dealing with housing loan debt in the local authority sector. 20 p. II. Review of council housing finance: analysis of rents. 92 p.",
   "department" : "Dept for Communities and Local Government"
 }

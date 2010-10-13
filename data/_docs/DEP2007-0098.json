@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/11/2007"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0098.doc"
-  "year" : "2007"
-  "description" : "Membership of the Independent Advisory Committee on Development Impact (IACDI). 3 p."
+  "deposited_date" : "15/11/2007",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0098.doc",
+  "year" : "2007",
+  "description" : "Membership of the Independent Advisory Committee on Development Impact (IACDI). 3 p.",
   "department" : "Dept for International Development"
 }

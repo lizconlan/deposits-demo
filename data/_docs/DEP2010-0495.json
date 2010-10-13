@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/01/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0495.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 22/02/2010 from Baroness Royall to Baroness Harris of Richmond regarding 'hot pursuit' and cross border policing powers in Ireland. 1 p."
+  "deposited_date" : "27/01/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0495.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 22/02/2010 from Baroness Royall to Baroness Harris of Richmond regarding 'hot pursuit' and cross border policing powers in Ireland. 1 p.",
   "department" : "Northern Ireland Office"
 }

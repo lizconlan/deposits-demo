@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2646.doc"
-  "year" : "2008"
-  "description" : "Table showing central records for 1999 show payments made on a transactional basis to providers of temporary staff, broken down by financial year and where applicable, by category of temporary staff. 17 p."
+  "deposited_date" : "10/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2646.doc",
+  "year" : "2008",
+  "description" : "Table showing central records for 1999 show payments made on a transactional basis to providers of temporary staff, broken down by financial year and where applicable, by category of temporary staff. 17 p.",
   "department" : "Dept for Business Enterprise and Regulatory Reform"
 }

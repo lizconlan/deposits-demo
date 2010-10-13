@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/12/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1098.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 16/12/2009 from Alan Campbell MP to Diane Abbott MP regarding the national DNA database. 4 p."
+  "deposited_date" : "09/12/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1098.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 16/12/2009 from Alan Campbell MP to Diane Abbott MP regarding the national DNA database. 4 p.",
   "department" : "Home Office"
 }

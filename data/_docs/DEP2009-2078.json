@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/07/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2078.pdf"
-  "year" : "2009"
-  "description" : "Forced Marriage Case Handling guide for MPs and constituency offices. 13 p."
+  "deposited_date" : "20/07/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2078.pdf",
+  "year" : "2009",
+  "description" : "Forced Marriage Case Handling guide for MPs and constituency offices. 13 p.",
   "department" : "Foreign and Commonwealth Office Home Office"
 }

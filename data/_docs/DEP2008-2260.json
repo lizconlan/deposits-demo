@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/01/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2260.zip"
-  "year" : "2008"
-  "description" : "Letter dated 29/09/2008 from Baroness Vadera to Peter Luff MP regarding the Capital for Enterprise Limited (DFEL) 2007/08 accounts. Inc. the accounts. 16 p."
+  "deposited_date" : "01/01/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2260.zip",
+  "year" : "2008",
+  "description" : "Letter dated 29/09/2008 from Baroness Vadera to Peter Luff MP regarding the Capital for Enterprise Limited (DFEL) 2007/08 accounts. Inc. the accounts. 16 p.",
   "department" : "Dept for Business Enterprise and Regulatory Reform"
 }

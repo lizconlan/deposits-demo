@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/06/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1792.xls"
-  "year" : "2009"
-  "description" : "Table showing count of admissions to hospital where the primary diagnosis is poisoning by narcotics and psychodysleptics [hallucinogens], broken down by Strategic health authority of residence, age and sex for the years 2003/04 to 2007/08. 40 p."
+  "deposited_date" : "24/06/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1792.xls",
+  "year" : "2009",
+  "description" : "Table showing count of admissions to hospital where the primary diagnosis is poisoning by narcotics and psychodysleptics [hallucinogens], broken down by Strategic health authority of residence, age and sex for the years 2003/04 to 2007/08. 40 p.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2301.doc"
-  "year" : "2009"
-  "description" : "Churches and faith buildings: realising the potential. 51 p."
+  "deposited_date" : "22/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2301.doc",
+  "year" : "2009",
+  "description" : "Churches and faith buildings: realising the potential. 51 p.",
   "department" : "Dept for Culture, Media and Sport"
 }

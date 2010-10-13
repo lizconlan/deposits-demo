@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/07/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2092.xls"
-  "year" : "2009"
-  "description" : "Table showing number of clients receiving services during the period following assessment, broken down by primary client type (all ages), for the years 2003/04 to 2007/08. 5 p."
+  "deposited_date" : "20/07/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2092.xls",
+  "year" : "2009",
+  "description" : "Table showing number of clients receiving services during the period following assessment, broken down by primary client type (all ages), for the years 2003/04 to 2007/08. 5 p.",
   "department" : "Dept of Health"
 }

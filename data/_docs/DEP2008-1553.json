@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "13/06/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1553.zip"
-  "year" : "2008"
-  "description" : "I. Draft Brofiscin Quarry remedial options appraisal. 98 p. II. Appendix 2: Land Registry search. 18 p. III. Appendix 3: Documents regarding statutory services (water and power). 17 p. IV. Conceptual Site Model (CSM) plans and photograph. 2 p. V. Fact sheet: Brofiscin Quarry - dealing with the problem. 3 p."
+  "deposited_date" : "13/06/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1553.zip",
+  "year" : "2008",
+  "description" : "I. Draft Brofiscin Quarry remedial options appraisal. 98 p. II. Appendix 2: Land Registry search. 18 p. III. Appendix 3: Documents regarding statutory services (water and power). 17 p. IV. Conceptual Site Model (CSM) plans and photograph. 2 p. V. Fact sheet: Brofiscin Quarry - dealing with the problem. 3 p.",
   "department" : "Dept for Environment, Food and Rural Affairs Environment Agency Wales"
 }

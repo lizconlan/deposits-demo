@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/05/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1499.zip"
-  "year" : "2009"
-  "description" : "I. Letter dated 20/05/2009 from Kitty Ussher MP to the House of Commons and House of Lords libraries regarding the deposit of the Industrial Injuries Advisory Council's (IIAC) annual report for 2008/09. 2 p. II. Industrial Injuries Advisory Council's (IIAC) annual report for 2008/09. Incl. appendices. 21 p."
+  "deposited_date" : "21/05/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1499.zip",
+  "year" : "2009",
+  "description" : "I. Letter dated 20/05/2009 from Kitty Ussher MP to the House of Commons and House of Lords libraries regarding the deposit of the Industrial Injuries Advisory Council's (IIAC) annual report for 2008/09. 2 p. II. Industrial Injuries Advisory Council's (IIAC) annual report for 2008/09. Incl. appendices. 21 p.",
   "department" : "Dept for Work and Pensions"
 }

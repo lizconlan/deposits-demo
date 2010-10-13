@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2690.xls"
-  "year" : "2009"
-  "description" : "Table showing the capital expenditure per unit of council housing in each local authority for 2007 and 2008. 1 p."
+  "deposited_date" : "02/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2690.xls",
+  "year" : "2009",
+  "description" : "Table showing the capital expenditure per unit of council housing in each local authority for 2007 and 2008. 1 p.",
   "department" : "Dept for Communities and Local Government"
 }

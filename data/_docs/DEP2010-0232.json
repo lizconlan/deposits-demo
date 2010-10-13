@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/01/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0232.zip"
-  "year" : "2010"
-  "description" : "An Anatomy of Economic Inequality in the UK. Report, Government response and supporting documents from the National Equality Panel. 700 p."
+  "deposited_date" : "27/01/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0232.zip",
+  "year" : "2010",
+  "description" : "An Anatomy of Economic Inequality in the UK. Report, Government response and supporting documents from the National Equality Panel. 700 p.",
   "department" : "Cabinet Office National Equality Panel Centre for Analysis of Social Exclusion"
 }

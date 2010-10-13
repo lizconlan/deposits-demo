@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "25/03/2008"
-  "legislature" : Commons
-  "legislation" : "Energy Bill 2007-08"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0868.zip"
-  "year" : "2008"
-  "description" : "I. Letter dated 26/03/2008 from Malcom Wicks MP to Martin Horwood MP and othersregarding various issues following up from the Energy Bill Committee sessions. 36 p. II. Ofgem's renewables obligations annual report 2006-07. 95 p."
+  "deposited_date" : "25/03/2008",
+  "legislature" : ["Commons"],
+  "legislation" : "Energy Bill 2007-08",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0868.zip",
+  "year" : "2008",
+  "description" : "I. Letter dated 26/03/2008 from Malcom Wicks MP to Martin Horwood MP and othersregarding various issues following up from the Energy Bill Committee sessions. 36 p. II. Ofgem's renewables obligations annual report 2006-07. 95 p.",
   "department" : "Dept for Business Enterprise and Regulatory Reform Gas and Electricity Markets Authority"
 }

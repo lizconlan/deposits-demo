@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/04/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1084.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 23/03/2010 from Paul Vennells, Network Director, to Lembit Opik MP regarding the post office closures in Montgomeryshire. 1 p."
+  "deposited_date" : "07/04/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1084.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 23/03/2010 from Paul Vennells, Network Director, to Lembit Opik MP regarding the post office closures in Montgomeryshire. 1 p.",
   "department" : "Post Office Dept for Business, Enterprise and Regulatory Reform"
 }

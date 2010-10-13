@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1867.xls"
-  "year" : "2008"
-  "description" : "Table showing average waiting times for heating and insulation in (a) Jarrow Constituency, (b) South Tyneside, (c) the North East and (d) England for the years 20050/06 to 2007/08. 1 p."
+  "deposited_date" : "09/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1867.xls",
+  "year" : "2008",
+  "description" : "Table showing average waiting times for heating and insulation in (a) Jarrow Constituency, (b) South Tyneside, (c) the North East and (d) England for the years 20050/06 to 2007/08. 1 p.",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

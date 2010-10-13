@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0525.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 19/02/2008 from Karen Dunnell, National Statistician and Registrar General, to James Clappison MP regarding population change. Incl. tables. 12 p."
+  "deposited_date" : "19/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0525.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 19/02/2008 from Karen Dunnell, National Statistician and Registrar General, to James Clappison MP regarding population change. Incl. tables. 12 p.",
   "department" : "Office for National Statistics Treasury"
 }

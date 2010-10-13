@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/07/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2110.zip"
-  "year" : "2008"
-  "description" : "Dear colleague letter dated 30/07/2008 from James Plaskitt MP regarding the deposit of the "Framework document between the Child Maintenance and Enforcement Commission (CMEC) and the DWP". Incl. copy of report, annex B and appendices. 53 p."
+  "deposited_date" : "29/07/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2110.zip",
+  "year" : "2008",
+  "description" : "Dear colleague letter dated 30/07/2008 from James Plaskitt MP regarding the deposit of the \"Framework document between the Child Maintenance and Enforcement Commission (CMEC) and the DWP\". Incl. copy of report, annex B and appendices. 53 p.",
   "department" : "Dept for Work and Pensions"
 }

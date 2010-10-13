@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/05/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2155.zip"
-  "year" : "2009"
-  "description" : "Reports on each of the gateway reviews conducted in relation to the warm front scheme for 02/03/2004, 25/10/2004, 28/02/2005 and 24/05/2005. Incl. appendices. 56 p."
+  "deposited_date" : "11/05/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2155.zip",
+  "year" : "2009",
+  "description" : "Reports on each of the gateway reviews conducted in relation to the warm front scheme for 02/03/2004, 25/10/2004, 28/02/2005 and 24/05/2005. Incl. appendices. 56 p.",
   "department" : "Dept of Energy and Climate Change"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/11/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2881.pdf"
-  "year" : "2008"
-  "description" : "Publication of candidates' addresses at UK Parliamentary elections. Consultation paper. 42 p."
+  "deposited_date" : "26/11/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2881.pdf",
+  "year" : "2008",
+  "description" : "Publication of candidates' addresses at UK Parliamentary elections. Consultation paper. 42 p.",
   "department" : "Ministry of Justice"
 }

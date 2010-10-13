@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/02/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0463.doc"
-  "year" : "2009"
-  "description" : "Departmental public expendiiture : OEP/Ministry of Defence asset review teams - terms of reference. 2 p."
+  "deposited_date" : "18/02/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0463.doc",
+  "year" : "2009",
+  "description" : "Departmental public expendiiture : OEP/Ministry of Defence asset review teams - terms of reference. 2 p.",
   "department" : "Ministry of Defence"
 }

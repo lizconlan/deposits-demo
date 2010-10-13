@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/07/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1874.zip"
-  "year" : "2009"
-  "description" : "I. Attention deficit hyperactivity disorder: diagnosis and management of ADHD in children, young people and adults, Sept 2008. 24 p. II. Attention deficit hyperactivity disorder: the National Institute for Clinical Excellence (NICE) guideline on diagnosis and management of ADHD in children, young people and adults. Incl. appendices. 664 p."
+  "deposited_date" : "01/07/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1874.zip",
+  "year" : "2009",
+  "description" : "I. Attention deficit hyperactivity disorder: diagnosis and management of ADHD in children, young people and adults, Sept 2008. 24 p. II. Attention deficit hyperactivity disorder: the National Institute for Clinical Excellence (NICE) guideline on diagnosis and management of ADHD in children, young people and adults. Incl. appendices. 664 p.",
   "department" : "National Institute for Clinical Excellence Dept of Health"
 }

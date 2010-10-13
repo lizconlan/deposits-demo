@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2425.pdf"
-  "year" : "2008"
-  "description" : "An international programme for strengthening the global financial system. 7 p."
+  "deposited_date" : "21/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2425.pdf",
+  "year" : "2008",
+  "description" : "An international programme for strengthening the global financial system. 7 p.",
   "department" : "Prime Minister"
 }

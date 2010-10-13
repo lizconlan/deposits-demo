@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0549.xls"
-  "year" : "2010"
-  "description" : "Table showing PCS Cash Payments by Year (Estate Management Costs and some Asset Transfer disposal fees costs were not recorded on PCS before 2006/07) from 2000/01 to 2008/09. 7 p."
+  "deposited_date" : "01/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0549.xls",
+  "year" : "2010",
+  "description" : "Table showing PCS Cash Payments by Year (Estate Management Costs and some Asset Transfer disposal fees costs were not recorded on PCS before 2006/07) from 2000/01 to 2008/09. 7 p.",
   "department" : "Communities and Local Government"
 }

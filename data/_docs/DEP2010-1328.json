@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/06/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1328.pdf"
-  "year" : "2010"
-  "description" : "Revision to the operating framework for the NHS in England 2010/11. Incl. annex. 14 p."
+  "deposited_date" : "21/06/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1328.pdf",
+  "year" : "2010",
+  "description" : "Revision to the operating framework for the NHS in England 2010/11. Incl. annex. 14 p.",
   "department" : "Department of Health"
 }

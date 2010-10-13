@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/01/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0216.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 26/01/2010 from Lord Tunnicliffe to Lord Mayhew of Twysden regarding probation trusts and the role of magistrates. 1 p."
+  "deposited_date" : "21/01/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0216.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 26/01/2010 from Lord Tunnicliffe to Lord Mayhew of Twysden regarding probation trusts and the role of magistrates. 1 p.",
   "department" : "Whips Office"
 }

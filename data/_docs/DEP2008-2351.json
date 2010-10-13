@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2351.doc"
-  "year" : "2008"
-  "description" : "Letter dated 01/08/2008 from the permanent representatives of France, UK and USA to the President of the UN Security Council regarding financial institutions in Iran. Incl. list of institutions. 5 p."
+  "deposited_date" : "08/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2351.doc",
+  "year" : "2008",
+  "description" : "Letter dated 01/08/2008 from the permanent representatives of France, UK and USA to the President of the UN Security Council regarding financial institutions in Iran. Incl. list of institutions. 5 p.",
   "department" : "UN Security Council Foreign and Commonwealth Office"
 }

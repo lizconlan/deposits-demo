@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2893.xls"
-  "year" : "2008"
-  "description" : "Table showing number of claimants leaving JSA for each month between November 2003 and October 2008, broken down by age. 29 p."
+  "deposited_date" : "26/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2893.xls",
+  "year" : "2008",
+  "description" : "Table showing number of claimants leaving JSA for each month between November 2003 and October 2008, broken down by age. 29 p.",
   "department" : "Dept for Work and Pensions"
 }

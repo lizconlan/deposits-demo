@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "11/01/2010"
-  "legislature" : Lords
-  "legislation" : "Equality Bill 2008-09"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0056.zip"
-  "year" : "2010"
-  "description" : "I. Dear colleague letter dated 08/01/2010 [error states 08/02/2010] from Baroness Royall regarding amendments to the Equality Bill. 1 p. II. Equality Bill: Government amendments for Lords Committee, tabled 7 Jan 2010. Annexes. 2 p."
+  "deposited_date" : "11/01/2010",
+  "legislature" : ["Lords"],
+  "legislation" : "Equality Bill 2008-09",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0056.zip",
+  "year" : "2010",
+  "description" : "I. Dear colleague letter dated 08/01/2010 [error states 08/02/2010] from Baroness Royall regarding amendments to the Equality Bill. 1 p. II. Equality Bill: Government amendments for Lords Committee, tabled 7 Jan 2010. Annexes. 2 p.",
   "department" : "Cabinet Office"
 }

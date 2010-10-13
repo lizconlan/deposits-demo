@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/05/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1261.zip"
-  "year" : "2010"
-  "description" : "I. Letter dated 28/04/2010 from Mark Ormerod (Chief Executive, Law Commission) to Speaker John Bercow MP regarding the report of the Committee on the Issue of Privilege (Police Searches on the Parliamentary Estate). 2 p II. Letter dated 30/04/2010 from John Yates (Assistant Commissioner, Specialist Operations, Metropolitan Police) to Liam Laurence Smyth (Clerk of the Journals) regarding the report of the Committee on the Issue of Privilege (Police Searches on the Parliamentary Estate). 2 p."
+  "deposited_date" : "27/05/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1261.zip",
+  "year" : "2010",
+  "description" : "I. Letter dated 28/04/2010 from Mark Ormerod (Chief Executive, Law Commission) to Speaker John Bercow MP regarding the report of the Committee on the Issue of Privilege (Police Searches on the Parliamentary Estate). 2 p II. Letter dated 30/04/2010 from John Yates (Assistant Commissioner, Specialist Operations, Metropolitan Police) to Liam Laurence Smyth (Clerk of the Journals) regarding the report of the Committee on the Issue of Privilege (Police Searches on the Parliamentary Estate). 2 p.",
   "department" : "Speaker Metropolitan Police Law Commission"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/12/2007"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0326.pdf"
-  "year" : "2007"
-  "description" : "Strategic review of Department of Health funding of third sector organisations: consultation paper. 56 p."
+  "deposited_date" : "12/12/2007",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0326.pdf",
+  "year" : "2007",
+  "description" : "Strategic review of Department of Health funding of third sector organisations: consultation paper. 56 p.",
   "department" : "Dept of Health"
 }

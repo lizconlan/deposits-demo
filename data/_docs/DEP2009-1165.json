@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/04/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1165.zip"
-  "year" : "2009"
-  "description" : "I. A Safer Way: Consultation on Making Britains Roads the Safest in the World. 120 p. II. An abridged theory test: for learner car drivers. Consultation paper. 19 p. III. LEARNING TO DRIVE: REPORT ON CONSULTATION. 74 p."
+  "deposited_date" : "21/04/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1165.zip",
+  "year" : "2009",
+  "description" : "I. A Safer Way: Consultation on Making Britains Roads the Safest in the World. 120 p. II. An abridged theory test: for learner car drivers. Consultation paper. 19 p. III. LEARNING TO DRIVE: REPORT ON CONSULTATION. 74 p.",
   "department" : "Dept for Transport"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/04/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0984.tif"
-  "year" : "2008"
-  "description" : "Letter dated 04/04/2008 from Bob Ainsworth MP to Jeeremy Corben MP regarding the cost of the nuclear deterrent."
+  "deposited_date" : "04/04/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0984.tif",
+  "year" : "2008",
+  "description" : "Letter dated 04/04/2008 from Bob Ainsworth MP to Jeeremy Corben MP regarding the cost of the nuclear deterrent.",
   "department" : "Ministry of Defence"
 }

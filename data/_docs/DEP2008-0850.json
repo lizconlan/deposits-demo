@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/03/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0850.tif"
-  "year" : "2008"
-  "description" : "Letter dated 12/03/2008 from Lord Bach to Baroness Verma (and other Peers) regarding British overseas territories debate. 8 p."
+  "deposited_date" : "12/03/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0850.tif",
+  "year" : "2008",
+  "description" : "Letter dated 12/03/2008 from Lord Bach to Baroness Verma (and other Peers) regarding British overseas territories debate. 8 p.",
   "department" : "Foreign and Commonwealth Office"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/04/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1054.xls"
-  "year" : "2008"
-  "description" : "Table showing number of health visiting staff in primary care trusts and strategic health authority areas as at 30 September 2006 and 2007. 3 p."
+  "deposited_date" : "21/04/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1054.xls",
+  "year" : "2008",
+  "description" : "Table showing number of health visiting staff in primary care trusts and strategic health authority areas as at 30 September 2006 and 2007. 3 p.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1584.xls"
-  "year" : "2008"
-  "description" : "Tables showing a) number of households accepted as owed a main homelessness duty 1997/98 to 2007/08 b) number of households in temporary accommodation 1997/98 - 2007/08 and c) number of rough sleepers 1998 - 2007, all broken down by local authority. 17 p."
+  "deposited_date" : "18/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1584.xls",
+  "year" : "2008",
+  "description" : "Tables showing a) number of households accepted as owed a main homelessness duty 1997/98 to 2007/08 b) number of households in temporary accommodation 1997/98 - 2007/08 and c) number of rough sleepers 1998 - 2007, all broken down by local authority. 17 p.",
   "department" : "Dept for Communities and Local Government"
 }

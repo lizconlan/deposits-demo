@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/01/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0146.pdf"
-  "year" : "2010"
-  "description" : "Controlling costs in defamation proceedings: reducing conditional fee agreement success fees. 44 p."
+  "deposited_date" : "19/01/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0146.pdf",
+  "year" : "2010",
+  "description" : "Controlling costs in defamation proceedings: reducing conditional fee agreement success fees. 44 p.",
   "department" : "Ministry of Justice"
 }

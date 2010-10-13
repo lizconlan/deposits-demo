@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/03/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0940.pdf"
-  "year" : "2010"
-  "description" : "Post Office banking: Government response to consultation. Incl. annexes. 50 p."
+  "deposited_date" : "29/03/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0940.pdf",
+  "year" : "2010",
+  "description" : "Post Office banking: Government response to consultation. Incl. annexes. 50 p.",
   "department" : "Department for Business, Innovation and Skills"
 }

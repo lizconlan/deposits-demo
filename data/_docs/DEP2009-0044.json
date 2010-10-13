@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/01/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0044.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 09/01/2009 from Baroness Royall of Blaisdon to Lord Hannay of Chiswick regarding Iraq and regional stability. 2 p."
+  "deposited_date" : "09/01/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0044.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 09/01/2009 from Baroness Royall of Blaisdon to Lord Hannay of Chiswick regarding Iraq and regional stability. 2 p.",
   "department" : "Leader of the House of Lords"
 }

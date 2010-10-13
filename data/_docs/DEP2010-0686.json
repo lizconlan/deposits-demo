@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "23/02/2010"
-  "legislature" : Commons
-  "legislation" : "Jobseekers Allowance (Lone Parents) (Availability for Work) Regulations 2010"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0686.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 11/03/2010 from Helen Goodman MP to Anne Begg (Chairman, Fifth Delegated Legislation Committee) regarding jobseeker's allowance and lone parents. 3 p."
+  "deposited_date" : "23/02/2010",
+  "legislature" : ["Commons"],
+  "legislation" : "Jobseekers Allowance (Lone Parents) (Availability for Work) Regulations 2010",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0686.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 11/03/2010 from Helen Goodman MP to Anne Begg (Chairman, Fifth Delegated Legislation Committee) regarding jobseeker's allowance and lone parents. 3 p.",
   "department" : "Department for Work and Pensions"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/12/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0012.xls"
-  "year" : "2010"
-  "description" : "Table showing the number of hereditaments for England, broken down by the full alphanumeric special category code on the draft 2010 ratings list. 1 p."
+  "deposited_date" : "16/12/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0012.xls",
+  "year" : "2010",
+  "description" : "Table showing the number of hereditaments for England, broken down by the full alphanumeric special category code on the draft 2010 ratings list. 1 p.",
   "department" : "Communities and Local Government"
 }

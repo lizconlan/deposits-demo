@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1773.zip"
-  "year" : "2008"
-  "description" : "Tables showing the numbers of primary, secondary (and middle deemed primary and middle deemed secondary) schools opened and closed in each year since 1997, broken down by local authority. 7 p."
+  "deposited_date" : "25/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1773.zip",
+  "year" : "2008",
+  "description" : "Tables showing the numbers of primary, secondary (and middle deemed primary and middle deemed secondary) schools opened and closed in each year since 1997, broken down by local authority. 7 p.",
   "department" : "Dept for Children Schools and Families"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/05/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1182.zip"
-  "year" : "2008"
-  "description" : "I. Letter dated 24/04/2008 from Lord Rooker to Baroness Byford and others regarding DEFRA statutory instruments. II. DEFRA statutory instruments between 01/01/2000 and 31/12/2007. Report for the libraries of both Houses of Parliament. 12 p."
+  "deposited_date" : "06/05/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1182.zip",
+  "year" : "2008",
+  "description" : "I. Letter dated 24/04/2008 from Lord Rooker to Baroness Byford and others regarding DEFRA statutory instruments. II. DEFRA statutory instruments between 01/01/2000 and 31/12/2007. Report for the libraries of both Houses of Parliament. 12 p.",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

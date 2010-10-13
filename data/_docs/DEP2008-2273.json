@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2273.zip"
-  "year" : "2008"
-  "description" : "Appraisal report and the weighting and scoring spreadsheet for the Child Health Interim Application (CHIA). Description Of Standalone Service  Community Solution. 38 p."
+  "deposited_date" : "06/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2273.zip",
+  "year" : "2008",
+  "description" : "Appraisal report and the weighting and scoring spreadsheet for the Child Health Interim Application (CHIA). Description Of Standalone Service  Community Solution. 38 p.",
   "department" : "Dept of Health"
 }

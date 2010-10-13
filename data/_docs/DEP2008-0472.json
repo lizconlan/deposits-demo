@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/02/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0472.pdf"
-  "year" : "2008"
-  "description" : "Review Board for Government Contracts: report on the 2007 general review of the profit formula for non-competitive Government contracts. 100 p."
+  "deposited_date" : "20/02/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0472.pdf",
+  "year" : "2008",
+  "description" : "Review Board for Government Contracts: report on the 2007 general review of the profit formula for non-competitive Government contracts. 100 p.",
   "department" : "Ministry of Defence"
 }

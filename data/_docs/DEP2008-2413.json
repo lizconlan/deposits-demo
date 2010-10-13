@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2413.doc"
-  "year" : "2008"
-  "description" : "Table showing the gross expenditure by councils with adult social services responsibilities (CASSRs) on residential care and community based services for the years 2003/04 to 2007/08. 11p."
+  "deposited_date" : "20/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2413.doc",
+  "year" : "2008",
+  "description" : "Table showing the gross expenditure by councils with adult social services responsibilities (CASSRs) on residential care and community based services for the years 2003/04 to 2007/08. 11p.",
   "department" : "Dept of Health"
 }

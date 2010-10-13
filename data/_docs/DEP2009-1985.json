@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "13/07/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1985.zip"
-  "year" : "2009"
-  "description" : "I. Sport Englands whole sports plan 2009-2013 capital fund swimming pool facility funding: delivery guide for year two  April 2010 to March 2011. 4 p. II. Amateur Swimming Association's capital funding of swimming pools project summary. 14 p."
+  "deposited_date" : "13/07/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1985.zip",
+  "year" : "2009",
+  "description" : "I. Sport Englands whole sports plan 2009-2013 capital fund swimming pool facility funding: delivery guide for year two  April 2010 to March 2011. 4 p. II. Amateur Swimming Association's capital funding of swimming pools project summary. 14 p.",
   "department" : "Dept for Culture, Media and Sport Amateur Swimming Association"
 }

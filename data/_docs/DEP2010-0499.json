@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/02/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0499.zip"
-  "year" : "2010"
-  "description" : "I. Policy on prosecuting the offence of assisted suicide. Public Prosecution Service for Northern Ireland. 13 p. II. Policy for prosecutors in respect of cases of encouraging or assisting suicide. Issued by the Director of Public Prosecutions. 9 p. III. Public consultation exercise on the interim policy for prosecutors in respect of cases of assisted suicide. Issued by the Director of Public Prosecutions. Summary of responses. Incl. annexes. 46 p."
+  "deposited_date" : "25/02/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0499.zip",
+  "year" : "2010",
+  "description" : "I. Policy on prosecuting the offence of assisted suicide. Public Prosecution Service for Northern Ireland. 13 p. II. Policy for prosecutors in respect of cases of encouraging or assisting suicide. Issued by the Director of Public Prosecutions. 9 p. III. Public consultation exercise on the interim policy for prosecutors in respect of cases of assisted suicide. Issued by the Director of Public Prosecutions. Summary of responses. Incl. annexes. 46 p.",
   "department" : "Attorney General"
 }

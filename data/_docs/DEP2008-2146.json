@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2146.zip"
-  "year" : "2008"
-  "description" : "Table showing permanent exclusion in Academies. 1 p."
+  "deposited_date" : "02/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2146.zip",
+  "year" : "2008",
+  "description" : "Table showing permanent exclusion in Academies. 1 p.",
   "department" : "Dept for Children Schools and Families"
 }

@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "18/03/2008"
-  "legislature" : CommonsLords
-  "legislation" : "Private and Voluntary Health Care (England) (Amendment) Regulations 2008 Care Standards Act 2000"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0763.pdf"
-  "year" : "2008"
-  "description" : "Private and voluntary healthcare. Care Standards Act 2000: regulations and national minimum standards consultation paper document. Incl. partial impact assessment. 60 p."
+  "deposited_date" : "18/03/2008",
+  "legislature" : ["Commons","Lords"],
+  "legislation" : "Private and Voluntary Health Care (England) (Amendment) Regulations 2008 Care Standards Act 2000",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0763.pdf",
+  "year" : "2008",
+  "description" : "Private and voluntary healthcare. Care Standards Act 2000: regulations and national minimum standards consultation paper document. Incl. partial impact assessment. 60 p.",
   "department" : "Dept of Health"
 }

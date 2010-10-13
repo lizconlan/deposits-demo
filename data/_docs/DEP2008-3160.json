@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/12/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3160.zip"
-  "year" : "2008"
-  "description" : "I. Isolating patients with healthcare-associated infection: a summary of best practice. 2007. 4 p. II. Clostridium Difficile infection: prevention and management. 1994. 53 p."
+  "deposited_date" : "18/12/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3160.zip",
+  "year" : "2008",
+  "description" : "I. Isolating patients with healthcare-associated infection: a summary of best practice. 2007. 4 p. II. Clostridium Difficile infection: prevention and management. 1994. 53 p.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/10/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2537.pdf"
-  "year" : "2009"
-  "description" : "Employment Relations Research Series no 104, The Union Modernisation Fund-round one: final evaluation report, Oct 2009. Incl. appendices. 180 p."
+  "deposited_date" : "16/10/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2537.pdf",
+  "year" : "2009",
+  "description" : "Employment Relations Research Series no 104, The Union Modernisation Fund-round one: final evaluation report, Oct 2009. Incl. appendices. 180 p.",
   "department" : "Dept for Business, Innovation and Skills"
 }

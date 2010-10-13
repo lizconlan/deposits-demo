@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "13/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1446.xls"
-  "year" : "2010"
-  "description" : "Table showing children looked after at 31 March who were placed outside of local authority boundary, broken down by Local Authority, for the years 2006 to 2009. 4 p."
+  "deposited_date" : "13/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1446.xls",
+  "year" : "2010",
+  "description" : "Table showing children looked after at 31 March who were placed outside of local authority boundary, broken down by Local Authority, for the years 2006 to 2009. 4 p.",
   "department" : "Department for Education"
 }

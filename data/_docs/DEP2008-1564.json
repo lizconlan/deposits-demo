@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1564.doc"
-  "year" : "2008"
-  "description" : "Table showing number of IVF cycles offered to each patient in each Strategic Health Authority a) for 2006-07 and b) planned for 2007-08. 12 p."
+  "deposited_date" : "17/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1564.doc",
+  "year" : "2008",
+  "description" : "Table showing number of IVF cycles offered to each patient in each Strategic Health Authority a) for 2006-07 and b) planned for 2007-08. 12 p.",
   "department" : "Dept of Health"
 }

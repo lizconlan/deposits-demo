@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/10/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2375.pdf"
-  "year" : "2008"
-  "description" : "Consultation on the draft Renewable Transport Fuel Obligations (Amendment) Order 2009. Incl. impact assessment. 78 p."
+  "deposited_date" : "15/10/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2375.pdf",
+  "year" : "2008",
+  "description" : "Consultation on the draft Renewable Transport Fuel Obligations (Amendment) Order 2009. Incl. impact assessment. 78 p.",
   "department" : "Dept for Transport"
 }

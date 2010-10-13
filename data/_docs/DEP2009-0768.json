@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/02/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0768.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 23/02/2009 from Mark Haysom, Chief Executive, Learning and Skills Council, to Geoffrey Clifton-Brown MP regarding responses to applications for Education Maintenance Allowance [EMA] by young people for the year 2008/09. 1 p."
+  "deposited_date" : "23/02/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0768.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 23/02/2009 from Mark Haysom, Chief Executive, Learning and Skills Council, to Geoffrey Clifton-Brown MP regarding responses to applications for Education Maintenance Allowance [EMA] by young people for the year 2008/09. 1 p.",
   "department" : "Learning and Skills Council for England Dept for Children, Schools and Families"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/12/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3151.xls"
-  "year" : "2008"
-  "description" : "I. Table showing number of males and females proceeded against at magistrates' courts and found guilty at all courts for various motoring offences, Essex police force area 2007. II. Table showing number of males and females proceeded against at magistrates' courts and found guilty at all courts for various motoring offences, Metropolitan police force area 2007. III. Table showing number of defendants proceeded against at magistrates' court for various motoring offences, England and Wales 2007."
+  "deposited_date" : "17/12/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3151.xls",
+  "year" : "2008",
+  "description" : "I. Table showing number of males and females proceeded against at magistrates' courts and found guilty at all courts for various motoring offences, Essex police force area 2007. II. Table showing number of males and females proceeded against at magistrates' courts and found guilty at all courts for various motoring offences, Metropolitan police force area 2007. III. Table showing number of defendants proceeded against at magistrates' court for various motoring offences, England and Wales 2007.",
   "department" : "Ministry of Justice"
 }

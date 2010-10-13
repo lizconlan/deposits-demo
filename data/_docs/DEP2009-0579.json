@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0579.pdf"
-  "year" : "2009"
-  "description" : "Department for Work and Pensions IT & telephone customer satisfaction survey 2008 results. 53 p."
+  "deposited_date" : "02/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0579.pdf",
+  "year" : "2009",
+  "description" : "Department for Work and Pensions IT & telephone customer satisfaction survey 2008 results. 53 p.",
   "department" : "Dept for Work and Pensions"
 }

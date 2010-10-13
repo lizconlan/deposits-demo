@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/11/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0091.pdf"
-  "year" : "2007"
-  "description" : "Accession monitoring report A8 countries, May 2004 - June 2007. 39 p."
+  "deposited_date" : "14/11/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0091.pdf",
+  "year" : "2007",
+  "description" : "Accession monitoring report A8 countries, May 2004 - June 2007. 39 p.",
   "department" : "Home Office Border and Immigration Agency Dept for Work and Pensions Revenue and Customs Dept for Communities and Local Government"
 }

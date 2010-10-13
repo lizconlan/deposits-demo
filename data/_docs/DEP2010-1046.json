@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1046.zip"
-  "year" : "2010"
-  "description" : "I. Contracted employment provision management information. Dec 2009. 36 p. II. Graph showing average monthly jobs from contracted employment provision (CEP) from 2006/07 to 2009/10. 1 p."
+  "deposited_date" : "30/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1046.zip",
+  "year" : "2010",
+  "description" : "I. Contracted employment provision management information. Dec 2009. 36 p. II. Graph showing average monthly jobs from contracted employment provision (CEP) from 2006/07 to 2009/10. 1 p.",
   "department" : "Department for Work and Pensions"
 }

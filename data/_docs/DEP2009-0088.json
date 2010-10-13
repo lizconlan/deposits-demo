@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "13/01/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0088.pdf"
-  "year" : "2009"
-  "description" : "Independent Monitor for Entry Clearance refusals with limited rights of appeal. Report to the Secretary of State. File sample: October 2007 to March 2008. Visits: April to September 2008. 51 p."
+  "deposited_date" : "13/01/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0088.pdf",
+  "year" : "2009",
+  "description" : "Independent Monitor for Entry Clearance refusals with limited rights of appeal. Report to the Secretary of State. File sample: October 2007 to March 2008. Visits: April to September 2008. 51 p.",
   "department" : "Home Office"
 }

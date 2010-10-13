@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/04/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1093.tif"
-  "year" : "2010"
-  "description" : "Chapter 3: the management of the misuse of alcohol within the armed forces. 3 p."
+  "deposited_date" : "08/04/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1093.tif",
+  "year" : "2010",
+  "description" : "Chapter 3: the management of the misuse of alcohol within the armed forces. 3 p.",
   "department" : "Ministry of Defence"
 }

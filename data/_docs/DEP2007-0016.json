@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/10/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0016.zip"
-  "year" : "2007"
-  "description" : "I. Letter dated 29/08/1997 from Frank Dobson MP to NHS Executives regarding the management of health services for winter 1997/98. Incl. a summary and conclusions of visits to NHS regions by Alan Langlands and Herbert Laming, August 1997. 5 p. II. Dynamics of bed use in accommodating emergency admissions: stochastic simulation model. [Journal article] By A. Bagust et al. BMJ 17th July 1999 p.155-158."
+  "deposited_date" : "16/10/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0016.zip",
+  "year" : "2007",
+  "description" : "I. Letter dated 29/08/1997 from Frank Dobson MP to NHS Executives regarding the management of health services for winter 1997/98. Incl. a summary and conclusions of visits to NHS regions by Alan Langlands and Herbert Laming, August 1997. 5 p. II. Dynamics of bed use in accommodating emergency admissions: stochastic simulation model. [Journal article] By A. Bagust et al. BMJ 17th July 1999 p.155-158.",
   "department" : "Dept of Health"
 }

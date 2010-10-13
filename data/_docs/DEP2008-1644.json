@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1644.xls"
-  "year" : "2008"
-  "description" : "List of names and addresses of each organisation that supplied goods or services to the Department for Communities and Local Government in 2007/08. 80 p."
+  "deposited_date" : "23/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1644.xls",
+  "year" : "2008",
+  "description" : "List of names and addresses of each organisation that supplied goods or services to the Department for Communities and Local Government in 2007/08. 80 p.",
   "department" : "Dept for Communities and Local Government"
 }

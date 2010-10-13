@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/12/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0045.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 12/01/2009 from Baroness Royall of Blaisdon to Lord Dholakia regarding building counter terrorism capacity in relation to the Indian subcontinent. 2 p."
+  "deposited_date" : "15/12/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0045.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 12/01/2009 from Baroness Royall of Blaisdon to Lord Dholakia regarding building counter terrorism capacity in relation to the Indian subcontinent. 2 p.",
   "department" : "Leader of the House of Lords"
 }

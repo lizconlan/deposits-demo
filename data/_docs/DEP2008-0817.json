@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "20/03/2008"
-  "legislature" : Commons
-  "legislation" : "Safeguarding Vulnerable Groups Act 2006 (Prescribed Criteria) (Transitional Provisions) Regulations 2008"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0817.zip"
-  "year" : "2008"
-  "description" : "Letter dated 20/03/2008 from Kevin Brennan MP to Joan Walley MP regarding the Safeguarding Vulnerable Groups Act 2006 (Prescribed Criteria) (Transitional Provisions) Regulations 2008. Includes information note. 32 p."
+  "deposited_date" : "20/03/2008",
+  "legislature" : ["Commons"],
+  "legislation" : "Safeguarding Vulnerable Groups Act 2006 (Prescribed Criteria) (Transitional Provisions) Regulations 2008",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0817.zip",
+  "year" : "2008",
+  "description" : "Letter dated 20/03/2008 from Kevin Brennan MP to Joan Walley MP regarding the Safeguarding Vulnerable Groups Act 2006 (Prescribed Criteria) (Transitional Provisions) Regulations 2008. Includes information note. 32 p.",
   "department" : "Dept for Children Schools and Families"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/04/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0939.pdf"
-  "year" : "2008"
-  "description" : "Staff survey results for HMRC, Winter 2007. 30 p."
+  "deposited_date" : "02/04/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0939.pdf",
+  "year" : "2008",
+  "description" : "Staff survey results for HMRC, Winter 2007. 30 p.",
   "department" : "Revenue and Customs Treasury"
 }

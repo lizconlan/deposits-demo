@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/12/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0305.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 13/01/2010 from Alan Davey, Chief Executive, to Tom Watson MP regarding Arts Council England. Inc a table. 8 p."
+  "deposited_date" : "14/12/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0305.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 13/01/2010 from Alan Davey, Chief Executive, to Tom Watson MP regarding Arts Council England. Inc a table. 8 p.",
   "department" : "Department for Culture, Media and Sport"
 }

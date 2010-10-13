@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "13/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0080.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 20/07/2009 from Ed Richards, Chief Executive, to Anne McIntosh MP regarding household access to broadband. 2 p."
+  "deposited_date" : "13/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0080.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 20/07/2009 from Ed Richards, Chief Executive, to Anne McIntosh MP regarding household access to broadband. 2 p.",
   "department" : "Dept for Business, Enterprise and Regulatory Reform Ofcom"
 }

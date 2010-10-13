@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/06/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1787.zip"
-  "year" : "2009"
-  "description" : "I. Valuing Employment Now: real jobs for people with learning disabilities. 112 p. II. Valuing Employment Now: The Delivery Plan. 44 p."
+  "deposited_date" : "24/06/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1787.zip",
+  "year" : "2009",
+  "description" : "I. Valuing Employment Now: real jobs for people with learning disabilities. 112 p. II. Valuing Employment Now: The Delivery Plan. 44 p.",
   "department" : "Dept of Health Dept for Transport Dept for Children, Schools and Families Dept for Work and Pensions Cabinet Office Dept for Business, Innovation and Skills Office for Disability Issues"
 }

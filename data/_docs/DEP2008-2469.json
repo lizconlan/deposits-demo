@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "27/10/2008"
-  "legislature" : Commons
-  "legislation" : "Local Transport Bill (HL) 2007-08"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2469.tif"
-  "year" : "2008"
-  "description" : "Letter dated 24/10/2008 from Paul Clark MP to David Taylor MP regarding government amendments to the Local Transport Bill. 5 p."
+  "deposited_date" : "27/10/2008",
+  "legislature" : ["Commons"],
+  "legislation" : "Local Transport Bill (HL) 2007-08",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2469.tif",
+  "year" : "2008",
+  "description" : "Letter dated 24/10/2008 from Paul Clark MP to David Taylor MP regarding government amendments to the Local Transport Bill. 5 p.",
   "department" : "Dept for Transport"
 }

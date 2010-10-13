@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2806.pdf"
-  "year" : "2008"
-  "description" : "Delivering better oral health: an evidence-based toolkit for prevention. 57 p."
+  "deposited_date" : "20/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2806.pdf",
+  "year" : "2008",
+  "description" : "Delivering better oral health: an evidence-based toolkit for prevention. 57 p.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/08/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2185.rtf"
-  "year" : "2008"
-  "description" : "Letter dated 22/08/2008 from Marios Garoyian, President of the House of Representatives of the Republic of Cyprus, to the Baroness Hayman, Lord Speaker, regarding the continuing occupation of Morphou by Turkish troops. Incl. Resolution of the Morphou Municipal Council and the Morphou organisations dated 16th August 2008."
+  "deposited_date" : "27/08/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2185.rtf",
+  "year" : "2008",
+  "description" : "Letter dated 22/08/2008 from Marios Garoyian, President of the House of Representatives of the Republic of Cyprus, to the Baroness Hayman, Lord Speaker, regarding the continuing occupation of Morphou by Turkish troops. Incl. Resolution of the Morphou Municipal Council and the Morphou organisations dated 16th August 2008.",
   "department" : "CYPRIOT HOUSE OF REPRESENTATIVES"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/01/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0184.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 23/01/2010 from Lord Bach to Baroness Stern regarding indeterminate sentenced prisoners. 2 p."
+  "deposited_date" : "23/01/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0184.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 23/01/2010 from Lord Bach to Baroness Stern regarding indeterminate sentenced prisoners. 2 p.",
   "department" : "Ministry of Justice"
 }

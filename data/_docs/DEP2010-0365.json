@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0365.xls"
-  "year" : "2010"
-  "description" : "Table showing the number of flights which departed from (a) Barra, (b) Benbecula, (c) Campbeltown, (d) Inverness, (e) Islay, (f) Kirkwall, (g) Stornoway, (h) Sumburgh, (i) Tiree and (j) Wick airports from 2006 to 2008, by aircraft type. 3 p."
+  "deposited_date" : "08/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0365.xls",
+  "year" : "2010",
+  "description" : "Table showing the number of flights which departed from (a) Barra, (b) Benbecula, (c) Campbeltown, (d) Inverness, (e) Islay, (f) Kirkwall, (g) Stornoway, (h) Sumburgh, (i) Tiree and (j) Wick airports from 2006 to 2008, by aircraft type. 3 p.",
   "department" : "Department for Transport"
 }

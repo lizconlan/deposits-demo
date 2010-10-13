@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/12/2007"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0256.zip"
-  "year" : "2007"
-  "description" : "Supporting People distribution formula: technical consultation paper. Summary of responses and invitation to refresh responses. Includes a table of allocation. 34 p."
+  "deposited_date" : "06/12/2007",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0256.zip",
+  "year" : "2007",
+  "description" : "Supporting People distribution formula: technical consultation paper. Summary of responses and invitation to refresh responses. Includes a table of allocation. 34 p.",
   "department" : "Dept for Communities and Local Government"
 }

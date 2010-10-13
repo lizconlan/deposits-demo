@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/04/2008"
-  "legislature" : Commons
-  "notes" : "Available as CD-ROM from Commons and Lords libraries only"
-  "year" : "2008"
-  "description" : "Copies of all e-mails and red e-mails sent by the DCSF to local authorities between 18 December 2007 and 3 April 2008. [CD-ROM]"
+  "deposited_date" : "21/04/2008",
+  "legislature" : ["Commons"],
+  "notes" : "Available as CD-ROM from Commons and Lords libraries only",
+  "year" : "2008",
+  "description" : "Copies of all e-mails and red e-mails sent by the DCSF to local authorities between 18 December 2007 and 3 April 2008. [CD-ROM]",
   "department" : "Dept for Children Schools and Families"
 }

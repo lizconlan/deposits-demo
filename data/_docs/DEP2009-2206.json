@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/07/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2206.zip"
-  "year" : "2009"
-  "description" : "I. Letter dated 16/07/2009 from Kevan Jones MP to Susan Kramer MP regarding Ministry of Defence land and buildings sold since 1997. II. Table showing MOD land and buildings sold in financial years 2000/01 to 2008/09."
+  "deposited_date" : "16/07/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2206.zip",
+  "year" : "2009",
+  "description" : "I. Letter dated 16/07/2009 from Kevan Jones MP to Susan Kramer MP regarding Ministry of Defence land and buildings sold since 1997. II. Table showing MOD land and buildings sold in financial years 2000/01 to 2008/09.",
   "department" : "Ministry of Defence"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1002.zip"
-  "year" : "2010"
-  "description" : "Arts Council England written statement of main terms and conditions of employment. 8 p."
+  "deposited_date" : "05/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1002.zip",
+  "year" : "2010",
+  "description" : "Arts Council England written statement of main terms and conditions of employment. 8 p.",
   "department" : "Department for Culture, Media and Sport"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0314.zip"
-  "year" : "2010"
-  "description" : "I. Tables showing school based expenditure per pupil in Greenwich local authority from 2003-04 to 2008-09. 1 p. II. Letter dated 02/02/2010 from Geoff Russell (Chief Executive, Learning and Skills Council) to C;ive Efford MP regarding school based expenditure per pupil in Greenwich local authority. 1 p."
+  "deposited_date" : "02/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0314.zip",
+  "year" : "2010",
+  "description" : "I. Tables showing school based expenditure per pupil in Greenwich local authority from 2003-04 to 2008-09. 1 p. II. Letter dated 02/02/2010 from Geoff Russell (Chief Executive, Learning and Skills Council) to C;ive Efford MP regarding school based expenditure per pupil in Greenwich local authority. 1 p.",
   "department" : "Department for Children, Schools and Families"
 }

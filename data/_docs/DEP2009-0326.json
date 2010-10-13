@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/02/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0326.xls"
-  "year" : "2009"
-  "description" : "Table showing the number of households placed in temporary accommodation by English local authorities, and the portion of that number which were placed outside their local authority area, for each year from 2005 to 2007, broken down by region and local authority. 15 p."
+  "deposited_date" : "04/02/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0326.xls",
+  "year" : "2009",
+  "description" : "Table showing the number of households placed in temporary accommodation by English local authorities, and the portion of that number which were placed outside their local authority area, for each year from 2005 to 2007, broken down by region and local authority. 15 p.",
   "department" : "Dept for Communities and Local Government"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0953.xls"
-  "year" : "2010"
-  "description" : "Table showing a) count of finished admission episodes and b) deaths where asthma was the underlying cause, by age group, where the primary diagnosis was asthma by primary care trust (PCT) of residence (London), for the years 200/01 to 2008/09. 24 p."
+  "deposited_date" : "29/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0953.xls",
+  "year" : "2010",
+  "description" : "Table showing a) count of finished admission episodes and b) deaths where asthma was the underlying cause, by age group, where the primary diagnosis was asthma by primary care trust (PCT) of residence (London), for the years 200/01 to 2008/09. 24 p.",
   "department" : "Department of Health"
 }

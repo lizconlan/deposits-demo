@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/03/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2009-0935.pdf"
-  "year" : "2009"
-  "description" : "Managing the impacts of migration : improvements and innovations. 56 p."
+  "deposited_date" : "19/03/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2009-0935.pdf",
+  "year" : "2009",
+  "description" : "Managing the impacts of migration : improvements and innovations. 56 p.",
   "department" : "Dept for Communities and Local Government"
 }

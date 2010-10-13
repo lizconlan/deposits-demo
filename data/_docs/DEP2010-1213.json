@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/04/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1213.tif"
-  "year" : "2010"
-  "description" : "Letter dated 16/04/2010 from John McCaughan (Superintendent, PSNI) to Owen Paterson MP regarding how much the Historical Enquiries Team spent on IT since its inception. 2 p."
+  "deposited_date" : "06/04/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1213.tif",
+  "year" : "2010",
+  "description" : "Letter dated 16/04/2010 from John McCaughan (Superintendent, PSNI) to Owen Paterson MP regarding how much the Historical Enquiries Team spent on IT since its inception. 2 p.",
   "department" : "Northern Ireland Office"
 }

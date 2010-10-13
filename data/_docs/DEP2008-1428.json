@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/06/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1428.doc"
-  "year" : "2008"
-  "description" : "Tables showing data on fertility treatment cycles and number of eggs collected from 1991 to 2007, including name of centre, as recorded on the HFEA register. 23 p."
+  "deposited_date" : "03/06/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1428.doc",
+  "year" : "2008",
+  "description" : "Tables showing data on fertility treatment cycles and number of eggs collected from 1991 to 2007, including name of centre, as recorded on the HFEA register. 23 p.",
   "department" : "Dept of Health"
 }

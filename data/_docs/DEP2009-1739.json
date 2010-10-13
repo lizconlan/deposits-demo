@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/06/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1739.pdf"
-  "year" : "2009"
-  "description" : "The quality of welfare and duty of care for recruits and trainees in the Armed Forces. Incl. appendices. 72 p."
+  "deposited_date" : "18/06/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1739.pdf",
+  "year" : "2009",
+  "description" : "The quality of welfare and duty of care for recruits and trainees in the Armed Forces. Incl. appendices. 72 p.",
   "department" : "Ministry of Defence Office for Standards in Education, Children's Services and Skills"
 }

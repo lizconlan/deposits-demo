@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/10/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2460.doc"
-  "year" : "2009"
-  "description" : "Table showing Homes and Communities Agency: affordable housing programme 2008-09 expenditure in each local authority area. 7 p."
+  "deposited_date" : "12/10/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2460.doc",
+  "year" : "2009",
+  "description" : "Table showing Homes and Communities Agency: affordable housing programme 2008-09 expenditure in each local authority area. 7 p.",
   "department" : "Dept for Communities and Local Government"
 }

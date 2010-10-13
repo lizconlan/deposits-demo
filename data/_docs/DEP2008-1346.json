@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "13/05/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1346.zip"
-  "year" : "2008"
-  "description" : "DE&S collocation: accelerating the move of Defence Clothing IPT investment appraisal. 4 p. [Includes 5 annexes]."
+  "deposited_date" : "13/05/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1346.zip",
+  "year" : "2008",
+  "description" : "DE&S collocation: accelerating the move of Defence Clothing IPT investment appraisal. 4 p. [Includes 5 annexes].",
   "department" : "Ministry of Defence"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/02/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0444.zip"
-  "year" : "2009"
-  "description" : "I. Letter dated 12/02/2009 from Mike O'Brien MP to Elliott Morley MP regarding the consultation paper on the proposed offshore gas storage and gas unloading licensing scheme. 1 p. II. Consultation on the proposed offshore gas storage and gas unloading licensing scheme. 79 p. III. Gas storage licence : operatorship guidance (consultation version). 9 p. IV. Gas storage development guidance (consultation version February 2009) : suggested contents of the gas storage development plan. 5 p."
+  "deposited_date" : "12/02/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0444.zip",
+  "year" : "2009",
+  "description" : "I. Letter dated 12/02/2009 from Mike O'Brien MP to Elliott Morley MP regarding the consultation paper on the proposed offshore gas storage and gas unloading licensing scheme. 1 p. II. Consultation on the proposed offshore gas storage and gas unloading licensing scheme. 79 p. III. Gas storage licence : operatorship guidance (consultation version). 9 p. IV. Gas storage development guidance (consultation version February 2009) : suggested contents of the gas storage development plan. 5 p.",
   "department" : "Dept of Energy and Climate Change"
 }

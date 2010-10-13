@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "31/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0886.zip"
-  "year" : "2008"
-  "description" : "Discretionary social fund budget allocations 2008/09: explanatory note for House of Commons Library. Incl. breakdown of individual loan allocations. 6 p."
+  "deposited_date" : "31/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0886.zip",
+  "year" : "2008",
+  "description" : "Discretionary social fund budget allocations 2008/09: explanatory note for House of Commons Library. Incl. breakdown of individual loan allocations. 6 p.",
   "department" : "Dept for Work and Pensions"
 }

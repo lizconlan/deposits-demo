@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "12/10/2009"
-  "legislature" : CommonsLords
-  "legislation" : "Apprenticeships, Skills, Children and Learning Bill 2008-09"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1007.zip"
-  "year" : "2010"
-  "description" : "Letter dated 30/03/2010 from Iain Wright MP to Baroness Sharp of Guildford regarding Young People's Learning Agency. Inc annexes. 15 p."
+  "deposited_date" : "12/10/2009",
+  "legislature" : ["Commons","Lords"],
+  "legislation" : "Apprenticeships, Skills, Children and Learning Bill 2008-09",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1007.zip",
+  "year" : "2010",
+  "description" : "Letter dated 30/03/2010 from Iain Wright MP to Baroness Sharp of Guildford regarding Young People's Learning Agency. Inc annexes. 15 p.",
   "department" : "Department for Children, Schools and Families"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0489.doc"
-  "year" : "2010"
-  "description" : "Table showing Neighbourhood Renewal Fund (NRF) allocation for each local authority area in England from 2001 to 2008. 12 p."
+  "deposited_date" : "24/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0489.doc",
+  "year" : "2010",
+  "description" : "Table showing Neighbourhood Renewal Fund (NRF) allocation for each local authority area in England from 2001 to 2008. 12 p.",
   "department" : "Communities and Local Government"
 }

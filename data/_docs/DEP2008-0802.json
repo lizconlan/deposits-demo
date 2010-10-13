@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0802.xls"
-  "year" : "2008"
-  "description" : "Table showing delayed transfers of care from non-acute beds, 2006-07 to 2007-08, broken down by NHS trust. 3 p."
+  "deposited_date" : "20/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0802.xls",
+  "year" : "2008",
+  "description" : "Table showing delayed transfers of care from non-acute beds, 2006-07 to 2007-08, broken down by NHS trust. 3 p.",
   "department" : "Dept of Health"
 }

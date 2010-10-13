@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/04/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1157.xls"
-  "year" : "2009"
-  "description" : "Table showing Gross Expenditure on social care services by primary client group in North East England, for the years 2004/05 to 2007/08. 1 p."
+  "deposited_date" : "20/04/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1157.xls",
+  "year" : "2009",
+  "description" : "Table showing Gross Expenditure on social care services by primary client group in North East England, for the years 2004/05 to 2007/08. 1 p.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0232.pdf"
-  "year" : "2007"
-  "description" : "Copies of the minutes of meetings held between the Political Parties Panel and the Electoral Commission held since June 2001. 130 p."
+  "deposited_date" : "05/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0232.pdf",
+  "year" : "2007",
+  "description" : "Copies of the minutes of meetings held between the Political Parties Panel and the Electoral Commission held since June 2001. 130 p.",
   "department" : "Electoral Commission"
 }

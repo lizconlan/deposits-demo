@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1600.zip"
-  "year" : "2008"
-  "description" : "I. Letter [undated] from Malcolm Wicks MP to Peter Luff MP requesting deposit of two publications (below). II. Strategic siting assessment: preview of nominations and assessment process, draft exclusionary and discretionary criteria and indicative timeline. 9 p. III. New nuclear: creating our low carbon future. 2 p. [Leaflet]"
+  "deposited_date" : "19/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1600.zip",
+  "year" : "2008",
+  "description" : "I. Letter [undated] from Malcolm Wicks MP to Peter Luff MP requesting deposit of two publications (below). II. Strategic siting assessment: preview of nominations and assessment process, draft exclusionary and discretionary criteria and indicative timeline. 9 p. III. New nuclear: creating our low carbon future. 2 p. [Leaflet]",
   "department" : "Dept for Business Enterprise and Regulatory Reform"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2801.doc"
-  "year" : "2009"
-  "description" : "Letter dated 06/11/2009 from Christine Gilbert (HMCI, Ofsted) to Tim Loughton MP regarding which primary maintained, secondary maintained and special schools were classified by Ofsted as having outstanding or inadequate leadership at their most recent inspection. Incl. tables. 80 p."
+  "deposited_date" : "09/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2801.doc",
+  "year" : "2009",
+  "description" : "Letter dated 06/11/2009 from Christine Gilbert (HMCI, Ofsted) to Tim Loughton MP regarding which primary maintained, secondary maintained and special schools were classified by Ofsted as having outstanding or inadequate leadership at their most recent inspection. Incl. tables. 80 p.",
   "department" : "Dept for Children, Schools and Families"
 }

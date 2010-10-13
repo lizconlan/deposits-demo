@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/04/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1037.zip"
-  "year" : "2009"
-  "description" : "I. UK Border Agency framework agreement, April 2009. 32 p. II. UK Border Agency business plan, April 2009 - March 2012. 60 p."
+  "deposited_date" : "01/04/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1037.zip",
+  "year" : "2009",
+  "description" : "I. UK Border Agency framework agreement, April 2009. 32 p. II. UK Border Agency business plan, April 2009 - March 2012. 60 p.",
   "department" : "Home Office UK Border Agency"
 }

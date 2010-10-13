@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/03/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0981.zip"
-  "year" : "2009"
-  "description" : "I. Schedule of fees, charges and expenses for the London region submitted by ... [pro forma]. 14 p. II. Invitation to tender for the provision of private enforcement services [Ministry of Justice]. 36 p. III. Conditions of contract for the supply of goods and services [Ministry of Justice]. 25 p. IV. Schedule 4 specification for the provision of private enforcement services [Ministry of Justice]. 138 p. V. The good governance standard for public services. 40 p. VI. Ministry of Justice invitation to tender for private enforcement services : tenderer commercially sensitive information [pro forma]. 7 p."
+  "deposited_date" : "27/03/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0981.zip",
+  "year" : "2009",
+  "description" : "I. Schedule of fees, charges and expenses for the London region submitted by ... [pro forma]. 14 p. II. Invitation to tender for the provision of private enforcement services [Ministry of Justice]. 36 p. III. Conditions of contract for the supply of goods and services [Ministry of Justice]. 25 p. IV. Schedule 4 specification for the provision of private enforcement services [Ministry of Justice]. 138 p. V. The good governance standard for public services. 40 p. VI. Ministry of Justice invitation to tender for private enforcement services : tenderer commercially sensitive information [pro forma]. 7 p.",
   "department" : "Ministry of Justice Independent Commission for Good Governance in Public Services"
 }

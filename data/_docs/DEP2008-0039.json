@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/11/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0039.tif"
-  "year" : "2008"
-  "description" : "Letter dated 18/12/2007 from Mike Rowlands, Chairman, to Mark Lancaster MP regarding the number of midwives employed by Milton Keynes Hospital NHS Foundation Trust. Incl. table."
+  "deposited_date" : "29/11/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0039.tif",
+  "year" : "2008",
+  "description" : "Letter dated 18/12/2007 from Mike Rowlands, Chairman, to Mark Lancaster MP regarding the number of midwives employed by Milton Keynes Hospital NHS Foundation Trust. Incl. table.",
   "department" : "Dept of Health Milton Keynes Hospital NHS Foundation Trust"
 }

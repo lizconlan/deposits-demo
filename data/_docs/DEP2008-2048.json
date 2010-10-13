@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2048.tif"
-  "year" : "2008"
-  "description" : "Letter dated 22/07/2008 from Derek Twigg MP to Sarah Teather regarding lost, missing or stolen mobile telephones, personal digital assistants and laptop computers. 5 p."
+  "deposited_date" : "22/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2048.tif",
+  "year" : "2008",
+  "description" : "Letter dated 22/07/2008 from Derek Twigg MP to Sarah Teather regarding lost, missing or stolen mobile telephones, personal digital assistants and laptop computers. 5 p.",
   "department" : "Ministry of Defence"
 }

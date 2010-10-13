@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0739.tif"
-  "year" : "2008"
-  "description" : "Letter [undated] from Ben Bradshaw MP to Mike Penning MP correcting figures given in a deposited paper regarding the residual value (RV) of independent treatment centres (ISTCs). 1 p."
+  "deposited_date" : "14/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0739.tif",
+  "year" : "2008",
+  "description" : "Letter [undated] from Ben Bradshaw MP to Mike Penning MP correcting figures given in a deposited paper regarding the residual value (RV) of independent treatment centres (ISTCs). 1 p.",
   "department" : "Dept of Health"
 }

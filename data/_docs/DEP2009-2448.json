@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/10/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2448.doc"
-  "year" : "2009"
-  "description" : "Juvenile restraint techniques pilot: evaluation report April 2007. 19 p."
+  "deposited_date" : "12/10/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2448.doc",
+  "year" : "2009",
+  "description" : "Juvenile restraint techniques pilot: evaluation report April 2007. 19 p.",
   "department" : "Ministry of Justice"
 }

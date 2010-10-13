@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2027.pdf"
-  "year" : "2008"
-  "description" : "Table showing late reported donations to political parties by registered donees between 15/02/2001 and 31/01/2008. 26 p."
+  "deposited_date" : "23/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2027.pdf",
+  "year" : "2008",
+  "description" : "Table showing late reported donations to political parties by registered donees between 15/02/2001 and 31/01/2008. 26 p.",
   "department" : "Electoral Commission"
 }

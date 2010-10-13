@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/07/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2053.zip"
-  "year" : "2009"
-  "description" : "Defence estate development plan 2009. Incl. annexes. 111 p."
+  "deposited_date" : "16/07/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2053.zip",
+  "year" : "2009",
+  "description" : "Defence estate development plan 2009. Incl. annexes. 111 p.",
   "department" : "Ministry of Defence"
 }

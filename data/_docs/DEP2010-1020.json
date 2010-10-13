@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/03/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1020. pdf"
-  "year" : "2010"
-  "description" : "Letter dated 29/03/2010 from Lord Myners to Baroness Hamwee regarding asset freezing. 5 p."
+  "deposited_date" : "24/03/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1020. pdf",
+  "year" : "2010",
+  "description" : "Letter dated 29/03/2010 from Lord Myners to Baroness Hamwee regarding asset freezing. 5 p.",
   "department" : "Treasury"
 }

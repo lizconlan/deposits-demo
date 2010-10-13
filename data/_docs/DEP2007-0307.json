@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "11/12/2007"
-  "legislature" : Lords
-  "legislation" : "Local Transport Bill"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0307.zip"
-  "year" : "2007"
-  "description" : "Letter [not dated] from Lord Bassam regarding the Local Transport Bill. Includes three annexes. 15 p."
+  "deposited_date" : "11/12/2007",
+  "legislature" : ["Lords"],
+  "legislation" : "Local Transport Bill",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0307.zip",
+  "year" : "2007",
+  "description" : "Letter [not dated] from Lord Bassam regarding the Local Transport Bill. Includes three annexes. 15 p.",
   "department" : "Dept for Transport"
 }

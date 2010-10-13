@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/05/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1232.rtf"
-  "year" : "2008"
-  "description" : "Paper [untitled] showing detailed evidence of the trends in sea surface temperature and near-surface temperature from 1850 to 2007. Incl. graphs. 3 p."
+  "deposited_date" : "09/05/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1232.rtf",
+  "year" : "2008",
+  "description" : "Paper [untitled] showing detailed evidence of the trends in sea surface temperature and near-surface temperature from 1850 to 2007. Incl. graphs. 3 p.",
   "department" : "Dept for Environment, Food and Rural Affairs Met Office"
 }

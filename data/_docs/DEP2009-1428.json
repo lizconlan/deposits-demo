@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/05/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1428.doc"
-  "year" : "2009"
-  "description" : "Cabinet Office complaints handling procedure [undated]. 1 p."
+  "deposited_date" : "14/05/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1428.doc",
+  "year" : "2009",
+  "description" : "Cabinet Office complaints handling procedure [undated]. 1 p.",
   "department" : "Cabinet Office"
 }

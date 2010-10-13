@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "26/03/2008"
-  "legislature" : Lords
-  "legislation" : "Criminal Justice and Immigration Bill 2006-07 then 2007-08"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0846.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 25/03/2008 from Lord Hunt of Kings Heath to Lord Stoddart of Swindon regarding incitement to hatred on the grounds of sexual orientation in the context of the Criminal Justice and Immigration Bill."
+  "deposited_date" : "26/03/2008",
+  "legislature" : ["Lords"],
+  "legislation" : "Criminal Justice and Immigration Bill 2006-07 then 2007-08",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0846.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 25/03/2008 from Lord Hunt of Kings Heath to Lord Stoddart of Swindon regarding incitement to hatred on the grounds of sexual orientation in the context of the Criminal Justice and Immigration Bill.",
   "department" : "Ministry of Justice"
 }

@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "15/06/2009"
-  "legislature" : Commons
-  "legislation" : "Equality Bill 2008-09"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1682.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 15/06/2009 from Vera Baird MP to Sharon Hodgson MP regarding the Equality Bill 2008-09 and concerns regarding clause 79 and the effect on the rights of pregnant schoolgirls. 2 p."
+  "deposited_date" : "15/06/2009",
+  "legislature" : ["Commons"],
+  "legislation" : "Equality Bill 2008-09",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1682.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 15/06/2009 from Vera Baird MP to Sharon Hodgson MP regarding the Equality Bill 2008-09 and concerns regarding clause 79 and the effect on the rights of pregnant schoolgirls. 2 p.",
   "department" : "Government Equalities Office"
 }

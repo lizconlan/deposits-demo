@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0992.doc"
-  "year" : "2010"
-  "description" : "Tables showing Department for Transport websites operated over the last three years and how much has been spent on external website design consultants for website design work. 2 p."
+  "deposited_date" : "30/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0992.doc",
+  "year" : "2010",
+  "description" : "Tables showing Department for Transport websites operated over the last three years and how much has been spent on external website design consultants for website design work. 2 p.",
   "department" : "Department for Transport"
 }

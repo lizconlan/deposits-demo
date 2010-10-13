@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0489.xls"
-  "year" : "2008"
-  "description" : "Tables [undated] showing, within the context of EU law, a) civil judicial co-operation instruments: measures to which the UK has opted in and has not opted in and b) Border and Immigration Agency measures to which the UK has opted in and has not opted in. 12 p."
+  "deposited_date" : "18/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0489.xls",
+  "year" : "2008",
+  "description" : "Tables [undated] showing, within the context of EU law, a) civil judicial co-operation instruments: measures to which the UK has opted in and has not opted in and b) Border and Immigration Agency measures to which the UK has opted in and has not opted in. 12 p.",
   "department" : "Ministry of Justice Home Office Border and Immigration Agency"
 }

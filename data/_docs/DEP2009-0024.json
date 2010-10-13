@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/01/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0024.tif"
-  "year" : "2009"
-  "description" : "Letter dated 08/12/2008 from J A Harris, Assistant Chief Constable, to Lord Laird regarding the loss of a disc concerning the Rosemary Nelson Inquiry. 2 p."
+  "deposited_date" : "06/01/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0024.tif",
+  "year" : "2009",
+  "description" : "Letter dated 08/12/2008 from J A Harris, Assistant Chief Constable, to Lord Laird regarding the loss of a disc concerning the Rosemary Nelson Inquiry. 2 p.",
   "department" : "Northern Ireland Office Police Service of Northern Ireland"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0578.zip"
-  "year" : "2009"
-  "description" : "Department for Communities and Local Government Euro changeover plan. 18 p and 19 annexes."
+  "deposited_date" : "02/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0578.zip",
+  "year" : "2009",
+  "description" : "Department for Communities and Local Government Euro changeover plan. 18 p and 19 annexes.",
   "department" : "Dept for Communities and Local Government"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/05/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1351.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 21/05/2008 from Jane Kennedy MP to Rob Marris MP regarding the GLA budget compared with that of the Scottish Parliament and Welsh and Northern Ireland Assemblies."
+  "deposited_date" : "21/05/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1351.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 21/05/2008 from Jane Kennedy MP to Rob Marris MP regarding the GLA budget compared with that of the Scottish Parliament and Welsh and Northern Ireland Assemblies.",
   "department" : "Treasury"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1110.pdf"
-  "year" : "2010"
-  "description" : "Response from DCMS regarding the Arts Council England works of art damaged in transit. 1 p."
+  "deposited_date" : "12/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1110.pdf",
+  "year" : "2010",
+  "description" : "Response from DCMS regarding the Arts Council England works of art damaged in transit. 1 p.",
   "department" : "Department for Culture, Media and Sport"
 }

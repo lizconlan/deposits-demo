@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0348.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 29/10/2008 from Chris Wright (Cabinet Office) to Cressida Dick (DAC, Metropolitan Police) regarding possible unauthorised disclosure of information and the Home Office. 1 p."
+  "deposited_date" : "05/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0348.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 29/10/2008 from Chris Wright (Cabinet Office) to Cressida Dick (DAC, Metropolitan Police) regarding possible unauthorised disclosure of information and the Home Office. 1 p.",
   "department" : "Cabinet Office"
 }

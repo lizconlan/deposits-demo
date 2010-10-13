@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1016.xls"
-  "year" : "2010"
-  "description" : "Tables showing jobseeker's allowance claimants, by age, in each Jobcentre Plus district from Jan 2008 to Feb 2010. 27 p."
+  "deposited_date" : "30/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1016.xls",
+  "year" : "2010",
+  "description" : "Tables showing jobseeker's allowance claimants, by age, in each Jobcentre Plus district from Jan 2008 to Feb 2010. 27 p.",
   "department" : "Department for Work and Pensions"
 }

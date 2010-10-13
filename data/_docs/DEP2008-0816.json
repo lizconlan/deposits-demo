@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0816.doc"
-  "year" : "2008"
-  "description" : "Table showing expenditure arising from (a) carer's allowance, (b) attendance allowance, (c) disability living allowance, (d) incapacity benefit, (e) income support and (f) winter fuel allowance for the years 1996/97 to 2005/06. 11 p."
+  "deposited_date" : "20/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0816.doc",
+  "year" : "2008",
+  "description" : "Table showing expenditure arising from (a) carer's allowance, (b) attendance allowance, (c) disability living allowance, (d) incapacity benefit, (e) income support and (f) winter fuel allowance for the years 1996/97 to 2005/06. 11 p.",
   "department" : "Dept for Work and Pensions"
 }

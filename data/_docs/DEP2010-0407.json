@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/02/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0407.zip"
-  "year" : "2010"
-  "description" : "I. Letter dated 10/02/2010 from Lord McKenzie of Luton to the Chairman of the Delegated Powers and Regulatory Reform Committee. 5 p. II. Child Poverty Bill: supplementary memorandum for the House of Lords Delegated Powers and Regulatory Reform Committee. 29 Jan 2010. 2 p."
+  "deposited_date" : "08/02/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0407.zip",
+  "year" : "2010",
+  "description" : "I. Letter dated 10/02/2010 from Lord McKenzie of Luton to the Chairman of the Delegated Powers and Regulatory Reform Committee. 5 p. II. Child Poverty Bill: supplementary memorandum for the House of Lords Delegated Powers and Regulatory Reform Committee. 29 Jan 2010. 2 p.",
   "department" : "Department for Work and Pensions"
 }

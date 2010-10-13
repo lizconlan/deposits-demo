@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0455.tif"
-  "year" : "2008"
-  "description" : "Letter dated 17/02/2008 from Paul Goggins MP to Nigel Dodds MP regarding the use of street bail by police in Northern Ireland. 2 p."
+  "deposited_date" : "19/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0455.tif",
+  "year" : "2008",
+  "description" : "Letter dated 17/02/2008 from Paul Goggins MP to Nigel Dodds MP regarding the use of street bail by police in Northern Ireland. 2 p.",
   "department" : "Northern Ireland Office"
 }

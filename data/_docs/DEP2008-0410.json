@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0410.zip"
-  "year" : "2008"
-  "description" : "I. Application form information and guidance booklet for service in Her Majesty's armed forces. 8 p. II. Application form for service in Her Majesty's armed forces. 8 p."
+  "deposited_date" : "11/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0410.zip",
+  "year" : "2008",
+  "description" : "I. Application form information and guidance booklet for service in Her Majesty's armed forces. 8 p. II. Application form for service in Her Majesty's armed forces. 8 p.",
   "department" : "Ministry of Defence"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2520.xls"
-  "year" : "2008"
-  "description" : "Table showing sanctioned jobseeker's allowances since April 2003, broken down by reason and length. 8 p."
+  "deposited_date" : "30/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2520.xls",
+  "year" : "2008",
+  "description" : "Table showing sanctioned jobseeker's allowances since April 2003, broken down by reason and length. 8 p.",
   "department" : "Dept for Work and Pensions"
 }

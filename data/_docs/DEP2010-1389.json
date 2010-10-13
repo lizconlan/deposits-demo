@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/06/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1389.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 23/06/2010 from Peter Lauener, Chief Executive of YPLA, to Helen Jones MP regarding Education maintenance allowance in Warrington North. 1 p."
+  "deposited_date" : "24/06/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1389.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 23/06/2010 from Peter Lauener, Chief Executive of YPLA, to Helen Jones MP regarding Education maintenance allowance in Warrington North. 1 p.",
   "department" : "Department for Education Young People's Learning Agency"
 }

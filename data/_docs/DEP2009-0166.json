@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0166.xls"
-  "year" : "2009"
-  "description" : "Table showing cleanliness data from 2007/08 ERIC (Estates Returns Information Collection) returns. 16 p."
+  "deposited_date" : "20/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0166.xls",
+  "year" : "2009",
+  "description" : "Table showing cleanliness data from 2007/08 ERIC (Estates Returns Information Collection) returns. 16 p.",
   "department" : "Dept of Health"
 }

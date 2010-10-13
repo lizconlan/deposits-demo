@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/11/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0213.doc"
-  "year" : "2007"
-  "description" : "Table showing number of adults who attended citizenship ceremonies in Northern Ireland for each month from November 2006 to October 2007, broken down by nationality."
+  "deposited_date" : "30/11/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0213.doc",
+  "year" : "2007",
+  "description" : "Table showing number of adults who attended citizenship ceremonies in Northern Ireland for each month from November 2006 to October 2007, broken down by nationality.",
   "department" : "Home Office"
 }

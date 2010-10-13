@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/12/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3067.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 09/12/2009 from Ian Lucas MP to Lynne Jones MP regarding British ownership and empoyment in the manufacturing industry. 2 p."
+  "deposited_date" : "03/12/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3067.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 09/12/2009 from Ian Lucas MP to Lynne Jones MP regarding British ownership and empoyment in the manufacturing industry. 2 p.",
   "department" : "Dept for Business, Innovation and Skills"
 }

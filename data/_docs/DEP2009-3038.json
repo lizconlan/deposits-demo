@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/12/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3038.zip"
-  "year" : "2009"
-  "description" : "Nutrition Action Plan Delivery board meeting minutes."
+  "deposited_date" : "07/12/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3038.zip",
+  "year" : "2009",
+  "description" : "Nutrition Action Plan Delivery board meeting minutes.",
   "department" : "Dept of Health"
 }

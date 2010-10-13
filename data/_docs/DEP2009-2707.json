@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2707.pdf"
-  "year" : "2009"
-  "description" : "Forestry statistics 2009: a compendium of statistics about woodland, forestry and primary wood processing in the United Kingdom. 198 p."
+  "deposited_date" : "03/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2707.pdf",
+  "year" : "2009",
+  "description" : "Forestry statistics 2009: a compendium of statistics about woodland, forestry and primary wood processing in the United Kingdom. 198 p.",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

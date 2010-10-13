@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/12/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3076.pdf"
-  "year" : "2009"
-  "description" : "South East Coast strategic health authority: annual report 2008/09. 53 p."
+  "deposited_date" : "09/12/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3076.pdf",
+  "year" : "2009",
+  "description" : "South East Coast strategic health authority: annual report 2008/09. 53 p.",
   "department" : "Dept of Health"
 }

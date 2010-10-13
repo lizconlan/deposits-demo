@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/10/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2431.zip"
-  "year" : "2009"
-  "description" : "I. ACAS (Advisory, Conciliation and Arbitration Service) code of practice on time off for trade union duties and activities (including guidance on time off for union learning representatives). 47 p. II. Letters dated 09/10/2009 from Lord Young of Norwood Green to George Young MP and Harriet Harman MP regarding the upcoming debate on the revised ACAS code on time off for trade union duties and activities. 2 p."
+  "deposited_date" : "09/10/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2431.zip",
+  "year" : "2009",
+  "description" : "I. ACAS (Advisory, Conciliation and Arbitration Service) code of practice on time off for trade union duties and activities (including guidance on time off for union learning representatives). 47 p. II. Letters dated 09/10/2009 from Lord Young of Norwood Green to George Young MP and Harriet Harman MP regarding the upcoming debate on the revised ACAS code on time off for trade union duties and activities. 2 p.",
   "department" : "Dept for Business, Innovation and Skills"
 }

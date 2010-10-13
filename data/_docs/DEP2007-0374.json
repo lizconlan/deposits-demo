@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0374.doc"
-  "year" : "2007"
-  "description" : "Sport Direct: 2005 review of options for delivery. 43 p."
+  "deposited_date" : "17/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0374.doc",
+  "year" : "2007",
+  "description" : "Sport Direct: 2005 review of options for delivery. 43 p.",
   "department" : "Dept for Culture Media and Sport"
 }

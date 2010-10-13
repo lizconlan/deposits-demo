@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "13/12/2007"
-  "legislature" : CommonsLords
-  "legislation" : "Freedom of Information Act 2000"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0343.pdf"
-  "year" : "2007"
-  "description" : "Freedom of Information Act 2000: statistics on implementation in central government, Q3: July - September 2007. 40 p."
+  "deposited_date" : "13/12/2007",
+  "legislature" : ["Commons","Lords"],
+  "legislation" : "Freedom of Information Act 2000",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0343.pdf",
+  "year" : "2007",
+  "description" : "Freedom of Information Act 2000: statistics on implementation in central government, Q3: July - September 2007. 40 p.",
   "department" : "Dept for Constitutional Affairs"
 }

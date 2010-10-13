@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/02/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0571.pdf"
-  "year" : "2008"
-  "description" : "The code for sustainable homes: setting the standard in sustainability for new homes. 68 p."
+  "deposited_date" : "27/02/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0571.pdf",
+  "year" : "2008",
+  "description" : "The code for sustainable homes: setting the standard in sustainability for new homes. 68 p.",
   "department" : "Dept for Communities and Local Government"
 }

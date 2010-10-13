@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/06/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1274.pdf"
-  "year" : "2010"
-  "description" : "Speech by Secretary of State, Rt Hon. Jeremy Hunt MP regarding the government's plans for the media sector. 8th June 2010. 18 p."
+  "deposited_date" : "08/06/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1274.pdf",
+  "year" : "2010",
+  "description" : "Speech by Secretary of State, Rt Hon. Jeremy Hunt MP regarding the government's plans for the media sector. 8th June 2010. 18 p.",
   "department" : "Department for Culture, Media and Sport"
 }

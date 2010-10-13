@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0518.zip"
-  "year" : "2008"
-  "description" : "Tables showing count of finished consultant episodes for prostectomies performed in the NHS hospitals and the independent sector commissioned by English NHS for each year from 1997/98 to 2006/07, broken down by PCT."
+  "deposited_date" : "21/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0518.zip",
+  "year" : "2008",
+  "description" : "Tables showing count of finished consultant episodes for prostectomies performed in the NHS hospitals and the independent sector commissioned by English NHS for each year from 1997/98 to 2006/07, broken down by PCT.",
   "department" : "Dept of Health"
 }

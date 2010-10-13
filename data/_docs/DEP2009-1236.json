@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "27/04/2009"
-  "legislature" : Commons
-  "legislation" : "Equality Bill 2008-09"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1236.zip"
-  "year" : "2009"
-  "description" : "Letter dated 27/04/2009 from Harriet Harman MP to Phyllis Starkey MP regarding "A fairer future: the equality bill and other action to make equality a reality". Inc the document. 43 p."
+  "deposited_date" : "27/04/2009",
+  "legislature" : ["Commons"],
+  "legislation" : "Equality Bill 2008-09",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1236.zip",
+  "year" : "2009",
+  "description" : "Letter dated 27/04/2009 from Harriet Harman MP to Phyllis Starkey MP regarding \"A fairer future: the equality bill and other action to make equality a reality\". Inc the document. 43 p.",
   "department" : "Leader of the House of Commons"
 }

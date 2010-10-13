@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0333.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 03/02/2010 from Ed Richards (Chief Executive, Ofcom) to Pete Wishart regarding the nbumber of radio licenses awarded or ended from 2005 to 2010. 2 p."
+  "deposited_date" : "04/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0333.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 03/02/2010 from Ed Richards (Chief Executive, Ofcom) to Pete Wishart regarding the nbumber of radio licenses awarded or ended from 2005 to 2010. 2 p.",
   "department" : "Department for Culture, Media and Sport"
 }

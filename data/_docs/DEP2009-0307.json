@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/02/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0307.pdf"
-  "year" : "2009"
-  "description" : "Table showing the number of localities in each billing authority area in England on 27/01/2009. 7 p."
+  "deposited_date" : "03/02/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0307.pdf",
+  "year" : "2009",
+  "description" : "Table showing the number of localities in each billing authority area in England on 27/01/2009. 7 p.",
   "department" : "Dept for Communities and Local Government"
 }

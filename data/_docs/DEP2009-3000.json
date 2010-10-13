@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3000.pdf"
-  "year" : "2009"
-  "description" : "Contact group on piracy off the coast of Somalia. Working group 1. Regional counter-piracy capability development needs assessment and prioritisation mission to East Africa and the Gulf of Aden 7-13 Sept 2009. incl. annexes. 60 p."
+  "deposited_date" : "25/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3000.pdf",
+  "year" : "2009",
+  "description" : "Contact group on piracy off the coast of Somalia. Working group 1. Regional counter-piracy capability development needs assessment and prioritisation mission to East Africa and the Gulf of Aden 7-13 Sept 2009. incl. annexes. 60 p.",
   "department" : "Defence Contracts Organisation"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/05/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1254.doc"
-  "year" : "2010"
-  "description" : "Pilot waste incentive scheme: proposal/expression of interest. Recycle for Bristol. 20 p."
+  "deposited_date" : "26/05/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1254.doc",
+  "year" : "2010",
+  "description" : "Pilot waste incentive scheme: proposal/expression of interest. Recycle for Bristol. 20 p.",
   "department" : "Department for Environment, Food and Rural Affairs Bristol City Council"
 }

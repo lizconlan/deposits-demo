@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0855.zip"
-  "year" : "2009"
-  "description" : "Display energy certificate and advisory reports for the Department of Energy and Climate Change. 2 files."
+  "deposited_date" : "17/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0855.zip",
+  "year" : "2009",
+  "description" : "Display energy certificate and advisory reports for the Department of Energy and Climate Change. 2 files.",
   "department" : "Dept of Energy and Climate Change"
 }

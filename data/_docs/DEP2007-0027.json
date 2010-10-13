@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/10/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0027.zip"
-  "year" : "2007"
-  "description" : "I. Isolating patients with healthcare-associated infection: a summary of best practice. 4 p. II. epic2: national evidence-based guidelines for preventing healthcare-associated infections in NHS Hospitals in England. By R.J. Pratt et al. [Journal article] Journal of Hospital Infection 2007;65s: s1-s64. III. Letter dated 21/12/2005 from Liam Donaldson and Christine Beasley to NHS Trust chief executives regarding infection caused by Clostridium difficile. 3 p. IV. Letter [undated] from Liam Donaldson and others to NHS Trust and SHA chief executives regarding healthcare associated infections, in particular infection caused by Clostridium difficile. 7 p. V. The Health Act 2006: code of practice for the prevention and control of health care associated infections. October 2006. 48 p."
+  "deposited_date" : "19/10/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0027.zip",
+  "year" : "2007",
+  "description" : "I. Isolating patients with healthcare-associated infection: a summary of best practice. 4 p. II. epic2: national evidence-based guidelines for preventing healthcare-associated infections in NHS Hospitals in England. By R.J. Pratt et al. [Journal article] Journal of Hospital Infection 2007;65s: s1-s64. III. Letter dated 21/12/2005 from Liam Donaldson and Christine Beasley to NHS Trust chief executives regarding infection caused by Clostridium difficile. 3 p. IV. Letter [undated] from Liam Donaldson and others to NHS Trust and SHA chief executives regarding healthcare associated infections, in particular infection caused by Clostridium difficile. 7 p. V. The Health Act 2006: code of practice for the prevention and control of health care associated infections. October 2006. 48 p.",
   "department" : "Dept of Health"
 }

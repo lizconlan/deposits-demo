@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/06/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1482.pdf"
-  "year" : "2008"
-  "description" : "Review of the Serious Fraud Office: final report. By Jessica de Grazia. 157 p."
+  "deposited_date" : "10/06/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1482.pdf",
+  "year" : "2008",
+  "description" : "Review of the Serious Fraud Office: final report. By Jessica de Grazia. 157 p.",
   "department" : "Attorney General"
 }

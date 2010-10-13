@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/10/2007"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0025.pdf"
-  "year" : "2007"
-  "description" : "Advice issued by the Dutch Council of State on the mandate of the Intergovernmental Conference to revise the Treaty on the European Union and the Treaty establishing the European Community. 22 p."
+  "deposited_date" : "09/10/2007",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0025.pdf",
+  "year" : "2007",
+  "description" : "Advice issued by the Dutch Council of State on the mandate of the Intergovernmental Conference to revise the Treaty on the European Union and the Treaty establishing the European Community. 22 p.",
   "department" : "Foreign and Commonwealth Office"
 }

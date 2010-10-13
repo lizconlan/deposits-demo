@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/03/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0710.pdf"
-  "year" : "2009"
-  "description" : "Northern Rock: the impact of public support on competition. 48 p."
+  "deposited_date" : "10/03/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0710.pdf",
+  "year" : "2009",
+  "description" : "Northern Rock: the impact of public support on competition. 48 p.",
   "department" : "Treasury Office of Fair Trading"
 }

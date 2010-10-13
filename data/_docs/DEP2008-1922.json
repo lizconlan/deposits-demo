@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1922.rtf"
-  "year" : "2008"
-  "description" : "List of buildings occupied by the Department of Transport executive agencies and non-departmental public bodies at which the lease will be due for renewal between 2008 and 2012. 4 p."
+  "deposited_date" : "15/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1922.rtf",
+  "year" : "2008",
+  "description" : "List of buildings occupied by the Department of Transport executive agencies and non-departmental public bodies at which the lease will be due for renewal between 2008 and 2012. 4 p.",
   "department" : "Dept for Transport"
 }

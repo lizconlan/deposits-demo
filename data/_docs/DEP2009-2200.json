@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2200.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 25/03/2009 from Verity Bullough, National Director, to Grant Shapps MP regarding how much was spent on producing advertising copy and buying advertising space under the Make Things Happen apprenticeships advertising campaign. 2 p."
+  "deposited_date" : "25/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2200.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 25/03/2009 from Verity Bullough, National Director, to Grant Shapps MP regarding how much was spent on producing advertising copy and buying advertising space under the Make Things Happen apprenticeships advertising campaign. 2 p.",
   "department" : "Learning and Skills Council for England Dept for Innovation, Universities and Skills"
 }

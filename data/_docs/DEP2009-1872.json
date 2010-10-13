@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/07/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1872.tif"
-  "year" : "2009"
-  "description" : "Letter dated 02/07/2009 from Baroness Ann Taylor to Lord Roberts of Conwy regarding the use of Nerve Agent pre-treatment Sets (NAPs) tablets during the 1990/1991 Gulf conflict and Ministry of Defence (MOD) consultation with the Medical Reseach Council. 2 p."
+  "deposited_date" : "03/07/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1872.tif",
+  "year" : "2009",
+  "description" : "Letter dated 02/07/2009 from Baroness Ann Taylor to Lord Roberts of Conwy regarding the use of Nerve Agent pre-treatment Sets (NAPs) tablets during the 1990/1991 Gulf conflict and Ministry of Defence (MOD) consultation with the Medical Reseach Council. 2 p.",
   "department" : "Ministry of Defence"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/10/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0032.xls"
-  "year" : "2007"
-  "description" : "Table showing annual income for each PCT and NHS Trust for 2006 for 2006-07. 14 p."
+  "deposited_date" : "24/10/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0032.xls",
+  "year" : "2007",
+  "description" : "Table showing annual income for each PCT and NHS Trust for 2006 for 2006-07. 14 p.",
   "department" : "Dept of Health"
 }

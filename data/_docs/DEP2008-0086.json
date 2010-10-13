@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0086.tif"
-  "year" : "2008"
-  "description" : "Letter dated 12/01/2008 from Bob Ainsworth MP to Bernard Jenkin MP regarding funding for legal aid for service families at coroners' inquests."
+  "deposited_date" : "14/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0086.tif",
+  "year" : "2008",
+  "description" : "Letter dated 12/01/2008 from Bob Ainsworth MP to Bernard Jenkin MP regarding funding for legal aid for service families at coroners' inquests.",
   "department" : "Ministry of Defence"
 }

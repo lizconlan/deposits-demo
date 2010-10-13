@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/02/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0557.doc"
-  "year" : "2009"
-  "description" : "Results of the Welfare Burials Survey, July 2007. Includes tables. 10 p."
+  "deposited_date" : "26/02/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0557.doc",
+  "year" : "2009",
+  "description" : "Results of the Welfare Burials Survey, July 2007. Includes tables. 10 p.",
   "department" : "Ministry of Justice Chartered Institute of Environmental Health"
 }

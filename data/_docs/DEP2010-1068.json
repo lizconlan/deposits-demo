@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/04/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1068.doc"
-  "year" : "2010"
-  "description" : "A list showing the Infrastructure Planning Commission appointees with attached biographies. 10 p."
+  "deposited_date" : "06/04/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1068.doc",
+  "year" : "2010",
+  "description" : "A list showing the Infrastructure Planning Commission appointees with attached biographies. 10 p.",
   "department" : "Communities and Local Government"
 }

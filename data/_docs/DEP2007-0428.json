@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0428.xls"
-  "year" : "2007"
-  "description" : "Hospital build schemes given the go ahead, opened or cancelled for each year from 1997/98 to 2007/08."
+  "deposited_date" : "03/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0428.xls",
+  "year" : "2007",
+  "description" : "Hospital build schemes given the go ahead, opened or cancelled for each year from 1997/98 to 2007/08.",
   "department" : "Dept of Health"
 }

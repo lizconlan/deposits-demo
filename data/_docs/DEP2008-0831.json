@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/03/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0831.pdf"
-  "year" : "2008"
-  "description" : "Safer children in a digital world: the report of the Byron review on children and new technology. By Tanya Byron. 226 p."
+  "deposited_date" : "27/03/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0831.pdf",
+  "year" : "2008",
+  "description" : "Safer children in a digital world: the report of the Byron review on children and new technology. By Tanya Byron. 226 p.",
   "department" : "Dept for Children Schools and Families"
 }

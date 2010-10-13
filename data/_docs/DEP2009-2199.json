@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2199.pdf"
-  "year" : "2009"
-  "description" : "DIUS branding guidelines, December 2007. 19 p."
+  "deposited_date" : "18/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2199.pdf",
+  "year" : "2009",
+  "description" : "DIUS branding guidelines, December 2007. 19 p.",
   "department" : "Dept for Innovation, Universities and Skills"
 }

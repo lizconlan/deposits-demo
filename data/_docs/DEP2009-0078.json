@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0078.pdf"
-  "year" : "2009"
-  "description" : "Central memorandum of agreement between the Vauation Office Agency (IT Services Division) and the Billing Authorities, 2008/09. 16 p."
+  "deposited_date" : "25/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0078.pdf",
+  "year" : "2009",
+  "description" : "Central memorandum of agreement between the Vauation Office Agency (IT Services Division) and the Billing Authorities, 2008/09. 16 p.",
   "department" : "Treasury Valuation Office"
 }

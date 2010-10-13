@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0768.xls"
-  "year" : "2010"
-  "description" : "Table showing average response times in fires and dwelling fires, broken down by location, England, for 2006 to 2008. 14 p."
+  "deposited_date" : "22/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0768.xls",
+  "year" : "2010",
+  "description" : "Table showing average response times in fires and dwelling fires, broken down by location, England, for 2006 to 2008. 14 p.",
   "department" : "Communities and Local Government"
 }

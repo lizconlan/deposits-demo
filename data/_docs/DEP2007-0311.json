@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0311.pdf"
-  "year" : "2007"
-  "description" : "The climate change film pack: guidance for teaching staff. 72 p."
+  "deposited_date" : "11/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0311.pdf",
+  "year" : "2007",
+  "description" : "The climate change film pack: guidance for teaching staff. 72 p.",
   "department" : "Dept for Children Schools and Families"
 }

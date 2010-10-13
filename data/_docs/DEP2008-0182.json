@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0182.zip"
-  "year" : "2008"
-  "description" : "I. A code of conduct for private practice: recommended standards of practice for NHS consultants, January 2004. 11 p. II. A code of conduct for private practice: guidance for NHS medical staff, April 2003. 19 p. III. Management of private practice in health service hospitals in England and Wales, 1986. 55 p."
+  "deposited_date" : "22/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0182.zip",
+  "year" : "2008",
+  "description" : "I. A code of conduct for private practice: recommended standards of practice for NHS consultants, January 2004. 11 p. II. A code of conduct for private practice: guidance for NHS medical staff, April 2003. 19 p. III. Management of private practice in health service hospitals in England and Wales, 1986. 55 p.",
   "department" : "Dept of Health"
 }

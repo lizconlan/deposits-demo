@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/07/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1499.doc"
-  "year" : "2010"
-  "description" : "Table showing how much funding the Department of Health allocated per head to acute care in each primary care trust review area from 2000/01 to 2010/11. 16 p."
+  "deposited_date" : "19/07/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1499.doc",
+  "year" : "2010",
+  "description" : "Table showing how much funding the Department of Health allocated per head to acute care in each primary care trust review area from 2000/01 to 2010/11. 16 p.",
   "department" : "Department of Health"
 }

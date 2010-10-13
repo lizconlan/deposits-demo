@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "26/11/2009"
-  "legislature" : Lords
-  "legislation" : "Personal Care at Home Bill 2009-10"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3027.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 04/12/2009 from Baroness Royall of Blaisdon to Lord Warner regarding the Personal Care at Home Bill. 1 p."
+  "deposited_date" : "26/11/2009",
+  "legislature" : ["Lords"],
+  "legislation" : "Personal Care at Home Bill 2009-10",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3027.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 04/12/2009 from Baroness Royall of Blaisdon to Lord Warner regarding the Personal Care at Home Bill. 1 p.",
   "department" : "Cabinet Office"
 }

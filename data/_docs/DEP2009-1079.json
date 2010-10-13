@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/04/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1079.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 02/04/2009 from Bridget Prentice MP to James Gray MP regarding the Coroners and Justice Bill. 2 p."
+  "deposited_date" : "03/04/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1079.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 02/04/2009 from Bridget Prentice MP to James Gray MP regarding the Coroners and Justice Bill. 2 p.",
   "department" : "Ministry of Justice"
 }

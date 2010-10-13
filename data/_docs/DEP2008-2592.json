@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2592.zip"
-  "year" : "2008"
-  "description" : "Copy of note, and accompanying e-mail dated 16/10/2008 [redacted], regarding ContactPoint. 2 p."
+  "deposited_date" : "05/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2592.zip",
+  "year" : "2008",
+  "description" : "Copy of note, and accompanying e-mail dated 16/10/2008 [redacted], regarding ContactPoint. 2 p.",
   "department" : "Dept for Children Schools and Families"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0508. pdf"
-  "year" : "2010"
-  "description" : "Minutes of the 4th joint meeting of Practitioners Forum and Business and Community Safety Forum. 13 Oct 2009. 8 p."
+  "deposited_date" : "21/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0508. pdf",
+  "year" : "2010",
+  "description" : "Minutes of the 4th joint meeting of Practitioners Forum and Business and Community Safety Forum. 13 Oct 2009. 8 p.",
   "department" : "Communities and Local Government"
 }

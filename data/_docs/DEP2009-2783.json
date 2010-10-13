@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/11/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2783.zip"
-  "year" : "2009"
-  "description" : "I. DFT consultation paper: driver testing, training, examining and licensing. 1 p. II. Driver testing, training, examining and licensing: implementing new European Union requirements (Directive 2006/126/EC). Incl. annexes. 93 p."
+  "deposited_date" : "11/11/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2783.zip",
+  "year" : "2009",
+  "description" : "I. DFT consultation paper: driver testing, training, examining and licensing. 1 p. II. Driver testing, training, examining and licensing: implementing new European Union requirements (Directive 2006/126/EC). Incl. annexes. 93 p.",
   "department" : "Dept for Transport"
 }

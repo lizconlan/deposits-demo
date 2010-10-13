@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "26/06/2008"
-  "legislature" : Lords
-  "legislation" : "Health and Social Care Bill 2007-08"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1706.pdf"
-  "year" : "2008"
-  "description" : "Letter [undated] from Baroness Thorton to Earl Howe regarding the expert panel process for the Quality and Outcomes Framework (QOF) in the context of the Health and Social Care Bill. 2 p."
+  "deposited_date" : "26/06/2008",
+  "legislature" : ["Lords"],
+  "legislation" : "Health and Social Care Bill 2007-08",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1706.pdf",
+  "year" : "2008",
+  "description" : "Letter [undated] from Baroness Thorton to Earl Howe regarding the expert panel process for the Quality and Outcomes Framework (QOF) in the context of the Health and Social Care Bill. 2 p.",
   "department" : "Dept of Health"
 }

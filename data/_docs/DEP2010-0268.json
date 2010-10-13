@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0268.doc"
-  "year" : "2010"
-  "description" : "Supplementary information on categories which fall within the programme budgeting category entitled Other' used to categorise primary care trust programme budgeting expenditure. 9 p."
+  "deposited_date" : "29/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0268.doc",
+  "year" : "2010",
+  "description" : "Supplementary information on categories which fall within the programme budgeting category entitled Other' used to categorise primary care trust programme budgeting expenditure. 9 p.",
   "department" : "Department of Health"
 }

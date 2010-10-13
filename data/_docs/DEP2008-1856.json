@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1856.xls"
-  "year" : "2008"
-  "description" : "Table showing percentage of live births to mothers aged under 20 for each year from 1997-2006, broken down by local authority. 5 p."
+  "deposited_date" : "08/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1856.xls",
+  "year" : "2008",
+  "description" : "Table showing percentage of live births to mothers aged under 20 for each year from 1997-2006, broken down by local authority. 5 p.",
   "department" : "Cabinet Office"
 }

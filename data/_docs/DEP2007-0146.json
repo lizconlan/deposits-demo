@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/11/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0146.doc"
-  "year" : "2007"
-  "description" : "Table showing breakdown of the total numbers of applications received and refused, with percentages and by category for the years 2001 to 2007. 8 p."
+  "deposited_date" : "15/11/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0146.doc",
+  "year" : "2007",
+  "description" : "Table showing breakdown of the total numbers of applications received and refused, with percentages and by category for the years 2001 to 2007. 8 p.",
   "department" : "Foreign and Commonwealth Office"
 }

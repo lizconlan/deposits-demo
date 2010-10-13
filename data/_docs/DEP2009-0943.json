@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0943.pdf"
-  "year" : "2009"
-  "description" : "Applying for NHS foundation trust status : guide for applicants. 144 p."
+  "deposited_date" : "24/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0943.pdf",
+  "year" : "2009",
+  "description" : "Applying for NHS foundation trust status : guide for applicants. 144 p.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/10/2007"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0020.xls"
-  "year" : "2007"
-  "description" : "Table showing audited figures for the NHS for the financial year 2006-07. 10 p."
+  "deposited_date" : "17/10/2007",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0020.xls",
+  "year" : "2007",
+  "description" : "Table showing audited figures for the NHS for the financial year 2006-07. 10 p.",
   "department" : "Dept of Health"
 }

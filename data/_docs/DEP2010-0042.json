@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/01/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0042.zip"
-  "year" : "2010"
-  "description" : "Letter dated 07/01/2010 from Meg Hillier MP to Lord Roper regarding animals used for scientific purposes. Inc Government response. 10 p."
+  "deposited_date" : "07/01/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0042.zip",
+  "year" : "2010",
+  "description" : "Letter dated 07/01/2010 from Meg Hillier MP to Lord Roper regarding animals used for scientific purposes. Inc Government response. 10 p.",
   "department" : "Home Office"
 }

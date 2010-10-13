@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/07/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1891.zip"
-  "year" : "2009"
-  "description" : "I. Payment by results guidance for 2009-10. 5 Feb 2009. Incl. annexes. 69 p. II. Payment by results: implementation support guide 2006/07 (technical guidance). 16 Aug 2006. 31 p. III. Payment by results guidance 2007/08. 19 Dec 2006. Incl. appendix. 40 p. IV. Payment by results guidance 2008/09. 14 Dec 2007. 37 p. V. Implementing payment by results: technical guidance 2005/06. July 2005. Incl. annexes. 45 p."
+  "deposited_date" : "02/07/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1891.zip",
+  "year" : "2009",
+  "description" : "I. Payment by results guidance for 2009-10. 5 Feb 2009. Incl. annexes. 69 p. II. Payment by results: implementation support guide 2006/07 (technical guidance). 16 Aug 2006. 31 p. III. Payment by results guidance 2007/08. 19 Dec 2006. Incl. appendix. 40 p. IV. Payment by results guidance 2008/09. 14 Dec 2007. 37 p. V. Implementing payment by results: technical guidance 2005/06. July 2005. Incl. annexes. 45 p.",
   "department" : "Dept of Health"
 }

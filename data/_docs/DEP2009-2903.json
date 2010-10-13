@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/10/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2903.xls"
-  "year" : "2009"
-  "description" : "Table showing migrants and their dependents who have been given leave to enter, broken down by quarter since January 2007 under (1) Tiers 1 and 2 of the Points Based System and (2) the entry routes which Tiers 1 and 2 replaced. 37 p."
+  "deposited_date" : "12/10/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2903.xls",
+  "year" : "2009",
+  "description" : "Table showing migrants and their dependents who have been given leave to enter, broken down by quarter since January 2007 under (1) Tiers 1 and 2 of the Points Based System and (2) the entry routes which Tiers 1 and 2 replaced. 37 p.",
   "department" : "Home Office"
 }

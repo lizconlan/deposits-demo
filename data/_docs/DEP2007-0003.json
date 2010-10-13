@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/10/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0003.tif"
-  "year" : "2007"
-  "description" : "Letter dated 14/09/2007 from Nick Scholte, Chief Executive, to Stephen O'Brien MP regarding the performance of NHS Business Services."
+  "deposited_date" : "08/10/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0003.tif",
+  "year" : "2007",
+  "description" : "Letter dated 14/09/2007 from Nick Scholte, Chief Executive, to Stephen O'Brien MP regarding the performance of NHS Business Services.",
   "department" : "NHS Business Services Authority"
 }

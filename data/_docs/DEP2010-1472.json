@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "13/04/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1472.xls"
-  "year" : "2010"
-  "description" : "Table showing companies struck off the Register of Companies. 134 p."
+  "deposited_date" : "13/04/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1472.xls",
+  "year" : "2010",
+  "description" : "Table showing companies struck off the Register of Companies. 134 p.",
   "department" : "Department for Business, Innovation and Skills"
 }

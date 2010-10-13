@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "05/11/2009"
-  "legislature" : CommonsLords
-  "legislation" : "Proceeds of Crime Act 2002"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2732.zip"
-  "year" : "2009"
-  "description" : "I. Proceeds of Crime Act 2002 section 2A (Contribution to the reduction of crime): joint guidance given by the Secretary of State and Her Majestys Attorney General. 3 p. II. Background note: guidance given by the Secretary of State and Her Majestys Attorney General under section 2A of the Proceeds of Crime Act 2002. 4 p."
+  "deposited_date" : "05/11/2009",
+  "legislature" : ["Commons","Lords"],
+  "legislation" : "Proceeds of Crime Act 2002",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2732.zip",
+  "year" : "2009",
+  "description" : "I. Proceeds of Crime Act 2002 section 2A (Contribution to the reduction of crime): joint guidance given by the Secretary of State and Her Majestys Attorney General. 3 p. II. Background note: guidance given by the Secretary of State and Her Majestys Attorney General under section 2A of the Proceeds of Crime Act 2002. 4 p.",
   "department" : "Home Office"
 }

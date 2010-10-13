@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/11/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0090.pdf"
-  "year" : "2007"
-  "description" : "Trade union recognition agreement between the Electoral Commission and the Public and Commercial Services Union (PCSU). 13 p."
+  "deposited_date" : "14/11/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0090.pdf",
+  "year" : "2007",
+  "description" : "Trade union recognition agreement between the Electoral Commission and the Public and Commercial Services Union (PCSU). 13 p.",
   "department" : "Electoral Commission Dept for Communities and Local Government"
 }

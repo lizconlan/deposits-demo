@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/06/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1839.pdf"
-  "year" : "2009"
-  "description" : "Health technical memorandum 07-03: transport management and carparking-environment and sustainability. Incl. appendices. 47 p."
+  "deposited_date" : "29/06/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1839.pdf",
+  "year" : "2009",
+  "description" : "Health technical memorandum 07-03: transport management and carparking-environment and sustainability. Incl. appendices. 47 p.",
   "department" : "Dept of Health"
 }

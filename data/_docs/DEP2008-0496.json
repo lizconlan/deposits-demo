@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0496.doc"
-  "year" : "2008"
-  "description" : "HM Prison Service Race Equality Action Group. Community engagement implementation guide and toolkit: phase 1. 19 p."
+  "deposited_date" : "20/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0496.doc",
+  "year" : "2008",
+  "description" : "HM Prison Service Race Equality Action Group. Community engagement implementation guide and toolkit: phase 1. 19 p.",
   "department" : "Ministry of Justice"
 }

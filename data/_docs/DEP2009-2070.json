@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/07/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2070.doc"
-  "year" : "2009"
-  "description" : "Table showing the official engagements of Department for Work and Pensions' Ministers from March to May 2009. 12 p."
+  "deposited_date" : "17/07/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2070.doc",
+  "year" : "2009",
+  "description" : "Table showing the official engagements of Department for Work and Pensions' Ministers from March to May 2009. 12 p.",
   "department" : "Dept for Work and Pensions"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0310.xls"
-  "year" : "2007"
-  "description" : "Table showing housing revenue account (HRA) debt for each year from 1997/8 to 2005/06, broken down by local authority."
+  "deposited_date" : "11/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0310.xls",
+  "year" : "2007",
+  "description" : "Table showing housing revenue account (HRA) debt for each year from 1997/8 to 2005/06, broken down by local authority.",
   "department" : "Dept for Communities and Local Government"
 }

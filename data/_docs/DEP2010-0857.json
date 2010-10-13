@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0857.xls"
-  "year" : "2010"
-  "description" : "Table showing median inpatient and outpatient waiting times for Sheffield hospitals, for the years 1998 to 2010. 2 p."
+  "deposited_date" : "25/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0857.xls",
+  "year" : "2010",
+  "description" : "Table showing median inpatient and outpatient waiting times for Sheffield hospitals, for the years 1998 to 2010. 2 p.",
   "department" : "Department of Health"
 }

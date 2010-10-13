@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/06/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1330.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 21/06/2010 from Lord McNally to Baroness Meacher regarding the short debate responding to the United Nations Office on Drugs and Crime discussion paper 'Treating drug dependence through healthcare, not punishment'. 5 p."
+  "deposited_date" : "15/06/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1330.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 21/06/2010 from Lord McNally to Baroness Meacher regarding the short debate responding to the United Nations Office on Drugs and Crime discussion paper 'Treating drug dependence through healthcare, not punishment'. 5 p.",
   "department" : "Ministry of Justice"
 }

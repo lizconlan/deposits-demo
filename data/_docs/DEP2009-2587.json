@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "21/10/2009"
-  "legislature" : Lords
-  "legislation" : "Coroners and Justice Bill 2008-09"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2587.zip"
-  "year" : "2009"
-  "description" : "I. Letter dated 21/10/2009 from Lord Bach to Lord Henley regarding the Coroners and Justice Bill and driving disqualification. 2 p. II. Coroners and Justice Bill amendments: schedules 15, 20 and 21. 21 Oct 2009. 10 p."
+  "deposited_date" : "21/10/2009",
+  "legislature" : ["Lords"],
+  "legislation" : "Coroners and Justice Bill 2008-09",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2587.zip",
+  "year" : "2009",
+  "description" : "I. Letter dated 21/10/2009 from Lord Bach to Lord Henley regarding the Coroners and Justice Bill and driving disqualification. 2 p. II. Coroners and Justice Bill amendments: schedules 15, 20 and 21. 21 Oct 2009. 10 p.",
   "department" : "Ministry of Justice"
 }

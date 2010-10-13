@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0213.doc"
-  "year" : "2008"
-  "description" : "Ministerial Committees of the Cabinet: Composition and Terms of Reference. 34 p."
+  "deposited_date" : "17/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0213.doc",
+  "year" : "2008",
+  "description" : "Ministerial Committees of the Cabinet: Composition and Terms of Reference. 34 p.",
   "department" : "Prime Minister"
 }

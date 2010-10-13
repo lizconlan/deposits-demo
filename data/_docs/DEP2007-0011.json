@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/10/2007"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0011.pdf"
-  "year" : "2007"
-  "description" : "Investigation into outbreaks of Clostridium difficile at Maidstone and Tunbridge Wells NHS Trust. 128 p."
+  "deposited_date" : "15/10/2007",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0011.pdf",
+  "year" : "2007",
+  "description" : "Investigation into outbreaks of Clostridium difficile at Maidstone and Tunbridge Wells NHS Trust. 128 p.",
   "department" : "Healthcare Commission Dept of Health"
 }

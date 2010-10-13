@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/06/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1688.pdf"
-  "year" : "2008"
-  "description" : "Chief Constable's annual report 2007/08. 7 p."
+  "deposited_date" : "26/06/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1688.pdf",
+  "year" : "2008",
+  "description" : "Chief Constable's annual report 2007/08. 7 p.",
   "department" : "Northern Ireland Office Police Service of Northern Ireland"
 }

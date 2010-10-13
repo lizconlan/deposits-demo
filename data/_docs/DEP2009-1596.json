@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/06/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1596.xls"
-  "year" : "2009"
-  "description" : "Table showing the number of registered social landlord right to buy and right to acquire sales by registered social landlord, 2003/04 to 2007/08. 1 p."
+  "deposited_date" : "02/06/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1596.xls",
+  "year" : "2009",
+  "description" : "Table showing the number of registered social landlord right to buy and right to acquire sales by registered social landlord, 2003/04 to 2007/08. 1 p.",
   "department" : "Dept for Communities and Local Government"
 }

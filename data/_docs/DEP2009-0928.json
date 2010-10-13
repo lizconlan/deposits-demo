@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0928.doc"
-  "year" : "2009"
-  "description" : "Table showing the number of cases of diphtheria, listeria, tuberculosis, polio, mumps, rickets, whooping cough, scarlet fever, botulism, gout, scurvy, typhus, and typhoid in the English regions and in Wales for each year from 2003 to 2008, broken down by disease. 8 p."
+  "deposited_date" : "23/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0928.doc",
+  "year" : "2009",
+  "description" : "Table showing the number of cases of diphtheria, listeria, tuberculosis, polio, mumps, rickets, whooping cough, scarlet fever, botulism, gout, scurvy, typhus, and typhoid in the English regions and in Wales for each year from 2003 to 2008, broken down by disease. 8 p.",
   "department" : "Dept of Health"
 }

@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "09/12/2009"
-  "legislature" : Commons
-  "legislation" : "Personal Care at Home Bill 2009-10"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3069.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 27/11/2009 from Phil Hope MP to Andrew Dismore MP regarding the Personal Care at Home Bill and media coverage. 10 p."
+  "deposited_date" : "09/12/2009",
+  "legislature" : ["Commons"],
+  "legislation" : "Personal Care at Home Bill 2009-10",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3069.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 27/11/2009 from Phil Hope MP to Andrew Dismore MP regarding the Personal Care at Home Bill and media coverage. 10 p.",
   "department" : "Home Office"
 }

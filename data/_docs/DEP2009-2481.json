@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/10/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2481.zip"
-  "year" : "2009"
-  "description" : "I. Fairer contributions guidance: calculating an individual's contribution to their personal budget. July 2009. Incl appendices. 20 p. II. Fairer charging policies for home care and other non residential social services: guidance for councils with social services responsibilities. Sept 2003. Incl. annexes. 42 p."
+  "deposited_date" : "12/10/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2481.zip",
+  "year" : "2009",
+  "description" : "I. Fairer contributions guidance: calculating an individual's contribution to their personal budget. July 2009. Incl appendices. 20 p. II. Fairer charging policies for home care and other non residential social services: guidance for councils with social services responsibilities. Sept 2003. Incl. annexes. 42 p.",
   "department" : "Dept of Health"
 }

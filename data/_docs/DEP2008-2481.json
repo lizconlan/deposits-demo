@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2481.pdf"
-  "year" : "2008"
-  "description" : "Guidance on Joint Strategic Needs Assessment. 40 p."
+  "deposited_date" : "27/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2481.pdf",
+  "year" : "2008",
+  "description" : "Guidance on Joint Strategic Needs Assessment. 40 p.",
   "department" : "Dept of Health"
 }

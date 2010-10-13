@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/06/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1570.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 03/06/2009 from Jim Knight MP to Nick Gibb MP regarding meetings which took place between the Minister for Schools and officials at the National Assessment Agency during 2008. 1 p."
+  "deposited_date" : "03/06/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1570.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 03/06/2009 from Jim Knight MP to Nick Gibb MP regarding meetings which took place between the Minister for Schools and officials at the National Assessment Agency during 2008. 1 p.",
   "department" : "Dept for Children, Schools and Families"
 }

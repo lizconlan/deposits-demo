@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "27/11/2008"
-  "legislature" : Lords
-  "legislation" : "Armed Forces (Alignment of Service Discipline Acts) (No. 2) Order 2008"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2920.tif"
-  "year" : "2008"
-  "description" : "Letter dated 24/11/2008 from Baroness Taylor to Lord Astor of Hever regarding the Armed Forces (Alignment of Service Discipline Acts) (No. 2) Order 2008. 2 p."
+  "deposited_date" : "27/11/2008",
+  "legislature" : ["Lords"],
+  "legislation" : "Armed Forces (Alignment of Service Discipline Acts) (No. 2) Order 2008",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2920.tif",
+  "year" : "2008",
+  "description" : "Letter dated 24/11/2008 from Baroness Taylor to Lord Astor of Hever regarding the Armed Forces (Alignment of Service Discipline Acts) (No. 2) Order 2008. 2 p.",
   "department" : "Ministry of Defence"
 }

@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "17/03/2010"
-  "legislature" : Lords
-  "legislation" : "Personal Care at Home Bill 2009-10"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0776.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 22/03/2010 from Baroness Thornton to Baroness Barker regarding whether under the provisions of the Personal Care at Home Bill and the regulations it will be possible for people to move and for it to be accepted that their needs remain the same. 2 p."
+  "deposited_date" : "17/03/2010",
+  "legislature" : ["Lords"],
+  "legislation" : "Personal Care at Home Bill 2009-10",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0776.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 22/03/2010 from Baroness Thornton to Baroness Barker regarding whether under the provisions of the Personal Care at Home Bill and the regulations it will be possible for people to move and for it to be accepted that their needs remain the same. 2 p.",
   "department" : "Department of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/06/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1388.xls"
-  "year" : "2008"
-  "description" : "Payments by Results (PbR) arrangements for 2008-09: admitted patient care mandatory tarriff. 10 p."
+  "deposited_date" : "02/06/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1388.xls",
+  "year" : "2008",
+  "description" : "Payments by Results (PbR) arrangements for 2008-09: admitted patient care mandatory tarriff. 10 p.",
   "department" : "Dept of Health"
 }

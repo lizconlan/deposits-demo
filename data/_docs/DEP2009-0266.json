@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/01/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0266.zip"
-  "year" : "2009"
-  "description" : "Kickstart Bus Funding Competition 2009: Guidance on the application process. Inc an application form. 32 p."
+  "deposited_date" : "29/01/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0266.zip",
+  "year" : "2009",
+  "description" : "Kickstart Bus Funding Competition 2009: Guidance on the application process. Inc an application form. 32 p.",
   "department" : "Dept for Transport"
 }

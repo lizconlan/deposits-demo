@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "13/07/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1451.zip"
-  "year" : "2010"
-  "description" : "I. Annual Report of the Certification Officer 2009-2010. 45 p. II. Letter dated 12/07/2010 from Edward Davey MP to Adrian Bailey MP regarding the annual report of the Central Arbitration Committee. 1 p."
+  "deposited_date" : "13/07/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1451.zip",
+  "year" : "2010",
+  "description" : "I. Annual Report of the Certification Officer 2009-2010. 45 p. II. Letter dated 12/07/2010 from Edward Davey MP to Adrian Bailey MP regarding the annual report of the Central Arbitration Committee. 1 p.",
   "department" : "Department for Business, Innovation and Skills"
 }

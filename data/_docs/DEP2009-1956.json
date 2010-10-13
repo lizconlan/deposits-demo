@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/07/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1956.xls"
-  "year" : "2009"
-  "description" : "Table showing ratio of Jobseeker's Allowance claimants to Jobcentre Plus staff in Great Britain, Government Office Region, and Jobcentre Plus District - as at February 2009. 2 p."
+  "deposited_date" : "10/07/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1956.xls",
+  "year" : "2009",
+  "description" : "Table showing ratio of Jobseeker's Allowance claimants to Jobcentre Plus staff in Great Britain, Government Office Region, and Jobcentre Plus District - as at February 2009. 2 p.",
   "department" : "Dept for Work and Pensions"
 }

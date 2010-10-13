@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/07/2009"
-  "legislature" : Commons
-  "notes" : "Hard-copy only available, in the Lords and Commons Libraries."
-  "year" : "2009"
-  "description" : "I. Leaflet: Have you been in the Armed forces? If you have been in HM Armed Forces there is free support and advice to help you while you are in prison, and as you prepare for release. 1 p. II. Poster: Have you been in the Armed forces? 1 p."
+  "deposited_date" : "15/07/2009",
+  "legislature" : ["Commons"],
+  "notes" : "Hard-copy only available, in the Lords and Commons Libraries.",
+  "year" : "2009",
+  "description" : "I. Leaflet: Have you been in the Armed forces? If you have been in HM Armed Forces there is free support and advice to help you while you are in prison, and as you prepare for release. 1 p. II. Poster: Have you been in the Armed forces? 1 p.",
   "department" : "Ministry of Defence"
 }

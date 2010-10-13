@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1699.xls"
-  "year" : "2008"
-  "description" : "Table showing the expenditure incurred a) by the Ministry of Justice in refurbishing the Supreme Court Building, b) new capital investment and refurbishment of property for the years 2005/06/ to 2007/08, c) by Her Majesty's Prison Service on new capital investment/refurbishment of property for the years 1998/99 to 2007/08 broken down by the project. 10 p."
+  "deposited_date" : "26/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1699.xls",
+  "year" : "2008",
+  "description" : "Table showing the expenditure incurred a) by the Ministry of Justice in refurbishing the Supreme Court Building, b) new capital investment and refurbishment of property for the years 2005/06/ to 2007/08, c) by Her Majesty's Prison Service on new capital investment/refurbishment of property for the years 1998/99 to 2007/08 broken down by the project. 10 p.",
   "department" : "Ministry of Justice"
 }

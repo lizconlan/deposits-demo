@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0811.xls"
-  "year" : "2010"
-  "description" : "Table showing all national health service trusts and primary care trusts with a private finance initiative contract with the name and location of the scheme; the capital value; the length of the contract and the annual unitary charge (which are uprated annually for inflation). 4 p."
+  "deposited_date" : "23/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0811.xls",
+  "year" : "2010",
+  "description" : "Table showing all national health service trusts and primary care trusts with a private finance initiative contract with the name and location of the scheme; the capital value; the length of the contract and the annual unitary charge (which are uprated annually for inflation). 4 p.",
   "department" : "Department of Health"
 }

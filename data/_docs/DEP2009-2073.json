@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/07/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2073.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 06/07/2009 from Christine Gilbert (HMCI, OFSTED) to Annette Brooke MP regarding the changes in the methods of recording the number of places provided by childminders since Sept 2008. 1 p."
+  "deposited_date" : "15/07/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2073.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 06/07/2009 from Christine Gilbert (HMCI, OFSTED) to Annette Brooke MP regarding the changes in the methods of recording the number of places provided by childminders since Sept 2008. 1 p.",
   "department" : "Dept for Children, Schools and Families Office for Standards in Education, Children's Services and Skills"
 }

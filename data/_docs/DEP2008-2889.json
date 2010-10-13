@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2889.doc"
-  "year" : "2008"
-  "description" : "Table showing total debt owed by non-resident parents held on the CS2 system as at June 2007 and June 2008, broken down by parliamentary constituency. 26 p."
+  "deposited_date" : "24/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2889.doc",
+  "year" : "2008",
+  "description" : "Table showing total debt owed by non-resident parents held on the CS2 system as at June 2007 and June 2008, broken down by parliamentary constituency. 26 p.",
   "department" : "Child Support Agency Dept for Work and Pensions"
 }

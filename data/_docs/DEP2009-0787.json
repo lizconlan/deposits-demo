@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0787.tif"
-  "year" : "2009"
-  "description" : "Letter dated 05/03/2009 from Roy Toner, Assistant Chief Constable, to William McCrea MP regarding the property crime rate in Northern Ireland. 2 p."
+  "deposited_date" : "05/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0787.tif",
+  "year" : "2009",
+  "description" : "Letter dated 05/03/2009 from Roy Toner, Assistant Chief Constable, to William McCrea MP regarding the property crime rate in Northern Ireland. 2 p.",
   "department" : "Police Service of Northern Ireland Northern Ireland Office"
 }

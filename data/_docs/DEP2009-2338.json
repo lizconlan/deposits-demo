@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/08/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2338.pdf"
-  "year" : "2009"
-  "description" : "Northern Ireland Human Rights Commission draft strategic plan 2009-2011 and accompanying equality impact assessment. Consultation paper. 45 p."
+  "deposited_date" : "25/08/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2338.pdf",
+  "year" : "2009",
+  "description" : "Northern Ireland Human Rights Commission draft strategic plan 2009-2011 and accompanying equality impact assessment. Consultation paper. 45 p.",
   "department" : "Northern Ireland Office"
 }

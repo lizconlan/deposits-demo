@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/04/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1203.pdf"
-  "year" : "2009"
-  "description" : "The Freedom of Information Act 2000Statistics on implementation in Central Government: Q4October-December 2008. 40 p."
+  "deposited_date" : "23/04/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1203.pdf",
+  "year" : "2009",
+  "description" : "The Freedom of Information Act 2000Statistics on implementation in Central Government: Q4October-December 2008. 40 p.",
   "department" : "Ministry of Justice"
 }

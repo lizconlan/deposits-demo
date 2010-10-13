@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/01/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0301.pdf"
-  "year" : "2009"
-  "description" : "Review of the 30 year rule [the Dacre Report]. 51 p."
+  "deposited_date" : "29/01/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0301.pdf",
+  "year" : "2009",
+  "description" : "Review of the 30 year rule [the Dacre Report]. 51 p.",
   "department" : "30 Year Rule Review Ministry of Justice"
 }

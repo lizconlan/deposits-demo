@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0666.xls"
-  "year" : "2010"
-  "description" : "Table showing school based expenditure in primary and secondary schools from 1997/98 to 2008/09. 3 p."
+  "deposited_date" : "12/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0666.xls",
+  "year" : "2010",
+  "description" : "Table showing school based expenditure in primary and secondary schools from 1997/98 to 2008/09. 3 p.",
   "department" : "Department for Children, Schools and Families"
 }

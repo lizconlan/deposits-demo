@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/08/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2145.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 01/08/2008 from Lord Adonis to Baroness Perry of Southwark regarding making it an offence to wilfully obstruct a person carrying out an inspection of support services provided by local authorities or internet and telephone support services. 2 p."
+  "deposited_date" : "01/08/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2145.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 01/08/2008 from Lord Adonis to Baroness Perry of Southwark regarding making it an offence to wilfully obstruct a person carrying out an inspection of support services provided by local authorities or internet and telephone support services. 2 p.",
   "department" : "Dept for Children Schools and Families"
 }

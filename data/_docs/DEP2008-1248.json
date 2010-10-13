@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "13/05/2008"
-  "legislature" : Commons
-  "legislation" : "Finance Bill 2007-08"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1248.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 13/05/2008 from Kitty Ussher MP to Nicholas Winterton MP, Fran Cook MP and Jim Hood MP regarding draft regulations to the Finance Bill 2007-08. 3 p."
+  "deposited_date" : "13/05/2008",
+  "legislature" : ["Commons"],
+  "legislation" : "Finance Bill 2007-08",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1248.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 13/05/2008 from Kitty Ussher MP to Nicholas Winterton MP, Fran Cook MP and Jim Hood MP regarding draft regulations to the Finance Bill 2007-08. 3 p.",
   "department" : "Treasury"
 }

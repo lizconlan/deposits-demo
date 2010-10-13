@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/04/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1053.ppt"
-  "year" : "2009"
-  "description" : "CLG Tracker Survey 2008 : overall results for CLG [Department for Communities and Local Government staff survey, October 2008]."
+  "deposited_date" : "01/04/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1053.ppt",
+  "year" : "2009",
+  "description" : "CLG Tracker Survey 2008 : overall results for CLG [Department for Communities and Local Government staff survey, October 2008].",
   "department" : "Ipsos MORI Dept for Communities and Local Government"
 }

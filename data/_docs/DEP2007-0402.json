@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0402.xls"
-  "year" : "2007"
-  "description" : "Table showing the number of people receiving continuing care in England for the years 2002/03 to 2006/07. 16 p."
+  "deposited_date" : "18/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0402.xls",
+  "year" : "2007",
+  "description" : "Table showing the number of people receiving continuing care in England for the years 2002/03 to 2006/07. 16 p.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/12/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0017.zip"
-  "year" : "2010"
-  "description" : "I. Letter dated 07/12/2009 from Peter white (Chief Executive, Switchover Help Scheme) to Nibk Hurd MP regarding payments to public relations company Fishburn Hedges. 1 p. II. Specification of requirements for the digital switchover help scheme by the BBC. 4 p."
+  "deposited_date" : "09/12/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0017.zip",
+  "year" : "2010",
+  "description" : "I. Letter dated 07/12/2009 from Peter white (Chief Executive, Switchover Help Scheme) to Nibk Hurd MP regarding payments to public relations company Fishburn Hedges. 1 p. II. Specification of requirements for the digital switchover help scheme by the BBC. 4 p.",
   "department" : "Department for Culture, Media and Sport"
 }

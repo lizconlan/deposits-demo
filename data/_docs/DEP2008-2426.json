@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2426.pdf"
-  "year" : "2008"
-  "description" : "Environment and sustainability. Health technical memorandum. 07-01: safe management of healthcare waste. 120 p."
+  "deposited_date" : "21/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2426.pdf",
+  "year" : "2008",
+  "description" : "Environment and sustainability. Health technical memorandum. 07-01: safe management of healthcare waste. 120 p.",
   "department" : "Dept of Health"
 }

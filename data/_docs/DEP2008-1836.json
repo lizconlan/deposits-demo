@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/06/2008"
-  "legislature" : Commons
-  "notes" : "Available in hard copy only in the Commons and Lords libraries"
-  "year" : "2008"
-  "description" : "Responses received (as letters/e-mails) from organisations consulted regarding the implementation of the European directive on the activities and supervision of institutions for occupational retirement provision. Incl. copy of consultation document and government response."
+  "deposited_date" : "30/06/2008",
+  "legislature" : ["Commons"],
+  "notes" : "Available in hard copy only in the Commons and Lords libraries",
+  "year" : "2008",
+  "description" : "Responses received (as letters/e-mails) from organisations consulted regarding the implementation of the European directive on the activities and supervision of institutions for occupational retirement provision. Incl. copy of consultation document and government response.",
   "department" : "Dept for Work and Pensions"
 }

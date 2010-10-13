@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0250.doc"
-  "year" : "2007"
-  "description" : "Explanation of Vote (EoV) on the resolution on "Nuclear De-Alerting" at the United Nations First Committee on Disarmament on 17 October 2007 on Nuclear De-Alerting. 1 p."
+  "deposited_date" : "04/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0250.doc",
+  "year" : "2007",
+  "description" : "Explanation of Vote (EoV) on the resolution on \"Nuclear De-Alerting\" at the United Nations First Committee on Disarmament on 17 October 2007 on Nuclear De-Alerting. 1 p.",
   "department" : "Foreign and Commonwealth Office"
 }

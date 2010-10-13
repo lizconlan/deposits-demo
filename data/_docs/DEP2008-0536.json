@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0536.zip"
-  "year" : "2008"
-  "description" : "Table showing authorised and unauthorised pupil absence in primary and secondary schools in 1996/97, 2006 and 2007, broken down by local authority."
+  "deposited_date" : "25/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0536.zip",
+  "year" : "2008",
+  "description" : "Table showing authorised and unauthorised pupil absence in primary and secondary schools in 1996/97, 2006 and 2007, broken down by local authority.",
   "department" : "Dept for Children Schools and Families"
 }

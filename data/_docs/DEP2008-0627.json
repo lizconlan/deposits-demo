@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "04/03/2008"
-  "legislature" : CommonsLords
-  "legislation" : "Licensing Act 2003"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0627.zip"
-  "year" : "2008"
-  "description" : "I. Evaluation of the impact of the Licensing Act 2003. 60 p. II. The impact of the Licensing Act 2003 on levels of crime and disorder: an evaluation. 28 p."
+  "deposited_date" : "04/03/2008",
+  "legislature" : ["Commons","Lords"],
+  "legislation" : "Licensing Act 2003",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0627.zip",
+  "year" : "2008",
+  "description" : "I. Evaluation of the impact of the Licensing Act 2003. 60 p. II. The impact of the Licensing Act 2003 on levels of crime and disorder: an evaluation. 28 p.",
   "department" : "Dept for Culture Media and Sport"
 }

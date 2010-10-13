@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0113.pdf"
-  "year" : "2010"
-  "description" : "Analysing the costs and benefits of social care funding arrangements in England: technical report. 55 p."
+  "deposited_date" : "14/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0113.pdf",
+  "year" : "2010",
+  "description" : "Analysing the costs and benefits of social care funding arrangements in England: technical report. 55 p.",
   "department" : "Department for Work and Pensions"
 }

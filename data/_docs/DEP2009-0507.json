@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/02/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0507.xls"
-  "year" : "2009"
-  "description" : "Table showing score breakdown by region (selected standards) - national minimum standards for care homes for older people, as at 31 March for the years 2003 to 2008. 6 p."
+  "deposited_date" : "24/02/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0507.xls",
+  "year" : "2009",
+  "description" : "Table showing score breakdown by region (selected standards) - national minimum standards for care homes for older people, as at 31 March for the years 2003 to 2008. 6 p.",
   "department" : "Dept of Health"
 }

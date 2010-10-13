@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0438.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 04/02/2010 from Ed Richards, Chief Executive, to Jeremy Hunt MP regarding video on demand advertising. 1 p."
+  "deposited_date" : "25/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0438.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 04/02/2010 from Ed Richards, Chief Executive, to Jeremy Hunt MP regarding video on demand advertising. 1 p.",
   "department" : "Department for Culture, Media and Sport"
 }

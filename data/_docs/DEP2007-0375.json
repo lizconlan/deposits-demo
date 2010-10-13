@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/12/2007"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0375.zip"
-  "year" : "2007"
-  "description" : "I. Data handling procedures in government: interim progress report. 14 p. II. Capability review of HM Revenue and Customs. 35 p."
+  "deposited_date" : "17/12/2007",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0375.zip",
+  "year" : "2007",
+  "description" : "I. Data handling procedures in government: interim progress report. 14 p. II. Capability review of HM Revenue and Customs. 35 p.",
   "department" : "Cabinet Office"
 }

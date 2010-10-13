@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2944.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 20/11/2008 from Mark Haysom, Chief Executive, to John Hayes MP regarding the education maintenance allowance (EMA) expenditure. 1 p."
+  "deposited_date" : "12/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2944.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 20/11/2008 from Mark Haysom, Chief Executive, to John Hayes MP regarding the education maintenance allowance (EMA) expenditure. 1 p.",
   "department" : "Dept for Children Schools and Families"
 }

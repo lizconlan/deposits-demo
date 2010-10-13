@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2335.pdf"
-  "year" : "2008"
-  "description" : "Body piercing in England: a survey of piercing at sites other than earlobe. By A. Bone et al. [Journal article] British Medical Journal 2008; 336: p. 1426-1428."
+  "deposited_date" : "09/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2335.pdf",
+  "year" : "2008",
+  "description" : "Body piercing in England: a survey of piercing at sites other than earlobe. By A. Bone et al. [Journal article] British Medical Journal 2008; 336: p. 1426-1428.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2855.xls"
-  "year" : "2008"
-  "description" : "Table showing Annual reports and rates of MRSA bacteraemia for the period April 2001 to March 2008. 3 p."
+  "deposited_date" : "25/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2855.xls",
+  "year" : "2008",
+  "description" : "Table showing Annual reports and rates of MRSA bacteraemia for the period April 2001 to March 2008. 3 p.",
   "department" : "Dept of Health"
 }

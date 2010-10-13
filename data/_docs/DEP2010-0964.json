@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0964.doc"
-  "year" : "2010"
-  "description" : "Letter dated 29/03/2010 from Mark Lund, Chief Executive, to Stewart Jackson MP regarding videos produced. 1 p."
+  "deposited_date" : "29/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0964.doc",
+  "year" : "2010",
+  "description" : "Letter dated 29/03/2010 from Mark Lund, Chief Executive, to Stewart Jackson MP regarding videos produced. 1 p.",
   "department" : "Cabinet Office Central Office of Information"
 }

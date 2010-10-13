@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/08/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2286.jpg"
-  "year" : "2009"
-  "description" : "Letter dated 03/08/2009 from Raymond Kitson, Senior Assistant Director, to Gregory Campbell MP regarding workshops on equality. 1 p."
+  "deposited_date" : "06/08/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2286.jpg",
+  "year" : "2009",
+  "description" : "Letter dated 03/08/2009 from Raymond Kitson, Senior Assistant Director, to Gregory Campbell MP regarding workshops on equality. 1 p.",
   "department" : "Northern Ireland Office Public Prosecution Service for Northern Ireland"
 }

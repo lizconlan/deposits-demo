@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/11/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0013.doc"
-  "year" : "2008"
-  "description" : "Letter dated November 2007 from David Milliband MP to Phyllis Starkey MP regarding funding for fuel supplies to the Gaza power station. 2 p."
+  "deposited_date" : "30/11/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0013.doc",
+  "year" : "2008",
+  "description" : "Letter dated November 2007 from David Milliband MP to Phyllis Starkey MP regarding funding for fuel supplies to the Gaza power station. 2 p.",
   "department" : "Foreign and Commonwealth Office"
 }

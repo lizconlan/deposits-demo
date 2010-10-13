@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/10/2006"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0421.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 20/10/2006 from Pipa Doubtfire, Head of Revenue Management, to Michael Moore MP regarding the television licence enforcement letters. 2 p."
+  "deposited_date" : "16/10/2006",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0421.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 20/10/2006 from Pipa Doubtfire, Head of Revenue Management, to Michael Moore MP regarding the television licence enforcement letters. 2 p.",
   "department" : "Dept for Culture Media and Sport BBC"
 }

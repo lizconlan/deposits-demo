@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/12/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3083.xls"
-  "year" : "2008"
-  "description" : "Tables showing expenditure on salaries and wages of non-NHS staff for each year from 2001/02 to 2006/07, broken down by PCT. 75 p."
+  "deposited_date" : "15/12/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3083.xls",
+  "year" : "2008",
+  "description" : "Tables showing expenditure on salaries and wages of non-NHS staff for each year from 2001/02 to 2006/07, broken down by PCT. 75 p.",
   "department" : "Dept of Health"
 }

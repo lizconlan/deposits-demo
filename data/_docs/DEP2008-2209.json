@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/09/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2209.xls"
-  "year" : "2008"
-  "description" : "Table showing the number of general practitioners, and the number per 100,000 population for each year from 2003 to 2007, broken down by SHA and PCT. 4 p."
+  "deposited_date" : "10/09/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2209.xls",
+  "year" : "2008",
+  "description" : "Table showing the number of general practitioners, and the number per 100,000 population for each year from 2003 to 2007, broken down by SHA and PCT. 4 p.",
   "department" : "Dept of Health"
 }

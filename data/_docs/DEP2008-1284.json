@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/05/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1284.tif"
-  "year" : "2008"
-  "description" : "Joint Service Review of Honours and Awards (JSRHA): final report. 6 p."
+  "deposited_date" : "16/05/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1284.tif",
+  "year" : "2008",
+  "description" : "Joint Service Review of Honours and Awards (JSRHA): final report. 6 p.",
   "department" : "Ministry of Defence"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/11/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2868.zip"
-  "year" : "2009"
-  "description" : "Better rail stations. Consultation paper. Inc Government response. 131 p."
+  "deposited_date" : "19/11/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2868.zip",
+  "year" : "2009",
+  "description" : "Better rail stations. Consultation paper. Inc Government response. 131 p.",
   "department" : "Dept for Transport"
 }

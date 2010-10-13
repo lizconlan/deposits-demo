@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1446.xls"
-  "year" : "2008"
-  "description" : "Table showing local authorities with ALMOs: inspection ratings and ALMO capital funding allocations. 1 p."
+  "deposited_date" : "05/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1446.xls",
+  "year" : "2008",
+  "description" : "Table showing local authorities with ALMOs: inspection ratings and ALMO capital funding allocations. 1 p.",
   "department" : "Dept for Communities and Local Government"
 }

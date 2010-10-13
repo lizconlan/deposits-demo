@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/06/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1751.xls"
-  "year" : "2008"
-  "description" : "Table showing the number of children looked after during the years ending 31 March 2002 to 2007 by number of placement moves by local authority during the years ending 31 March 2002 to 2007. 4 p."
+  "deposited_date" : "26/06/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1751.xls",
+  "year" : "2008",
+  "description" : "Table showing the number of children looked after during the years ending 31 March 2002 to 2007 by number of placement moves by local authority during the years ending 31 March 2002 to 2007. 4 p.",
   "department" : "Dept for Children Schools and Families"
 }

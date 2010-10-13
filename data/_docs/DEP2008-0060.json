@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0060.zip"
-  "year" : "2008"
-  "description" : "Various letters and dcouments (8 items) dated between 2005 amd 2007 relating to the pilots into the use of the 101 non-emergency telephone number."
+  "deposited_date" : "07/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0060.zip",
+  "year" : "2008",
+  "description" : "Various letters and dcouments (8 items) dated between 2005 amd 2007 relating to the pilots into the use of the 101 non-emergency telephone number.",
   "department" : "Home Office"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/06/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1825.tif"
-  "year" : "2009"
-  "description" : "Letter dated 26/06/2009 from Kevan Jones MP to Dr Liam Fox MP regarding Service Family Accommodation (SFA) by location in England at each Standard for Condition (SfC). 5 p."
+  "deposited_date" : "29/06/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1825.tif",
+  "year" : "2009",
+  "description" : "Letter dated 26/06/2009 from Kevan Jones MP to Dr Liam Fox MP regarding Service Family Accommodation (SFA) by location in England at each Standard for Condition (SfC). 5 p.",
   "department" : "Ministry of Defence"
 }

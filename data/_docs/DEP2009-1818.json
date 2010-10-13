@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/06/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1818.zip"
-  "year" : "2009"
-  "description" : "I. Consultation on draft guidance for how to measure and report your greenhouse gas emissions. 10 p. II. Impact assessment of guidance on measurement and reporting on greenhouse gas emissions, 28 May 2009. 15 p."
+  "deposited_date" : "04/06/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1818.zip",
+  "year" : "2009",
+  "description" : "I. Consultation on draft guidance for how to measure and report your greenhouse gas emissions. 10 p. II. Impact assessment of guidance on measurement and reporting on greenhouse gas emissions, 28 May 2009. 15 p.",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "31/03/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1020.pdf"
-  "year" : "2009"
-  "description" : "'Monitor' news release dated 30/03/2009 announcing the authorisation of two new NHS Foundation Trusts : Calderstones Partnership NHS Foundation Trust and Hampshire Partnership NHS Foundation Trust. 2 p."
+  "deposited_date" : "31/03/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1020.pdf",
+  "year" : "2009",
+  "description" : "'Monitor' news release dated 30/03/2009 announcing the authorisation of two new NHS Foundation Trusts : Calderstones Partnership NHS Foundation Trust and Hampshire Partnership NHS Foundation Trust. 2 p.",
   "department" : "Dept of Health Monitor"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/01/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0199.zip"
-  "year" : "2008"
-  "description" : "I. The Blue Badge Scheme: local authority guidance. 68 p. II. Consultation on developing a comprehensive Blue Badge (Disabled Parking) reform strategy. 36 p. III. The strategic review of the Blue Badge Scheme: an independent report by Rob Smith, September 2007. 118 p."
+  "deposited_date" : "24/01/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0199.zip",
+  "year" : "2008",
+  "description" : "I. The Blue Badge Scheme: local authority guidance. 68 p. II. Consultation on developing a comprehensive Blue Badge (Disabled Parking) reform strategy. 36 p. III. The strategic review of the Blue Badge Scheme: an independent report by Rob Smith, September 2007. 118 p.",
   "department" : "Dept for Transport"
 }

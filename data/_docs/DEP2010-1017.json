@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "30/03/2010"
-  "legislature" : Commons
-  "legislation" : "Digital Economy Bill (HL) 2009-10"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1017.zip"
-  "year" : "2010"
-  "description" : "I. Letters dated 30/03/2010 from Lord Mandelson to Don Foster MP, Jeremy Hunt MP and Peter Luff MP regarding clause 18 of the Digital Economy Bill relating to the preventing internet access at specific locations due to online copyright infringement. 7 p. II. Digital Economy Bill 2009-10 (Lords). Draft 29.03.10 (SA) Committee of the Whole House. 4 p."
+  "deposited_date" : "30/03/2010",
+  "legislature" : ["Commons"],
+  "legislation" : "Digital Economy Bill (HL) 2009-10",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1017.zip",
+  "year" : "2010",
+  "description" : "I. Letters dated 30/03/2010 from Lord Mandelson to Don Foster MP, Jeremy Hunt MP and Peter Luff MP regarding clause 18 of the Digital Economy Bill relating to the preventing internet access at specific locations due to online copyright infringement. 7 p. II. Digital Economy Bill 2009-10 (Lords). Draft 29.03.10 (SA) Committee of the Whole House. 4 p.",
   "department" : "Department for Business, Innovation and Skills"
 }

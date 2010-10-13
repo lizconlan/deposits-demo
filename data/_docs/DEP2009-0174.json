@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0174.xls"
-  "year" : "2009"
-  "description" : "Table showing inflow and outflow of personnel in the Defence Medical Services for each year from 1997 to 2007, broken down by (i) service, (ii) inflow/outflow, (iii) officers/other ranks. 5 p."
+  "deposited_date" : "21/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0174.xls",
+  "year" : "2009",
+  "description" : "Table showing inflow and outflow of personnel in the Defence Medical Services for each year from 1997 to 2007, broken down by (i) service, (ii) inflow/outflow, (iii) officers/other ranks. 5 p.",
   "department" : "Ministry of Defence"
 }

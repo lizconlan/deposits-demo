@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2099.zip"
-  "year" : "2008"
-  "description" : "Tables showing responses by the Department of Health to requests for information on abortion, contraception, reproductive health and euthanasia between 2005 and 2008. Includes statistics and supporting documentation. [69 files]"
+  "deposited_date" : "29/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2099.zip",
+  "year" : "2008",
+  "description" : "Tables showing responses by the Department of Health to requests for information on abortion, contraception, reproductive health and euthanasia between 2005 and 2008. Includes statistics and supporting documentation. [69 files]",
   "department" : "Dept of Health"
 }

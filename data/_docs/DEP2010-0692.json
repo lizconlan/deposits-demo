@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0692.doc"
-  "year" : "2010"
-  "description" : "Table showing expenditure information in cash and real terms (2006/07 prices), for the financial years 1997/98 to 2005/06 for the PCTs in Selby & York, Hambleton & Richmondshire, Craven, Harrogate & Rural District and Scarborough, Whitby & Ryedale. 5 p."
+  "deposited_date" : "15/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0692.doc",
+  "year" : "2010",
+  "description" : "Table showing expenditure information in cash and real terms (2006/07 prices), for the financial years 1997/98 to 2005/06 for the PCTs in Selby & York, Hambleton & Richmondshire, Craven, Harrogate & Rural District and Scarborough, Whitby & Ryedale. 5 p.",
   "department" : "Department of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/07/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2177.doc"
-  "year" : "2009"
-  "description" : "Table showing number of outpatient appointments from Cornwall and Isles of Scilly PCT where a patient did not attend or cancelled an appointment following a referral to an in county or out of county consultant specialist, 2003/04 to 2007/08. 3 p."
+  "deposited_date" : "24/07/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2177.doc",
+  "year" : "2009",
+  "description" : "Table showing number of outpatient appointments from Cornwall and Isles of Scilly PCT where a patient did not attend or cancelled an appointment following a referral to an in county or out of county consultant specialist, 2003/04 to 2007/08. 3 p.",
   "department" : "Dept of Health"
 }

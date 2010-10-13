@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0038.pdf"
-  "year" : "2010"
-  "description" : "Use of Resources in Adult Social Care. Incl. annexes. 87 p."
+  "deposited_date" : "06/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0038.pdf",
+  "year" : "2010",
+  "description" : "Use of Resources in Adult Social Care. Incl. annexes. 87 p.",
   "department" : "Department of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/12/2007"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0590.zip"
-  "year" : "2008"
-  "description" : "I. Statistics on NHS stop smoking services in England for each year April 2006 to March 2007. 103 p. II. Statistics on NHS stop smoking services in England for each year April 2007 to September 2007. 22 p."
+  "deposited_date" : "17/12/2007",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0590.zip",
+  "year" : "2008",
+  "description" : "I. Statistics on NHS stop smoking services in England for each year April 2006 to March 2007. 103 p. II. Statistics on NHS stop smoking services in England for each year April 2007 to September 2007. 22 p.",
   "department" : "Dept of Health"
 }

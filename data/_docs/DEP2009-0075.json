@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0075.pdf"
-  "year" : "2009"
-  "description" : "Strategic review of Department of Health funding of third sector organisations: response to consultation. 44 p."
+  "deposited_date" : "12/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0075.pdf",
+  "year" : "2009",
+  "description" : "Strategic review of Department of Health funding of third sector organisations: response to consultation. 44 p.",
   "department" : "Dept of Health"
 }

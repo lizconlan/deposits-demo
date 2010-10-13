@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/10/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2550.pdf"
-  "year" : "2009"
-  "description" : "Consumer Expert Group report into the use of the Internet by disabled people: barriers and solutions. 41 p."
+  "deposited_date" : "19/10/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2550.pdf",
+  "year" : "2009",
+  "description" : "Consumer Expert Group report into the use of the Internet by disabled people: barriers and solutions. 41 p.",
   "department" : "Dept for Business, Innovation and Skills"
 }

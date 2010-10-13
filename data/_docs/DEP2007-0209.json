@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/11/2007"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0209.tif"
-  "year" : "2007"
-  "description" : "Letter dated 03/12/2007 from Lord Davies of Oldham to Lord Northbrook regarding public finances in the context of the debate on the Pre-Budget Report 2007 for the purposes of Section 5 of the European Communities (Amendment) Act 1993. 3 p."
+  "deposited_date" : "26/11/2007",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0209.tif",
+  "year" : "2007",
+  "description" : "Letter dated 03/12/2007 from Lord Davies of Oldham to Lord Northbrook regarding public finances in the context of the debate on the Pre-Budget Report 2007 for the purposes of Section 5 of the European Communities (Amendment) Act 1993. 3 p.",
   "department" : "Treasury"
 }

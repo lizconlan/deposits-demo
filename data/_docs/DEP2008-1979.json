@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1979.xls"
-  "year" : "2008"
-  "description" : "Tables showing number of incapacity benefit/severe disablement allowance claimants in London for each year from 1998 to 2007, broken down by parliamentary constituencies. 3 p."
+  "deposited_date" : "17/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1979.xls",
+  "year" : "2008",
+  "description" : "Tables showing number of incapacity benefit/severe disablement allowance claimants in London for each year from 1998 to 2007, broken down by parliamentary constituencies. 3 p.",
   "department" : "Dept for Work and Pensions"
 }

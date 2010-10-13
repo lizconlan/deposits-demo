@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/07/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2212.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 08/07/2009 from Rosie Winterton MP to Caroline Spelman correcting answer to a previous parliamentary question about the maximum cash value for small business rate relief."
+  "deposited_date" : "08/07/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2212.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 08/07/2009 from Rosie Winterton MP to Caroline Spelman correcting answer to a previous parliamentary question about the maximum cash value for small business rate relief.",
   "department" : "Dept for Communities and Local Government"
 }

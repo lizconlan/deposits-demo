@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "22/07/2008"
-  "legislature" : Lords
-  "legislation" : "Data Retention (EC Directive) Regulations 2007 Anti-Terrorism Crime and Security Act 2001"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2190.doc"
-  "year" : "2008"
-  "description" : "Table showing grant payments made under Section 106 of the Anti-terrorism, Crime and Security Act 2001 (ATCSA) from 2004 to 2007, and payments made under the EU Data Retention Directive for 2007 and 2008. 1 p."
+  "deposited_date" : "22/07/2008",
+  "legislature" : ["Lords"],
+  "legislation" : "Data Retention (EC Directive) Regulations 2007 Anti-Terrorism Crime and Security Act 2001",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2190.doc",
+  "year" : "2008",
+  "description" : "Table showing grant payments made under Section 106 of the Anti-terrorism, Crime and Security Act 2001 (ATCSA) from 2004 to 2007, and payments made under the EU Data Retention Directive for 2007 and 2008. 1 p.",
   "department" : "Home Office"
 }

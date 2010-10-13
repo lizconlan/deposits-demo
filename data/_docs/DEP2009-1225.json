@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/04/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1225.zip"
-  "year" : "2009"
-  "description" : "I. Draft letter [not dated] from Ed Balls MP to Alasdair MacDonald regarding Personal, Social, Health and Economic (PSHE) education. 2 p. II. The independent review into making Personal, Social, Health and Economic (PSHE) education statutory. 56 p."
+  "deposited_date" : "27/04/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1225.zip",
+  "year" : "2009",
+  "description" : "I. Draft letter [not dated] from Ed Balls MP to Alasdair MacDonald regarding Personal, Social, Health and Economic (PSHE) education. 2 p. II. The independent review into making Personal, Social, Health and Economic (PSHE) education statutory. 56 p.",
   "department" : "Dept for Children, Schools and Families"
 }

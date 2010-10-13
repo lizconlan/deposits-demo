@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0370.xls"
-  "year" : "2010"
-  "description" : "Tables showing the number of deaths with an underlying cause of liver cancer or liver disease from 1997 to 2008 by parliamentary constituency. 40 p."
+  "deposited_date" : "08/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0370.xls",
+  "year" : "2010",
+  "description" : "Tables showing the number of deaths with an underlying cause of liver cancer or liver disease from 1997 to 2008 by parliamentary constituency. 40 p.",
   "department" : "Cabinet Office"
 }

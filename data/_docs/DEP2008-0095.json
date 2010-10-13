@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0095.xls"
-  "year" : "2008"
-  "description" : "Tables showing analysis of the Department of Health's cancer reform strategy on projected cancer in-patient costs, broken down by gender and type of cancer."
+  "deposited_date" : "14/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0095.xls",
+  "year" : "2008",
+  "description" : "Tables showing analysis of the Department of Health's cancer reform strategy on projected cancer in-patient costs, broken down by gender and type of cancer.",
   "department" : "Dept of Health"
 }

@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "25/03/2008"
-  "legislature" : Commons
-  "legislation" : "Categories of Casino Regulations 2008 Gambling (Geographical Distribution of Large and Small Casino Premises Licences) Order 2008"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0972.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 01/04/2008 from Gerry Sutcliffe MP to John Bercow MP regarding various issues arising from the Committee debate on the two casino orders on 25/03/2008. 3 p."
+  "deposited_date" : "25/03/2008",
+  "legislature" : ["Commons"],
+  "legislation" : "Categories of Casino Regulations 2008 Gambling (Geographical Distribution of Large and Small Casino Premises Licences) Order 2008",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0972.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 01/04/2008 from Gerry Sutcliffe MP to John Bercow MP regarding various issues arising from the Committee debate on the two casino orders on 25/03/2008. 3 p.",
   "department" : "Dept for Culture Media and Sport"
 }

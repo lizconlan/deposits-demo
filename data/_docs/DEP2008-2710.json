@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "13/11/2008"
-  "legislature" : CommonsLords
-  "legislation" : "Renewable Transport Fuel Obligations (Amendment) Order 2009"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2710.zip"
-  "year" : "2008"
-  "description" : "Letter dated 13/11/2008 from Malcolm Fendick, Department of Transport, to stakeholders regarding an addendum to the consultation on the draft Renewable Transport Fuel Obligations (Amendment) Order 2009. Incl. copy of draft statutory instrument. 6 p."
+  "deposited_date" : "13/11/2008",
+  "legislature" : ["Commons","Lords"],
+  "legislation" : "Renewable Transport Fuel Obligations (Amendment) Order 2009",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2710.zip",
+  "year" : "2008",
+  "description" : "Letter dated 13/11/2008 from Malcolm Fendick, Department of Transport, to stakeholders regarding an addendum to the consultation on the draft Renewable Transport Fuel Obligations (Amendment) Order 2009. Incl. copy of draft statutory instrument. 6 p.",
   "department" : "Dept for Transport"
 }

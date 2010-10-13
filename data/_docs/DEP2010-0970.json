@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0970.xls"
-  "year" : "2010"
-  "description" : "Out-of-work benefit expenditure by local authority and parliamentary constituency in £million: 1997-98 expenditure based on November quarter from the 5% data sample and 2005/06 to 2008/09. 38 p."
+  "deposited_date" : "30/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0970.xls",
+  "year" : "2010",
+  "description" : "Out-of-work benefit expenditure by local authority and parliamentary constituency in £million: 1997-98 expenditure based on November quarter from the 5% data sample and 2005/06 to 2008/09. 38 p.",
   "department" : "Department for Work and Pensions"
 }

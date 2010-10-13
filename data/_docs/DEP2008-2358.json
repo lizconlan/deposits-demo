@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "13/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2358.pdf"
-  "year" : "2008"
-  "description" : "Machinery of Government: economy, business, climate change, energy and environment. 12 p."
+  "deposited_date" : "13/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2358.pdf",
+  "year" : "2008",
+  "description" : "Machinery of Government: economy, business, climate change, energy and environment. 12 p.",
   "department" : "Prime Minister"
 }

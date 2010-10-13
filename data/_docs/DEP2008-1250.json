@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "13/05/2008"
-  "legislature" : Commons
-  "legislation" : "Land Registration (Electronic Communications) Order 2007 Land Registration (Newtwork Access) Rules 2007"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1250.pdf"
-  "year" : "2008"
-  "description" : "Land Registry e-conveyancing: report on responses to secondary legislation part 1. 146 p."
+  "deposited_date" : "13/05/2008",
+  "legislature" : ["Commons"],
+  "legislation" : "Land Registration (Electronic Communications) Order 2007 Land Registration (Newtwork Access) Rules 2007",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1250.pdf",
+  "year" : "2008",
+  "description" : "Land Registry e-conveyancing: report on responses to secondary legislation part 1. 146 p.",
   "department" : "Land Registry"
 }

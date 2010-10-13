@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/02/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0562.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 25/02/2008 from Lord Hunt of Kings Heath to Earl of Listowel regarding child defendant packs. 2 p."
+  "deposited_date" : "27/02/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0562.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 25/02/2008 from Lord Hunt of Kings Heath to Earl of Listowel regarding child defendant packs. 2 p.",
   "department" : "Ministry of Justice"
 }

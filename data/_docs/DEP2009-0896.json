@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0896.xls"
-  "year" : "2009"
-  "description" : "Table showing approved work permit applications for each month from 01/01/2008 and 31/12/2008, broken down by top 20 occupations and nationalities. 17 p."
+  "deposited_date" : "17/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0896.xls",
+  "year" : "2009",
+  "description" : "Table showing approved work permit applications for each month from 01/01/2008 and 31/12/2008, broken down by top 20 occupations and nationalities. 17 p.",
   "department" : "Home Office"
 }

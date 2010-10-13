@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/06/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1745.xls"
-  "year" : "2009"
-  "description" : "Table showing the time frame set out for opening academies and all current projects which have passed expression of interest (EOI) stage. 1 p."
+  "deposited_date" : "03/06/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1745.xls",
+  "year" : "2009",
+  "description" : "Table showing the time frame set out for opening academies and all current projects which have passed expression of interest (EOI) stage. 1 p.",
   "department" : "Dept for Children, Schools and Families"
 }

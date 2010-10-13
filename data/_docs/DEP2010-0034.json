@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0034.zip"
-  "year" : "2010"
-  "description" : "I. Teenage pregnancy and sexual health marketing stategy. nov 2009. 55 p. II. Table showing 'Making Talk Meaningful' statistics. Oct 2009. 246 p. III. Contraception amongst 16+ Women: qualitative research with users. Final report. April 2009. 224 p. IV. Contraception amongst 16+ Women: qualitative research with healthcare providers. Final report. April 2009. 124 p."
+  "deposited_date" : "06/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0034.zip",
+  "year" : "2010",
+  "description" : "I. Teenage pregnancy and sexual health marketing stategy. nov 2009. 55 p. II. Table showing 'Making Talk Meaningful' statistics. Oct 2009. 246 p. III. Contraception amongst 16+ Women: qualitative research with users. Final report. April 2009. 224 p. IV. Contraception amongst 16+ Women: qualitative research with healthcare providers. Final report. April 2009. 124 p.",
   "department" : "Department of Health Central Office of Information"
 }

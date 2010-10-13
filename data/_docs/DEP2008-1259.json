@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/05/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1259.zip"
-  "year" : "2008"
-  "description" : "Letter dated 12/05/2008 from Jim Knight MP to John Bercow PM and Hugh Bailey MP regarding assessments relating to leaning difficulties. 2 p."
+  "deposited_date" : "12/05/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1259.zip",
+  "year" : "2008",
+  "description" : "Letter dated 12/05/2008 from Jim Knight MP to John Bercow PM and Hugh Bailey MP regarding assessments relating to leaning difficulties. 2 p.",
   "department" : "Dept for Children Schools and Families"
 }

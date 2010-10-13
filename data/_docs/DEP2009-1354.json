@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1354.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 05/05/2009 from Sion Simon MP and Jim Knight MP to Joan Humble MP regarding the costs associated with the transition from the Learning and Skills Council to local authorities, the Young People's Learning Agency and the Skills Funding Agency. 4 p."
+  "deposited_date" : "01/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1354.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 05/05/2009 from Sion Simon MP and Jim Knight MP to Joan Humble MP regarding the costs associated with the transition from the Learning and Skills Council to local authorities, the Young People's Learning Agency and the Skills Funding Agency. 4 p.",
   "department" : "Dept for Children, Schools and Families Dept for Innovation, Universities and Skills"
 }

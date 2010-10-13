@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0143.xls"
-  "year" : "2009"
-  "description" : "Table showing number (in thousands) of licensed road vehicles in England, Scotland and Wales from 2004 to 2007, broken down by engine size, carbon dioxide emissions, constituency and (for England) by region. 120 p."
+  "deposited_date" : "19/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0143.xls",
+  "year" : "2009",
+  "description" : "Table showing number (in thousands) of licensed road vehicles in England, Scotland and Wales from 2004 to 2007, broken down by engine size, carbon dioxide emissions, constituency and (for England) by region. 120 p.",
   "department" : "Dept for Transport"
 }

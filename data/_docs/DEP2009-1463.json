@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/05/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1463.pdf"
-  "year" : "2009"
-  "description" : "Research into enforcement of employment tribunal awards in England and Wales. Incl. appendices. 92 p."
+  "deposited_date" : "01/05/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1463.pdf",
+  "year" : "2009",
+  "description" : "Research into enforcement of employment tribunal awards in England and Wales. Incl. appendices. 92 p.",
   "department" : "Ministry of Justice"
 }

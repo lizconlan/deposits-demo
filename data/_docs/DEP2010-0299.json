@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0299.zip"
-  "year" : "2010"
-  "description" : "Selection criteria for police community support officers (PCSOs) set out in the protocols for the police community support officer national recruitment standard assessment process. 61 p."
+  "deposited_date" : "02/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0299.zip",
+  "year" : "2010",
+  "description" : "Selection criteria for police community support officers (PCSOs) set out in the protocols for the police community support officer national recruitment standard assessment process. 61 p.",
   "department" : "Home Office"
 }

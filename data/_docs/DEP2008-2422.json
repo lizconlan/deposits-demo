@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2422.tif"
-  "year" : "2008"
-  "description" : "Letter dated 21/10/2008 from Kevan Jones MP to Andrew Murrison MP regarding Service Discipline Acts. 4 p."
+  "deposited_date" : "21/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2422.tif",
+  "year" : "2008",
+  "description" : "Letter dated 21/10/2008 from Kevan Jones MP to Andrew Murrison MP regarding Service Discipline Acts. 4 p.",
   "department" : "Ministry of Defence"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/03/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0673.pdf"
-  "year" : "2010"
-  "description" : "The housing and planning delivery grant determination 2010. No.31/1732. Incl. annexes. 12 p."
+  "deposited_date" : "16/03/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0673.pdf",
+  "year" : "2010",
+  "description" : "The housing and planning delivery grant determination 2010. No.31/1732. Incl. annexes. 12 p.",
   "department" : "Communities and Local Government"
 }

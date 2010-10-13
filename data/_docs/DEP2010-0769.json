@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/03/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0769.zip"
-  "year" : "2010"
-  "description" : "Marine Management Organisation (MMO) Framework Document, Corporate Plan 2010-11 to 2012-13, and the Business Plan 2010-11. 130 p."
+  "deposited_date" : "22/03/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0769.zip",
+  "year" : "2010",
+  "description" : "Marine Management Organisation (MMO) Framework Document, Corporate Plan 2010-11 to 2012-13, and the Business Plan 2010-11. 130 p.",
   "department" : "Department for Environment, Food and Rural Affairs"
 }

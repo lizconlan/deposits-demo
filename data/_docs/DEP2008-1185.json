@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/05/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1185.xls"
-  "year" : "2008"
-  "description" : "Tables showing number of outpatients seen in each quarter for each London Primary Care Trust (PCT) for each year from 2002-03 to 2007-08, broken down by length of wait from general practioner referral to outpatient appointment. 47 p."
+  "deposited_date" : "06/05/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1185.xls",
+  "year" : "2008",
+  "description" : "Tables showing number of outpatients seen in each quarter for each London Primary Care Trust (PCT) for each year from 2002-03 to 2007-08, broken down by length of wait from general practioner referral to outpatient appointment. 47 p.",
   "department" : "Dept of Health"
 }

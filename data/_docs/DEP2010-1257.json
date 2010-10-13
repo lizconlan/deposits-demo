@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/05/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1257.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 27/05/2010 from Ed Vaizey MP to House of Commons European Scrutiny Committee regarding Telecoms Council in Brussels on 31 May 2010. 3 p."
+  "deposited_date" : "27/05/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1257.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 27/05/2010 from Ed Vaizey MP to House of Commons European Scrutiny Committee regarding Telecoms Council in Brussels on 31 May 2010. 3 p.",
   "department" : "Department for Business, Innovation and Skills"
 }

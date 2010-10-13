@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/09/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2382.zip"
-  "year" : "2009"
-  "description" : "Letter dated 15/09/2009 from Ian Lucas MP to Peter Luff MP regarding the progress report for the Strategy for sustainable construction, September 2009. Inc report. 72 p."
+  "deposited_date" : "15/09/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2382.zip",
+  "year" : "2009",
+  "description" : "Letter dated 15/09/2009 from Ian Lucas MP to Peter Luff MP regarding the progress report for the Strategy for sustainable construction, September 2009. Inc report. 72 p.",
   "department" : "Dept for Business, Innovation and Skills"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/10/2008"
-  "legislature" : Commons
-  "notes" : "Available in hard copy only in the Commons and Lords libraries"
-  "year" : "2008"
-  "description" : "Pack of materials comprising items sent out by the MOD to schools in the last 3 years. Includes posters, leaflets, booklets and DVDs."
+  "deposited_date" : "09/10/2008",
+  "legislature" : ["Commons"],
+  "notes" : "Available in hard copy only in the Commons and Lords libraries",
+  "year" : "2008",
+  "description" : "Pack of materials comprising items sent out by the MOD to schools in the last 3 years. Includes posters, leaflets, booklets and DVDs.",
   "department" : "Ministry of Defence"
 }

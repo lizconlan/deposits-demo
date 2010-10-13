@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0151.pdf"
-  "year" : "2009"
-  "description" : "At least five a week: evidence on the impact of physical activity and its relationship to health, a report from the Chief Medical Officer. 128 p."
+  "deposited_date" : "19/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0151.pdf",
+  "year" : "2009",
+  "description" : "At least five a week: evidence on the impact of physical activity and its relationship to health, a report from the Chief Medical Officer. 128 p.",
   "department" : "Chief Medical Officer Dept of Health"
 }

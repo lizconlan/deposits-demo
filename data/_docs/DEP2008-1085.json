@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1085.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 22/04/2008 from Ed Richard, Chief Executive, to Don Foster MP regarding expenditure on the Public Service Publisher project."
+  "deposited_date" : "20/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1085.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 22/04/2008 from Ed Richard, Chief Executive, to Don Foster MP regarding expenditure on the Public Service Publisher project.",
   "department" : "Office of Communications"
 }

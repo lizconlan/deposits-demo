@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "23/07/2009"
-  "legislature" : Lords
-  "legislation" : "Criminal Justice and Immigration Act 2008"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2203.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 23/07/2009 from Lord Bach to Baroness Miller regarding the Coroners and Justice Bill: Commencement of the data protection provisions in sections 77 and 144 of the Criminal Justice and Immigration Act 2008. 2 p."
+  "deposited_date" : "23/07/2009",
+  "legislature" : ["Lords"],
+  "legislation" : "Criminal Justice and Immigration Act 2008",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2203.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 23/07/2009 from Lord Bach to Baroness Miller regarding the Coroners and Justice Bill: Commencement of the data protection provisions in sections 77 and 144 of the Criminal Justice and Immigration Act 2008. 2 p.",
   "department" : ""
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "13/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1548.doc"
-  "year" : "2008"
-  "description" : "List of neonatal units in each health authority, as at June 2008. 29 p."
+  "deposited_date" : "13/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1548.doc",
+  "year" : "2008",
+  "description" : "List of neonatal units in each health authority, as at June 2008. 29 p.",
   "department" : "Dept of Health"
 }

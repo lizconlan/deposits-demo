@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "24/06/2008"
-  "legislature" : Lords
-  "legislation" : "Nursing and Midwifery (Amendment) Order 2008"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1989.pdf"
-  "year" : "2008"
-  "description" : "Letter [undated] from Baroness Thornton to Baroness Hanham regarding the process for making appointment to the new Nursing and Midwifery Council in the context of the Nursing and Midwifery (Amendment) Order 2008. 1 p."
+  "deposited_date" : "24/06/2008",
+  "legislature" : ["Lords"],
+  "legislation" : "Nursing and Midwifery (Amendment) Order 2008",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1989.pdf",
+  "year" : "2008",
+  "description" : "Letter [undated] from Baroness Thornton to Baroness Hanham regarding the process for making appointment to the new Nursing and Midwifery Council in the context of the Nursing and Midwifery (Amendment) Order 2008. 1 p.",
   "department" : "Dept of Health"
 }

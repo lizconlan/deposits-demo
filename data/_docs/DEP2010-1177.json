@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/04/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1177.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 08/04/2010 from Tessa Jowell MP to Jeremy Hunt MP regarding contracts granted in relation to London 2012 Olympics. 1 p."
+  "deposited_date" : "09/04/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1177.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 08/04/2010 from Tessa Jowell MP to Jeremy Hunt MP regarding contracts granted in relation to London 2012 Olympics. 1 p.",
   "department" : "Cabinet Office"
 }

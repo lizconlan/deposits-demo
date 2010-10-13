@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2394.xls"
-  "year" : "2008"
-  "description" : "Table showing total European Union Official Development Assistance (ODA) to Africa for each year from 2002 to 2006, broken down by country. 2 p."
+  "deposited_date" : "20/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2394.xls",
+  "year" : "2008",
+  "description" : "Table showing total European Union Official Development Assistance (ODA) to Africa for each year from 2002 to 2006, broken down by country. 2 p.",
   "department" : "Dept for International Development"
 }

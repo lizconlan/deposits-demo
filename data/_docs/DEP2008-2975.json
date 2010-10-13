@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "03/12/2008"
-  "legislature" : Commons
-  "legislation" : "Criminal Evidence (Witness Anonymity) Act 2008"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2975.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 03/12/2008 from Jack Straw MP to Nick Herbert MP regarding witness anonymity. 3 p."
+  "deposited_date" : "03/12/2008",
+  "legislature" : ["Commons"],
+  "legislation" : "Criminal Evidence (Witness Anonymity) Act 2008",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2975.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 03/12/2008 from Jack Straw MP to Nick Herbert MP regarding witness anonymity. 3 p.",
   "department" : "Ministry of Justice"
 }

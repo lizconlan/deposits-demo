@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0725.xls"
-  "year" : "2010"
-  "description" : "Table showing number of defendants proceeded against at magistrates' courts and found guilty at all courts for offences under the Dangerous Dogs Act 1991, in England and Wales, 1991 to 1997 and 2008. 1 p."
+  "deposited_date" : "17/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0725.xls",
+  "year" : "2010",
+  "description" : "Table showing number of defendants proceeded against at magistrates' courts and found guilty at all courts for offences under the Dangerous Dogs Act 1991, in England and Wales, 1991 to 1997 and 2008. 1 p.",
   "department" : "Department for Environment, Food and Rural Affairs"
 }

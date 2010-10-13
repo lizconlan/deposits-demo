@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/02/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0483.doc"
-  "year" : "2009"
-  "description" : "List showing the name and postcode location of each maternity unit in England listed on the NHS choices website. 6 p."
+  "deposited_date" : "23/02/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0483.doc",
+  "year" : "2009",
+  "description" : "List showing the name and postcode location of each maternity unit in England listed on the NHS choices website. 6 p.",
   "department" : "Dept of Health"
 }

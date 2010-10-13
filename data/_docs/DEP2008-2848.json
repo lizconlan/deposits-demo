@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2848.doc"
-  "year" : "2008"
-  "description" : "Table showing crisis loan initial awards, November 1998 to October 2008. 10 p."
+  "deposited_date" : "25/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2848.doc",
+  "year" : "2008",
+  "description" : "Table showing crisis loan initial awards, November 1998 to October 2008. 10 p.",
   "department" : "Dept for Work and Pensions"
 }

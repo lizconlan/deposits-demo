@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0459.xls"
-  "year" : "2010"
-  "description" : "List showing Local Authority Salt Levels in England as at 10:00am 8 February 2010. 3 p."
+  "deposited_date" : "22/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0459.xls",
+  "year" : "2010",
+  "description" : "List showing Local Authority Salt Levels in England as at 10:00am 8 February 2010. 3 p.",
   "department" : "Department for Transport"
 }

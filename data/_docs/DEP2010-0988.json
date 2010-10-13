@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/03/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0988.zip"
-  "year" : "2010"
-  "description" : "Letter dated 30/03/2010 from Lord McKenzie to colleagues regarding allocations of the Disabled Facilities Grant programme. Includes table. 8 p."
+  "deposited_date" : "30/03/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0988.zip",
+  "year" : "2010",
+  "description" : "Letter dated 30/03/2010 from Lord McKenzie to colleagues regarding allocations of the Disabled Facilities Grant programme. Includes table. 8 p.",
   "department" : "Communities and Local Government"
 }

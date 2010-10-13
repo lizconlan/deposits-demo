@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/10/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0043.doc"
-  "year" : "2007"
-  "description" : "Press release dated 24/08/2007 from the North West strategic health authority regarding changes to the maternity, neonatal and paediatric services in Greater Manchester. 4 p."
+  "deposited_date" : "30/10/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0043.doc",
+  "year" : "2007",
+  "description" : "Press release dated 24/08/2007 from the North West strategic health authority regarding changes to the maternity, neonatal and paediatric services in Greater Manchester. 4 p.",
   "department" : "Dept of Health"
 }

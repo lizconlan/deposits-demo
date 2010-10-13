@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0117.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 15/01/2010 from Bridget Prentice MP to Adam Ingram MP regarding deaths abroad of service personnel. 1 p."
+  "deposited_date" : "12/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0117.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 15/01/2010 from Bridget Prentice MP to Adam Ingram MP regarding deaths abroad of service personnel. 1 p.",
   "department" : "Ministry of Justice"
 }

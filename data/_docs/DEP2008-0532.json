@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/02/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0532.doc"
-  "year" : "2008"
-  "description" : "Table showing number of ministers receiving severance payment on leaving office in 2006 and 2007, broken down by department. 1 p."
+  "deposited_date" : "21/02/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0532.doc",
+  "year" : "2008",
+  "description" : "Table showing number of ministers receiving severance payment on leaving office in 2006 and 2007, broken down by department. 1 p.",
   "department" : "Cabinet Office"
 }

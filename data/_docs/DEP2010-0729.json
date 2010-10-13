@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0729.xls"
-  "year" : "2010"
-  "description" : "Table showing the total rateable value for all hereditaments in Local List for England, broken down by billing authority, on the 2005 and the draft 2010 Rating Lists as at 2 November 2009. 6 p."
+  "deposited_date" : "17/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0729.xls",
+  "year" : "2010",
+  "description" : "Table showing the total rateable value for all hereditaments in Local List for England, broken down by billing authority, on the 2005 and the draft 2010 Rating Lists as at 2 November 2009. 6 p.",
   "department" : "Communities and Local Government"
 }

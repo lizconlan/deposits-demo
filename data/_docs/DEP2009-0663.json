@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0663.zip"
-  "year" : "2009"
-  "description" : "Letter dated March 2009 to Danny Alexander MP regarding correction to a Parliamentary Question. Inc a table. 2 p."
+  "deposited_date" : "05/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0663.zip",
+  "year" : "2009",
+  "description" : "Letter dated March 2009 to Danny Alexander MP regarding correction to a Parliamentary Question. Inc a table. 2 p.",
   "department" : "Dept for Work and Pensions"
 }

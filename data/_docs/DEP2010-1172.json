@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/03/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1172.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 06/04/2010 from Lynn Rattigan, Acting Executive Officer, to Lord Bates regarding photocopier paper purchased by the Royal Armouries. 1 p."
+  "deposited_date" : "09/03/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1172.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 06/04/2010 from Lynn Rattigan, Acting Executive Officer, to Lord Bates regarding photocopier paper purchased by the Royal Armouries. 1 p.",
   "department" : "Department for Culture, Media and Sport"
 }

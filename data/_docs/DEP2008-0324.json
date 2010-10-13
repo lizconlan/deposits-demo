@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0324.zip"
-  "year" : "2008"
-  "description" : "Letter dated January 2008 from Colin Mowl, Director, to Stewart Hosie MP regarding weekly earnings. Includes a table. 4 p."
+  "deposited_date" : "04/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0324.zip",
+  "year" : "2008",
+  "description" : "Letter dated January 2008 from Colin Mowl, Director, to Stewart Hosie MP regarding weekly earnings. Includes a table. 4 p.",
   "department" : "Treasury Office for National Statistics"
 }

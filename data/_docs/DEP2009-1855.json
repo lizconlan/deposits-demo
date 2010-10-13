@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/06/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1855.zip"
-  "year" : "2009"
-  "description" : "I. The medical aspects of pleural plaques: a review for the Chief Medical Officer, Sir Liam Donaldson. 40 p. II. Industrial Injuries Advisory Council review of pleural plaques: report by the Industrial Injuries Advisory Council in accordance with Section 171 of the Social Security Administration Act 1992 reviewing prescription for pleural plaques. 64 p."
+  "deposited_date" : "30/06/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1855.zip",
+  "year" : "2009",
+  "description" : "I. The medical aspects of pleural plaques: a review for the Chief Medical Officer, Sir Liam Donaldson. 40 p. II. Industrial Injuries Advisory Council review of pleural plaques: report by the Industrial Injuries Advisory Council in accordance with Section 171 of the Social Security Administration Act 1992 reviewing prescription for pleural plaques. 64 p.",
   "department" : "Ministry of Justice"
 }

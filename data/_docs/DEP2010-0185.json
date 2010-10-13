@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0185.doc"
-  "year" : "2010"
-  "description" : "Copy of the guidance issued to FCO staff on travel packages. 1 p."
+  "deposited_date" : "25/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0185.doc",
+  "year" : "2010",
+  "description" : "Copy of the guidance issued to FCO staff on travel packages. 1 p.",
   "department" : "Foreign and Commonwealth Office"
 }

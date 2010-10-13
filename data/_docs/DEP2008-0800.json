@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0800.zip"
-  "year" : "2008"
-  "description" : "Facilitating the sharing of good practice in the implementation of the NICE guideline on the assessment and treatment of people with fertility problems, and screening for chlamydia: analysis of survey responses. 23 p."
+  "deposited_date" : "20/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0800.zip",
+  "year" : "2008",
+  "description" : "Facilitating the sharing of good practice in the implementation of the NICE guideline on the assessment and treatment of people with fertility problems, and screening for chlamydia: analysis of survey responses. 23 p.",
   "department" : "Dept of Health Infertility Network UK"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/04/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0935.pdf"
-  "year" : "2008"
-  "description" : "United coins for a United Kingdom. [Illustration of new design for each coin] 1 p."
+  "deposited_date" : "02/04/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0935.pdf",
+  "year" : "2008",
+  "description" : "United coins for a United Kingdom. [Illustration of new design for each coin] 1 p.",
   "department" : "Royal Mint Treasury"
 }

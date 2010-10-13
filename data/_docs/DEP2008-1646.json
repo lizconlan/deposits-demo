@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/06/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1646.pdf"
-  "year" : "2008"
-  "description" : "Letter [not dated] from Barones Thornton to Baroness Masham regarding the service users' or carers' concerns and facilities. 1 p."
+  "deposited_date" : "23/06/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1646.pdf",
+  "year" : "2008",
+  "description" : "Letter [not dated] from Barones Thornton to Baroness Masham regarding the service users' or carers' concerns and facilities. 1 p.",
   "department" : "Dept of Health"
 }

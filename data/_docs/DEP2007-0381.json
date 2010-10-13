@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0381.doc"
-  "year" : "2007"
-  "description" : "Minutes of Meetings of the UK Search and Rescue Advisory Group (UKISARG) Strategic Steering Committee: March  October 2007. 12 p."
+  "deposited_date" : "18/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0381.doc",
+  "year" : "2007",
+  "description" : "Minutes of Meetings of the UK Search and Rescue Advisory Group (UKISARG) Strategic Steering Committee: March  October 2007. 12 p.",
   "department" : "Dept for International Development"
 }

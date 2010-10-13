@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/12/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3147.zip"
-  "year" : "2009"
-  "description" : "I. Modelling collective defined contribution schemes: a summary of the Government actuarys department modelling of collective defined contribution schemes. Dec 2009. 21 p. II. Collective defined contribution schemes: an assessment of whether and how collective defined contribution schemes might operate in the UK. 13 p. III. Dear colleague letter dated 14/12/2009 from Angela Eagle MP depositing collection defined contribution scheme documents. 1 p."
+  "deposited_date" : "15/12/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3147.zip",
+  "year" : "2009",
+  "description" : "I. Modelling collective defined contribution schemes: a summary of the Government actuarys department modelling of collective defined contribution schemes. Dec 2009. 21 p. II. Collective defined contribution schemes: an assessment of whether and how collective defined contribution schemes might operate in the UK. 13 p. III. Dear colleague letter dated 14/12/2009 from Angela Eagle MP depositing collection defined contribution scheme documents. 1 p.",
   "department" : "Dept for Work and Pensions"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2824.xls"
-  "year" : "2009"
-  "description" : "Table showing the estimated costs for schemes and spend on them as at the end of October 2009. 2 p."
+  "deposited_date" : "12/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2824.xls",
+  "year" : "2009",
+  "description" : "Table showing the estimated costs for schemes and spend on them as at the end of October 2009. 2 p.",
   "department" : "Dept for Transport"
 }

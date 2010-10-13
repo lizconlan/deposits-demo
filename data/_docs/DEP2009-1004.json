@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "31/03/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1004.pdf"
-  "year" : "2009"
-  "description" : "Regulatory Reform (Fire Safety) Order 2005 : guidance note 3 : fire safety on sub-surface railway stations. 68 p."
+  "deposited_date" : "31/03/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1004.pdf",
+  "year" : "2009",
+  "description" : "Regulatory Reform (Fire Safety) Order 2005 : guidance note 3 : fire safety on sub-surface railway stations. 68 p.",
   "department" : "Dept for Communities and Local Government"
 }

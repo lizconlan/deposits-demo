@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/05/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1227.zip"
-  "year" : "2008"
-  "description" : "Tables for the senior salaries review body (SSRB) showing salaries for officers in each service for the senior salaries review body (SSRB) from 1994 to 1998 and 2003/04. 24 p."
+  "deposited_date" : "12/05/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1227.zip",
+  "year" : "2008",
+  "description" : "Tables for the senior salaries review body (SSRB) showing salaries for officers in each service for the senior salaries review body (SSRB) from 1994 to 1998 and 2003/04. 24 p.",
   "department" : "Ministry of Defence"
 }

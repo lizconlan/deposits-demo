@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0740.xls"
-  "year" : "2010"
-  "description" : "Tables showing the number and percentage of pupils in English maintained primary and state-funded secondary schools who are gifted and talented, as at January, broken down by local authority and government office region from 2006 to 2009. 16 p."
+  "deposited_date" : "10/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0740.xls",
+  "year" : "2010",
+  "description" : "Tables showing the number and percentage of pupils in English maintained primary and state-funded secondary schools who are gifted and talented, as at January, broken down by local authority and government office region from 2006 to 2009. 16 p.",
   "department" : "Department for Children, Schools and Families"
 }

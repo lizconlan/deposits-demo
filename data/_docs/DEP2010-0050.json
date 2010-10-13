@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/01/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0050.doc"
-  "year" : "2010"
-  "description" : "UK National Programme for the 2010 European Year for Combating Poverty and Social Exclusion. 16 p."
+  "deposited_date" : "05/01/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0050.doc",
+  "year" : "2010",
+  "description" : "UK National Programme for the 2010 European Year for Combating Poverty and Social Exclusion. 16 p.",
   "department" : "Department for Work and Pensions"
 }

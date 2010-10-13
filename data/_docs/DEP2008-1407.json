@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/06/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1407.pdf"
-  "year" : "2008"
-  "description" : "Towards a strategy to support volunteering in health and social care: consultation paper. 56 p."
+  "deposited_date" : "03/06/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1407.pdf",
+  "year" : "2008",
+  "description" : "Towards a strategy to support volunteering in health and social care: consultation paper. 56 p.",
   "department" : "Dept of Health"
 }

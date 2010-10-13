@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "11/01/2008"
-  "legislature" : Lords
-  "legislation" : "Children and Young Persons Bill (HL) 2007-08"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0074.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 07/01/2008 from Lord Adonis to Lord Goodhart regarding the government response to the recommendations of the Delegated Powers and Regulatory Reform Committee on the Children and Young Persons Bill."
+  "deposited_date" : "11/01/2008",
+  "legislature" : ["Lords"],
+  "legislation" : "Children and Young Persons Bill (HL) 2007-08",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0074.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 07/01/2008 from Lord Adonis to Lord Goodhart regarding the government response to the recommendations of the Delegated Powers and Regulatory Reform Committee on the Children and Young Persons Bill.",
   "department" : "Dept for Children Schools and Families"
 }

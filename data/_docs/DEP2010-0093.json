@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "13/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0093.xls"
-  "year" : "2010"
-  "description" : "Table showing count of admissions and discharges to and from hospital where there was a primary or secondary diagnosis of malnutrition, broken down by month and NHS Trust from (provisional) April to August 2009 data. 10 p."
+  "deposited_date" : "13/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0093.xls",
+  "year" : "2010",
+  "description" : "Table showing count of admissions and discharges to and from hospital where there was a primary or secondary diagnosis of malnutrition, broken down by month and NHS Trust from (provisional) April to August 2009 data. 10 p.",
   "department" : "Department of Health"
 }

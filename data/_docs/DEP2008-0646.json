@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0646.doc"
-  "year" : "2008"
-  "description" : "List showing Local Authorities that had transferred all of their housing stock by 12 December 2007 and will meet the decent homes standard by 2010. 9 p."
+  "deposited_date" : "05/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0646.doc",
+  "year" : "2008",
+  "description" : "List showing Local Authorities that had transferred all of their housing stock by 12 December 2007 and will meet the decent homes standard by 2010. 9 p.",
   "department" : "Dept for Communities and Local Government"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0061.zip"
-  "year" : "2010"
-  "description" : "Letter dated 16/12/2009 from Yvette Cooper MP to Richard Tilt, Chairman, regarding Housing Benefit amendment. 26 p."
+  "deposited_date" : "11/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0061.zip",
+  "year" : "2010",
+  "description" : "Letter dated 16/12/2009 from Yvette Cooper MP to Richard Tilt, Chairman, regarding Housing Benefit amendment. 26 p.",
   "department" : "Department for Work and Pensions"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/06/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1270.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 07/06/2010 from Michael Gove MP to Ed Balls MP regarding Department for Education spending. Incl. annexes. 5 p."
+  "deposited_date" : "07/06/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1270.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 07/06/2010 from Michael Gove MP to Ed Balls MP regarding Department for Education spending. Incl. annexes. 5 p.",
   "department" : "Department for Education"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/04/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1190.xls"
-  "year" : "2010"
-  "description" : "Table showing the number of pupils in maintained primary and state-funded secondary schools in each (i) constituency and (ii) local authority area in (A) 1997 and (B) 2009. 11 p."
+  "deposited_date" : "07/04/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1190.xls",
+  "year" : "2010",
+  "description" : "Table showing the number of pupils in maintained primary and state-funded secondary schools in each (i) constituency and (ii) local authority area in (A) 1997 and (B) 2009. 11 p.",
   "department" : "Department for Children, Schools and Families"
 }

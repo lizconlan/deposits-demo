@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0278.xls"
-  "year" : "2009"
-  "description" : "Table showing emergency readmissions to hospital within 28 days of discharge for each year from 2002/03 to 2006/07, broken down by age-range and by primary care trust. 25 p."
+  "deposited_date" : "29/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0278.xls",
+  "year" : "2009",
+  "description" : "Table showing emergency readmissions to hospital within 28 days of discharge for each year from 2002/03 to 2006/07, broken down by age-range and by primary care trust. 25 p.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1638.xls"
-  "year" : "2008"
-  "description" : "Table showing the DCMS (a) chart of accounts and (b) resource account codes and usage descriptions for the 2008/09 financial year. 26 p."
+  "deposited_date" : "19/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1638.xls",
+  "year" : "2008",
+  "description" : "Table showing the DCMS (a) chart of accounts and (b) resource account codes and usage descriptions for the 2008/09 financial year. 26 p.",
   "department" : "Dept for Culture Media and Sport"
 }

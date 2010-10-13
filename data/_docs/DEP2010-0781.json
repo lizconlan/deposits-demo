@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0781.pdf"
-  "year" : "2010"
-  "description" : "Regulating the sale and rent back market: summary of responses to consultation. 48 p."
+  "deposited_date" : "22/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0781.pdf",
+  "year" : "2010",
+  "description" : "Regulating the sale and rent back market: summary of responses to consultation. 48 p.",
   "department" : "Treasury"
 }

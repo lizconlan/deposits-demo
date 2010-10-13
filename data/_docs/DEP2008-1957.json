@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1957.xls"
-  "year" : "2008"
-  "description" : "Table showing NHS hospital and community health services qualified mental health nurses broken down by area and organisation as at 30 September for the each year from 2003 to 2006-07. 7 p."
+  "deposited_date" : "16/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1957.xls",
+  "year" : "2008",
+  "description" : "Table showing NHS hospital and community health services qualified mental health nurses broken down by area and organisation as at 30 September for the each year from 2003 to 2006-07. 7 p.",
   "department" : "Dept of Health"
 }

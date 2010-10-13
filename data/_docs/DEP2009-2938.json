@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2938.zip"
-  "year" : "2009"
-  "description" : "Tables showing the number and proportion of breast cancer cases diagnosed through the non-urgent referral route, screening and urgent referral route in England, each cancer network area and each primary care trust area from 2003/04 to 2007/08. 2 p."
+  "deposited_date" : "23/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2938.zip",
+  "year" : "2009",
+  "description" : "Tables showing the number and proportion of breast cancer cases diagnosed through the non-urgent referral route, screening and urgent referral route in England, each cancer network area and each primary care trust area from 2003/04 to 2007/08. 2 p.",
   "department" : "Dept of Health"
 }

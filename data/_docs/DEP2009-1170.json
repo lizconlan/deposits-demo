@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/04/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1170.pdf"
-  "year" : "2009"
-  "description" : "User-led Organisations Project: Policy. 30 p."
+  "deposited_date" : "21/04/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1170.pdf",
+  "year" : "2009",
+  "description" : "User-led Organisations Project: Policy. 30 p.",
   "department" : "Dept of Health"
 }

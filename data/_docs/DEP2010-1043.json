@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1043.zip"
-  "year" : "2010"
-  "description" : "I. The Royal Parks first stakeholder audit. Nov 2008. 18 p. II. The Royal Parks second stakeholder audit. Feb 2009. 18 p. III. The Royal Parks third stakeholder audit. Oct 2009. 18 p."
+  "deposited_date" : "30/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1043.zip",
+  "year" : "2010",
+  "description" : "I. The Royal Parks first stakeholder audit. Nov 2008. 18 p. II. The Royal Parks second stakeholder audit. Feb 2009. 18 p. III. The Royal Parks third stakeholder audit. Oct 2009. 18 p.",
   "department" : "Department for Culture, Media and Sport"
 }

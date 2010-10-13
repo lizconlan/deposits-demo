@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "21/11/2007"
-  "legislature" : Commons
-  "legislation" : "Compensation Act 2006"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0118.zip"
-  "year" : "2007"
-  "description" : "I. Letter dated 13/11/2007 from Bridget Prentice MP to John Mann MP regarding claims management regulation. II. Claims management services regulation: impact of regulation, initial assessment. 26 p."
+  "deposited_date" : "21/11/2007",
+  "legislature" : ["Commons"],
+  "legislation" : "Compensation Act 2006",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0118.zip",
+  "year" : "2007",
+  "description" : "I. Letter dated 13/11/2007 from Bridget Prentice MP to John Mann MP regarding claims management regulation. II. Claims management services regulation: impact of regulation, initial assessment. 26 p.",
   "department" : "Ministry of Justice"
 }

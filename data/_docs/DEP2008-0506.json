@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/02/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0506.pdf"
-  "year" : "2008"
-  "description" : "Government response to the House of Lords Select Committee on regulators - report on UK economic regulators. 24 p."
+  "deposited_date" : "21/02/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0506.pdf",
+  "year" : "2008",
+  "description" : "Government response to the House of Lords Select Committee on regulators - report on UK economic regulators. 24 p.",
   "department" : "Dept for Business Enterprise and Regulatory Reform"
 }

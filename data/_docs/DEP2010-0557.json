@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0557.doc"
-  "year" : "2010"
-  "description" : "Table showing the number of times sanctions available for jobseeker's allowance has been used in each year since 2000, including those that are available in relation to compulsory employment or training programmes. 5 p."
+  "deposited_date" : "02/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0557.doc",
+  "year" : "2010",
+  "description" : "Table showing the number of times sanctions available for jobseeker's allowance has been used in each year since 2000, including those that are available in relation to compulsory employment or training programmes. 5 p.",
   "department" : "Department for Work and Pensions"
 }

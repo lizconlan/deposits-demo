@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/03/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0842.zip"
-  "year" : "2010"
-  "description" : "I. Letter dated 11/03/2010 from Katie Pettifer (Northern Ireland Office) to Peter O'Neill (Chief Executive, Northern Ireland Human Rights Commission) regarding the 2010/11 budget allocation. 2 p. II. Correspondence dated 15/02/2010 and 19/02/2010 between Paul Goggins MP and Prof. Monica McWilliams (Chief Commissioner, NIHRC) regarding the accommodation of under 18 year old boys in Hydebank Wood Young Offenders Centre. 4 p. III. Letter [undated and names redacted] regarding proposals to regrade posts at the Northern Ireland Human Rights Commission following job evaluation. 7 p. IV. Correspondence dated 23/02/2010 and 24/02/2010 between Prof. Monica McWilliams to Jonathan Phillips (NIO) regarding budget allocation. 3 p."
+  "deposited_date" : "24/03/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0842.zip",
+  "year" : "2010",
+  "description" : "I. Letter dated 11/03/2010 from Katie Pettifer (Northern Ireland Office) to Peter O'Neill (Chief Executive, Northern Ireland Human Rights Commission) regarding the 2010/11 budget allocation. 2 p. II. Correspondence dated 15/02/2010 and 19/02/2010 between Paul Goggins MP and Prof. Monica McWilliams (Chief Commissioner, NIHRC) regarding the accommodation of under 18 year old boys in Hydebank Wood Young Offenders Centre. 4 p. III. Letter [undated and names redacted] regarding proposals to regrade posts at the Northern Ireland Human Rights Commission following job evaluation. 7 p. IV. Correspondence dated 23/02/2010 and 24/02/2010 between Prof. Monica McWilliams to Jonathan Phillips (NIO) regarding budget allocation. 3 p.",
   "department" : "Northern Ireland Office"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/03/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0985.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 30/03/2010 from Baroness Crawley to Lord Smith of Clifton regarding the draft Charities (Disclosure of Revenue and Customs Information to the Charity Commission for Northern Ireland) Regulations 2010. 2 p."
+  "deposited_date" : "30/03/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0985.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 30/03/2010 from Baroness Crawley to Lord Smith of Clifton regarding the draft Charities (Disclosure of Revenue and Customs Information to the Charity Commission for Northern Ireland) Regulations 2010. 2 p.",
   "department" : "Whips Office"
 }

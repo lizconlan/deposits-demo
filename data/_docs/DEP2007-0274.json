@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/12/2007"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0274.pdf"
-  "year" : "2007"
-  "description" : "An anonymised copy of the covering letter dated 10/05/2006 from Consular Assistant regarding the return of Nepalese passports and certificates of British nationals of Nepalese origin. 1 p."
+  "deposited_date" : "10/12/2007",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0274.pdf",
+  "year" : "2007",
+  "description" : "An anonymised copy of the covering letter dated 10/05/2006 from Consular Assistant regarding the return of Nepalese passports and certificates of British nationals of Nepalese origin. 1 p.",
   "department" : "Foreign and Commonwealth Office"
 }

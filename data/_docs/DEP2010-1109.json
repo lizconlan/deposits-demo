@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1109.pdf"
-  "year" : "2010"
-  "description" : "Response from DCMS regarding any Arts Council England works of art stolen from 2005 to 2009. 1 p."
+  "deposited_date" : "12/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1109.pdf",
+  "year" : "2010",
+  "description" : "Response from DCMS regarding any Arts Council England works of art stolen from 2005 to 2009. 1 p.",
   "department" : "Department for Culture, Media and Sport"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/04/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1230.xls"
-  "year" : "2009"
-  "description" : "Table showing the number of second homes in each local authority by council tax band for the years 2004 to 2008. 35 p."
+  "deposited_date" : "27/04/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1230.xls",
+  "year" : "2009",
+  "description" : "Table showing the number of second homes in each local authority by council tax band for the years 2004 to 2008. 35 p.",
   "department" : "Dept for Communities and Local Government"
 }

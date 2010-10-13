@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/12/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3038.zip"
-  "year" : "2008"
-  "description" : "I. Dear Colleague letter dated 31/07/2008 from Christine Beasley, Chief Nursing Officer, regarding MRSA screening. 4 p. II. Saving Lives: reducing infection, delivering clean and safe care. Screening for meticillin-resistant Staphylococcus aureus (MRSA) colonisation. A strategy for NHS trusts: a summary of best practice. 6 p."
+  "deposited_date" : "10/12/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3038.zip",
+  "year" : "2008",
+  "description" : "I. Dear Colleague letter dated 31/07/2008 from Christine Beasley, Chief Nursing Officer, regarding MRSA screening. 4 p. II. Saving Lives: reducing infection, delivering clean and safe care. Screening for meticillin-resistant Staphylococcus aureus (MRSA) colonisation. A strategy for NHS trusts: a summary of best practice. 6 p.",
   "department" : "Dept of Health"
 }

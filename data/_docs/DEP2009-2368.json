@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/09/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2368.zip"
-  "year" : "2009"
-  "description" : "I. Exchange of letters between the Government of the United Kingdom and the Government of Anguilla, Gibraltar, Turks and Caicos Islands, concerning an arrangement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Anguilla, Gibraltar, Turks and Caicos Islands for the exchange of information relating to taxes. 15 p, 13 p and 15 p respectively. II. Protocol to the UK/Singapore double taxation agreement signed in Singapore on 24 August 2009. 3 p. III. Protocol to the UK/Switzerland double taxation agreement signed in London on 7 September 2009. 8 p. IV. Agreement between the United Kingdom and the Principality of Liechtenstein on tax information exchange signed in Vaduz on 11 August 2009. 14 p."
+  "deposited_date" : "14/09/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2368.zip",
+  "year" : "2009",
+  "description" : "I. Exchange of letters between the Government of the United Kingdom and the Government of Anguilla, Gibraltar, Turks and Caicos Islands, concerning an arrangement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Anguilla, Gibraltar, Turks and Caicos Islands for the exchange of information relating to taxes. 15 p, 13 p and 15 p respectively. II. Protocol to the UK/Singapore double taxation agreement signed in Singapore on 24 August 2009. 3 p. III. Protocol to the UK/Switzerland double taxation agreement signed in London on 7 September 2009. 8 p. IV. Agreement between the United Kingdom and the Principality of Liechtenstein on tax information exchange signed in Vaduz on 11 August 2009. 14 p.",
   "department" : "Treasury"
 }

@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "29/01/2010"
-  "legislature" : Lords
-  "legislation" : "Equality Bill 2009-10"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0263.pdf"
-  "year" : "2010"
-  "description" : "Letters dated 28/01/2010 from Baroness Royall to Lord Lea of Crondall and Lord Low of Dalston regarding the Equality Bill 2009-10. 2 p."
+  "deposited_date" : "29/01/2010",
+  "legislature" : ["Lords"],
+  "legislation" : "Equality Bill 2009-10",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0263.pdf",
+  "year" : "2010",
+  "description" : "Letters dated 28/01/2010 from Baroness Royall to Lord Lea of Crondall and Lord Low of Dalston regarding the Equality Bill 2009-10. 2 p.",
   "department" : "Cabinet Office"
 }

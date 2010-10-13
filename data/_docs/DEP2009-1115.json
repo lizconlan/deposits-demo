@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/04/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1115.zip"
-  "year" : "2009"
-  "description" : "Tables showing a) list of plant that have opted to take the Emissions Limit Value (ELV) approach to Large Combustion Plant Directive (LCPD) implementation and the plant that have opted for a limited-life derogation and b) list of plant showing contribution to emission bubbles under a National Plan, December 2007. 10 p."
+  "deposited_date" : "14/04/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1115.zip",
+  "year" : "2009",
+  "description" : "Tables showing a) list of plant that have opted to take the Emissions Limit Value (ELV) approach to Large Combustion Plant Directive (LCPD) implementation and the plant that have opted for a limited-life derogation and b) list of plant showing contribution to emission bubbles under a National Plan, December 2007. 10 p.",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

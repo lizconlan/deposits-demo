@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0203.zip"
-  "year" : "2008"
-  "description" : "I. Capital gains tax (CGT): relief on disposal of a business (entrepreneurs' relief). 3 p. II. Finance Bill 2008 schedules: capital gains tax reforms. 16 p. III. Questions and answers on the CGT reform announced at pre-budget report 2007. 5 p. IV. Finance Bill 2008: draft explanatory note on draft clause and schedule for capital gains tax reforms. 18 p. IV."
+  "deposited_date" : "24/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0203.zip",
+  "year" : "2008",
+  "description" : "I. Capital gains tax (CGT): relief on disposal of a business (entrepreneurs' relief). 3 p. II. Finance Bill 2008 schedules: capital gains tax reforms. 16 p. III. Questions and answers on the CGT reform announced at pre-budget report 2007. 5 p. IV. Finance Bill 2008: draft explanatory note on draft clause and schedule for capital gains tax reforms. 18 p. IV.",
   "department" : "Revenue and Customs Treasury"
 }

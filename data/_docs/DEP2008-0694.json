@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0694.doc"
-  "year" : "2008"
-  "description" : "Tables showing the number of visits to constituencies by regional ministers. 4 p."
+  "deposited_date" : "10/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0694.doc",
+  "year" : "2008",
+  "description" : "Tables showing the number of visits to constituencies by regional ministers. 4 p.",
   "department" : "Dept for Communities and Local Government"
 }

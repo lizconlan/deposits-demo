@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "28/10/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2644.zip"
-  "year" : "2009"
-  "description" : "I. Crown Court Means Testing. Draft Regulations. Response to Consultation. 38 p. II. Crown Court Means Testing. Supplementary Impact Assessment. 36 p."
+  "deposited_date" : "28/10/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2644.zip",
+  "year" : "2009",
+  "description" : "I. Crown Court Means Testing. Draft Regulations. Response to Consultation. 38 p. II. Crown Court Means Testing. Supplementary Impact Assessment. 36 p.",
   "department" : "Ministry of Justice"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/07/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1964.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 10/07/2009 from Baroness Thornton to Lord Avebury regarding actions to improve participation in education by teenage Gypsy, Roma and traveller children. 4 p."
+  "deposited_date" : "10/07/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1964.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 10/07/2009 from Baroness Thornton to Lord Avebury regarding actions to improve participation in education by teenage Gypsy, Roma and traveller children. 4 p.",
   "department" : "Dept for Children, Schools and Families"
 }

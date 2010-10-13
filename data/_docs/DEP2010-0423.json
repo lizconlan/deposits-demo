@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0423.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 08/02/2010 from Geoff Russell (Chief Executive, Learning and Skills Council) to Ashok Kumar MP regarding students in (a) England, (b) the North East and (c) Middlesbrough and (d) Redcar and Cleveland constituency received education maintenance allowance from 2004 to 2009. Incl. table. 1 p."
+  "deposited_date" : "02/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0423.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 08/02/2010 from Geoff Russell (Chief Executive, Learning and Skills Council) to Ashok Kumar MP regarding students in (a) England, (b) the North East and (c) Middlesbrough and (d) Redcar and Cleveland constituency received education maintenance allowance from 2004 to 2009. Incl. table. 1 p.",
   "department" : "Department for Children, Schools and Families"
 }

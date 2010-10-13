@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "30/03/2009"
-  "legislature" : Lords
-  "legislation" : "Postal Services Bill (HL) 2008-09 Transfer of Undertakings (Protection of Employment) Regulations 2006"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1000.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 30/03/2009 from Lord Tunnicliffe to Lord Hunt of Wirral regarding clauses of the Postal Services Bill which relate to transfer of assets and employment protection. 10 p."
+  "deposited_date" : "30/03/2009",
+  "legislature" : ["Lords"],
+  "legislation" : "Postal Services Bill (HL) 2008-09 Transfer of Undertakings (Protection of Employment) Regulations 2006",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1000.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 30/03/2009 from Lord Tunnicliffe to Lord Hunt of Wirral regarding clauses of the Postal Services Bill which relate to transfer of assets and employment protection. 10 p.",
   "department" : "Dept for Business, Enterprise and Regulatory Reform"
 }

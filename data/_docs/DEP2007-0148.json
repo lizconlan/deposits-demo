@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/11/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0148.tif"
-  "year" : "2007"
-  "description" : "Letter dated 21/11/2007 from Bob Ainsworth MP to Liam Fox MP regarding the procurement costs. 2 p."
+  "deposited_date" : "26/11/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0148.tif",
+  "year" : "2007",
+  "description" : "Letter dated 21/11/2007 from Bob Ainsworth MP to Liam Fox MP regarding the procurement costs. 2 p.",
   "department" : "Ministry of Defence"
 }

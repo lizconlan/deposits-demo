@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1012.doc"
-  "year" : "2010"
-  "description" : "Table showing data, broken down by year and local authority area, on the number of consent to dispose of statutory allotments applications which were submitted, granted and refused from 1 January 2000 until 31 December 2009. 27 p."
+  "deposited_date" : "30/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1012.doc",
+  "year" : "2010",
+  "description" : "Table showing data, broken down by year and local authority area, on the number of consent to dispose of statutory allotments applications which were submitted, granted and refused from 1 January 2000 until 31 December 2009. 27 p.",
   "department" : "Communities and Local Government"
 }

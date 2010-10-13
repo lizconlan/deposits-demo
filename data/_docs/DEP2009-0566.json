@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/02/2009"
-  "legislature" : Commons
-  "notes" : "Available in hard copy only from the Commons and Lords libraries."
-  "year" : "2009"
-  "description" : "Regulation of enforcement agents : responses to consultation paper [unnumbered pages]."
+  "deposited_date" : "25/02/2009",
+  "legislature" : ["Commons"],
+  "notes" : "Available in hard copy only from the Commons and Lords libraries.",
+  "year" : "2009",
+  "description" : "Regulation of enforcement agents : responses to consultation paper [unnumbered pages].",
   "department" : "Ministry of Justice"
 }

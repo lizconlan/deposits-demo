@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/05/2007"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2142.zip"
-  "year" : "2008"
-  "description" : "Letter dated 27/04/2008 from Christine Gilbert, Chief Inspector, to Nick Gibb MP regarding lessons that were setted and banded. Includes tables."
+  "deposited_date" : "03/05/2007",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2142.zip",
+  "year" : "2008",
+  "description" : "Letter dated 27/04/2008 from Christine Gilbert, Chief Inspector, to Nick Gibb MP regarding lessons that were setted and banded. Includes tables.",
   "department" : "Dept for Children Schools and Families Office for Standards in Education Children's Services and Skills"
 }

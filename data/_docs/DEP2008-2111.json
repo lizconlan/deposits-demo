@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "16/07/2008"
-  "legislature" : CommonsLords
-  "legislation" : "Education and Skills Bill 2007-08"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2111.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 16/07/2008 from Lord Adonis to Richard Solly, Traveller Law Reform Project, regarding flexibility for post 16 education and training when participation is raised to 17 in 2013 and 18 in 2015. 6 p."
+  "deposited_date" : "16/07/2008",
+  "legislature" : ["Commons","Lords"],
+  "legislation" : "Education and Skills Bill 2007-08",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2111.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 16/07/2008 from Lord Adonis to Richard Solly, Traveller Law Reform Project, regarding flexibility for post 16 education and training when participation is raised to 17 in 2013 and 18 in 2015. 6 p.",
   "department" : "Dept for Children Schools and Families"
 }

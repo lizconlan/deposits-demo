@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0702.xls"
-  "year" : "2009"
-  "description" : "Table showing number of admissions and discharges in hospital where a patient had a primary or secondary diagnosis of (i) malnutrition, (ii) nutritional anaemias and (iii) other nutritional deficiencies in NHS trusts in each year between 1997/98 and 2007/08, (A) in total and (B) broken down by NHS trust. 51 p."
+  "deposited_date" : "09/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0702.xls",
+  "year" : "2009",
+  "description" : "Table showing number of admissions and discharges in hospital where a patient had a primary or secondary diagnosis of (i) malnutrition, (ii) nutritional anaemias and (iii) other nutritional deficiencies in NHS trusts in each year between 1997/98 and 2007/08, (A) in total and (B) broken down by NHS trust. 51 p.",
   "department" : "Dept of Health"
 }

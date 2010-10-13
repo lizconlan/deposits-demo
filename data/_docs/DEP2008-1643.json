@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1643.tif"
-  "year" : "2008"
-  "description" : "Letter dated 23/06/2008 from Des Browne MP to Liam Fox MP regarding MOD estate in Northern Ireland. 1 p."
+  "deposited_date" : "23/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1643.tif",
+  "year" : "2008",
+  "description" : "Letter dated 23/06/2008 from Des Browne MP to Liam Fox MP regarding MOD estate in Northern Ireland. 1 p.",
   "department" : "Ministry of Defence"
 }

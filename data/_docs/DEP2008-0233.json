@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "28/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0233.tif"
-  "year" : "2008"
-  "description" : "Letter dated 28/01/2008 from Tom Harris MP to Susan Kramer MP correcting an answer to a written question regarding the cost changes to the Highways Agency's major roads programme."
+  "deposited_date" : "28/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0233.tif",
+  "year" : "2008",
+  "description" : "Letter dated 28/01/2008 from Tom Harris MP to Susan Kramer MP correcting an answer to a written question regarding the cost changes to the Highways Agency's major roads programme.",
   "department" : "Dept for Transport"
 }

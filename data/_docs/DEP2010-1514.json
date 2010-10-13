@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/07/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1514.tif"
-  "year" : "2010"
-  "description" : "Letter dated 24/06/2010 from Mike Penning MP to local authorities regarding road safety. 2 p."
+  "deposited_date" : "20/07/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1514.tif",
+  "year" : "2010",
+  "description" : "Letter dated 24/06/2010 from Mike Penning MP to local authorities regarding road safety. 2 p.",
   "department" : "Department for Transport"
 }

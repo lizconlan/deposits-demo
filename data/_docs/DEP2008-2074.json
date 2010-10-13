@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2074.xls"
-  "year" : "2008"
-  "description" : "I. Table showing number of defendants proceeded against at magistrates' courts for various motoring offences, Essex police force area 2005 and 2006. II. Table showing number of defendants proceeded against at magistrates' courts for various motoring offences, England 2005 and 2006. III. Table showing number of defendants found guilty at all courts for various motoring offences, Essex police force area 2005 and 2006. IV. Table showing number of defendants found guilty at all courts for various motoring offences, England 2005 and 2006."
+  "deposited_date" : "22/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2074.xls",
+  "year" : "2008",
+  "description" : "I. Table showing number of defendants proceeded against at magistrates' courts for various motoring offences, Essex police force area 2005 and 2006. II. Table showing number of defendants proceeded against at magistrates' courts for various motoring offences, England 2005 and 2006. III. Table showing number of defendants found guilty at all courts for various motoring offences, Essex police force area 2005 and 2006. IV. Table showing number of defendants found guilty at all courts for various motoring offences, England 2005 and 2006.",
   "department" : "Ministry of Justice"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1011.zip"
-  "year" : "2010"
-  "description" : "Copies of 56 of the appeal decisions for wind farms. 56 docs."
+  "deposited_date" : "30/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1011.zip",
+  "year" : "2010",
+  "description" : "Copies of 56 of the appeal decisions for wind farms. 56 docs.",
   "department" : "Communities and Local Government"
 }

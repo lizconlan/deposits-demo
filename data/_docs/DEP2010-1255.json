@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/05/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1255.pdf"
-  "year" : "2010"
-  "description" : "Prescription Charges Review: Implementing Exemption from Prescription Charges for People with Long Term Conditions. 40 p."
+  "deposited_date" : "27/05/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1255.pdf",
+  "year" : "2010",
+  "description" : "Prescription Charges Review: Implementing Exemption from Prescription Charges for People with Long Term Conditions. 40 p.",
   "department" : "Department of Health"
 }

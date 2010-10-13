@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1796.zip"
-  "year" : "2008"
-  "description" : "Support documentation for electronic billing, including billing authority file transfer. 14 p."
+  "deposited_date" : "03/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1796.zip",
+  "year" : "2008",
+  "description" : "Support documentation for electronic billing, including billing authority file transfer. 14 p.",
   "department" : "Valuation Office Dept for Communities and Local Government"
 }

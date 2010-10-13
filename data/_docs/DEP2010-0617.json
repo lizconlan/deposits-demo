@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/03/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0617.zip"
-  "year" : "2010"
-  "description" : "I. Improving bus passenger services through the regulatory framework. Consultation paper. Incl. annexes. 37 p. II. Impact assessment of changing the registration of local bus service rules. Version 2. 16 Feb 2010. 5 p. III. Impact assessment of updating conduct regulations for drivers and passengers. Version 2. 16 Feb 2010. 7 p. IV. Impact assessment of 'general rules' under EU legislation. Version 1. 18 Feb 2010. 6 p. V. Impact assessment of alterations to the bus subsidy de minimis provisions. Version 1. 18 Feb 2010. 8 p."
+  "deposited_date" : "09/03/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0617.zip",
+  "year" : "2010",
+  "description" : "I. Improving bus passenger services through the regulatory framework. Consultation paper. Incl. annexes. 37 p. II. Impact assessment of changing the registration of local bus service rules. Version 2. 16 Feb 2010. 5 p. III. Impact assessment of updating conduct regulations for drivers and passengers. Version 2. 16 Feb 2010. 7 p. IV. Impact assessment of 'general rules' under EU legislation. Version 1. 18 Feb 2010. 6 p. V. Impact assessment of alterations to the bus subsidy de minimis provisions. Version 1. 18 Feb 2010. 8 p.",
   "department" : "Department for Transport"
 }

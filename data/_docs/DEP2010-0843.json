@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/12/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0843.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 17/03/2010 from Jack Straw MP to Dominic Grieve MP regarding Henry VIII powers in legislation enacted in 2008-09 parliamentary session. 2 p."
+  "deposited_date" : "08/12/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0843.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 17/03/2010 from Jack Straw MP to Dominic Grieve MP regarding Henry VIII powers in legislation enacted in 2008-09 parliamentary session. 2 p.",
   "department" : "Ministry of Justice"
 }

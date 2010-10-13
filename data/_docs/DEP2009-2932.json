@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2932.xls"
-  "year" : "2009"
-  "description" : "Table showing Repossessions and repossession prevention: mortgage rescue scheme monitoring statistics, households approaching their local authority and fast-track referrals from Jan to Sept 2009. 5 p."
+  "deposited_date" : "23/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2932.xls",
+  "year" : "2009",
+  "description" : "Table showing Repossessions and repossession prevention: mortgage rescue scheme monitoring statistics, households approaching their local authority and fast-track referrals from Jan to Sept 2009. 5 p.",
   "department" : "Dept for Communities and Local Government"
 }

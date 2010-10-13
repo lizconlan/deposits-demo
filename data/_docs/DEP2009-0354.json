@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/02/2009"
-  "legislature" : Commons
-  "notes" : "Hard-copy only available, in the Lords and Commons Libraries."
-  "year" : "2009"
-  "description" : "OS MasterMap® : Topography Layer, Address Layer 2, Integrated Transport Layer, Imagery Layer, Land-Form PROFILE® Plus, Code-Point® with Polygons and Boundary-Line, Locator, wallet with 5 microfilm slides, and introductory pamphlet."
+  "deposited_date" : "05/02/2009",
+  "legislature" : ["Commons"],
+  "notes" : "Hard-copy only available, in the Lords and Commons Libraries.",
+  "year" : "2009",
+  "description" : "OS MasterMap® : Topography Layer, Address Layer 2, Integrated Transport Layer, Imagery Layer, Land-Form PROFILE® Plus, Code-Point® with Polygons and Boundary-Line, Locator, wallet with 5 microfilm slides, and introductory pamphlet.",
   "department" : "Dept for Communities and Local Government Ordnance Survey"
 }

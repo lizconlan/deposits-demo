@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/04/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1080.pdf"
-  "year" : "2008"
-  "description" : "Local government pension scheme (LGPS) in England and Wales. [Information leaflet]. 8 p."
+  "deposited_date" : "23/04/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1080.pdf",
+  "year" : "2008",
+  "description" : "Local government pension scheme (LGPS) in England and Wales. [Information leaflet]. 8 p.",
   "department" : "Dept of Health"
 }

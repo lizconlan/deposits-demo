@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/04/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1040.xls"
-  "year" : "2008"
-  "description" : "Table showing attendance at specified National School of Government courses by personnel of government departments and their agencies for 2007/08. 2 p."
+  "deposited_date" : "21/04/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1040.xls",
+  "year" : "2008",
+  "description" : "Table showing attendance at specified National School of Government courses by personnel of government departments and their agencies for 2007/08. 2 p.",
   "department" : "Dept for Work and Pensions"
 }

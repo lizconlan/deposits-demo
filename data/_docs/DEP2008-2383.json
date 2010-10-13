@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2383.doc"
-  "year" : "2008"
-  "description" : "Cabinet Office payments to the Government Carbon Offsetting Fund (GCOF). 1 p."
+  "deposited_date" : "15/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2383.doc",
+  "year" : "2008",
+  "description" : "Cabinet Office payments to the Government Carbon Offsetting Fund (GCOF). 1 p.",
   "department" : "Cabinet Office"
 }

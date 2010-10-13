@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/08/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2171.doc"
-  "year" : "2008"
-  "description" : "Table showing number of licensed cars by CO2 emission band as at 31st December 2007, broken down by date of first registration and local authority. 3 p."
+  "deposited_date" : "27/08/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2171.doc",
+  "year" : "2008",
+  "description" : "Table showing number of licensed cars by CO2 emission band as at 31st December 2007, broken down by date of first registration and local authority. 3 p.",
   "department" : "Dept for Transport"
 }

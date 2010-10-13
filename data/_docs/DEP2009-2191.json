@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/07/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2191.tif"
-  "year" : "2009"
-  "description" : "Letter dated 24 July 2009 from Rt Hon Baroness Ann Taylor to Rt Hon Lord Morris of Manchester on the use of Nerve Agent Pre-Treatment Sets (NAPs) tablets, co-administration and consultation with the Committee on the Safety of Medicines. 2 p."
+  "deposited_date" : "24/07/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2191.tif",
+  "year" : "2009",
+  "description" : "Letter dated 24 July 2009 from Rt Hon Baroness Ann Taylor to Rt Hon Lord Morris of Manchester on the use of Nerve Agent Pre-Treatment Sets (NAPs) tablets, co-administration and consultation with the Committee on the Safety of Medicines. 2 p.",
   "department" : "Ministry of Defence"
 }

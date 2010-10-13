@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/06/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1747.pdf"
-  "year" : "2009"
-  "description" : "Minutes of the 49th meeting of the Steering Committee on Harmonisation (practice and procedure) England/Wales, Scotland, Northern Ireland and the Republic of Ireland, held on 6 -7 May 2009. 11 p."
+  "deposited_date" : "17/06/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1747.pdf",
+  "year" : "2009",
+  "description" : "Minutes of the 49th meeting of the Steering Committee on Harmonisation (practice and procedure) England/Wales, Scotland, Northern Ireland and the Republic of Ireland, held on 6 -7 May 2009. 11 p.",
   "department" : "Treasury"
 }

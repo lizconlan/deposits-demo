@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/07/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2346.zip"
-  "year" : "2009"
-  "description" : "Letters [not dated] from Cabinet Office to CSAVC members regarding pensions. 6 p."
+  "deposited_date" : "07/07/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2346.zip",
+  "year" : "2009",
+  "description" : "Letters [not dated] from Cabinet Office to CSAVC members regarding pensions. 6 p.",
   "department" : "Cabinet Office"
 }

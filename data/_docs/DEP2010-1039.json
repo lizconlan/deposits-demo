@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/02/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1039.zip"
-  "year" : "2010"
-  "description" : "I. Electoral Commission recommendations since the 2005 UK Parliamentary general election. 19 p. II. Letter dated 31/03/2010 from Lord Bach to Lord Naseby regarding Electoral Commission recommendations. 1 p."
+  "deposited_date" : "23/02/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1039.zip",
+  "year" : "2010",
+  "description" : "I. Electoral Commission recommendations since the 2005 UK Parliamentary general election. 19 p. II. Letter dated 31/03/2010 from Lord Bach to Lord Naseby regarding Electoral Commission recommendations. 1 p.",
   "department" : "Ministry of Justice"
 }

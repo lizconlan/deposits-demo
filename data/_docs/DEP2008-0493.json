@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/02/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0493.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 20/02/2008 from Alistair Darling MP to Vincent Cable MP regarding the Granite Trust. Includes a technical note. 5 p."
+  "deposited_date" : "20/02/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0493.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 20/02/2008 from Alistair Darling MP to Vincent Cable MP regarding the Granite Trust. Includes a technical note. 5 p.",
   "department" : "Treasury"
 }

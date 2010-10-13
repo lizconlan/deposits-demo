@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0954.pdf"
-  "year" : "2010"
-  "description" : "Cancer Reform Strategy: Achieving local implementationsecond annual report. 88 p."
+  "deposited_date" : "29/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0954.pdf",
+  "year" : "2010",
+  "description" : "Cancer Reform Strategy: Achieving local implementationsecond annual report. 88 p.",
   "department" : "Department of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0838.pdf"
-  "year" : "2009"
-  "description" : "Health service circular: better blood transfusion, safe and appropriate use of blood. HSC 2007/001. 23 p."
+  "deposited_date" : "16/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0838.pdf",
+  "year" : "2009",
+  "description" : "Health service circular: better blood transfusion, safe and appropriate use of blood. HSC 2007/001. 23 p.",
   "department" : "Dept of Health"
 }

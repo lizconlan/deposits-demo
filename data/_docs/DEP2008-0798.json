@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/03/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0798.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 28/02/2008 from Peter Smallridge and Andrew Williamson to Beverley Hughes MP and David Hanson MP regarding the review of restraint in the juvenile secure estate. 2 p."
+  "deposited_date" : "20/03/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0798.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 28/02/2008 from Peter Smallridge and Andrew Williamson to Beverley Hughes MP and David Hanson MP regarding the review of restraint in the juvenile secure estate. 2 p.",
   "department" : "Youth Justice Board Ministry of Justice"
 }

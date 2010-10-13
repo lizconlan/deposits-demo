@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "02/12/2009"
-  "legislature" : Commons
-  "legislation" : "Equality Bill 2008-09 then 2009-10"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3111.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 09/12/2009 from Vera Baird MP to Michael Howard MP regarding the Equality Bill and exceptions to the ban on age discrimination in services and public functions. 1 p."
+  "deposited_date" : "02/12/2009",
+  "legislature" : ["Commons"],
+  "legislation" : "Equality Bill 2008-09 then 2009-10",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3111.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 09/12/2009 from Vera Baird MP to Michael Howard MP regarding the Equality Bill and exceptions to the ban on age discrimination in services and public functions. 1 p.",
   "department" : "Cabinet Office"
 }

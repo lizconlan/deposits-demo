@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1816.zip"
-  "year" : "2008"
-  "description" : "Service voting survey 2007: results and technical annex. 113 p."
+  "deposited_date" : "07/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1816.zip",
+  "year" : "2008",
+  "description" : "Service voting survey 2007: results and technical annex. 113 p.",
   "department" : "Defence Analytical Services Agency Ministry of Defence"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/06/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1363.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 29/06/2010 from Vince Cable MP and Eric Pickles MP to local authorities regarding local enterprise leadership. 2 p."
+  "deposited_date" : "29/06/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1363.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 29/06/2010 from Vince Cable MP and Eric Pickles MP to local authorities regarding local enterprise leadership. 2 p.",
   "department" : "Department for Business, Innovation and Skills"
 }

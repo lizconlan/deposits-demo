@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/11/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0162.zip"
-  "year" : "2007"
-  "description" : "Tables showing a) number of beds days for all types of intensive care beds for each year from 2001/02 to 2006/07 and b) available adult critical care beds for each year from March 1999 to July 2007, broken down by health authority."
+  "deposited_date" : "26/11/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0162.zip",
+  "year" : "2007",
+  "description" : "Tables showing a) number of beds days for all types of intensive care beds for each year from 2001/02 to 2006/07 and b) available adult critical care beds for each year from March 1999 to July 2007, broken down by health authority.",
   "department" : "Dept of Health"
 }

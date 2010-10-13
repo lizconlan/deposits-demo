@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "23/02/2009"
-  "legislature" : Lords
-  "legislation" : "Health Bill (HL) 2008-09"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1547.pdf"
-  "year" : "2009"
-  "description" : "Letter [undated] from Lord Darzi of Denham to Baroness Cumberlege regarding NHS constitution principles. 5 p."
+  "deposited_date" : "23/02/2009",
+  "legislature" : ["Lords"],
+  "legislation" : "Health Bill (HL) 2008-09",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1547.pdf",
+  "year" : "2009",
+  "description" : "Letter [undated] from Lord Darzi of Denham to Baroness Cumberlege regarding NHS constitution principles. 5 p.",
   "department" : "Dept of Health"
 }

@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "29/01/2009"
-  "legislature" : Commons
-  "legislation" : "Rules of the Supreme Court (Northern Ireland) (Amendment No. 3) 2008 Civil Procedure (Amendment No. 2) Rules 2008"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0286.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 29/01/2009 from Bridget Prentice MP to William McCrea MP regarding the Rules of the Supreme Court (Northern Ireland) (Amendment No. 3) 2008 and Civil Procedure (Amendment No. 2) Rules 2008. 2 p."
+  "deposited_date" : "29/01/2009",
+  "legislature" : ["Commons"],
+  "legislation" : "Rules of the Supreme Court (Northern Ireland) (Amendment No. 3) 2008 Civil Procedure (Amendment No. 2) Rules 2008",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0286.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 29/01/2009 from Bridget Prentice MP to William McCrea MP regarding the Rules of the Supreme Court (Northern Ireland) (Amendment No. 3) 2008 and Civil Procedure (Amendment No. 2) Rules 2008. 2 p.",
   "department" : "Ministry of Justice"
 }

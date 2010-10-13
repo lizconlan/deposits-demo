@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0399.pdf"
-  "year" : "2008"
-  "description" : "Better practice guidance for government contact centres. 2nd ed. 165 p."
+  "deposited_date" : "07/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0399.pdf",
+  "year" : "2008",
+  "description" : "Better practice guidance for government contact centres. 2nd ed. 165 p.",
   "department" : "Central Office of Information Cabinet Office"
 }

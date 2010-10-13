@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "12/01/2010"
-  "legislature" : Commons
-  "legislation" : "Costs in Criminal Cases (General) (Amendment) Regulations 2009"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0482.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 23/02/2010 from Bridget Prentice MP to Martyn Jones MP regarding the Costs in Criminal Cases (General) (Amendment) Regulations 2009. 4 p."
+  "deposited_date" : "12/01/2010",
+  "legislature" : ["Commons"],
+  "legislation" : "Costs in Criminal Cases (General) (Amendment) Regulations 2009",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0482.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 23/02/2010 from Bridget Prentice MP to Martyn Jones MP regarding the Costs in Criminal Cases (General) (Amendment) Regulations 2009. 4 p.",
   "department" : "Ministry of Justice"
 }

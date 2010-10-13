@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0172.pdf"
-  "year" : "2009"
-  "description" : "Ofcom's second public service broadcasting review : putting viewers first. 130 p."
+  "deposited_date" : "19/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0172.pdf",
+  "year" : "2009",
+  "description" : "Ofcom's second public service broadcasting review : putting viewers first. 130 p.",
   "department" : "Ofcom"
 }

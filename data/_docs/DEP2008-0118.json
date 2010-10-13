@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0118.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 08/01/2008 from Hilary Benn MP to Malcolm Moss MP regarding the bluetongue disease. 1 p."
+  "deposited_date" : "16/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0118.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 08/01/2008 from Hilary Benn MP to Malcolm Moss MP regarding the bluetongue disease. 1 p.",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

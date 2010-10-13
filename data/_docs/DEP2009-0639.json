@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/12/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0639.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 03/03/2009 from John Pope MP to John Pugh MP regarding child and adolescent mental health services. 4 p."
+  "deposited_date" : "16/12/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0639.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 03/03/2009 from John Pope MP to John Pugh MP regarding child and adolescent mental health services. 4 p.",
   "department" : "Dept of Health"
 }

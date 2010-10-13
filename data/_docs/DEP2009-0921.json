@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "23/03/2009"
-  "legislature" : Lords
-  "legislation" : "Welfare Reform Bill 2008-09"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0921.zip"
-  "year" : "2009"
-  "description" : "Letter dated 18/03/2009 from Lord McKenzie regarding the Welfare Reform Bill. Inc Delegated Powers memorandum, Impact assessment and a list of older papers. 251 p."
+  "deposited_date" : "23/03/2009",
+  "legislature" : ["Lords"],
+  "legislation" : "Welfare Reform Bill 2008-09",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0921.zip",
+  "year" : "2009",
+  "description" : "Letter dated 18/03/2009 from Lord McKenzie regarding the Welfare Reform Bill. Inc Delegated Powers memorandum, Impact assessment and a list of older papers. 251 p.",
   "department" : "Dept for Work and Pensions"
 }

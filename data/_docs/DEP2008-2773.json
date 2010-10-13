@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2773.tif"
-  "year" : "2008"
-  "description" : "Letter dated 29/10/2008 from Mike O'Brien MP to Paul Flynn MP regarding the nuclear indemnity for the Sellafield Parent Body Organisation. 3 p."
+  "deposited_date" : "19/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2773.tif",
+  "year" : "2008",
+  "description" : "Letter dated 29/10/2008 from Mike O'Brien MP to Paul Flynn MP regarding the nuclear indemnity for the Sellafield Parent Body Organisation. 3 p.",
   "department" : "Dept of Energy and Climate Change"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/02/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0520.zip"
-  "year" : "2009"
-  "description" : "I. Continuous attitude survey families (6) : technical annex : Army, September 2008. 34 p. II. Royal Navy/Royal marines families' continuous attitude survey 2007. 17 p. III. Royal Air Force families survey : 2007 responses. 29 p."
+  "deposited_date" : "25/02/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0520.zip",
+  "year" : "2009",
+  "description" : "I. Continuous attitude survey families (6) : technical annex : Army, September 2008. 34 p. II. Royal Navy/Royal marines families' continuous attitude survey 2007. 17 p. III. Royal Air Force families survey : 2007 responses. 29 p.",
   "department" : "Ministry of Defence"
 }

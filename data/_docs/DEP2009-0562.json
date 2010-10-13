@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/02/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0562.zip"
-  "year" : "2009"
-  "description" : "I. World Health Organization UK institutional strategy 2008-2013. 23 p. II. UNDP/Denmark/UK Institutional Strategy 2008-11. 25 p. III. United Nations joint programme on AIDS (UNAIDS) : United Kingdom Department for International development institutional strategy. 16 p. IV. UNFPA/Denmark/UK institutional strategy 2009-2011. 7 p."
+  "deposited_date" : "26/02/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0562.zip",
+  "year" : "2009",
+  "description" : "I. World Health Organization UK institutional strategy 2008-2013. 23 p. II. UNDP/Denmark/UK Institutional Strategy 2008-11. 25 p. III. United Nations joint programme on AIDS (UNAIDS) : United Kingdom Department for International development institutional strategy. 16 p. IV. UNFPA/Denmark/UK institutional strategy 2009-2011. 7 p.",
   "department" : "Dept for International Development"
 }

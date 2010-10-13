@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0417.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 16/02/2010 from Alistair Darling MP to Mervyn King (Governor of the Bank of England) regarding CPI inflation. 4 p."
+  "deposited_date" : "16/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0417.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 16/02/2010 from Alistair Darling MP to Mervyn King (Governor of the Bank of England) regarding CPI inflation. 4 p.",
   "department" : "Treasury"
 }

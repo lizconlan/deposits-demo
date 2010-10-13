@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/04/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0987.zip"
-  "year" : "2008"
-  "description" : "I. Document explaining the licence to reproduce public sector information. 8 p. II. Screen shot of the Click-Use licence application form."
+  "deposited_date" : "07/04/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0987.zip",
+  "year" : "2008",
+  "description" : "I. Document explaining the licence to reproduce public sector information. 8 p. II. Screen shot of the Click-Use licence application form.",
   "department" : "Office of Public Sector Information Ministry of Justice"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2910.zip"
-  "year" : "2008"
-  "description" : "I. The national specifications for cleanliness in the NHS. April 2007. 52 p. II. Code of practice for the prevention and control of Healthcare Associated Infections (HAIs). January 2008. 44 p. III. Revised guidance on contracting for cleaning. December 2004. 78 p."
+  "deposited_date" : "26/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2910.zip",
+  "year" : "2008",
+  "description" : "I. The national specifications for cleanliness in the NHS. April 2007. 52 p. II. Code of practice for the prevention and control of Healthcare Associated Infections (HAIs). January 2008. 44 p. III. Revised guidance on contracting for cleaning. December 2004. 78 p.",
   "department" : "Dept of Health"
 }

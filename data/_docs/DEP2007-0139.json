@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/11/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0139.pdf"
-  "year" : "2007"
-  "description" : "Letter dated 15/11/2007 from Christine Gilbert, Chief Inspector, to David Laws MP regarding travel expenditure. 6 p."
+  "deposited_date" : "22/11/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0139.pdf",
+  "year" : "2007",
+  "description" : "Letter dated 15/11/2007 from Christine Gilbert, Chief Inspector, to David Laws MP regarding travel expenditure. 6 p.",
   "department" : "Office for Standards in Education Children's Services and Skills"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/11/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2957.zip"
-  "year" : "2009"
-  "description" : "I. Third Parties (Rights against Insurers) Bill: memorandum by the Ministry of Justice for the House of Lords delegated powers and regulatory reform committee. 3 p. II. Impact assessment of Third Parties (Rights against Insurers) Bill. 20 p. III. Letter dated 24/11/2009 from Lord Bach depositing documents relating to the Third Parties (Rights against Insurers) Bill. 1 p."
+  "deposited_date" : "23/11/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2957.zip",
+  "year" : "2009",
+  "description" : "I. Third Parties (Rights against Insurers) Bill: memorandum by the Ministry of Justice for the House of Lords delegated powers and regulatory reform committee. 3 p. II. Impact assessment of Third Parties (Rights against Insurers) Bill. 20 p. III. Letter dated 24/11/2009 from Lord Bach depositing documents relating to the Third Parties (Rights against Insurers) Bill. 1 p.",
   "department" : "Ministry of Justice"
 }

@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "11/03/2009"
-  "legislature" : Lords
-  "legislation" : "Health Bill (HL) 2008-09"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1560.pdf"
-  "year" : "2009"
-  "description" : "Letter [undated] from Baroness Thornton to Lord Palmer regarding the Health Bill (HL) 2008-09 Amendment 81: prescriptions: labelling showing actual cost. 2 p."
+  "deposited_date" : "11/03/2009",
+  "legislature" : ["Lords"],
+  "legislation" : "Health Bill (HL) 2008-09",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1560.pdf",
+  "year" : "2009",
+  "description" : "Letter [undated] from Baroness Thornton to Lord Palmer regarding the Health Bill (HL) 2008-09 Amendment 81: prescriptions: labelling showing actual cost. 2 p.",
   "department" : "Dept of Health"
 }

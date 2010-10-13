@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "25/03/2009"
-  "legislature" : Lords
-  "legislation" : "Postal Services Bill (HL) 2008-09"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1019.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 25/03/2009 from Baroness Vadera to Lord Hoyle regarding borrowing restrictions on Royal Mail. 2 p."
+  "deposited_date" : "25/03/2009",
+  "legislature" : ["Lords"],
+  "legislation" : "Postal Services Bill (HL) 2008-09",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1019.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 25/03/2009 from Baroness Vadera to Lord Hoyle regarding borrowing restrictions on Royal Mail. 2 p.",
   "department" : "Dept for Business, Enterprise and Regulatory Reform"
 }

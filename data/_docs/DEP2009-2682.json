@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/11/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2682.zip"
-  "year" : "2009"
-  "description" : "I. Letters dated 02/11/2009 from Ed Balls MP to Barry Shearman MP and Ian Craig (Chief Schools Adjudicator) regarding school admissions. 6 p. II. Reports from the Office of the Schools Adjudicator regarding applications and admissions to schools. 61 p."
+  "deposited_date" : "02/11/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2682.zip",
+  "year" : "2009",
+  "description" : "I. Letters dated 02/11/2009 from Ed Balls MP to Barry Shearman MP and Ian Craig (Chief Schools Adjudicator) regarding school admissions. 6 p. II. Reports from the Office of the Schools Adjudicator regarding applications and admissions to schools. 61 p.",
   "department" : "Dept for Children, Schools and Families"
 }

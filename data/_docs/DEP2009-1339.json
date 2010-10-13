@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/05/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1339.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 05/05/2009 from Bridget Prentice MP to Adrian Sanders MP regarding courts travel. 3 p."
+  "deposited_date" : "07/05/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1339.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 05/05/2009 from Bridget Prentice MP to Adrian Sanders MP regarding courts travel. 3 p.",
   "department" : "Ministry of Justice"
 }

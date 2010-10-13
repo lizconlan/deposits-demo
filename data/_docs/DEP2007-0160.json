@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/11/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0160.zip"
-  "year" : "2007"
-  "description" : "I. Evaluation of 'closer to home' demonstration sites: final report, June 2007. Incl. appendices. 65 p. II. Shifting care closer to home: report of the speciality subgroups. 140 p."
+  "deposited_date" : "26/11/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0160.zip",
+  "year" : "2007",
+  "description" : "I. Evaluation of 'closer to home' demonstration sites: final report, June 2007. Incl. appendices. 65 p. II. Shifting care closer to home: report of the speciality subgroups. 140 p.",
   "department" : "Dept of Health"
 }

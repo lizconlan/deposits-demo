@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0676.pdf"
-  "year" : "2009"
-  "description" : "Department for International Development (DFID) stakeholder survey : final report, March 2008. 77 p."
+  "deposited_date" : "06/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0676.pdf",
+  "year" : "2009",
+  "description" : "Department for International Development (DFID) stakeholder survey : final report, March 2008. 77 p.",
   "department" : "Dept for International Development"
 }

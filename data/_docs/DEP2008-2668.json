@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "10/11/2008"
-  "legislature" : Lords
-  "legislation" : "Education and Skills Bill 2007-08"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2668.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 10/11/2008 from Baroness Delyth Morgan to Baroness Walmsley regarding raising the education and training participation age in the context of the Education and Skills Bill. 2 p."
+  "deposited_date" : "10/11/2008",
+  "legislature" : ["Lords"],
+  "legislation" : "Education and Skills Bill 2007-08",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2668.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 10/11/2008 from Baroness Delyth Morgan to Baroness Walmsley regarding raising the education and training participation age in the context of the Education and Skills Bill. 2 p.",
   "department" : "Dept for Children Schools and Families"
 }

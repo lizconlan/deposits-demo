@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0154.doc"
-  "year" : "2010"
-  "description" : "List showing measures the UK has decided to participate in through the opt-in arrangements under title IV of the treaty establishing the European Communities. 6 p."
+  "deposited_date" : "14/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0154.doc",
+  "year" : "2010",
+  "description" : "List showing measures the UK has decided to participate in through the opt-in arrangements under title IV of the treaty establishing the European Communities. 6 p.",
   "department" : "Home Office"
 }

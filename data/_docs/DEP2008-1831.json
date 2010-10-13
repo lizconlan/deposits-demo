@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/07/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1831.pdf"
-  "year" : "2008"
-  "description" : "Review of the Civil Justice Council. Responding to the needs of users. Report of an independent review by Jonathan Spencer CB. 68 p."
+  "deposited_date" : "08/07/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1831.pdf",
+  "year" : "2008",
+  "description" : "Review of the Civil Justice Council. Responding to the needs of users. Report of an independent review by Jonathan Spencer CB. 68 p.",
   "department" : "Ministry of Justice"
 }

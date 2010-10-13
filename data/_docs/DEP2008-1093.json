@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/04/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1093.xls"
-  "year" : "2008"
-  "description" : "Table showing new HIV diagnoses between 2003 and 2007, broken down by sex, age and PCT. 6 p."
+  "deposited_date" : "24/04/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1093.xls",
+  "year" : "2008",
+  "description" : "Table showing new HIV diagnoses between 2003 and 2007, broken down by sex, age and PCT. 6 p.",
   "department" : "Dept of Health"
 }

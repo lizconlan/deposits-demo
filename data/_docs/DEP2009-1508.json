@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/04/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1508.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 21/05/2009 from Baroness Royall to Lord Ramsbotham regarding the deployment of permanent units to Afghanistan to protect the armed forces from the threat of mines and roadside bombs. 1 p."
+  "deposited_date" : "29/04/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1508.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 21/05/2009 from Baroness Royall to Lord Ramsbotham regarding the deployment of permanent units to Afghanistan to protect the armed forces from the threat of mines and roadside bombs. 1 p.",
   "department" : "Cabinet Office"
 }

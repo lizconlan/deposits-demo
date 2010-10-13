@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2071.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 23/07/2008 from Lin Homer, Chief Executive, to Keith Vaz MP regarding a progress update on the deportation of foreign national prisoners. 9 p."
+  "deposited_date" : "29/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2071.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 23/07/2008 from Lin Homer, Chief Executive, to Keith Vaz MP regarding a progress update on the deportation of foreign national prisoners. 9 p.",
   "department" : "Home Office Border and Immigration Agency"
 }

@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "10/11/2008"
-  "legislature" : Commons
-  "legislation" : "Safeguarding Vulnerable Groups Act 2006 (Prescribed Criteria) (Foreign Offences) Order 2008"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2629.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 31/10/2008 from Sarah McCarthy-Fry MP to Christopher Chope MP regarding information for the forthcoming debate on the Safeguarding Vulnerable Groups Act 2006 (Prescribed Criteria) (Foreign Offences) Order 2008. 2 p."
+  "deposited_date" : "10/11/2008",
+  "legislature" : ["Commons"],
+  "legislation" : "Safeguarding Vulnerable Groups Act 2006 (Prescribed Criteria) (Foreign Offences) Order 2008",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2629.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 31/10/2008 from Sarah McCarthy-Fry MP to Christopher Chope MP regarding information for the forthcoming debate on the Safeguarding Vulnerable Groups Act 2006 (Prescribed Criteria) (Foreign Offences) Order 2008. 2 p.",
   "department" : "Dept for Children Schools and Families"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0876.pdf"
-  "year" : "2010"
-  "description" : "Response from DCMS regarding the annual rental cost of the Arts Council England offices in Birmginham from 2005 to 2010. 1 p."
+  "deposited_date" : "05/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0876.pdf",
+  "year" : "2010",
+  "description" : "Response from DCMS regarding the annual rental cost of the Arts Council England offices in Birmginham from 2005 to 2010. 1 p.",
   "department" : "Department for Culture, Media and Sport"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/03/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0573.pdf"
-  "year" : "2010"
-  "description" : "Review of legal aid delivery and governance. 102 p."
+  "deposited_date" : "03/03/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0573.pdf",
+  "year" : "2010",
+  "description" : "Review of legal aid delivery and governance. 102 p.",
   "department" : "Ministry of Justice"
 }

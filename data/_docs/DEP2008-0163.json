@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0163.doc"
-  "year" : "2008"
-  "description" : "International Donors' Conference for the Palestinian State held in Paris on 17th December 2007: assessment of conference. 1 p."
+  "deposited_date" : "21/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0163.doc",
+  "year" : "2008",
+  "description" : "International Donors' Conference for the Palestinian State held in Paris on 17th December 2007: assessment of conference. 1 p.",
   "department" : "Dept for International Development"
 }

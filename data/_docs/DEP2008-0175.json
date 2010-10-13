@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0175.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 14/01/2008 from Zarin Patel, Group Finance Director, to Bob Spink MP regarding loans, direct income and indirect income received by the BBC from the European Union between 2002 and 2007. 4 p."
+  "deposited_date" : "22/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0175.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 14/01/2008 from Zarin Patel, Group Finance Director, to Bob Spink MP regarding loans, direct income and indirect income received by the BBC from the European Union between 2002 and 2007. 4 p.",
   "department" : "BBC Dept for Culture Media and Sport"
 }

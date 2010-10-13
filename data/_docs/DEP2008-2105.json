@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/07/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2105.tif"
-  "year" : "2008"
-  "description" : "Letter dated 20/07/2008 from Paul Goggins MP to Lord Laird of Artigarvan regarding unsolved murder cases in Northern Ireland. Incl. table. 1 p."
+  "deposited_date" : "29/07/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2105.tif",
+  "year" : "2008",
+  "description" : "Letter dated 20/07/2008 from Paul Goggins MP to Lord Laird of Artigarvan regarding unsolved murder cases in Northern Ireland. Incl. table. 1 p.",
   "department" : "Northern Ireland Office"
 }

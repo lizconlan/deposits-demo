@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/07/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1966.pdf"
-  "year" : "2008"
-  "description" : "The social fund commissioner's annual report 2007/08. 74 p."
+  "deposited_date" : "17/07/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1966.pdf",
+  "year" : "2008",
+  "description" : "The social fund commissioner's annual report 2007/08. 74 p.",
   "department" : "Independent Review Service for the Social Fund Dept for Work and Pensions"
 }

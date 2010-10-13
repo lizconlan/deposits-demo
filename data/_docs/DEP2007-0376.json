@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0376.pdf"
-  "year" : "2007"
-  "description" : "Copy of the presentation entitled "Revaluation Tools 2010 and beyond" by the Valuation Office Agency at the CPT's National Rating Day 2007 in June 2007. 11 p."
+  "deposited_date" : "17/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0376.pdf",
+  "year" : "2007",
+  "description" : "Copy of the presentation entitled \"Revaluation Tools 2010 and beyond\" by the Valuation Office Agency at the CPT's National Rating Day 2007 in June 2007. 11 p.",
   "department" : "Dept for Communities and Local Government"
 }

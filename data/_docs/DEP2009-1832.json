@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/06/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1832.doc"
-  "year" : "2009"
-  "description" : "Table showing the number of directors, senior managers, specialist and delivery managers and executive and administration staff in each Highways Agency office from 2005 to 2009. 2 p."
+  "deposited_date" : "29/06/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1832.doc",
+  "year" : "2009",
+  "description" : "Table showing the number of directors, senior managers, specialist and delivery managers and executive and administration staff in each Highways Agency office from 2005 to 2009. 2 p.",
   "department" : "Dept for Transport"
 }

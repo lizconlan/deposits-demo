@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0629.zip"
-  "year" : "2008"
-  "description" : "Table showing a) outward secondments, as of January 1997 - 2005, b) inward secondments, since 1997 - 2005 and c) Department for Business Enterprise and Regulatory Reform: inward secondees from non Government organisations. 30 p."
+  "deposited_date" : "04/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0629.zip",
+  "year" : "2008",
+  "description" : "Table showing a) outward secondments, as of January 1997 - 2005, b) inward secondments, since 1997 - 2005 and c) Department for Business Enterprise and Regulatory Reform: inward secondees from non Government organisations. 30 p.",
   "department" : "Dept for Business Enterprise and Regulatory Reform"
 }

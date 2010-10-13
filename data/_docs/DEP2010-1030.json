@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/12/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1030.doc"
-  "year" : "2010"
-  "description" : "Letter dated March 2010 from Rod Clark, Chief Executive, to Phillip Hammond MP regarding National School of Government courses attended and cost between 20 March 2009-31 March 2010. Inc a table. 3 p."
+  "deposited_date" : "01/12/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1030.doc",
+  "year" : "2010",
+  "description" : "Letter dated March 2010 from Rod Clark, Chief Executive, to Phillip Hammond MP regarding National School of Government courses attended and cost between 20 March 2009-31 March 2010. Inc a table. 3 p.",
   "department" : "Cabinet Office"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2435.doc"
-  "year" : "2008"
-  "description" : "Tables showing workload forecasts for 2008/09 and 2009/10 for a) income support claims b) jobseekers' allowance claims c) incapacity benefit/employment and support allowance claims and d) social fund loans and budgeting loan claims, broken down by region. 5 p."
+  "deposited_date" : "22/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2435.doc",
+  "year" : "2008",
+  "description" : "Tables showing workload forecasts for 2008/09 and 2009/10 for a) income support claims b) jobseekers' allowance claims c) incapacity benefit/employment and support allowance claims and d) social fund loans and budgeting loan claims, broken down by region. 5 p.",
   "department" : "Dept for Work and Pensions"
 }

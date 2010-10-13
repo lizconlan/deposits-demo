@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/12/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2932.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 19/11/2008 from Christine Gilbert, Her Majesty's Chief Inspector, to Maria Miller MP regarding early years providers."
+  "deposited_date" : "03/12/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2932.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 19/11/2008 from Christine Gilbert, Her Majesty's Chief Inspector, to Maria Miller MP regarding early years providers.",
   "department" : "Office for Standards in Education Children's Services and Skills Dept for Children Schools and Families"
 }

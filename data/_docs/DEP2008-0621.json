@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/03/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0621.tif"
-  "year" : "2008"
-  "description" : "Letter dated 03/03/2008 from Lord Davies of Oldham to Lord Roberts of Conwy regarding the government preparing a package of fiscal measures to support interest rate reductions."
+  "deposited_date" : "03/03/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0621.tif",
+  "year" : "2008",
+  "description" : "Letter dated 03/03/2008 from Lord Davies of Oldham to Lord Roberts of Conwy regarding the government preparing a package of fiscal measures to support interest rate reductions.",
   "department" : "Whips Office"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1696.tif"
-  "year" : "2008"
-  "description" : "Letter dated 25/06/2008 from Bob Ainsworth MP to Nick Harvey MP regarding equipments fit for service. Includes a table. 4 p."
+  "deposited_date" : "26/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1696.tif",
+  "year" : "2008",
+  "description" : "Letter dated 25/06/2008 from Bob Ainsworth MP to Nick Harvey MP regarding equipments fit for service. Includes a table. 4 p.",
   "department" : "Ministry of Defence"
 }

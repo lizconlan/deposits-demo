@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/10/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0002.zip"
-  "year" : "2007"
-  "description" : "Documents regarding allocations to PCT's for smoking cessation programmes for 2006-07 and 2007-08. Incl. tables."
+  "deposited_date" : "08/10/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0002.zip",
+  "year" : "2007",
+  "description" : "Documents regarding allocations to PCT's for smoking cessation programmes for 2006-07 and 2007-08. Incl. tables.",
   "department" : "Dept of Health"
 }

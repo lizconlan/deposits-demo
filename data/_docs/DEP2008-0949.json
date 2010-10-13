@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/04/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0949.xls"
-  "year" : "2008"
-  "description" : "Table showing average delays on road journeys for individual routes for each year from 2004/05 to 2007, including separate figures for the worst 10%."
+  "deposited_date" : "02/04/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0949.xls",
+  "year" : "2008",
+  "description" : "Table showing average delays on road journeys for individual routes for each year from 2004/05 to 2007, including separate figures for the worst 10%.",
   "department" : "Dept for Transport"
 }

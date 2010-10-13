@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/06/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0420.pdf"
-  "year" : "2010"
-  "description" : "Ministry of Defence heritage report 2007-2009. Incl. annexes. 37 p."
+  "deposited_date" : "23/06/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0420.pdf",
+  "year" : "2010",
+  "description" : "Ministry of Defence heritage report 2007-2009. Incl. annexes. 37 p.",
   "department" : "Ministry of Defence"
 }

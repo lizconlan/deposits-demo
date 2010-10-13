@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/12/2007"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0359.doc"
-  "year" : "2007"
-  "description" : "Tables showing reported mid-year outputs of Regional Development Agencies in 2007/08. 12 p."
+  "deposited_date" : "17/12/2007",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0359.doc",
+  "year" : "2007",
+  "description" : "Tables showing reported mid-year outputs of Regional Development Agencies in 2007/08. 12 p.",
   "department" : "Dept for Business Enterprise and Regulatory Reform"
 }

@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "26/01/2010"
-  "legislature" : Lords
-  "legislation" : "State Pension Credit (Disclosure of Information) (Electricity Suppliers) Regulations 2010"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0294.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 01/02/2010 from Lord McKenzie to Lord Jenkin regarding State Pension Credit (Disclosure of Information) (Electricity Suppliers) Regulations 2010. 2 p."
+  "deposited_date" : "26/01/2010",
+  "legislature" : ["Lords"],
+  "legislation" : "State Pension Credit (Disclosure of Information) (Electricity Suppliers) Regulations 2010",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0294.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 01/02/2010 from Lord McKenzie to Lord Jenkin regarding State Pension Credit (Disclosure of Information) (Electricity Suppliers) Regulations 2010. 2 p.",
   "department" : "Department for Work and Pensions"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/10/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2715.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 23/10/2008 from Lord Bach to Lord Wallace of Saltaire regarding the conflict in Moldova with Transnistria. 1 p."
+  "deposited_date" : "23/10/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2715.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 23/10/2008 from Lord Bach to Lord Wallace of Saltaire regarding the conflict in Moldova with Transnistria. 1 p.",
   "department" : "Foreign and Commonwealth Office"
 }

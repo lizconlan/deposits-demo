@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/06/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1689.pdf"
-  "year" : "2009"
-  "description" : "Atos consulting star rating review final report. Incl. appendices. 38 p."
+  "deposited_date" : "01/06/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1689.pdf",
+  "year" : "2009",
+  "description" : "Atos consulting star rating review final report. Incl. appendices. 38 p.",
   "department" : "Dept for Work and Pensions Atos Consulting"
 }

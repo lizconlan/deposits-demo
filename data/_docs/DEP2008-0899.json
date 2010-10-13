@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "31/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0899.doc"
-  "year" : "2008"
-  "description" : "DCMS Guidelines on Employees Weblogs and Websites. 2 p."
+  "deposited_date" : "31/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0899.doc",
+  "year" : "2008",
+  "description" : "DCMS Guidelines on Employees Weblogs and Websites. 2 p.",
   "department" : "Dept for Culture Media and Sport"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0859.pdf"
-  "year" : "2008"
-  "description" : "Public Bodies 2007. 26 p."
+  "deposited_date" : "27/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0859.pdf",
+  "year" : "2008",
+  "description" : "Public Bodies 2007. 26 p.",
   "department" : "Cabinet Office"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/12/2007"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0203.pdf"
-  "year" : "2007"
-  "description" : "Cancer reform strategy. 144 p."
+  "deposited_date" : "03/12/2007",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0203.pdf",
+  "year" : "2007",
+  "description" : "Cancer reform strategy. 144 p.",
   "department" : "Dept of Health"
 }

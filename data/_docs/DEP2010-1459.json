@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "13/07/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1459.xls"
-  "year" : "2010"
-  "description" : "Table showing mandatory HMO licence applications. 55 p."
+  "deposited_date" : "13/07/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1459.xls",
+  "year" : "2010",
+  "description" : "Table showing mandatory HMO licence applications. 55 p.",
   "department" : "Communities and Local Government"
 }

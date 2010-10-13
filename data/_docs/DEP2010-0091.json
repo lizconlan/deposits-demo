@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "13/01/2010"
-  "legislature" : Commons
-  "notes" : "PQ 150730 Moss/Johnson"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0091.xls"
-  "year" : "2010"
-  "description" : "Table showing finished consultant episodes with a primary or secondary procedure of angioplasty of the lower limb, broken down by strategic health authority of treatment, for the years 2004/05 to 2008/09. 5 p."
+  "deposited_date" : "13/01/2010",
+  "legislature" : ["Commons"],
+  "notes" : "PQ 150730 Moss/Johnson",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0091.xls",
+  "year" : "2010",
+  "description" : "Table showing finished consultant episodes with a primary or secondary procedure of angioplasty of the lower limb, broken down by strategic health authority of treatment, for the years 2004/05 to 2008/09. 5 p.",
   "department" : "Department of Health"
 }

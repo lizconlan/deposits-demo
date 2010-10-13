@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2975.xls"
-  "year" : "2009"
-  "description" : "Tables showing budgeting estimated net expenditure on cancer, tumours and mental health per 100,000 unified weighted population for all primary care trusts from 2003/04 to 2007/08. 2 p."
+  "deposited_date" : "30/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2975.xls",
+  "year" : "2009",
+  "description" : "Tables showing budgeting estimated net expenditure on cancer, tumours and mental health per 100,000 unified weighted population for all primary care trusts from 2003/04 to 2007/08. 2 p.",
   "department" : "Dept of Health"
 }

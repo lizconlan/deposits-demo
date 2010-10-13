@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/12/2007"
-  "legislature" : Commons
-  "notes" : "Only available from Commons Library"
-  "year" : "2008"
-  "description" : "I. Tidal Severn flood risk, March 2006: management strategy, final report. Includes appendices. 175 p. [CD-ROM] II. Fluvial Severn flood risk, October 2006: management strategy, final report. Includes appendices. 400p. [CD-ROM] III. Severn estuary shoreline management plan, by the Severn estuary coastal group. [CD-ROM] IV. Managing flood risk, January 2007: Severn tidal tributaries catchment flood management plan, draft plan. 254 p. [CD-ROM]"
+  "deposited_date" : "17/12/2007",
+  "legislature" : ["Commons"],
+  "notes" : "Only available from Commons Library",
+  "year" : "2008",
+  "description" : "I. Tidal Severn flood risk, March 2006: management strategy, final report. Includes appendices. 175 p. [CD-ROM] II. Fluvial Severn flood risk, October 2006: management strategy, final report. Includes appendices. 400p. [CD-ROM] III. Severn estuary shoreline management plan, by the Severn estuary coastal group. [CD-ROM] IV. Managing flood risk, January 2007: Severn tidal tributaries catchment flood management plan, draft plan. 254 p. [CD-ROM]",
   "department" : "Environment Agency Severn Estuary Coastal Group"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0741.doc"
-  "year" : "2010"
-  "description" : "List from the Department for Transport which lists constituencies each Minister in his Department visited in 2009, by Minister and date. 8 p."
+  "deposited_date" : "18/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0741.doc",
+  "year" : "2010",
+  "description" : "List from the Department for Transport which lists constituencies each Minister in his Department visited in 2009, by Minister and date. 8 p.",
   "department" : "Department for Transport"
 }

@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "15/01/2009"
-  "legislature" : CommonsLords
-  "legislation" : "Health Bill 2008-09"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0120.pdf"
-  "year" : "2009"
-  "description" : "Health Bill: list of relevant older papers. 3 p."
+  "deposited_date" : "15/01/2009",
+  "legislature" : ["Commons","Lords"],
+  "legislation" : "Health Bill 2008-09",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0120.pdf",
+  "year" : "2009",
+  "description" : "Health Bill: list of relevant older papers. 3 p.",
   "department" : "Dept of Health"
 }

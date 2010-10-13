@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0623.zip"
-  "year" : "2008"
-  "description" : "Letter dated January 2008 from Colin Mowl, Director of Macroeconomics and Labour Market, to James Clappison MP regarding the nationality of employed people. Incl. table. 4 p."
+  "deposited_date" : "25/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0623.zip",
+  "year" : "2008",
+  "description" : "Letter dated January 2008 from Colin Mowl, Director of Macroeconomics and Labour Market, to James Clappison MP regarding the nationality of employed people. Incl. table. 4 p.",
   "department" : "Office for National Statistics Treasury"
 }

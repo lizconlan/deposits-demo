@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0371.doc"
-  "year" : "2008"
-  "description" : "Table showing Department for Environment, Food and Rural Affairs spend on climate change mitigation and adaptation programmes in each financial year from 2002-03 to 2006-07. 7 p."
+  "deposited_date" : "05/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0371.doc",
+  "year" : "2008",
+  "description" : "Table showing Department for Environment, Food and Rural Affairs spend on climate change mitigation and adaptation programmes in each financial year from 2002-03 to 2006-07. 7 p.",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

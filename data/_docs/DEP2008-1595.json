@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/06/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1595.pdf"
-  "year" : "2008"
-  "description" : "Enforcing the deal: our plans for enforcing the immigration laws in the UK's communities. 32 p."
+  "deposited_date" : "19/06/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1595.pdf",
+  "year" : "2008",
+  "description" : "Enforcing the deal: our plans for enforcing the immigration laws in the UK's communities. 32 p.",
   "department" : "Home Office UK Border Agency"
 }

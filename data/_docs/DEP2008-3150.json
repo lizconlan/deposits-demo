@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3150.doc"
-  "year" : "2008"
-  "description" : "Information relating to Dartmoor Heritage Trust List ponies."
+  "deposited_date" : "06/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3150.doc",
+  "year" : "2008",
+  "description" : "Information relating to Dartmoor Heritage Trust List ponies.",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

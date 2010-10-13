@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0033.doc"
-  "year" : "2010"
-  "description" : "Tables showing the number of A&E attendances, by total time spent in type 1 (major) accident & emergency departments, for England and Milton Keynes, 2003-04 quarter 2 to 2009-10 quarter 2. 4 p."
+  "deposited_date" : "06/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0033.doc",
+  "year" : "2010",
+  "description" : "Tables showing the number of A&E attendances, by total time spent in type 1 (major) accident & emergency departments, for England and Milton Keynes, 2003-04 quarter 2 to 2009-10 quarter 2. 4 p.",
   "department" : "Department of Health"
 }

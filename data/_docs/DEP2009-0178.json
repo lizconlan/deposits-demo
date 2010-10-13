@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0178.xls"
-  "year" : "2009"
-  "description" : "Table showing first out-patient attendances, all specialities, in England for the years 1997/98 to 1990-00 and 2000/01 and 2008/09. 400 p."
+  "deposited_date" : "21/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0178.xls",
+  "year" : "2009",
+  "description" : "Table showing first out-patient attendances, all specialities, in England for the years 1997/98 to 1990-00 and 2000/01 and 2008/09. 400 p.",
   "department" : "Dept of Health"
 }

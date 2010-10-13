@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/05/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1631.pdf"
-  "year" : "2009"
-  "description" : "Joint Committee on Vaccination and Immunisation statement on human papilloma virus vaccines to protect against cervical cancer. Incl. appendices. 20 p."
+  "deposited_date" : "20/05/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1631.pdf",
+  "year" : "2009",
+  "description" : "Joint Committee on Vaccination and Immunisation statement on human papilloma virus vaccines to protect against cervical cancer. Incl. appendices. 20 p.",
   "department" : "Dept of Health"
 }

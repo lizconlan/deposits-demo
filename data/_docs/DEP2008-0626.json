@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "04/03/2008"
-  "legislature" : CommonsLords
-  "notes" : "Part II available in hard copy only in Parliamentary libraries"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0626.pdf"
-  "year" : "2008"
-  "description" : "I. Supporting the development of Transport Innovation Fund (TIF) packages. 7 p. II. Advanced motorway signalling and traffic management feasibility study. 80 p."
+  "deposited_date" : "04/03/2008",
+  "legislature" : ["Commons","Lords"],
+  "notes" : "Part II available in hard copy only in Parliamentary libraries",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0626.pdf",
+  "year" : "2008",
+  "description" : "I. Supporting the development of Transport Innovation Fund (TIF) packages. 7 p. II. Advanced motorway signalling and traffic management feasibility study. 80 p.",
   "department" : "Dept for Transport"
 }

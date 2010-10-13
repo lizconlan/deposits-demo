@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "13/08/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2273.tif"
-  "year" : "2009"
-  "description" : "Letter dated 04/08/2009 from NM Grimshaw, Deputy Head, to Owen Paterson MP regarding translation services. 1 p."
+  "deposited_date" : "13/08/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2273.tif",
+  "year" : "2009",
+  "description" : "Letter dated 04/08/2009 from NM Grimshaw, Deputy Head, to Owen Paterson MP regarding translation services. 1 p.",
   "department" : "Police Service of Northern Ireland Northern Ireland Office"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/05/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1456.zip"
-  "year" : "2009"
-  "description" : "I. Table showing details of pressures or easements remaining after budget reprofiling for 2008/09. 1 p. II. Letter dated 24/02/2009 from Peter O'Neill (Chief Executive of the Northern Ireland Human Rights Commission) to the Head of Rights, Elections and Legacy Division (Northern Ireland Office, Rights elections and Legacy Division) regarding funding of the Northern Ireland Human Rights Commission. 2 p. III. Letter dated 02/04/2009 from the Head of Rights, Elections and Legacy Division (Northern Ireland Office, Rights elections and Legacy Division) to Peter O'Neill (Chief Executive of the Northern Ireland Human Rights Commission) regarding funding of the Northern Ireland Human Rights Commission. 2 p."
+  "deposited_date" : "18/05/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1456.zip",
+  "year" : "2009",
+  "description" : "I. Table showing details of pressures or easements remaining after budget reprofiling for 2008/09. 1 p. II. Letter dated 24/02/2009 from Peter O'Neill (Chief Executive of the Northern Ireland Human Rights Commission) to the Head of Rights, Elections and Legacy Division (Northern Ireland Office, Rights elections and Legacy Division) regarding funding of the Northern Ireland Human Rights Commission. 2 p. III. Letter dated 02/04/2009 from the Head of Rights, Elections and Legacy Division (Northern Ireland Office, Rights elections and Legacy Division) to Peter O'Neill (Chief Executive of the Northern Ireland Human Rights Commission) regarding funding of the Northern Ireland Human Rights Commission. 2 p.",
   "department" : "Northern Ireland Office"
 }

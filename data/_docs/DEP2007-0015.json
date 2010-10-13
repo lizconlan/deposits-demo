@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/10/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0015.doc"
-  "year" : "2007"
-  "description" : "Graph showing range of productivity across the 39 radiotherapy facilities in England that responded to a survey by the National Radiotherapy Advisory Group in May 2007."
+  "deposited_date" : "16/10/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0015.doc",
+  "year" : "2007",
+  "description" : "Graph showing range of productivity across the 39 radiotherapy facilities in England that responded to a survey by the National Radiotherapy Advisory Group in May 2007.",
   "department" : "Dept of Health"
 }

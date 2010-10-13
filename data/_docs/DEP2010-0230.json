@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/01/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0230.zip"
-  "year" : "2010"
-  "description" : "HFEA internal memo. 4 p."
+  "deposited_date" : "27/01/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0230.zip",
+  "year" : "2010",
+  "description" : "HFEA internal memo. 4 p.",
   "department" : "Department of Health"
 }

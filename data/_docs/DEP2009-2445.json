@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/10/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2445.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 11/10/2009 from Lord Davies of Abersoch to Peter Luff MP regarding the final statement by the UK National Contact Point for the OECD Guidelines for Multilateral Enterprises. Inc a copy of the statement. 25 p."
+  "deposited_date" : "12/10/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2445.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 11/10/2009 from Lord Davies of Abersoch to Peter Luff MP regarding the final statement by the UK National Contact Point for the OECD Guidelines for Multilateral Enterprises. Inc a copy of the statement. 25 p.",
   "department" : "Dept for Business, Innovation and Skills"
 }

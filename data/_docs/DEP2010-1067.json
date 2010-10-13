@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/04/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1067.pdf"
-  "year" : "2010"
-  "description" : "A Smokefree Future: A Comprehensive Tobacco Control Strategy for England. 73 p."
+  "deposited_date" : "06/04/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1067.pdf",
+  "year" : "2010",
+  "description" : "A Smokefree Future: A Comprehensive Tobacco Control Strategy for England. 73 p.",
   "department" : "Department of Health"
 }

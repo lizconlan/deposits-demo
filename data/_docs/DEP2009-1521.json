@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1521.pdf"
-  "year" : "2009"
-  "description" : "Letter from Phil Woolas MP to David Amess MP regarding honorary citizenship. 2p."
+  "deposited_date" : "19/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1521.pdf",
+  "year" : "2009",
+  "description" : "Letter from Phil Woolas MP to David Amess MP regarding honorary citizenship. 2p.",
   "department" : "Home Office"
 }

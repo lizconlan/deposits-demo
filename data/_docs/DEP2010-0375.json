@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "26/01/2010"
-  "legislature" : Commons
-  "legislation" : "Sustainable and Secure Buildings Act 2004"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0375.tif"
-  "year" : "2010"
-  "description" : "Letter dated 04/02/2010 from John Healey MP to Andrew Stunell MP regarding the schedule of publication for the 'Second biennial report on the Sustainable & Secure Buildings Act 2004'. 1 p."
+  "deposited_date" : "26/01/2010",
+  "legislature" : ["Commons"],
+  "legislation" : "Sustainable and Secure Buildings Act 2004",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0375.tif",
+  "year" : "2010",
+  "description" : "Letter dated 04/02/2010 from John Healey MP to Andrew Stunell MP regarding the schedule of publication for the 'Second biennial report on the Sustainable & Secure Buildings Act 2004'. 1 p.",
   "department" : "Communities and Local Government"
 }

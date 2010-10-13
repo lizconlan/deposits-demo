@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0872.xls"
-  "year" : "2009"
-  "description" : "Table showing English universities and higher education institutions which were financially at risk, for each year from 1998 to 2004. 7 p."
+  "deposited_date" : "16/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0872.xls",
+  "year" : "2009",
+  "description" : "Table showing English universities and higher education institutions which were financially at risk, for each year from 1998 to 2004. 7 p.",
   "department" : "Dept for Innovation, Universities and Skills"
 }

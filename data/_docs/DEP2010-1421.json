@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "06/07/2010"
-  "legislature" : Lords
-  "legislation" : "Social Security (Claims and Payments) Amendment (No. 2) Regulations 2010"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1421.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 05/07/2010 from Lord Freud to Lord Lucas regarding the Social Security (Claims and Payments) Amendment (No.2) Regulations 2010 (SI 2010/870). 1 p."
+  "deposited_date" : "06/07/2010",
+  "legislature" : ["Lords"],
+  "legislation" : "Social Security (Claims and Payments) Amendment (No. 2) Regulations 2010",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1421.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 05/07/2010 from Lord Freud to Lord Lucas regarding the Social Security (Claims and Payments) Amendment (No.2) Regulations 2010 (SI 2010/870). 1 p.",
   "department" : "Department for Work and Pensions"
 }

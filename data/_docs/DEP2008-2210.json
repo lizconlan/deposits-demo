@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/09/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2210.pdf"
-  "year" : "2008"
-  "description" : "Provision of IVF in England 2007: Primary Care Trust survey. 13 p."
+  "deposited_date" : "10/09/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2210.pdf",
+  "year" : "2008",
+  "description" : "Provision of IVF in England 2007: Primary Care Trust survey. 13 p.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/07/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1758.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 02/07/2008 from Lord Hunt of Kings Heath to Lord Campbell-Savours regarding access to funds pending registration of a lasting power of attorney with the Public Guardian. 2 p."
+  "deposited_date" : "02/07/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1758.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 02/07/2008 from Lord Hunt of Kings Heath to Lord Campbell-Savours regarding access to funds pending registration of a lasting power of attorney with the Public Guardian. 2 p.",
   "department" : "Ministry of Justice"
 }

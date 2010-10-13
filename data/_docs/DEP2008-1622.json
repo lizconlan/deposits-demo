@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "19/06/2008"
-  "legislature" : Commons
-  "legislation" : "Compensation (Claims Management Services) (Amendment) Regulations 2008"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1622.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 18/06/2008 from Bridget Prentice MP to Joan Humble MP regarding Compensation (Claims Management Services) (Amendment) Regulations 2008. 3 p."
+  "deposited_date" : "19/06/2008",
+  "legislature" : ["Commons"],
+  "legislation" : "Compensation (Claims Management Services) (Amendment) Regulations 2008",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1622.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 18/06/2008 from Bridget Prentice MP to Joan Humble MP regarding Compensation (Claims Management Services) (Amendment) Regulations 2008. 3 p.",
   "department" : "Ministry of Justice"
 }

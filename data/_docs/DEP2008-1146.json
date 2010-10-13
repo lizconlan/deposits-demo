@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "15/04/2008"
-  "legislature" : Lords
-  "legislation" : "Forced Marriage (Civil Protection) Act 2007"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1146.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 15/04/2008 from Lord West of Spithead to Lord Lester of Herne Hill regarding honour-based violence. 2 p."
+  "deposited_date" : "15/04/2008",
+  "legislature" : ["Lords"],
+  "legislation" : "Forced Marriage (Civil Protection) Act 2007",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1146.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 15/04/2008 from Lord West of Spithead to Lord Lester of Herne Hill regarding honour-based violence. 2 p.",
   "department" : "Home Office"
 }

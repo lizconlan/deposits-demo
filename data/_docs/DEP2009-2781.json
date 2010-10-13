@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2781.xls"
-  "year" : "2009"
-  "description" : "Table showing median gross weekly earnings by place of residence - for employee jobs, broken down by Government Office Regions for the years 2004 to 2008. 1 p."
+  "deposited_date" : "10/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2781.xls",
+  "year" : "2009",
+  "description" : "Table showing median gross weekly earnings by place of residence - for employee jobs, broken down by Government Office Regions for the years 2004 to 2008. 1 p.",
   "department" : "Dept for Communities and Local Government"
 }

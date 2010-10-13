@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0801.zip"
-  "year" : "2008"
-  "description" : "I. Discharge from hospital: pathway, process and practice. 2004. 114 p. II. Achieving timely 'simple' discharge from hospital: a toolkit for the multi-disciplinary team. 2003. 52 p. III. A positive outlook: a good practice toolkit to improve discharge from inpatient mental health care. 2007. 36 p."
+  "deposited_date" : "20/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0801.zip",
+  "year" : "2008",
+  "description" : "I. Discharge from hospital: pathway, process and practice. 2004. 114 p. II. Achieving timely 'simple' discharge from hospital: a toolkit for the multi-disciplinary team. 2003. 52 p. III. A positive outlook: a good practice toolkit to improve discharge from inpatient mental health care. 2007. 36 p.",
   "department" : "Dept of Health"
 }

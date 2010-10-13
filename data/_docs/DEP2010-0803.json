@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0803.zip"
-  "year" : "2010"
-  "description" : "Copy of the Spring 2009 and Winter 2009/10 issues of the "tsm", the Department for Communities and Local Government (DCLG) in-house staff magazine. 32 p."
+  "deposited_date" : "23/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0803.zip",
+  "year" : "2010",
+  "description" : "Copy of the Spring 2009 and Winter 2009/10 issues of the \"tsm\", the Department for Communities and Local Government (DCLG) in-house staff magazine. 32 p.",
   "department" : "Communities and Local Government"
 }

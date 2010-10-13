@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2787.tif"
-  "year" : "2008"
-  "description" : "Letter dated 21/10/2008 from J M Stewart, Director, to Alistair Carmichael MP regarding institutional sectarianism. 2 p."
+  "deposited_date" : "20/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2787.tif",
+  "year" : "2008",
+  "description" : "Letter dated 21/10/2008 from J M Stewart, Director, to Alistair Carmichael MP regarding institutional sectarianism. 2 p.",
   "department" : "Northern Ireland Office"
 }

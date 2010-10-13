@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0911.pdf"
-  "year" : "2009"
-  "description" : "Implementing the national stroke strategy: an imaging guide. 36 p."
+  "deposited_date" : "20/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0911.pdf",
+  "year" : "2009",
+  "description" : "Implementing the national stroke strategy: an imaging guide. 36 p.",
   "department" : "Dept of Health"
 }

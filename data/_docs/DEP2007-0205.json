@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0205.xls"
-  "year" : "2007"
-  "description" : "Table showing a) total DFID bilateral aid by recipient country in current prices b) total DFID bilateral aid by recipient country in constant prices; for the years 1997/98 to 2006/07. 27 p."
+  "deposited_date" : "03/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0205.xls",
+  "year" : "2007",
+  "description" : "Table showing a) total DFID bilateral aid by recipient country in current prices b) total DFID bilateral aid by recipient country in constant prices; for the years 1997/98 to 2006/07. 27 p.",
   "department" : "Dept for International Development"
 }

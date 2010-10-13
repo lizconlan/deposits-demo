@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0416.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 12/02/2010 from Maria Eagle MP to Andrew Stunell MP regarding the number of indeterminate sentences for public protection handed down from May 2005 to Dec 2009 and for which type of offence from Dec 2008 to Dec 2009. Incl. tables. 3 p."
+  "deposited_date" : "26/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0416.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 12/02/2010 from Maria Eagle MP to Andrew Stunell MP regarding the number of indeterminate sentences for public protection handed down from May 2005 to Dec 2009 and for which type of offence from Dec 2008 to Dec 2009. Incl. tables. 3 p.",
   "department" : "Ministry of Justice"
 }

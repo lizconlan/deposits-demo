@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "06/04/2010"
-  "legislature" : Commons
-  "legislation" : "Finance Bill 2009-10"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1073.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 01/04/2010 from Stephen Timms MP to Mark Hoban MP regarding secondary legislation to the Finance Bill 2009-10. 14 p."
+  "deposited_date" : "06/04/2010",
+  "legislature" : ["Commons"],
+  "legislation" : "Finance Bill 2009-10",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1073.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 01/04/2010 from Stephen Timms MP to Mark Hoban MP regarding secondary legislation to the Finance Bill 2009-10. 14 p.",
   "department" : "Treasury"
 }

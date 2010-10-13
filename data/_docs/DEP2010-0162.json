@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/01/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0162.zip"
-  "year" : "2010"
-  "description" : "I. The Treasury's economic forecasts and assumptions up to and including 2014. 1 p. II. G20 national policy framework template. 13 p."
+  "deposited_date" : "20/01/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0162.zip",
+  "year" : "2010",
+  "description" : "I. The Treasury's economic forecasts and assumptions up to and including 2014. 1 p. II. G20 national policy framework template. 13 p.",
   "department" : "Treasury"
 }

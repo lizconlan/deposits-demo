@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/10/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2312.pdf"
-  "year" : "2008"
-  "description" : "In trust & on trust: the stewardship report on the Defence Estate. 60 p."
+  "deposited_date" : "07/10/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2312.pdf",
+  "year" : "2008",
+  "description" : "In trust & on trust: the stewardship report on the Defence Estate. 60 p.",
   "department" : "Ministry of Defence"
 }

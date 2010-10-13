@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0229.pdf"
-  "year" : "2010"
-  "description" : "Table showing the number of days taken by the Crown Prosecution Service to provide advice to the police on charges for offences. 6 p."
+  "deposited_date" : "26/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0229.pdf",
+  "year" : "2010",
+  "description" : "Table showing the number of days taken by the Crown Prosecution Service to provide advice to the police on charges for offences. 6 p.",
   "department" : "Attorney General"
 }

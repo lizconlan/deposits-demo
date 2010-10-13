@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2442.xls"
-  "year" : "2008"
-  "description" : "Table showing NINo registrations to adult overseas national for the years 2004 to 2007, broken down by nationality and year of registration. 8 p."
+  "deposited_date" : "22/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2442.xls",
+  "year" : "2008",
+  "description" : "Table showing NINo registrations to adult overseas national for the years 2004 to 2007, broken down by nationality and year of registration. 8 p.",
   "department" : "Dept for Work and Pensions"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0543.xls"
-  "year" : "2010"
-  "description" : "Tables showing the number of persons found guilty at all courts for robbery offences, by age group and Criminal Justice System Area from 1998 to 2008. 11 p."
+  "deposited_date" : "01/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0543.xls",
+  "year" : "2010",
+  "description" : "Tables showing the number of persons found guilty at all courts for robbery offences, by age group and Criminal Justice System Area from 1998 to 2008. 11 p.",
   "department" : "Ministry of Justice"
 }

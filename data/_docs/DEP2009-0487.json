@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/02/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0487.zip"
-  "year" : "2009"
-  "description" : "I. Growing Capacity: Independent Sector Diagnosis and Treatment Centres. 14 p. II. Growing Capacity: A new role for external healthcare providers in England. 17 p. III. Access Capacity Planning Guidance for the period 2006/07 to 2007/08. 32 p. IV. ISTC Manual. 136 p."
+  "deposited_date" : "23/02/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0487.zip",
+  "year" : "2009",
+  "description" : "I. Growing Capacity: Independent Sector Diagnosis and Treatment Centres. 14 p. II. Growing Capacity: A new role for external healthcare providers in England. 17 p. III. Access Capacity Planning Guidance for the period 2006/07 to 2007/08. 32 p. IV. ISTC Manual. 136 p.",
   "department" : "Dept of Health"
 }

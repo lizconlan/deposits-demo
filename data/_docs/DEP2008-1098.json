@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/04/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1098.zip"
-  "year" : "2008"
-  "description" : "UK Debt Management Office business plan 2008-09. 15 p."
+  "deposited_date" : "25/04/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1098.zip",
+  "year" : "2008",
+  "description" : "UK Debt Management Office business plan 2008-09. 15 p.",
   "department" : "UK Debt Management Office Treasury"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3221.zip"
-  "year" : "2009"
-  "description" : "Correspondence between Andy Burnham and Andrew Mackinlay MP, Angela Smith MP, Eric Pickles MP, John Baron MP and William Moyes (Chairman, Monitor) regarding Basildon and Thurrock University Hospital NHS foundation Trust. 6 p."
+  "deposited_date" : "30/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3221.zip",
+  "year" : "2009",
+  "description" : "Correspondence between Andy Burnham and Andrew Mackinlay MP, Angela Smith MP, Eric Pickles MP, John Baron MP and William Moyes (Chairman, Monitor) regarding Basildon and Thurrock University Hospital NHS foundation Trust. 6 p.",
   "department" : "Dept of Health"
 }

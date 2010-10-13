@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0114.pdf"
-  "year" : "2009"
-  "description" : "Equal access to breast and cervical screening for disabled women. Cancer screening series no. 2. 48 p."
+  "deposited_date" : "14/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0114.pdf",
+  "year" : "2009",
+  "description" : "Equal access to breast and cervical screening for disabled women. Cancer screening series no. 2. 48 p.",
   "department" : "Dept of Health"
 }

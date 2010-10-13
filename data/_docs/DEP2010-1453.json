@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "12/07/2010"
-  "legislature" : Lords
-  "legislation" : "Academies Bill (HL), 2010-11"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1453.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 12/07/2010 from Lord Hill of Oareford to Lord Knight of Weymouth regarding the Academies Bill and the expansion of selective academies. 2 p."
+  "deposited_date" : "12/07/2010",
+  "legislature" : ["Lords"],
+  "legislation" : "Academies Bill (HL), 2010-11",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1453.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 12/07/2010 from Lord Hill of Oareford to Lord Knight of Weymouth regarding the Academies Bill and the expansion of selective academies. 2 p.",
   "department" : "Department for Education"
 }

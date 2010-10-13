@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/09/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2241.zip"
-  "year" : "2008"
-  "description" : "Table showing how many people (a) at a maintained school, (b) at a sixth form college, (c) at a further education college, (d) at an independent school, (e) at another educational institution and (f) studying on their own gained an A level at grades A to E in (i) accounting, (ii) art and design, (iii) business studies, (iv) communication studies, (v) dance, (vi) design and technology, (vii) drama/theatre studies, (viii) film studies, (ix) health and social care, (x) home economics, (xi) information and communication technology, (xii) leisure studies, (xiii) media studies, (xiv) music technology, (xv) performance studies, (xvi) performing arts, (xvii) photography, (xviii) physical education, (xix) sports studies and (xx) travel and tourism in 2006-07. 30 p."
+  "deposited_date" : "19/09/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2241.zip",
+  "year" : "2008",
+  "description" : "Table showing how many people (a) at a maintained school, (b) at a sixth form college, (c) at a further education college, (d) at an independent school, (e) at another educational institution and (f) studying on their own gained an A level at grades A to E in (i) accounting, (ii) art and design, (iii) business studies, (iv) communication studies, (v) dance, (vi) design and technology, (vii) drama/theatre studies, (viii) film studies, (ix) health and social care, (x) home economics, (xi) information and communication technology, (xii) leisure studies, (xiii) media studies, (xiv) music technology, (xv) performance studies, (xvi) performing arts, (xvii) photography, (xviii) physical education, (xix) sports studies and (xx) travel and tourism in 2006-07. 30 p.",
   "department" : "Dept for Children Schools and Families"
 }

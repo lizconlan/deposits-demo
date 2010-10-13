@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/07/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2126.zip"
-  "year" : "2009"
-  "description" : "I. Table showing estimates of the number of cold weather payments made for each weather station in Great Britain in 1999-00 and from 2001/02 to 2008/09 (information for other years is not available). 5 p. II. Table showing weather stations in the cold weather payment scheme linked to Parliamentary Constituencies in Great Britain 2008-09. 13 p."
+  "deposited_date" : "20/07/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2126.zip",
+  "year" : "2009",
+  "description" : "I. Table showing estimates of the number of cold weather payments made for each weather station in Great Britain in 1999-00 and from 2001/02 to 2008/09 (information for other years is not available). 5 p. II. Table showing weather stations in the cold weather payment scheme linked to Parliamentary Constituencies in Great Britain 2008-09. 13 p.",
   "department" : "Dept for Work and Pensions"
 }

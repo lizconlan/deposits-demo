@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0621.xls"
-  "year" : "2010"
-  "description" : "Tables showing, by age group, how many patients in Hampshire primary care trust, Southampton primary care trust and nationally have received gastric surgery of each type for the treatment of obesity from 1999/00 to 2008/09. 6 p."
+  "deposited_date" : "04/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0621.xls",
+  "year" : "2010",
+  "description" : "Tables showing, by age group, how many patients in Hampshire primary care trust, Southampton primary care trust and nationally have received gastric surgery of each type for the treatment of obesity from 1999/00 to 2008/09. 6 p.",
   "department" : "Department of Health"
 }

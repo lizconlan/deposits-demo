@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0524.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 26/02/2010 from Rosalind Wyke (Chairman, Musgrove Park Hospital Trust) to Ian Liddell-Grainger MP regarding Musgrove Park Hospital, Taunton and the number of private patients treated in 2009. 1 p."
+  "deposited_date" : "22/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0524.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 26/02/2010 from Rosalind Wyke (Chairman, Musgrove Park Hospital Trust) to Ian Liddell-Grainger MP regarding Musgrove Park Hospital, Taunton and the number of private patients treated in 2009. 1 p.",
   "department" : "Department of Health"
 }

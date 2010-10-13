@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0639.zip"
-  "year" : "2010"
-  "description" : "70 documents accompanying the "High Speed Rail" statement."
+  "deposited_date" : "11/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0639.zip",
+  "year" : "2010",
+  "description" : "70 documents accompanying the \"High Speed Rail\" statement.",
   "department" : "Department for Transport"
 }

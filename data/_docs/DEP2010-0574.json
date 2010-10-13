@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0574.pdf"
-  "year" : "2010"
-  "description" : "Table showing number of male deaths with an undelying cause was alcohol-related, broken down by local authorities in England, for the years 2004 to 2008. 18 p."
+  "deposited_date" : "03/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0574.pdf",
+  "year" : "2010",
+  "description" : "Table showing number of male deaths with an undelying cause was alcohol-related, broken down by local authorities in England, for the years 2004 to 2008. 18 p.",
   "department" : "Cabinet Office"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/11/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2816.zip"
-  "year" : "2008"
-  "description" : "I. TASER: Trial Evaluation. Final Data. 14 p. II. DSAC Sub-committee on the Medical Implications of Less-lethal Weapons (DOMILL). Statement on a review of the first year of operational use of M26 and X26 Tasers by Specially Trained Units and Authorised Firearms Officers at incidents where firearms authority has not been granted. 3 p."
+  "deposited_date" : "24/11/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2816.zip",
+  "year" : "2008",
+  "description" : "I. TASER: Trial Evaluation. Final Data. 14 p. II. DSAC Sub-committee on the Medical Implications of Less-lethal Weapons (DOMILL). Statement on a review of the first year of operational use of M26 and X26 Tasers by Specially Trained Units and Authorised Firearms Officers at incidents where firearms authority has not been granted. 3 p.",
   "department" : "Home Office"
 }

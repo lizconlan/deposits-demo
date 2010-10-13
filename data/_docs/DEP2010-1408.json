@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/07/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1408.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 30/06/2010 from David Smith, Managing Director of the Post Office Ltd, to Priti Patel MP regarding the Horizon system. 2 p."
+  "deposited_date" : "05/07/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1408.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 30/06/2010 from David Smith, Managing Director of the Post Office Ltd, to Priti Patel MP regarding the Horizon system. 2 p.",
   "department" : "Post Office Department for Business, Innovation and Skills"
 }

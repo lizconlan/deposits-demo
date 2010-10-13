@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/04/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1062.doc"
-  "year" : "2009"
-  "description" : "Social Fund Guide. 188 p."
+  "deposited_date" : "02/04/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1062.doc",
+  "year" : "2009",
+  "description" : "Social Fund Guide. 188 p.",
   "department" : "Dept for Work and Pensions"
 }

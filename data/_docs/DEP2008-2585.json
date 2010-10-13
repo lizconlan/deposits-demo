@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2585.pdf"
-  "year" : "2008"
-  "description" : "Best practice guidance on the role of the Director of Adult Social Services. 28 p."
+  "deposited_date" : "04/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2585.pdf",
+  "year" : "2008",
+  "description" : "Best practice guidance on the role of the Director of Adult Social Services. 28 p.",
   "department" : "Dept of Health"
 }

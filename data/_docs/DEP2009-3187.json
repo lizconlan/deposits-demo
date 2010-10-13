@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/12/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3187.pdf"
-  "year" : "2009"
-  "description" : "Sustainable new homes: The road to zero carbon consultation on the code for sustainable homes and the energy efficiency standard for zero carbon homes. 87 p."
+  "deposited_date" : "16/12/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3187.pdf",
+  "year" : "2009",
+  "description" : "Sustainable new homes: The road to zero carbon consultation on the code for sustainable homes and the energy efficiency standard for zero carbon homes. 87 p.",
   "department" : "Dept for Communities and Local Government"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/10/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2487.pdf"
-  "year" : "2009"
-  "description" : "Eye of the needle: United Kingdom surveillance of significant occupational exposures to bloodborne viruses in healthcare workers. Incl. appendices. 68 p."
+  "deposited_date" : "12/10/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2487.pdf",
+  "year" : "2009",
+  "description" : "Eye of the needle: United Kingdom surveillance of significant occupational exposures to bloodborne viruses in healthcare workers. Incl. appendices. 68 p.",
   "department" : "Dept of Health"
 }

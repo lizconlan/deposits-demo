@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/02/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0918.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 25/03/2010 from Alan Davey, Chief Executive, to Nick Hurd MP regarding Arts Council England public relations. 1 p."
+  "deposited_date" : "04/02/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0918.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 25/03/2010 from Alan Davey, Chief Executive, to Nick Hurd MP regarding Arts Council England public relations. 1 p.",
   "department" : "Department for Culture, Media and Sport"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/12/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3225.doc"
-  "year" : "2009"
-  "description" : "School Food Trust. Stakeholder mapping research: terms of reference. 1 p."
+  "deposited_date" : "15/12/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3225.doc",
+  "year" : "2009",
+  "description" : "School Food Trust. Stakeholder mapping research: terms of reference. 1 p.",
   "department" : "Dept for Children, Schools and Families"
 }

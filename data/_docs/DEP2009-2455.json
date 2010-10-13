@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/10/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2455.rtf"
-  "year" : "2009"
-  "description" : "Tables showing which major transport infrastructure projects in each (a) Government region and (b) local authority area have been approved by his Department from 2004 to 2009. 26 p."
+  "deposited_date" : "12/10/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2455.rtf",
+  "year" : "2009",
+  "description" : "Tables showing which major transport infrastructure projects in each (a) Government region and (b) local authority area have been approved by his Department from 2004 to 2009. 26 p.",
   "department" : "Dept for Transport"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/05/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1445.zip"
-  "year" : "2009"
-  "description" : "List showing Organisations funded through the Connecting Communities Grants programme for the years 2006 to 2009. 29 p."
+  "deposited_date" : "20/05/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1445.zip",
+  "year" : "2009",
+  "description" : "List showing Organisations funded through the Connecting Communities Grants programme for the years 2006 to 2009. 29 p.",
   "department" : "Dept for Communities and Local Government"
 }

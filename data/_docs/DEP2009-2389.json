@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/09/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2389.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 20/08/2009 from Gordon Brown MP to Colonel Gadaffi regarding Abdel Basset al-Megrahi."
+  "deposited_date" : "09/09/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2389.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 20/08/2009 from Gordon Brown MP to Colonel Gadaffi regarding Abdel Basset al-Megrahi.",
   "department" : "Prime Minister"
 }

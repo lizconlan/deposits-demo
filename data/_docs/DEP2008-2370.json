@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2370.zip"
-  "year" : "2008"
-  "description" : "I. The quarter: an update from the Director General for NHS Finance, Performance and Operations. Quarter 1, 2008/09. 39 p. II. Auditor's local evaluation 2007/08. Health briefing summary, October 2008."
+  "deposited_date" : "14/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2370.zip",
+  "year" : "2008",
+  "description" : "I. The quarter: an update from the Director General for NHS Finance, Performance and Operations. Quarter 1, 2008/09. 39 p. II. Auditor's local evaluation 2007/08. Health briefing summary, October 2008.",
   "department" : "Dept of Health Audit Commission"
 }

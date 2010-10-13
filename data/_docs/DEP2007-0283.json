@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/06/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0283.pdf"
-  "year" : "2007"
-  "description" : "Letter dated 05/11/2007 from Pipa Doubtfire, Head of Revenue Management, to Jamie Reed MP regarding revenue raised by television licence fees in Copeland."
+  "deposited_date" : "15/06/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0283.pdf",
+  "year" : "2007",
+  "description" : "Letter dated 05/11/2007 from Pipa Doubtfire, Head of Revenue Management, to Jamie Reed MP regarding revenue raised by television licence fees in Copeland.",
   "department" : "BBC Dept for Culture Media and Sport"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0613.tif"
-  "year" : "2008"
-  "description" : "Letter dated 03/03/2008 from Jim Fitzpatrick MP to Greg Knight MP correcting a written answer regarding the increase in fuel consumption from dedicated daytime running lamps."
+  "deposited_date" : "03/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0613.tif",
+  "year" : "2008",
+  "description" : "Letter dated 03/03/2008 from Jim Fitzpatrick MP to Greg Knight MP correcting a written answer regarding the increase in fuel consumption from dedicated daytime running lamps.",
   "department" : "Dept for Transport"
 }

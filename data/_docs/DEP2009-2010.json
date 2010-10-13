@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/06/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2010.xls"
-  "year" : "2009"
-  "description" : "Tables showing control of major accident hazards (COMAH) major hazard sites in Essex and England (including large scale petrol storage sites). 2 p."
+  "deposited_date" : "23/06/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2010.xls",
+  "year" : "2009",
+  "description" : "Tables showing control of major accident hazards (COMAH) major hazard sites in Essex and England (including large scale petrol storage sites). 2 p.",
   "department" : "Dept for Work and Pensions"
 }

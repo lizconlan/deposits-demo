@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0288.pdf"
-  "year" : "2007"
-  "description" : "Mechanism for setting guideline rents in housing revenue account subsidy 2008-09 and 2009-10. Consultation paper. 14 p."
+  "deposited_date" : "10/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0288.pdf",
+  "year" : "2007",
+  "description" : "Mechanism for setting guideline rents in housing revenue account subsidy 2008-09 and 2009-10. Consultation paper. 14 p.",
   "department" : "Dept for Communities and Local Government"
 }

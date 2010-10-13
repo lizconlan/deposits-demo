@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/06/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1850.pdf"
-  "year" : "2009"
-  "description" : "The UK and the International Monetary Fund (IMF) 2007 and 2008: responding to global economic challenges. Incl. annexes. 48 p."
+  "deposited_date" : "30/06/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1850.pdf",
+  "year" : "2009",
+  "description" : "The UK and the International Monetary Fund (IMF) 2007 and 2008: responding to global economic challenges. Incl. annexes. 48 p.",
   "department" : "Treasury"
 }

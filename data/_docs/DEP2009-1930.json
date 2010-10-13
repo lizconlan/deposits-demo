@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/07/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1930.doc"
-  "year" : "2009"
-  "description" : "Letter dated July 2009 from Bill Rammell MP to Liam Fox MP regarding the average training hours spent by fast jet pilots in each aircraft type for each year since 2003 and each month of 2008. 2 p."
+  "deposited_date" : "08/07/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1930.doc",
+  "year" : "2009",
+  "description" : "Letter dated July 2009 from Bill Rammell MP to Liam Fox MP regarding the average training hours spent by fast jet pilots in each aircraft type for each year since 2003 and each month of 2008. 2 p.",
   "department" : "Ministry of Defence"
 }

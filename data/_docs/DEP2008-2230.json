@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/09/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2230.doc"
-  "year" : "2008"
-  "description" : "Tables showing total number of people leaving new deal schemes for young people and for 25+ from 1998 to November 2007, broken down by Jobcentre Plus district 16 p."
+  "deposited_date" : "17/09/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2230.doc",
+  "year" : "2008",
+  "description" : "Tables showing total number of people leaving new deal schemes for young people and for 25+ from 1998 to November 2007, broken down by Jobcentre Plus district 16 p.",
   "department" : "Dept for Work and Pensions"
 }

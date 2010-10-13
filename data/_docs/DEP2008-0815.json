@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/03/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0815.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 20/03/2008 from Lord West of Spithead to Baroness Henig regarding inspection of police authorities. 3 p."
+  "deposited_date" : "20/03/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0815.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 20/03/2008 from Lord West of Spithead to Baroness Henig regarding inspection of police authorities. 3 p.",
   "department" : "Home Office"
 }

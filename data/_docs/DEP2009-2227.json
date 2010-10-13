@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/08/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2227.tif"
-  "year" : "2009"
-  "description" : "Letter dated 20/07/2009 from J M Stewart, Director of Human Resources, to Andrew Rosindell MP regarding Catholic recruits in the Police Service for Northern Ireland. 3 p."
+  "deposited_date" : "03/08/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2227.tif",
+  "year" : "2009",
+  "description" : "Letter dated 20/07/2009 from J M Stewart, Director of Human Resources, to Andrew Rosindell MP regarding Catholic recruits in the Police Service for Northern Ireland. 3 p.",
   "department" : "Police Service of Northern Ireland Northern Ireland Office"
 }

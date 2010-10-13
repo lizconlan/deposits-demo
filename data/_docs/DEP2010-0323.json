@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0323.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 29/01/2010 from Tessa Jowell MP to Jim Dobbin MP regarding North West businesses supplying the Olympic Delivery Authority. Incl. table. 3 p."
+  "deposited_date" : "18/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0323.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 29/01/2010 from Tessa Jowell MP to Jim Dobbin MP regarding North West businesses supplying the Olympic Delivery Authority. Incl. table. 3 p.",
   "department" : "Department for Culture, Media and Sport"
 }

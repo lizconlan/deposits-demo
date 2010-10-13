@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/12/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3081.zip"
-  "year" : "2009"
-  "description" : "Local Transport Act 2008: Quality Contracts Schemes: I. Recruitment Pac For Board Panel Members. 20 p. II. Response To Consultation. 21 p. III. Statutory Guidance. 53 p."
+  "deposited_date" : "10/12/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3081.zip",
+  "year" : "2009",
+  "description" : "Local Transport Act 2008: Quality Contracts Schemes: I. Recruitment Pac For Board Panel Members. 20 p. II. Response To Consultation. 21 p. III. Statutory Guidance. 53 p.",
   "department" : "Dept for Transport"
 }

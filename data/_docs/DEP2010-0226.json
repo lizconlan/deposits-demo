@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "27/01/2010"
-  "legislature" : CommonsLords
-  "legislation" : "Equality Bill 2008-09"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0226.pdf"
-  "year" : "2010"
-  "description" : "Equality Bill: making it work. Ending age discrimination in services and public functions-policy statement. Incl. annexes. 62 p."
+  "deposited_date" : "27/01/2010",
+  "legislature" : ["Commons","Lords"],
+  "legislation" : "Equality Bill 2008-09",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0226.pdf",
+  "year" : "2010",
+  "description" : "Equality Bill: making it work. Ending age discrimination in services and public functions-policy statement. Incl. annexes. 62 p.",
   "department" : "Cabinet Office"
 }

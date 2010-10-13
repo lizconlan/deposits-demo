@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/11/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2830.zip"
-  "year" : "2009"
-  "description" : "Letter dated 12/11/2009 from Kim Gunningham regarding South Downs National Park. Inc report and a map. 38 p."
+  "deposited_date" : "12/11/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2830.zip",
+  "year" : "2009",
+  "description" : "Letter dated 12/11/2009 from Kim Gunningham regarding South Downs National Park. Inc report and a map. 38 p.",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

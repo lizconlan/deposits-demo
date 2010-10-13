@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/12/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3176.zip"
-  "year" : "2009"
-  "description" : "Letter dated 15/12/2009 from Pat McFadden MP to Peter Luff MP regarding the interim report, Thinking business in policy, which has been published. Incl a copy of the report. 16 p."
+  "deposited_date" : "15/12/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3176.zip",
+  "year" : "2009",
+  "description" : "Letter dated 15/12/2009 from Pat McFadden MP to Peter Luff MP regarding the interim report, Thinking business in policy, which has been published. Incl a copy of the report. 16 p.",
   "department" : "Dept for Business, Innovation and Skills"
 }

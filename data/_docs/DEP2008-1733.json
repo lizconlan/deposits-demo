@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/07/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1733.zip"
-  "year" : "2008"
-  "description" : "Dear colleague letter dated 01/07/2008 from Mark Lambirth regarding the implementation of the "Towards a sustainable transport system" (TaSTS). 12 p. Also incl. accompanying papers on "Public attitudes to transport" and other relevant papers. [12 documents]"
+  "deposited_date" : "01/07/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1733.zip",
+  "year" : "2008",
+  "description" : "Dear colleague letter dated 01/07/2008 from Mark Lambirth regarding the implementation of the \"Towards a sustainable transport system\" (TaSTS). 12 p. Also incl. accompanying papers on \"Public attitudes to transport\" and other relevant papers. [12 documents]",
   "department" : "Dept for Transport"
 }

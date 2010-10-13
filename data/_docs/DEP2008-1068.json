@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/04/2008"
-  "legislature" : Commons
-  "notes" : "Paper copies available in Commons and Lords Libraries only"
-  "year" : "2008"
-  "description" : "Annual reports on monitoring the application of the common fisheries policy for each year from 1999 to 2006. [9 documents]"
+  "deposited_date" : "21/04/2008",
+  "legislature" : ["Commons"],
+  "notes" : "Paper copies available in Commons and Lords Libraries only",
+  "year" : "2008",
+  "description" : "Annual reports on monitoring the application of the common fisheries policy for each year from 1999 to 2006. [9 documents]",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0540.zip"
-  "year" : "2010"
-  "description" : "I. Safe and confident neighbourhoods strategy: next steps in neighbourhood policing. 52 p. II. Letter dated 01/03/2010 from Alan Johnson MP and David Hanson MP to Chris Huhne MP regarding the publication of: Safe and confident neighbourhood strategy. 2 p."
+  "deposited_date" : "01/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0540.zip",
+  "year" : "2010",
+  "description" : "I. Safe and confident neighbourhoods strategy: next steps in neighbourhood policing. 52 p. II. Letter dated 01/03/2010 from Alan Johnson MP and David Hanson MP to Chris Huhne MP regarding the publication of: Safe and confident neighbourhood strategy. 2 p.",
   "department" : "Home Office"
 }

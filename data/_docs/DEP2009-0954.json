@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0954.doc"
-  "year" : "2009"
-  "description" : "Table showing websites currently maintained by the Department for Transport and the page hits received in each of the last 12 months. 2 p."
+  "deposited_date" : "25/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0954.doc",
+  "year" : "2009",
+  "description" : "Table showing websites currently maintained by the Department for Transport and the page hits received in each of the last 12 months. 2 p.",
   "department" : "Home Office"
 }

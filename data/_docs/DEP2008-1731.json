@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/06/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1731.xls"
-  "year" : "2008"
-  "description" : "Table showing the number of DWP benefit accounts and state pension accounts being paid into a Post Office card account, broken down by parliamentary constituency, as at 22/12/2007. 10 p."
+  "deposited_date" : "30/06/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1731.xls",
+  "year" : "2008",
+  "description" : "Table showing the number of DWP benefit accounts and state pension accounts being paid into a Post Office card account, broken down by parliamentary constituency, as at 22/12/2007. 10 p.",
   "department" : "Dept for Work and Pensions"
 }

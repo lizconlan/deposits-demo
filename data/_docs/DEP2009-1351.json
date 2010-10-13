@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/05/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1351.pdf"
-  "year" : "2009"
-  "description" : "Performance standards for electoral registration officers: assessment of performance following the 2008 annual canvass. 18 p."
+  "deposited_date" : "06/05/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1351.pdf",
+  "year" : "2009",
+  "description" : "Performance standards for electoral registration officers: assessment of performance following the 2008 annual canvass. 18 p.",
   "department" : "Electoral Commission"
 }

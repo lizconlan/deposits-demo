@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0481.zip"
-  "year" : "2010"
-  "description" : "I. The healthy NHS board principles for good governance. Incl. appendices. 22 p. II. Letter dated 23/02/2010 from Jo Williams (Interim Chair, Care Quality Commission) to Andy Burnham MP regarding the Mid Staffordshire Foundation Trust. 2 p. III. Review of early warning systems in the NHS: acute and community services. National Quality Board. Feb 2010. 62 p. VI. Letter dated 23/02/2010 from Andy Burnham MP to Jo Williams (Interim Chair, Care Quality Commission) regarding failings of the Mid Staffordshire Foundation Trust. 1 p. V. Assuring the quality of senior NHS managers: report of the advisory group on assuring the quality of senior NHS managers. 37 p."
+  "deposited_date" : "24/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0481.zip",
+  "year" : "2010",
+  "description" : "I. The healthy NHS board principles for good governance. Incl. appendices. 22 p. II. Letter dated 23/02/2010 from Jo Williams (Interim Chair, Care Quality Commission) to Andy Burnham MP regarding the Mid Staffordshire Foundation Trust. 2 p. III. Review of early warning systems in the NHS: acute and community services. National Quality Board. Feb 2010. 62 p. VI. Letter dated 23/02/2010 from Andy Burnham MP to Jo Williams (Interim Chair, Care Quality Commission) regarding failings of the Mid Staffordshire Foundation Trust. 1 p. V. Assuring the quality of senior NHS managers: report of the advisory group on assuring the quality of senior NHS managers. 37 p.",
   "department" : "Department of Health"
 }

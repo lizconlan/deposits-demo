@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/09/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2391.pdf"
-  "year" : "2009"
-  "description" : "Guide to NHS dental services in England. 28 p."
+  "deposited_date" : "16/09/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2391.pdf",
+  "year" : "2009",
+  "description" : "Guide to NHS dental services in England. 28 p.",
   "department" : "Dept of Health"
 }

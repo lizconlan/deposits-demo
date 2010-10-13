@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "16/12/2009"
-  "legislature" : Lords
-  "legislation" : "Bribery Bill, 2009-10"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3188.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 16/12/2009 from Lord Bach to Lord Henley regarding the Bribery Bill, adequate procedures guidance. 5 p."
+  "deposited_date" : "16/12/2009",
+  "legislature" : ["Lords"],
+  "legislation" : "Bribery Bill, 2009-10",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3188.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 16/12/2009 from Lord Bach to Lord Henley regarding the Bribery Bill, adequate procedures guidance. 5 p.",
   "department" : "Ministry of Justice"
 }

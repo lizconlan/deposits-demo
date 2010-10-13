@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/11/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0126.xls"
-  "year" : "2007"
-  "description" : "Tables showing a) Breast screening programme coverage of women (less than 3 years since last test) aged 53-64 for the years 2001/02 to 2005/06, broken down by Primary Care Organisation; 5 p. b) Cervical screening programme coverage of the Target Age Group (25-64) less than 5 yrs since last adequate test for the years 2001/02 to 2006/07, broken down by Primary Care Organisation. 8 p."
+  "deposited_date" : "14/11/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0126.xls",
+  "year" : "2007",
+  "description" : "Tables showing a) Breast screening programme coverage of women (less than 3 years since last test) aged 53-64 for the years 2001/02 to 2005/06, broken down by Primary Care Organisation; 5 p. b) Cervical screening programme coverage of the Target Age Group (25-64) less than 5 yrs since last adequate test for the years 2001/02 to 2006/07, broken down by Primary Care Organisation. 8 p.",
   "department" : "Dept of Health"
 }

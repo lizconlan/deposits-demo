@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0130.doc"
-  "year" : "2009"
-  "description" : "List showing Post Initial Gate Pre Main Gate Equipment Procurement Projects as at 31 March 2005. 13 p."
+  "deposited_date" : "16/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0130.doc",
+  "year" : "2009",
+  "description" : "List showing Post Initial Gate Pre Main Gate Equipment Procurement Projects as at 31 March 2005. 13 p.",
   "department" : "Ministry of Defence"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/10/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2551.zip"
-  "year" : "2009"
-  "description" : "Letter dated 19/10/2009 fron Lord Davies of Abersoch to Peter Luff MP regarding Small Firms Loan Guarantee annual report 2008/09. Inc the report. 24 p."
+  "deposited_date" : "19/10/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2551.zip",
+  "year" : "2009",
+  "description" : "Letter dated 19/10/2009 fron Lord Davies of Abersoch to Peter Luff MP regarding Small Firms Loan Guarantee annual report 2008/09. Inc the report. 24 p.",
   "department" : "Dept for Business, Innovation and Skills"
 }

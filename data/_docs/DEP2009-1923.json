@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/07/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1923.pdf"
-  "year" : "2009"
-  "description" : "Table showing amendments to the council tax valuation lists which were made in each billing authority from 1 April 2008 to 31 March 2009. 7 p."
+  "deposited_date" : "07/07/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1923.pdf",
+  "year" : "2009",
+  "description" : "Table showing amendments to the council tax valuation lists which were made in each billing authority from 1 April 2008 to 31 March 2009. 7 p.",
   "department" : "Dept for Communities and Local Government Valuation Office"
 }

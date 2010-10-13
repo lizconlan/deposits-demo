@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2716.zip"
-  "year" : "2008"
-  "description" : "Presentations given by representatives of the Valuation Office Agency at conferences in Malaysia, Canada and Poland. [91 Powerpoint slides] [Undated]"
+  "deposited_date" : "12/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2716.zip",
+  "year" : "2008",
+  "description" : "Presentations given by representatives of the Valuation Office Agency at conferences in Malaysia, Canada and Poland. [91 Powerpoint slides] [Undated]",
   "department" : "Valuation Office"
 }

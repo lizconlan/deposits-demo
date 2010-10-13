@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/10/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2395.pdf"
-  "year" : "2008"
-  "description" : "Smoking and drinking among adults, 2006. By Eileen Goddard. General Household Survey 2006. 83 p."
+  "deposited_date" : "16/10/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2395.pdf",
+  "year" : "2008",
+  "description" : "Smoking and drinking among adults, 2006. By Eileen Goddard. General Household Survey 2006. 83 p.",
   "department" : "Dept of Health"
 }

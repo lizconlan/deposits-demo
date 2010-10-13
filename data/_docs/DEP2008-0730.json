@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "29/02/2008"
-  "legislature" : Commons
-  "legislation" : "Health and Safety (Offences) Bill 2007-08"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0730.tif"
-  "year" : "2008"
-  "description" : "Letter dated 29/02/2008 from Anne McGuire MP to Annette Brooke MP regarding the issues of child employment in the context of the Health and Safety (Offences) Bill."
+  "deposited_date" : "29/02/2008",
+  "legislature" : ["Commons"],
+  "legislation" : "Health and Safety (Offences) Bill 2007-08",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0730.tif",
+  "year" : "2008",
+  "description" : "Letter dated 29/02/2008 from Anne McGuire MP to Annette Brooke MP regarding the issues of child employment in the context of the Health and Safety (Offences) Bill.",
   "department" : "Dept for Work and Pensions"
 }

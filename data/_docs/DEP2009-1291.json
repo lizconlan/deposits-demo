@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/03/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1291.zip"
-  "year" : "2009"
-  "description" : "Letter dated 30/04/2009 from Lord Hunt to Elliot Morley MP regarding "Investing in a low carbon Britain". Inc the report. 48 p."
+  "deposited_date" : "12/03/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1291.zip",
+  "year" : "2009",
+  "description" : "Letter dated 30/04/2009 from Lord Hunt to Elliot Morley MP regarding \"Investing in a low carbon Britain\". Inc the report. 48 p.",
   "department" : "Dept of Energy and Climate Change"
 }

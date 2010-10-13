@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/07/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2399.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 17/09/2009 from Lord Bach to Andrew Pelling MP regarding mandatory drugs testing. Inc a table. 46 p."
+  "deposited_date" : "15/07/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2399.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 17/09/2009 from Lord Bach to Andrew Pelling MP regarding mandatory drugs testing. Inc a table. 46 p.",
   "department" : "Ministry of Justice"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1977.pdf"
-  "year" : "2008"
-  "description" : "Internet enabled set top boxes: supporting digital and social inclusion policy for help scheme recipients. Presentation by DCLG dated 27/02/2008. 9 slides."
+  "deposited_date" : "17/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1977.pdf",
+  "year" : "2008",
+  "description" : "Internet enabled set top boxes: supporting digital and social inclusion policy for help scheme recipients. Presentation by DCLG dated 27/02/2008. 9 slides.",
   "department" : "Dept for Communities and Local Government"
 }

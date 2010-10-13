@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1398.tif"
-  "year" : "2008"
-  "description" : "Letter dated 02/06/2008 from Tom Harris MP to David Heath MP regarding the future of the Trowbridge driving test centre. 4 p."
+  "deposited_date" : "02/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1398.tif",
+  "year" : "2008",
+  "description" : "Letter dated 02/06/2008 from Tom Harris MP to David Heath MP regarding the future of the Trowbridge driving test centre. 4 p.",
   "department" : "Dept for Transport"
 }

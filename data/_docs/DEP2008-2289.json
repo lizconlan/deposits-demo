@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "06/10/2008"
-  "legislature" : Commons
-  "legislation" : "Termination of Pregnancy Bill 2006-07"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2289.pdf"
-  "year" : "2008"
-  "description" : "Responses received by the Department of Health from interested parties used in the preparation of the partial regulatory impact assessment for the Termination of Pregnancy Bill 2006-07. 26 p."
+  "deposited_date" : "06/10/2008",
+  "legislature" : ["Commons"],
+  "legislation" : "Termination of Pregnancy Bill 2006-07",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2289.pdf",
+  "year" : "2008",
+  "description" : "Responses received by the Department of Health from interested parties used in the preparation of the partial regulatory impact assessment for the Termination of Pregnancy Bill 2006-07. 26 p.",
   "department" : "Dept of Health"
 }

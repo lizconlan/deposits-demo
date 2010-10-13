@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/11/2008"
-  "legislature" : Commons
-  "notes" : "Hard copy only available in Commons and Lords libraries"
-  "year" : "2008"
-  "description" : "Minutes of meetings held between 13/12/2001 and 25/02/2008 by the DCA Cemetery and Burials Advisory Group."
+  "deposited_date" : "25/11/2008",
+  "legislature" : ["Commons"],
+  "notes" : "Hard copy only available in Commons and Lords libraries",
+  "year" : "2008",
+  "description" : "Minutes of meetings held between 13/12/2001 and 25/02/2008 by the DCA Cemetery and Burials Advisory Group.",
   "department" : "Ministry of Justice Dept for Constitutional Affairs"
 }

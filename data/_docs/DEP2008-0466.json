@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0466.pdf"
-  "year" : "2008"
-  "description" : "Transforming health research: the first two years. Progress report 2006-2008. 92 p."
+  "deposited_date" : "19/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0466.pdf",
+  "year" : "2008",
+  "description" : "Transforming health research: the first two years. Progress report 2006-2008. 92 p.",
   "department" : "National Institute for Health Research Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0962.zip"
-  "year" : "2009"
-  "description" : "Letters dated 19/03/2009 from Alan Johnson MP to George Alberti and David Colin-Thorne, Department of Health, regarding their proposed role in the forthcoming review of standards at the Mid Staffordshire NHS Foundation Trust. 2 files."
+  "deposited_date" : "24/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0962.zip",
+  "year" : "2009",
+  "description" : "Letters dated 19/03/2009 from Alan Johnson MP to George Alberti and David Colin-Thorne, Department of Health, regarding their proposed role in the forthcoming review of standards at the Mid Staffordshire NHS Foundation Trust. 2 files.",
   "department" : "Dept of Health"
 }

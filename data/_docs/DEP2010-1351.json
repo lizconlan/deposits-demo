@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/06/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1351.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 21/06/2010 from Henry Bellingham MP to Chris Bryant MP regarding UK policy towards emerging economies. 3 p."
+  "deposited_date" : "21/06/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1351.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 21/06/2010 from Henry Bellingham MP to Chris Bryant MP regarding UK policy towards emerging economies. 3 p.",
   "department" : "Foreign and Commonwealth Office"
 }

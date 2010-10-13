@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "02/04/2008"
-  "legislature" : CommonsLords
-  "legislation" : "Education and Skills Bill 2007-08"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0943.zip"
-  "year" : "2008"
-  "description" : "I. Letter dated 02/04/2008 from Ed Balls MP to Philip Hunter, Schools Adjudicator, regarding concerns about compliance with the Schools Admissions Code and admissions legislation. 2 p. II. Draft amendments to the Education and Skills Bill with explanatory note. 18 p. III. Verified results of non-compliance with admissions practice from Barnet, Manchester and Northamptonshire local authorities. 7 p. IV. Primary and secondary school admissions and appeals: a guide for parents. 28 p."
+  "deposited_date" : "02/04/2008",
+  "legislature" : ["Commons","Lords"],
+  "legislation" : "Education and Skills Bill 2007-08",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0943.zip",
+  "year" : "2008",
+  "description" : "I. Letter dated 02/04/2008 from Ed Balls MP to Philip Hunter, Schools Adjudicator, regarding concerns about compliance with the Schools Admissions Code and admissions legislation. 2 p. II. Draft amendments to the Education and Skills Bill with explanatory note. 18 p. III. Verified results of non-compliance with admissions practice from Barnet, Manchester and Northamptonshire local authorities. 7 p. IV. Primary and secondary school admissions and appeals: a guide for parents. 28 p.",
   "department" : "Dept for Children Schools and Families"
 }

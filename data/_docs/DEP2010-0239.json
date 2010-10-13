@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0239.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 26/01/2010 from Adam Crozier (Chief Executive, Royal Mail Group) to Lynne Featherstone MP regarding postal workers failing to attampt to deliver parcels. 2 p."
+  "deposited_date" : "05/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0239.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 26/01/2010 from Adam Crozier (Chief Executive, Royal Mail Group) to Lynne Featherstone MP regarding postal workers failing to attampt to deliver parcels. 2 p.",
   "department" : "Department for Business, Innovation and Skills"
 }

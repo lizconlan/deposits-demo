@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2324.zip"
-  "year" : "2008"
-  "description" : "I. Letter dated 08/10/2008 from Jonathan Shaw MP to Mark Harper MP regarding Equality 2025's finances. 1 p. II. Equality 2025: the UK's Advisory Network for Disability Equality. First report December 2006 - June 2008. 32 p."
+  "deposited_date" : "08/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2324.zip",
+  "year" : "2008",
+  "description" : "I. Letter dated 08/10/2008 from Jonathan Shaw MP to Mark Harper MP regarding Equality 2025's finances. 1 p. II. Equality 2025: the UK's Advisory Network for Disability Equality. First report December 2006 - June 2008. 32 p.",
   "department" : "Equality 2025 Dept for Work and Pensions"
 }

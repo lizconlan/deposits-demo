@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0879.zip"
-  "year" : "2008"
-  "description" : "I. Planning Policy Statement: planning and climate change. Supplement to Planning Policy Statement 1 (PPS1). DCLG. December 2007. 28 p. II. Wind Farm development and landscape capacity studies: South and West Berwick upon Tweed. North East Regional Assembly. May 2007. 117 p. III. Report of the Borough Council Officer on the planning application from Moorsyde Wind Farm Ltd. [no date] 62 p."
+  "deposited_date" : "27/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0879.zip",
+  "year" : "2008",
+  "description" : "I. Planning Policy Statement: planning and climate change. Supplement to Planning Policy Statement 1 (PPS1). DCLG. December 2007. 28 p. II. Wind Farm development and landscape capacity studies: South and West Berwick upon Tweed. North East Regional Assembly. May 2007. 117 p. III. Report of the Borough Council Officer on the planning application from Moorsyde Wind Farm Ltd. [no date] 62 p.",
   "department" : "Berwick-upon-Tweed Borough Council North East Regional Assembly Dept for Communities and Local Government"
 }

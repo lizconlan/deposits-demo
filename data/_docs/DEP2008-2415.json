@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2415.pdf"
-  "year" : "2008"
-  "description" : "Fourth edition of "The Quarter" - an update from the Director General for NHS Finance, Performance and Operations. 37 p."
+  "deposited_date" : "20/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2415.pdf",
+  "year" : "2008",
+  "description" : "Fourth edition of \"The Quarter\" - an update from the Director General for NHS Finance, Performance and Operations. 37 p.",
   "department" : "Dept of Health"
 }

@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "09/01/2008"
-  "legislature" : Lords
-  "legislation" : "Disabled Persons (Independent Living) Bill (HL) 2007-08"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0042.tif"
-  "year" : "2008"
-  "description" : "Letter dated 09/01/2008 from Baroness Royall of Blaisdon to Lord Ashley of Stoke regarding the government's plans to publish an independent living strategy."
+  "deposited_date" : "09/01/2008",
+  "legislature" : ["Lords"],
+  "legislation" : "Disabled Persons (Independent Living) Bill (HL) 2007-08",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0042.tif",
+  "year" : "2008",
+  "description" : "Letter dated 09/01/2008 from Baroness Royall of Blaisdon to Lord Ashley of Stoke regarding the government's plans to publish an independent living strategy.",
   "department" : "Whips Office"
 }

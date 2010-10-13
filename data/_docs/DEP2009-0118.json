@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/12/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0118.tif"
-  "year" : "2009"
-  "description" : "Letter dated 22/12/2008 from Baroness Andrews to the Lord Bishop of Southwark regarding the Inter Faith Network. 1 p."
+  "deposited_date" : "22/12/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0118.tif",
+  "year" : "2009",
+  "description" : "Letter dated 22/12/2008 from Baroness Andrews to the Lord Bishop of Southwark regarding the Inter Faith Network. 1 p.",
   "department" : "Dept for Communities and Local Government"
 }

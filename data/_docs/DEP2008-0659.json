@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0659.zip"
-  "year" : "2008"
-  "description" : "I. NHS dental statistics for England. Quarter 2: 30 Septemeber 2007. 25 p. II. Table showing dental activity treatment performed by treatment band in England, April 2007 to June 2007 (excluding orthodontic activity). 40 p."
+  "deposited_date" : "06/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0659.zip",
+  "year" : "2008",
+  "description" : "I. NHS dental statistics for England. Quarter 2: 30 Septemeber 2007. 25 p. II. Table showing dental activity treatment performed by treatment band in England, April 2007 to June 2007 (excluding orthodontic activity). 40 p.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0188.xls"
-  "year" : "2009"
-  "description" : "Table showing Small Business Rate Relief granted in each local authority in England for the years 2005/06 to 2007/08 and the number of Hereditaments claiming Small Business Rate relief as at 31 December 2006. 6 p."
+  "deposited_date" : "22/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0188.xls",
+  "year" : "2009",
+  "description" : "Table showing Small Business Rate Relief granted in each local authority in England for the years 2005/06 to 2007/08 and the number of Hereditaments claiming Small Business Rate relief as at 31 December 2006. 6 p.",
   "department" : "Dept for Communities and Local Government"
 }

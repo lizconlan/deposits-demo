@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/04/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1216.tif"
-  "year" : "2010"
-  "description" : "Letter dated 14/04/2010 from John McCaughan (Superintendent, PSNI) to Andrew Mackinlay MP regarding cross border policing in Northern Ireland and the reason cars were stopped crossing into the Irish Republic in March 2010. 2 p."
+  "deposited_date" : "08/04/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1216.tif",
+  "year" : "2010",
+  "description" : "Letter dated 14/04/2010 from John McCaughan (Superintendent, PSNI) to Andrew Mackinlay MP regarding cross border policing in Northern Ireland and the reason cars were stopped crossing into the Irish Republic in March 2010. 2 p.",
   "department" : "Northern Ireland Office"
 }

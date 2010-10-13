@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "31/10/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2537.zip"
-  "year" : "2008"
-  "description" : "Making and managing public appointments: a guide for departments. Incl. 10 annexes. 4th ed. 131 p."
+  "deposited_date" : "31/10/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2537.zip",
+  "year" : "2008",
+  "description" : "Making and managing public appointments: a guide for departments. Incl. 10 annexes. 4th ed. 131 p.",
   "department" : "Cabinet Office"
 }

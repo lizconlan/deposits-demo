@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/03/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0851.zip"
-  "year" : "2010"
-  "description" : "I. Rules of the National Employment Savings Trust. 40 p. II. Note to accompany the Rules of the National Employment Savings Trust. 4 p."
+  "deposited_date" : "25/03/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0851.zip",
+  "year" : "2010",
+  "description" : "I. Rules of the National Employment Savings Trust. 40 p. II. Note to accompany the Rules of the National Employment Savings Trust. 4 p.",
   "department" : "Department for Work and Pensions"
 }

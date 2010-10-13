@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0468.doc"
-  "year" : "2009"
-  "description" : "Letter dated 06/11/2008 from Sue Berelowitz, Deputy Childrens Commissioner for England, to Francis Maude MP regarding money spent by the Childrens Commission on public relations and public affairs. 2 p."
+  "deposited_date" : "06/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0468.doc",
+  "year" : "2009",
+  "description" : "Letter dated 06/11/2008 from Sue Berelowitz, Deputy Childrens Commissioner for England, to Francis Maude MP regarding money spent by the Childrens Commission on public relations and public affairs. 2 p.",
   "department" : "Dept for Children, Schools and Families"
 }

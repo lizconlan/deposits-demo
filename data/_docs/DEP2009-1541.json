@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/06/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1541.zip"
-  "year" : "2009"
-  "description" : "I. Procurement policy note: appropriate use of national pre-vetting requirements for contractors employed on public sector contracts 09/08, July 2008. Incl. annexes. 5 p. II. National Security Vetting (NSV) and government contracting: situations when pre-existing clearance may be required, May 2007. 2 p."
+  "deposited_date" : "02/06/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1541.zip",
+  "year" : "2009",
+  "description" : "I. Procurement policy note: appropriate use of national pre-vetting requirements for contractors employed on public sector contracts 09/08, July 2008. Incl. annexes. 5 p. II. National Security Vetting (NSV) and government contracting: situations when pre-existing clearance may be required, May 2007. 2 p.",
   "department" : "Cabinet Office"
 }

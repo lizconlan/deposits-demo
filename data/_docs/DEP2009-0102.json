@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0102.zip"
-  "year" : "2009"
-  "description" : "I. Financial coherence scoping document: director financial development projects. 42 p. II. FOM to data stores mapping: director financial development projects. 24 p. III. DRMP information strategy: director financial development projects. 25 p. IV. Departmental financial management system IS strategy: Defence resource management solution project. 56 p."
+  "deposited_date" : "12/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0102.zip",
+  "year" : "2009",
+  "description" : "I. Financial coherence scoping document: director financial development projects. 42 p. II. FOM to data stores mapping: director financial development projects. 24 p. III. DRMP information strategy: director financial development projects. 25 p. IV. Departmental financial management system IS strategy: Defence resource management solution project. 56 p.",
   "department" : "Ministry of Defence"
 }

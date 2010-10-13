@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "20/03/2008"
-  "legislature" : CommonsLords
-  "legislation" : "Railways Act 1993"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0792.doc"
-  "year" : "2008"
-  "description" : "The Secretary of State for transport's statement of policy on the exercise of his power under section 26(1) of the Railways Act 1993. 4 p."
+  "deposited_date" : "20/03/2008",
+  "legislature" : ["Commons","Lords"],
+  "legislation" : "Railways Act 1993",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0792.doc",
+  "year" : "2008",
+  "description" : "The Secretary of State for transport's statement of policy on the exercise of his power under section 26(1) of the Railways Act 1993. 4 p.",
   "department" : "Dept for Transport"
 }

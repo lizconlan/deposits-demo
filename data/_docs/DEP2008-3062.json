@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/12/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3062.pdf"
-  "year" : "2008"
-  "description" : "High quality care for all: the operating framework. 52 p."
+  "deposited_date" : "11/12/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3062.pdf",
+  "year" : "2008",
+  "description" : "High quality care for all: the operating framework. 52 p.",
   "department" : "Dept of Health"
 }

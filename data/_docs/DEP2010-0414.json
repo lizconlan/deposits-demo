@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0414.tif"
-  "year" : "2010"
-  "description" : "Letter dated 10/02/2010 from John Healey MP to Ann Cryer MP regarding home owners allowing properties to fall into disrepair as a means of encouraging neighbours to support planning applications. 2 p."
+  "deposited_date" : "26/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0414.tif",
+  "year" : "2010",
+  "description" : "Letter dated 10/02/2010 from John Healey MP to Ann Cryer MP regarding home owners allowing properties to fall into disrepair as a means of encouraging neighbours to support planning applications. 2 p.",
   "department" : "Communities and Local Government"
 }

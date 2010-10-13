@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "09/02/2010"
-  "legislature" : Lords
-  "legislation" : "Equality Bill 2008-09"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0528.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 26/02/2010 from Baroness Royall to Lord Hunt of Wirral regarding the Equality Bill and Delegated Powers and Regulatory Reform Committee. 1 p."
+  "deposited_date" : "09/02/2010",
+  "legislature" : ["Lords"],
+  "legislation" : "Equality Bill 2008-09",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0528.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 26/02/2010 from Baroness Royall to Lord Hunt of Wirral regarding the Equality Bill and Delegated Powers and Regulatory Reform Committee. 1 p.",
   "department" : "Cabinet Office"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/06/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1767.xls"
-  "year" : "2009"
-  "description" : "Table showing Department for Transport consultations from July 2007 to June 2009. 1 p."
+  "deposited_date" : "22/06/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1767.xls",
+  "year" : "2009",
+  "description" : "Table showing Department for Transport consultations from July 2007 to June 2009. 1 p.",
   "department" : "Dept for Transport"
 }

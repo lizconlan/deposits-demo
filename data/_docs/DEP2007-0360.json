@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/12/2007"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0360.doc"
-  "year" : "2007"
-  "description" : "Financial Assistance Scheme (FAS): review of assets. Final report, December 2007. 177 p."
+  "deposited_date" : "17/12/2007",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0360.doc",
+  "year" : "2007",
+  "description" : "Financial Assistance Scheme (FAS): review of assets. Final report, December 2007. 177 p.",
   "department" : "Dept for Work and Pensions"
 }

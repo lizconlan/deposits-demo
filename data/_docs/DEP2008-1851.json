@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1851.pdf"
-  "year" : "2008"
-  "description" : "Discretionary housing payments: best practice guide. 28 p."
+  "deposited_date" : "08/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1851.pdf",
+  "year" : "2008",
+  "description" : "Discretionary housing payments: best practice guide. 28 p.",
   "department" : "Dept for Work and Pensions"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/07/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1503.xls"
-  "year" : "2010"
-  "description" : "Table showing receipt of (i) income support, (ii) jobseeker's allowance and (iii) pension credits, broken down by each (a) local authority area and (b) Jobcentre Plus district. 15 p."
+  "deposited_date" : "19/07/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1503.xls",
+  "year" : "2010",
+  "description" : "Table showing receipt of (i) income support, (ii) jobseeker's allowance and (iii) pension credits, broken down by each (a) local authority area and (b) Jobcentre Plus district. 15 p.",
   "department" : "Department for Work and Pensions"
 }

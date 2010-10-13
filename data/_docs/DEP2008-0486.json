@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/10/2007"
-  "legislature" : Commons
-  "notes" : "Available as hard copy only in Commons and Lords libraries"
-  "year" : "2008"
-  "description" : "Trees in towns II: a new survey of urban trees in England and their condition and management. Includes CD-ROM. 34 p."
+  "deposited_date" : "09/10/2007",
+  "legislature" : ["Commons"],
+  "notes" : "Available as hard copy only in Commons and Lords libraries",
+  "year" : "2008",
+  "description" : "Trees in towns II: a new survey of urban trees in England and their condition and management. Includes CD-ROM. 34 p.",
   "department" : "Dept for Communities and Local Government Agricultural Development and Advisory Service"
 }

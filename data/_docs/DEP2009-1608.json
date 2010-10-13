@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/06/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1608.doc"
-  "year" : "2009"
-  "description" : "Local planning authorities granting planning permissions which were not fully in accordance with Environment Agency advice on flood risk grounds in 2007/08. 10 p."
+  "deposited_date" : "02/06/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1608.doc",
+  "year" : "2009",
+  "description" : "Local planning authorities granting planning permissions which were not fully in accordance with Environment Agency advice on flood risk grounds in 2007/08. 10 p.",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2320.doc"
-  "year" : "2008"
-  "description" : "Table showing costs for 2006 (2nd year of phase 1) of EU emissions trading scheme (ETS) for the MOD. 2 p."
+  "deposited_date" : "08/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2320.doc",
+  "year" : "2008",
+  "description" : "Table showing costs for 2006 (2nd year of phase 1) of EU emissions trading scheme (ETS) for the MOD. 2 p.",
   "department" : "Ministry of Defence"
 }

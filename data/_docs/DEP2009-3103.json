@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/12/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3103.zip"
-  "year" : "2009"
-  "description" : "Table showing (a) full-time, (b) part-time, (c) drop-out and (d) course completion rates at London Metropolitan University for the years 2002/03 to 2006/07. 20 p."
+  "deposited_date" : "11/12/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3103.zip",
+  "year" : "2009",
+  "description" : "Table showing (a) full-time, (b) part-time, (c) drop-out and (d) course completion rates at London Metropolitan University for the years 2002/03 to 2006/07. 20 p.",
   "department" : "Dept for Business, Innovation and Skills"
 }

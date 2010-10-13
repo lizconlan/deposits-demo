@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "14/11/2008"
-  "legislature" : Lords
-  "legislation" : "Pensions Bill 2007-08"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2718.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 13/11/2008 from Lord McKenzie of Luton to Lord Skelmersdale regarding amendments for the third reading of the Pensions Bill. 4 p."
+  "deposited_date" : "14/11/2008",
+  "legislature" : ["Lords"],
+  "legislation" : "Pensions Bill 2007-08",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2718.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 13/11/2008 from Lord McKenzie of Luton to Lord Skelmersdale regarding amendments for the third reading of the Pensions Bill. 4 p.",
   "department" : "Dept for Work and Pensions"
 }

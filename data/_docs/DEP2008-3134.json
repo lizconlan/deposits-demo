@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/12/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3134.xls"
-  "year" : "2008"
-  "description" : "Table showing acute delayed transfers of care and number of acute beds, 2003-04 to 2007-08, broken down by Strategic Health Authorities and Primary Care Trusts in England."
+  "deposited_date" : "17/12/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3134.xls",
+  "year" : "2008",
+  "description" : "Table showing acute delayed transfers of care and number of acute beds, 2003-04 to 2007-08, broken down by Strategic Health Authorities and Primary Care Trusts in England.",
   "department" : "Dept of Health"
 }

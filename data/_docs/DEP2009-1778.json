@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/06/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1778.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 22/06/2009 from Vernon Coaker MP to Michael Gardiner, Chairman, regarding Partnerships for Schools. 9 p."
+  "deposited_date" : "23/06/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1778.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 22/06/2009 from Vernon Coaker MP to Michael Gardiner, Chairman, regarding Partnerships for Schools. 9 p.",
   "department" : "Dept for Children, Schools and Families"
 }

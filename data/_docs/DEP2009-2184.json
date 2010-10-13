@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/07/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2184.zip"
-  "year" : "2009"
-  "description" : "i. Assessment of relative needs: Wales. 38 p. ii. Assessment of relative needs: Scotland. 23 p. iii. Assessment of relative needs: Northern Ireland. 65 p."
+  "deposited_date" : "21/07/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2184.zip",
+  "year" : "2009",
+  "description" : "i. Assessment of relative needs: Wales. 38 p. ii. Assessment of relative needs: Scotland. 23 p. iii. Assessment of relative needs: Northern Ireland. 65 p.",
   "department" : "Treasury"
 }

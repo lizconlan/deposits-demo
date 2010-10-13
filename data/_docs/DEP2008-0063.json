@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/01/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0063.zip"
-  "year" : "2008"
-  "description" : "I. Letter dated 24/09/2007 from Malcolm Hooper, Professor of Medicinal Chemistry, University of Sunderland, to Lord Drayson regarding the prevalence of Motor Neurone Disease among Gulf War Veterans. II. Reply to above letter, dated 07/01/2008 from Derek Twigg MP."
+  "deposited_date" : "10/01/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0063.zip",
+  "year" : "2008",
+  "description" : "I. Letter dated 24/09/2007 from Malcolm Hooper, Professor of Medicinal Chemistry, University of Sunderland, to Lord Drayson regarding the prevalence of Motor Neurone Disease among Gulf War Veterans. II. Reply to above letter, dated 07/01/2008 from Derek Twigg MP.",
   "department" : "Ministry of Defence SUNDERLAND UNIVERSITY"
 }

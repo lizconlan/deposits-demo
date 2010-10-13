@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/06/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1303.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 15/06/2010 from Paul Burstow MP to Baroness Greengross regarding standing down from membership of the Ageing and Older People APG. 1 p."
+  "deposited_date" : "15/06/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1303.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 15/06/2010 from Paul Burstow MP to Baroness Greengross regarding standing down from membership of the Ageing and Older People APG. 1 p.",
   "department" : "Department of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/03/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0920.doc"
-  "year" : "2010"
-  "description" : "Driver testing, training, examining and licensing: implementing new European Union requirements (Directive 2006/126/EC). Responses to consultation paper. 21 p."
+  "deposited_date" : "29/03/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0920.doc",
+  "year" : "2010",
+  "description" : "Driver testing, training, examining and licensing: implementing new European Union requirements (Directive 2006/126/EC). Responses to consultation paper. 21 p.",
   "department" : "Department for Transport"
 }

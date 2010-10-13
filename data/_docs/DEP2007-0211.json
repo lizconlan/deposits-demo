@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/11/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0211.xls"
-  "year" : "2007"
-  "description" : "Tables showing number of convictions, for each year from 1997 to 2005, broken down by Police Force area, for a) neglect of pedestrian rights b) neglect of traffic directions c) speed limit offences d) driving after consuming alcohol/drugs e) dangerous driving and f) driving whilst disqualified."
+  "deposited_date" : "14/11/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0211.xls",
+  "year" : "2007",
+  "description" : "Tables showing number of convictions, for each year from 1997 to 2005, broken down by Police Force area, for a) neglect of pedestrian rights b) neglect of traffic directions c) speed limit offences d) driving after consuming alcohol/drugs e) dangerous driving and f) driving whilst disqualified.",
   "department" : "Home Office"
 }

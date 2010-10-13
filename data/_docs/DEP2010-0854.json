@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0854.xls"
-  "year" : "2010"
-  "description" : "Table showing stations in Greater London improvement is (a) completed, (b) under way but not completed, (c) scheduled to start in 2010-11, (d) scheduled to start in 2011-12 and (e) scheduled to start in 2012-13. 1 p."
+  "deposited_date" : "25/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0854.xls",
+  "year" : "2010",
+  "description" : "Table showing stations in Greater London improvement is (a) completed, (b) under way but not completed, (c) scheduled to start in 2010-11, (d) scheduled to start in 2011-12 and (e) scheduled to start in 2012-13. 1 p.",
   "department" : "Department for Transport"
 }

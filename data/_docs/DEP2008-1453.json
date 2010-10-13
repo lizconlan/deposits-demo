@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/06/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1453.pdf"
-  "year" : "2008"
-  "description" : "Before during and after: making the most of the London 2012 Games. 82 p."
+  "deposited_date" : "06/06/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1453.pdf",
+  "year" : "2008",
+  "description" : "Before during and after: making the most of the London 2012 Games. 82 p.",
   "department" : "Dept for Culture Media and Sport"
 }

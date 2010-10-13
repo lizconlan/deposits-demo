@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "24/02/2010"
-  "legislature" : Commons
-  "legislation" : "Equality Bill 2009-10"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0538.zip"
-  "year" : "2010"
-  "description" : "I. Letter dated 24/02/2010 from Baroness Royall to Patricia Lord Goodhart regarding the Equality Bill and caste discrimination. 2 p. II. Equality Bill: amendments to be moved on report. Clause 20. Schedule 3. 2 p."
+  "deposited_date" : "24/02/2010",
+  "legislature" : ["Commons"],
+  "legislation" : "Equality Bill 2009-10",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0538.zip",
+  "year" : "2010",
+  "description" : "I. Letter dated 24/02/2010 from Baroness Royall to Patricia Lord Goodhart regarding the Equality Bill and caste discrimination. 2 p. II. Equality Bill: amendments to be moved on report. Clause 20. Schedule 3. 2 p.",
   "department" : "Cabinet Office"
 }

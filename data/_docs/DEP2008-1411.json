@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/05/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1411.doc"
-  "year" : "2008"
-  "description" : "Table showing apprenticeships starts by sector, level and gender in 2006/07, broken down by region. 20 p."
+  "deposited_date" : "22/05/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1411.doc",
+  "year" : "2008",
+  "description" : "Table showing apprenticeships starts by sector, level and gender in 2006/07, broken down by region. 20 p.",
   "department" : "Dept for Innovation, Universities and Skills"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/04/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1098.pdf"
-  "year" : "2009"
-  "description" : "Independent critical appraisal of selected studies reporting an association between fluoride in drinking water and IQ. 58 p."
+  "deposited_date" : "07/04/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1098.pdf",
+  "year" : "2009",
+  "description" : "Independent critical appraisal of selected studies reporting an association between fluoride in drinking water and IQ. 58 p.",
   "department" : "Dept of Health Bazian Ltd"
 }

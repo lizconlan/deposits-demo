@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "31/01/2008"
-  "legislature" : Lords
-  "legislation" : "Human Fertilisation and Embryology Bill (HL) 2007-08"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0287.pdf"
-  "year" : "2008"
-  "description" : "Dear colleague letter dated 31/01/2008 from Lord Darzi of Denham regarding the issue of consent to use of existing cells and cell lines to create embryos or human admixed embyros in the context of the Human Fertilisation and Embryology Bill. 8 p."
+  "deposited_date" : "31/01/2008",
+  "legislature" : ["Lords"],
+  "legislation" : "Human Fertilisation and Embryology Bill (HL) 2007-08",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0287.pdf",
+  "year" : "2008",
+  "description" : "Dear colleague letter dated 31/01/2008 from Lord Darzi of Denham regarding the issue of consent to use of existing cells and cell lines to create embryos or human admixed embyros in the context of the Human Fertilisation and Embryology Bill. 8 p.",
   "department" : "Dept of Health"
 }

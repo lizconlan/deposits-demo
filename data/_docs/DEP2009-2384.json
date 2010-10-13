@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/09/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2384.tif"
-  "year" : "2009"
-  "description" : "Letter dated 03/09/2009 from R.D McCausland, Assistant Chief Constable, to William McCrea MP regarding the number of people that have moved house following dissident Republican threats during the last 12 months. 2 p."
+  "deposited_date" : "03/09/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2384.tif",
+  "year" : "2009",
+  "description" : "Letter dated 03/09/2009 from R.D McCausland, Assistant Chief Constable, to William McCrea MP regarding the number of people that have moved house following dissident Republican threats during the last 12 months. 2 p.",
   "department" : "Northern Ireland Office Police Service of Northern Ireland"
 }

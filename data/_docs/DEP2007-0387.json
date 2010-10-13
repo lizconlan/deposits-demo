@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0387.pdf"
-  "year" : "2007"
-  "description" : "Operating framework 2007/08: PCT baseline review of services for end of life care. 16 p."
+  "deposited_date" : "17/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0387.pdf",
+  "year" : "2007",
+  "description" : "Operating framework 2007/08: PCT baseline review of services for end of life care. 16 p.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1837.doc"
-  "year" : "2008"
-  "description" : "Table showing expenditure on General Dental Services and Personal Dental Services in North and South Staffordshire for the years 1997/98 to 2005/06. 7 p."
+  "deposited_date" : "08/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1837.doc",
+  "year" : "2008",
+  "description" : "Table showing expenditure on General Dental Services and Personal Dental Services in North and South Staffordshire for the years 1997/98 to 2005/06. 7 p.",
   "department" : "Dept of Health"
 }

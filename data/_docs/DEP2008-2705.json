@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/11/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2705.zip"
-  "year" : "2008"
-  "description" : "Letter dated 12/11/2008 from Ed Balls MP to Christine Gilbert, Her Majesty's Chief Inspector, regarding the urgent joint area review of safeguarding in Haringey following the death of Baby P. Incl. copy of updated written statement. 3 p."
+  "deposited_date" : "12/11/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2705.zip",
+  "year" : "2008",
+  "description" : "Letter dated 12/11/2008 from Ed Balls MP to Christine Gilbert, Her Majesty's Chief Inspector, regarding the urgent joint area review of safeguarding in Haringey following the death of Baby P. Incl. copy of updated written statement. 3 p.",
   "department" : "Dept for Children Schools and Families"
 }

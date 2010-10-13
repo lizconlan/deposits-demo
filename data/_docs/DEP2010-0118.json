@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/09/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0118.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 18/01/2010 from Maria Eagle MP to Chris Huhne MP regarding assaults in prisons. 2 p."
+  "deposited_date" : "16/09/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0118.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 18/01/2010 from Maria Eagle MP to Chris Huhne MP regarding assaults in prisons. 2 p.",
   "department" : "Ministry of Justice"
 }

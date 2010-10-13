@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2689.pdf"
-  "year" : "2009"
-  "description" : "Fire and resilience programme in-service management: consultation. Incl. annexes. 26 p."
+  "deposited_date" : "02/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2689.pdf",
+  "year" : "2009",
+  "description" : "Fire and resilience programme in-service management: consultation. Incl. annexes. 26 p.",
   "department" : "Dept for Communities and Local Government"
 }

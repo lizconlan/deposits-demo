@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/08/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2141.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 30/04/2008 from Christine Gilbert, Chief Inspector, to Michael Gove MP regarding lesson setting. 15 p."
+  "deposited_date" : "05/08/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2141.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 30/04/2008 from Christine Gilbert, Chief Inspector, to Michael Gove MP regarding lesson setting. 15 p.",
   "department" : "Dept for Children Schools and Families Office for Standards in Education Children's Services and Skills"
 }

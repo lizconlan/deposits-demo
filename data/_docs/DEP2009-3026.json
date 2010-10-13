@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/12/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3026.xls"
-  "year" : "2009"
-  "description" : "Table showing the number of waste treatment sites that treat toxic waste and at what distance from the nearest residential building each such site is located. 1 p."
+  "deposited_date" : "02/12/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3026.xls",
+  "year" : "2009",
+  "description" : "Table showing the number of waste treatment sites that treat toxic waste and at what distance from the nearest residential building each such site is located. 1 p.",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

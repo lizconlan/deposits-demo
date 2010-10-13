@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2033.zip"
-  "year" : "2008"
-  "description" : "I. Letter dated 17/07/2008 from Gareth Thomas MP to Peter Luff MP regarding the street trading and pedlary research project. 2 p. II. Street trading and pedlar review: terms of reference for research project to be carried out by the University of Durham. 3 p."
+  "deposited_date" : "17/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2033.zip",
+  "year" : "2008",
+  "description" : "I. Letter dated 17/07/2008 from Gareth Thomas MP to Peter Luff MP regarding the street trading and pedlary research project. 2 p. II. Street trading and pedlar review: terms of reference for research project to be carried out by the University of Durham. 3 p.",
   "department" : "Dept for Business Enterprise and Regulatory Reform"
 }

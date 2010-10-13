@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/03/2008"
-  "legislature" : Commons
-  "notes" : "DVD held in House of Commons Library only"
-  "year" : "2008"
-  "description" : "Internal staff videorecordings by the Valuation Office. [1 DVD] I. New Year message, Tuesday 16 January 2007. [Running time 8 minutes 57 seconds]. II. Phil Woolas MP, Minister for Local Government, September 2005. [Running time 5 minutes and 35 seconds]."
+  "deposited_date" : "18/03/2008",
+  "legislature" : ["Commons"],
+  "notes" : "DVD held in House of Commons Library only",
+  "year" : "2008",
+  "description" : "Internal staff videorecordings by the Valuation Office. [1 DVD] I. New Year message, Tuesday 16 January 2007. [Running time 8 minutes 57 seconds]. II. Phil Woolas MP, Minister for Local Government, September 2005. [Running time 5 minutes and 35 seconds].",
   "department" : "Treasury Valuation Office"
 }

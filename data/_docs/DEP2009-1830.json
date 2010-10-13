@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/06/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1830.zip"
-  "year" : "2009"
-  "description" : "I. Flooding in England: a national assessment of flood risk. 36 p. II. Investing for the future: flood and coastal risk management in England. A long-term investment strategy. 24 p. III. Flood and coastal risk management (FCRM) external contributions. 5 p. IV. Appraisal of flood and coastal erosion risk management: a Defra policy statement, June 2009. 52 p."
+  "deposited_date" : "22/06/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1830.zip",
+  "year" : "2009",
+  "description" : "I. Flooding in England: a national assessment of flood risk. 36 p. II. Investing for the future: flood and coastal risk management in England. A long-term investment strategy. 24 p. III. Flood and coastal risk management (FCRM) external contributions. 5 p. IV. Appraisal of flood and coastal erosion risk management: a Defra policy statement, June 2009. 52 p.",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

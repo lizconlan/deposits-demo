@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/11/2008"
-  "legislature" : Commons
-  "notes" : "Available in hard copy only from Commons Library"
-  "year" : "2008"
-  "description" : "Home Information Pack (HIP) for 62, South Eaton Place, London: September 2008."
+  "deposited_date" : "26/11/2008",
+  "legislature" : ["Commons"],
+  "notes" : "Available in hard copy only from Commons Library",
+  "year" : "2008",
+  "description" : "Home Information Pack (HIP) for 62, South Eaton Place, London: September 2008.",
   "department" : "Home Office"
 }

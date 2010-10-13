@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0130.tif"
-  "year" : "2008"
-  "description" : "Letter dated 14/01/2008 from Anne McGuire MP to Bob Spink MP regarding carbon monoxide alarms in caravans and park homes. 4 p."
+  "deposited_date" : "14/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0130.tif",
+  "year" : "2008",
+  "description" : "Letter dated 14/01/2008 from Anne McGuire MP to Bob Spink MP regarding carbon monoxide alarms in caravans and park homes. 4 p.",
   "department" : "Dept for Work and Pensions"
 }

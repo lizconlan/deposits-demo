@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/04/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1143.rtf"
-  "year" : "2008"
-  "description" : "Tables showing number of driving tests taken at Driving Test Centres in 2007-08, broken down by centre. 6 p."
+  "deposited_date" : "30/04/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1143.rtf",
+  "year" : "2008",
+  "description" : "Tables showing number of driving tests taken at Driving Test Centres in 2007-08, broken down by centre. 6 p.",
   "department" : "Dept for Transport"
 }

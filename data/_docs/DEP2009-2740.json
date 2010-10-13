@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2740.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 04/11/2009 from Alan Cook, Managing Director, to David Ruffley MP regarding Post Office branch closures in East of England. Inc. a table. 2 p."
+  "deposited_date" : "05/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2740.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 04/11/2009 from Alan Cook, Managing Director, to David Ruffley MP regarding Post Office branch closures in East of England. Inc. a table. 2 p.",
   "department" : "Dept for Business, Innovation and Skills"
 }

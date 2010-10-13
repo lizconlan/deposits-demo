@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/06/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1652.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 06/05/2009 from Baroness Thornton to Suleman Khonat (National Vice President, National Federation of Retail Newsagents) regarding Government proposals for removing tobacco displays. 4 p."
+  "deposited_date" : "09/06/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1652.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 06/05/2009 from Baroness Thornton to Suleman Khonat (National Vice President, National Federation of Retail Newsagents) regarding Government proposals for removing tobacco displays. 4 p.",
   "department" : "Dept of Health"
 }

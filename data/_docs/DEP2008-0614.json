@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0614.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 21/02/2008 from David Scott, Chief Executive, to Alistair Carmichael MP regarding spending on advertising by DigitalUK. 2 p."
+  "deposited_date" : "18/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0614.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 21/02/2008 from David Scott, Chief Executive, to Alistair Carmichael MP regarding spending on advertising by DigitalUK. 2 p.",
   "department" : "Digital UK Dept for Culture Media and Sport"
 }

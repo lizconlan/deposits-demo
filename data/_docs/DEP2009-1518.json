@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/05/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1518.xls"
-  "year" : "2009"
-  "description" : "Table showing Jobcentre Plus claims outstanding and Average Actual Clearance Time Jobseeker's Allowance, by region ending February 2009. 7 p."
+  "deposited_date" : "26/05/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1518.xls",
+  "year" : "2009",
+  "description" : "Table showing Jobcentre Plus claims outstanding and Average Actual Clearance Time Jobseeker's Allowance, by region ending February 2009. 7 p.",
   "department" : "Dept for Work and Pensions"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0646.zip"
-  "year" : "2010"
-  "description" : "Tables showing property transactions where the sale price was more than (a) £60,000, (b) £125,000, (c) £175,000 and (d) £250,000 in each (i) local authority area and (ii) region from 1997 to 2009. 539 p."
+  "deposited_date" : "11/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0646.zip",
+  "year" : "2010",
+  "description" : "Tables showing property transactions where the sale price was more than (a) £60,000, (b) £125,000, (c) £175,000 and (d) £250,000 in each (i) local authority area and (ii) region from 1997 to 2009. 539 p.",
   "department" : "Ministry of Justice"
 }

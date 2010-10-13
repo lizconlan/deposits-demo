@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "28/05/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1524.pdf"
-  "year" : "2009"
-  "description" : "Pandemic influenza: guidance for infection control in hospitals and primary care settings. Incl. appendices. 90 p."
+  "deposited_date" : "28/05/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1524.pdf",
+  "year" : "2009",
+  "description" : "Pandemic influenza: guidance for infection control in hospitals and primary care settings. Incl. appendices. 90 p.",
   "department" : "Dept of Health"
 }

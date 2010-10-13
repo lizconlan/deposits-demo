@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2275.zip"
-  "year" : "2008"
-  "description" : "Table showing Department of Health spent on services, broken down by type in Kent and the South East region for the years 2004/05 to 2006/07. 6 p."
+  "deposited_date" : "06/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2275.zip",
+  "year" : "2008",
+  "description" : "Table showing Department of Health spent on services, broken down by type in Kent and the South East region for the years 2004/05 to 2006/07. 6 p.",
   "department" : "Dept of Health"
 }

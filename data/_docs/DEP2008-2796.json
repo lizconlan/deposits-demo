@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2796.zip"
-  "year" : "2008"
-  "description" : "I. NFI Single Person Discount National Rollout - Guidelines. 2006/07. 20 p. II. NFI Guidelines 2006/2007 (updated 16/2/07). 101 p."
+  "deposited_date" : "20/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2796.zip",
+  "year" : "2008",
+  "description" : "I. NFI Single Person Discount National Rollout - Guidelines. 2006/07. 20 p. II. NFI Guidelines 2006/2007 (updated 16/2/07). 101 p.",
   "department" : "Dept for Communities and Local Government"
 }

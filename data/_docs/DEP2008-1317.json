@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/05/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1317.doc"
-  "year" : "2008"
-  "description" : "Table showing Number of Health trainers as at September 2007 for each Primary Care Trust. 4 p."
+  "deposited_date" : "20/05/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1317.doc",
+  "year" : "2008",
+  "description" : "Table showing Number of Health trainers as at September 2007 for each Primary Care Trust. 4 p.",
   "department" : "Dept of Health"
 }

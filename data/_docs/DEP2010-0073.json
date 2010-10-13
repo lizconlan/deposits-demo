@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0073.doc"
-  "year" : "2010"
-  "description" : "Making local the answer: speech by John Denham MP, Secretary of State for DCLG. 10 p."
+  "deposited_date" : "12/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0073.doc",
+  "year" : "2010",
+  "description" : "Making local the answer: speech by John Denham MP, Secretary of State for DCLG. 10 p.",
   "department" : "Communities and Local Government"
 }

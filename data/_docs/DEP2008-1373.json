@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/05/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1373.doc"
-  "year" : "2008"
-  "description" : "Position specification for head of UK Trade and Investment (UKTI) Defence and Security Organisation. 13 p."
+  "deposited_date" : "23/05/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1373.doc",
+  "year" : "2008",
+  "description" : "Position specification for head of UK Trade and Investment (UKTI) Defence and Security Organisation. 13 p.",
   "department" : "Dept for Business Enterprise and Regulatory Reform"
 }

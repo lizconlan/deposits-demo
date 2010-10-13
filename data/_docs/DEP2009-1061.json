@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/04/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1061.zip"
-  "year" : "2009"
-  "description" : "Letter dated 01/04/2009 from Alan Johnson MP to David Kidney MP regarding Mid Staffordshire NHS Foundation Trust. 5 p."
+  "deposited_date" : "02/04/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1061.zip",
+  "year" : "2009",
+  "description" : "Letter dated 01/04/2009 from Alan Johnson MP to David Kidney MP regarding Mid Staffordshire NHS Foundation Trust. 5 p.",
   "department" : "Dept of Health"
 }

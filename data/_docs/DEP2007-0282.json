@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/12/2007"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0282.pdf"
-  "year" : "2007"
-  "description" : "Letter dated 10/12/2007 from Lord Mckenzie of Luton to Lord Skelmersdale regarding a list of Remploy factories and their proposed status."
+  "deposited_date" : "10/12/2007",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0282.pdf",
+  "year" : "2007",
+  "description" : "Letter dated 10/12/2007 from Lord Mckenzie of Luton to Lord Skelmersdale regarding a list of Remploy factories and their proposed status.",
   "department" : "Dept for Work and Pensions"
 }

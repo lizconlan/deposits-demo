@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1803.tif"
-  "year" : "2008"
-  "description" : "Letter dated 19/03/2008 from Des Browne to Andrew Tyrie MP regarding individuals who have been detained by UK forces in Iraq and Afghanistan. Incl. copy of memorandum of understanding between UK and Afghanistan dated 30/09/2006. 6 p."
+  "deposited_date" : "07/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1803.tif",
+  "year" : "2008",
+  "description" : "Letter dated 19/03/2008 from Des Browne to Andrew Tyrie MP regarding individuals who have been detained by UK forces in Iraq and Afghanistan. Incl. copy of memorandum of understanding between UK and Afghanistan dated 30/09/2006. 6 p.",
   "department" : "Ministry of Defence"
 }

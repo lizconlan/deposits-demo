@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "19/11/2008"
-  "legislature" : Lords
-  "legislation" : "Social Security (Lone Parents and Miscellaneous Amendments) Regulations 2008"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2781.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 17/11/2008 from Lord McKenzie to Lord Skelmersdale regarding Social Security (Lone Parents and Miscellaneous Amendments) Regulations 2008. 3 p."
+  "deposited_date" : "19/11/2008",
+  "legislature" : ["Lords"],
+  "legislation" : "Social Security (Lone Parents and Miscellaneous Amendments) Regulations 2008",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2781.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 17/11/2008 from Lord McKenzie to Lord Skelmersdale regarding Social Security (Lone Parents and Miscellaneous Amendments) Regulations 2008. 3 p.",
   "department" : "Dept for Work and Pensions"
 }

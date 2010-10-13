@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/07/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1940.doc"
-  "year" : "2009"
-  "description" : "Table showing public service agreement offences and penalties for providing false information on a claim under the allowances scheme and failure to comply with requirements in respect to registration of financial interests and declaration of financial interests. 2 p."
+  "deposited_date" : "08/07/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1940.doc",
+  "year" : "2009",
+  "description" : "Table showing public service agreement offences and penalties for providing false information on a claim under the allowances scheme and failure to comply with requirements in respect to registration of financial interests and declaration of financial interests. 2 p.",
   "department" : "Cabinet Office"
 }

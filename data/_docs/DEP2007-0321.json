@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/12/2007"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0321.pdf"
-  "year" : "2007"
-  "description" : "Banning offensive weapons: summary of responses to a Home Office consultation paper. 7 p."
+  "deposited_date" : "12/12/2007",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0321.pdf",
+  "year" : "2007",
+  "description" : "Banning offensive weapons: summary of responses to a Home Office consultation paper. 7 p.",
   "department" : "Home Office"
 }

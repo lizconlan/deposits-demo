@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/11/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0161.pdf"
-  "year" : "2007"
-  "description" : "A twelve-month study of prison healthcare escorts and bedwatches. 140 p."
+  "deposited_date" : "26/11/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0161.pdf",
+  "year" : "2007",
+  "description" : "A twelve-month study of prison healthcare escorts and bedwatches. 140 p.",
   "department" : "Prison Service Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2447.doc"
-  "year" : "2008"
-  "description" : "Registered file guide: guide for file office staff and registered file users. 24 p."
+  "deposited_date" : "22/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2447.doc",
+  "year" : "2008",
+  "description" : "Registered file guide: guide for file office staff and registered file users. 24 p.",
   "department" : "Dept for Work and Pensions"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/12/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0018.doc"
-  "year" : "2010"
-  "description" : "Table showing the number of managers in NHS hospitals and community health services from 2004 to 2008. 6 p."
+  "deposited_date" : "16/12/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0018.doc",
+  "year" : "2010",
+  "description" : "Table showing the number of managers in NHS hospitals and community health services from 2004 to 2008. 6 p.",
   "department" : "Department of Health"
 }

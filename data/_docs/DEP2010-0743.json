@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0743.zip"
-  "year" : "2010"
-  "description" : "I. Table showing repeat abortions by primary care trust of residence and age group from 2002 to 2008. 10 p. II. Letter dated 18/03/2010 from Gillian Merron MP to Anne Milton MP regarding repeat abortion statistics. 1 p."
+  "deposited_date" : "18/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0743.zip",
+  "year" : "2010",
+  "description" : "I. Table showing repeat abortions by primary care trust of residence and age group from 2002 to 2008. 10 p. II. Letter dated 18/03/2010 from Gillian Merron MP to Anne Milton MP regarding repeat abortion statistics. 1 p.",
   "department" : "Department of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0223.doc"
-  "year" : "2007"
-  "description" : "List of manufacturers of software used in Defra as at November 2007. 9 p."
+  "deposited_date" : "04/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0223.doc",
+  "year" : "2007",
+  "description" : "List of manufacturers of software used in Defra as at November 2007. 9 p.",
   "department" : "Dept for Environment Food and Rural Affairs"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/12/2007"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0365.pdf"
-  "year" : "2007"
-  "description" : "Business tax reform: capital allowances changes. Technical note. 91 p."
+  "deposited_date" : "17/12/2007",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0365.pdf",
+  "year" : "2007",
+  "description" : "Business tax reform: capital allowances changes. Technical note. 91 p.",
   "department" : "Treasury"
 }

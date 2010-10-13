@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/04/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1061.zip"
-  "year" : "2008"
-  "description" : "Assessment of the effectiveness of District Policing Partnerships during the year 2006/07. Incl. performance monitoring framework document and performance assessments. 10 p."
+  "deposited_date" : "23/04/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1061.zip",
+  "year" : "2008",
+  "description" : "Assessment of the effectiveness of District Policing Partnerships during the year 2006/07. Incl. performance monitoring framework document and performance assessments. 10 p.",
   "department" : "Northern Ireland Office"
 }

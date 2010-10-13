@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2684.xls"
-  "year" : "2008"
-  "description" : "Table showing the number of jobseekers allowance claimants there were per customer-facing Jobcentre Plus staff member in each region in each quarter of each for the years 2006 to 2008. 5 p."
+  "deposited_date" : "11/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2684.xls",
+  "year" : "2008",
+  "description" : "Table showing the number of jobseekers allowance claimants there were per customer-facing Jobcentre Plus staff member in each region in each quarter of each for the years 2006 to 2008. 5 p.",
   "department" : "Dept for Work and Pensions"
 }

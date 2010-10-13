@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0818.pdf"
-  "year" : "2010"
-  "description" : "Review and update of the UK source inventories of Dioxins, Dioxin-Like Polychlorinated Biphenyls and Hexachlorobenzene for emissions to air, water and land. Report to the Department for Environment Food and Rural Affairs. Incl. appendices. 96 p."
+  "deposited_date" : "24/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0818.pdf",
+  "year" : "2010",
+  "description" : "Review and update of the UK source inventories of Dioxins, Dioxin-Like Polychlorinated Biphenyls and Hexachlorobenzene for emissions to air, water and land. Report to the Department for Environment Food and Rural Affairs. Incl. appendices. 96 p.",
   "department" : "Department for Environment, Food and Rural Affairs AEA Group"
 }

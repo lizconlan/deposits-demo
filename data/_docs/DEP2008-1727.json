@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/06/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1727.zip"
-  "year" : "2008"
-  "description" : "I. Delivering 14-19 reforms in rural areas: final report. 44 p. II. 14-19 transport-related issues and solutions: developing practice. 82 p. May 2007. III. 14-19 curriculum offer: transport-related issues and solutions. A developing practice guide for 14-19 partnerships. 142 p. May 2008."
+  "deposited_date" : "30/06/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1727.zip",
+  "year" : "2008",
+  "description" : "I. Delivering 14-19 reforms in rural areas: final report. 44 p. II. 14-19 transport-related issues and solutions: developing practice. 82 p. May 2007. III. 14-19 curriculum offer: transport-related issues and solutions. A developing practice guide for 14-19 partnerships. 142 p. May 2008.",
   "department" : "Dept for Children Schools and Families"
 }

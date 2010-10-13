@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/03/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0681.zip"
-  "year" : "2010"
-  "description" : "I. Interim Government response to the Stern Review. Mar 2010. 30 p. II. The Stern review: a report by Baroness Vivien Stern CBE of an independent review into how rape complaints are handled by public authorities in England and Wales. Incl. annexes. 158 p."
+  "deposited_date" : "15/03/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0681.zip",
+  "year" : "2010",
+  "description" : "I. Interim Government response to the Stern Review. Mar 2010. 30 p. II. The Stern review: a report by Baroness Vivien Stern CBE of an independent review into how rape complaints are handled by public authorities in England and Wales. Incl. annexes. 158 p.",
   "department" : "Cabinet Office Government Equalities Office Home Office"
 }

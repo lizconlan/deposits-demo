@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "07/07/2009"
-  "legislature" : Commons
-  "legislation" : "Equality Bill 2008-09"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1917.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 06/07/2009 from Vera Baird MP to Ann Winterton MP and joe Benton MP regarding the Equality Bill 2008-09 committee. 2 p."
+  "deposited_date" : "07/07/2009",
+  "legislature" : ["Commons"],
+  "legislation" : "Equality Bill 2008-09",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1917.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 06/07/2009 from Vera Baird MP to Ann Winterton MP and joe Benton MP regarding the Equality Bill 2008-09 committee. 2 p.",
   "department" : "Government Equalities Office"
 }

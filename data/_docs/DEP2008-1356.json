@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/05/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1356.zip"
-  "year" : "2008"
-  "description" : "Letters dated 20/05/2008 from Baroness Vadera to Michael Connarty MP and Lord Grenfell regarding the agenda for the EU Competitiveness Council in Brussels on 29 May 2008. 2 p."
+  "deposited_date" : "20/05/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1356.zip",
+  "year" : "2008",
+  "description" : "Letters dated 20/05/2008 from Baroness Vadera to Michael Connarty MP and Lord Grenfell regarding the agenda for the EU Competitiveness Council in Brussels on 29 May 2008. 2 p.",
   "department" : "Dept for Business Enterprise and Regulatory Reform"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/05/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1282.zip"
-  "year" : "2009"
-  "description" : "Letter dated 01/05/2009 from Hazel Blears MP to Paul Goodman MP regarding local work to prevent violent extremism. Incl. table of local authorities in receipt of Area Based Grant (ABG) in 2008-09. 11 p."
+  "deposited_date" : "01/05/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1282.zip",
+  "year" : "2009",
+  "description" : "Letter dated 01/05/2009 from Hazel Blears MP to Paul Goodman MP regarding local work to prevent violent extremism. Incl. table of local authorities in receipt of Area Based Grant (ABG) in 2008-09. 11 p.",
   "department" : "Dept for Communities and Local Government"
 }

@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "08/03/2010"
-  "legislature" : Lords
-  "legislation" : "Health and Social Care Act 2008 (Regulated Activities) Regulations 2010"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0652.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 10/03/2010 from Baroness Thornton to Earl Howe regarding the Health and Social Care Act 2008 (Regulated Activities) Regulations 2010 and hyperbaric therapy, defence health services and Care Quality Commission's inspector training. 2 p."
+  "deposited_date" : "08/03/2010",
+  "legislature" : ["Lords"],
+  "legislation" : "Health and Social Care Act 2008 (Regulated Activities) Regulations 2010",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0652.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 10/03/2010 from Baroness Thornton to Earl Howe regarding the Health and Social Care Act 2008 (Regulated Activities) Regulations 2010 and hyperbaric therapy, defence health services and Care Quality Commission's inspector training. 2 p.",
   "department" : "Department of Health"
 }

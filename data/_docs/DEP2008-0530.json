@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0530.xls"
-  "year" : "2008"
-  "description" : "Table showing major databases operated by the DFT and its agencies, including details of description and size, as at February 2008. 9 p."
+  "deposited_date" : "22/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0530.xls",
+  "year" : "2008",
+  "description" : "Table showing major databases operated by the DFT and its agencies, including details of description and size, as at February 2008. 9 p.",
   "department" : "Dept for Transport"
 }

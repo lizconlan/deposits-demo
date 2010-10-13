@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1468.zip"
-  "year" : "2008"
-  "description" : "I. Briefing document on environmental stresses from climate change. [Undated]. 17 p. II. Environmental stresses from detailed climate model simulations for the Middle East and Gulf region. March 2007. 39 p. III. Impacts of mean sea level rise based on current state-of-the-art modelling. [Undated] 25 p. IV. Report on changes in storm surges from detailed model simulations for the Bay of Bengal. [Undated] 22 p."
+  "deposited_date" : "09/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1468.zip",
+  "year" : "2008",
+  "description" : "I. Briefing document on environmental stresses from climate change. [Undated]. 17 p. II. Environmental stresses from detailed climate model simulations for the Middle East and Gulf region. March 2007. 39 p. III. Impacts of mean sea level rise based on current state-of-the-art modelling. [Undated] 25 p. IV. Report on changes in storm surges from detailed model simulations for the Bay of Bengal. [Undated] 22 p.",
   "department" : "Hadley Centre for Climate Prediction and Research Ministry of Defence Met Office"
 }

@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "08/11/2007"
-  "legislature" : CommonsLords
-  "legislation" : "Local Transport Bill (HL) 2007-08 Channel Tunnel Rail Link (Supplementary Provisions) Bill 2007-08"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0071.zip"
-  "year" : "2007"
-  "description" : "I. Local Transport Bill: list of relevant older papers. 2 p. II. Channel Tunnel Rail Link (Supplementary Provisions) Bill: list of relevant older papers. 1 p."
+  "deposited_date" : "08/11/2007",
+  "legislature" : ["Commons","Lords"],
+  "legislation" : "Local Transport Bill (HL) 2007-08 Channel Tunnel Rail Link (Supplementary Provisions) Bill 2007-08",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0071.zip",
+  "year" : "2007",
+  "description" : "I. Local Transport Bill: list of relevant older papers. 2 p. II. Channel Tunnel Rail Link (Supplementary Provisions) Bill: list of relevant older papers. 1 p.",
   "department" : "Dept for Transport"
 }

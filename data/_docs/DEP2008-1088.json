@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "22/04/2008"
-  "legislature" : Lords
-  "legislation" : "Regulatory Enforcement and Sanctions Bill (HL) 2007-08"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1088.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 22/04/2008 from Baroness Vadera to Lord Neill of Bladen regarding the drafting of clause 64 in the Regulatory Enforcement and Sanctions Bill."
+  "deposited_date" : "22/04/2008",
+  "legislature" : ["Lords"],
+  "legislation" : "Regulatory Enforcement and Sanctions Bill (HL) 2007-08",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1088.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 22/04/2008 from Baroness Vadera to Lord Neill of Bladen regarding the drafting of clause 64 in the Regulatory Enforcement and Sanctions Bill.",
   "department" : "Dept for Business Enterprise and Regulatory Reform"
 }

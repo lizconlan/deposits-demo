@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "18/12/2007"
-  "legislature" : Commons
-  "legislation" : "Consumer Credit Act 1974"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0395.zip"
-  "year" : "2007"
-  "description" : "I. Letter dated 17th December 2007 from Gareth Thomas MP to Peter Luff MP regarding the consultation on a porposed legislative reform order to amend the Consumer Credit Act 1974. II. Consultation paper on proposals relating to buy-to-let lending, provision of statements and definitions of "payments". 70 p."
+  "deposited_date" : "18/12/2007",
+  "legislature" : ["Commons"],
+  "legislation" : "Consumer Credit Act 1974",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0395.zip",
+  "year" : "2007",
+  "description" : "I. Letter dated 17th December 2007 from Gareth Thomas MP to Peter Luff MP regarding the consultation on a porposed legislative reform order to amend the Consumer Credit Act 1974. II. Consultation paper on proposals relating to buy-to-let lending, provision of statements and definitions of \"payments\". 70 p.",
   "department" : "Dept for Business Enterprise and Regulatory Reform"
 }

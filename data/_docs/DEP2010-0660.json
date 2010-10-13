@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0660.xls"
-  "year" : "2010"
-  "description" : "Table showing average time taken in calendar days to process new claims for housing benefit for the years 2003/04 to 2007/08, broken down by local authority. 13 p."
+  "deposited_date" : "12/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0660.xls",
+  "year" : "2010",
+  "description" : "Table showing average time taken in calendar days to process new claims for housing benefit for the years 2003/04 to 2007/08, broken down by local authority. 13 p.",
   "department" : "Department for Work and Pensions"
 }

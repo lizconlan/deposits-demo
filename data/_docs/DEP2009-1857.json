@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/06/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1857.xls"
-  "year" : "2009"
-  "description" : "Table showing the number of pupils at primary, secondary and special schools who received fixed period exclusions three or more times, by local authority. 1 p."
+  "deposited_date" : "29/06/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1857.xls",
+  "year" : "2009",
+  "description" : "Table showing the number of pupils at primary, secondary and special schools who received fixed period exclusions three or more times, by local authority. 1 p.",
   "department" : "Dept for Children, Schools and Families"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0340.xls"
-  "year" : "2008"
-  "description" : "Table showing reported personal injury road accidents involving at least one pedal cyclist for each year from 2002 to 2005, broken down by constituency. 7 p."
+  "deposited_date" : "05/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0340.xls",
+  "year" : "2008",
+  "description" : "Table showing reported personal injury road accidents involving at least one pedal cyclist for each year from 2002 to 2005, broken down by constituency. 7 p.",
   "department" : "Dept for Transport"
 }

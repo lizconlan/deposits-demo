@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/04/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1052.doc"
-  "year" : "2008"
-  "description" : "Table showing new HIV and first AIDS diagnoses between 2005 and 2007, broken down by PCT. 4 p."
+  "deposited_date" : "21/04/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1052.doc",
+  "year" : "2008",
+  "description" : "Table showing new HIV and first AIDS diagnoses between 2005 and 2007, broken down by PCT. 4 p.",
   "department" : "Dept of Health"
 }

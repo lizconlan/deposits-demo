@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "18/12/2007"
-  "legislature" : Commons
-  "legislation" : "Enterprise Act 2002"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0752.zip"
-  "year" : "2008"
-  "description" : "Enterprise Act 2002: the personal insolvency provisions. Final evaluation report, November 2007. 110 p. + 13 appendices."
+  "deposited_date" : "18/12/2007",
+  "legislature" : ["Commons"],
+  "legislation" : "Enterprise Act 2002",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0752.zip",
+  "year" : "2008",
+  "description" : "Enterprise Act 2002: the personal insolvency provisions. Final evaluation report, November 2007. 110 p. + 13 appendices.",
   "department" : "Dept for Business Enterprise and Regulatory Reform Insolvency Service"
 }

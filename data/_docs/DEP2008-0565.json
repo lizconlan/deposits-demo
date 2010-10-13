@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0565.zip"
-  "year" : "2008"
-  "description" : "Letters [not] dated from Stephen Speed, Inspector General and Agency Chief Executive, and Gareth Jones, Chief Executive and Registrar of Companies, to Philip Hammond MP regarding the Insolvency agency Service end-of-year bonus payments. 2 p."
+  "deposited_date" : "26/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0565.zip",
+  "year" : "2008",
+  "description" : "Letters [not] dated from Stephen Speed, Inspector General and Agency Chief Executive, and Gareth Jones, Chief Executive and Registrar of Companies, to Philip Hammond MP regarding the Insolvency agency Service end-of-year bonus payments. 2 p.",
   "department" : "Dept for Business Enterprise and Regulatory Reform Insolvency Service Companies House"
 }

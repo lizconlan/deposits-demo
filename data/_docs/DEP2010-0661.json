@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0661.xls"
-  "year" : "2010"
-  "description" : "Table showing Jobseeker's Allowance claimants in each month from February 2008 to January 2010, inclusive, in Great Britain and for each London Local Authority. 8 p."
+  "deposited_date" : "12/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0661.xls",
+  "year" : "2010",
+  "description" : "Table showing Jobseeker's Allowance claimants in each month from February 2008 to January 2010, inclusive, in Great Britain and for each London Local Authority. 8 p.",
   "department" : "Department for Work and Pensions"
 }

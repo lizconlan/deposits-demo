@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/11/2007"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0184.doc"
-  "year" : "2007"
-  "description" : "Table showing breakdown of NHS financial projections at Quarter 2 (2007/08). 10 p."
+  "deposited_date" : "29/11/2007",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0184.doc",
+  "year" : "2007",
+  "description" : "Table showing breakdown of NHS financial projections at Quarter 2 (2007/08). 10 p.",
   "department" : "Dept of Health"
 }

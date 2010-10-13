@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2098.xls"
-  "year" : "2008"
-  "description" : "Tables showing backlog maintenance for fire safety, health and safety and general repair each year from 1997/98 to 2006-07."
+  "deposited_date" : "29/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2098.xls",
+  "year" : "2008",
+  "description" : "Tables showing backlog maintenance for fire safety, health and safety and general repair each year from 1997/98 to 2006-07.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2862.pdf"
-  "year" : "2008"
-  "description" : "Table showing conceptions to women aged under 18: numbers and rates by area of usual residence for 2006. 10 p."
+  "deposited_date" : "25/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2862.pdf",
+  "year" : "2008",
+  "description" : "Table showing conceptions to women aged under 18: numbers and rates by area of usual residence for 2006. 10 p.",
   "department" : "Cabinet Office"
 }

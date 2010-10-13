@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/05/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1489.zip"
-  "year" : "2009"
-  "description" : "I. Independent review of the effects of alcohol pricing and promotion, part a: systematic reviews. Incl. appendices. 243 p. II. Independent review of the effects of alcohol pricing and promotion, part b: modelling the potential impact of pricing and promotion policies for alcohol in England, results from the Sheffield alcohol policy model. Incl. appendices. 217 p."
+  "deposited_date" : "20/05/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1489.zip",
+  "year" : "2009",
+  "description" : "I. Independent review of the effects of alcohol pricing and promotion, part a: systematic reviews. Incl. appendices. 243 p. II. Independent review of the effects of alcohol pricing and promotion, part b: modelling the potential impact of pricing and promotion policies for alcohol in England, results from the Sheffield alcohol policy model. Incl. appendices. 217 p.",
   "department" : "Dept of Health Sheffield University"
 }

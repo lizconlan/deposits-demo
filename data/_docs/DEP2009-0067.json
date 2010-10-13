@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0067.doc"
-  "year" : "2009"
-  "description" : "Year-on-year performance for NHS organisations (excluding foundation trusts but including the relevant part of the year for part-year foundation trusts) for the years 2005/06 to 2007/08. 15 p."
+  "deposited_date" : "12/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0067.doc",
+  "year" : "2009",
+  "description" : "Year-on-year performance for NHS organisations (excluding foundation trusts but including the relevant part of the year for part-year foundation trusts) for the years 2005/06 to 2007/08. 15 p.",
   "department" : "Dept of Health"
 }

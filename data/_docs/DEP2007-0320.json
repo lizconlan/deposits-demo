@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0320.doc"
-  "year" : "2007"
-  "description" : "Actions taken by the DH in response to the recommendations in the CRE "Report of formal investigation into the Department of Health". 5 p."
+  "deposited_date" : "11/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0320.doc",
+  "year" : "2007",
+  "description" : "Actions taken by the DH in response to the recommendations in the CRE \"Report of formal investigation into the Department of Health\". 5 p.",
   "department" : "Dept of Health"
 }

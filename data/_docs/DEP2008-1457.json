@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "06/06/2008"
-  "legislature" : Commons
-  "legislation" : "Finance Bill 2007-08"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1457.zip"
-  "year" : "2008"
-  "description" : "Letter dated 05/06/2008 from Jane Kennedy MP to Nicholas Winterton MP, Chair of the Public Bill Committee, regarding government amendments to schedule 7 in the Finance Bill 2007-08. Incl. copy of amendments. 14 p."
+  "deposited_date" : "06/06/2008",
+  "legislature" : ["Commons"],
+  "legislation" : "Finance Bill 2007-08",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1457.zip",
+  "year" : "2008",
+  "description" : "Letter dated 05/06/2008 from Jane Kennedy MP to Nicholas Winterton MP, Chair of the Public Bill Committee, regarding government amendments to schedule 7 in the Finance Bill 2007-08. Incl. copy of amendments. 14 p.",
   "department" : "Treasury"
 }

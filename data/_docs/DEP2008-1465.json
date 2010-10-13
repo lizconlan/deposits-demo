@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1465.doc"
-  "year" : "2008"
-  "description" : "Impact assessment of the introduction in England of double tagging for sheep and goats under Council Reg EC 21/2004. 32 p."
+  "deposited_date" : "11/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1465.doc",
+  "year" : "2008",
+  "description" : "Impact assessment of the introduction in England of double tagging for sheep and goats under Council Reg EC 21/2004. 32 p.",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

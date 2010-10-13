@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0558.xls"
-  "year" : "2010"
-  "description" : "Table showing NHS hospital and community health services Qualified Nursing staff, broken down by the School Nursing areas of work in England and Strategic Health Authority area and organisation as at 30 September for the years 2004 to 2008. 8 p."
+  "deposited_date" : "02/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0558.xls",
+  "year" : "2010",
+  "description" : "Table showing NHS hospital and community health services Qualified Nursing staff, broken down by the School Nursing areas of work in England and Strategic Health Authority area and organisation as at 30 September for the years 2004 to 2008. 8 p.",
   "department" : "Department of Health"
 }

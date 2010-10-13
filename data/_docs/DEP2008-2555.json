@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2555.zip"
-  "year" : "2008"
-  "description" : "Table showing total number of a) Total Outstanding Jobseekers' Allowance and Incapacity Benefit Applications for Great Britain, b) Incapacity Benefit and Jobseekers' Allowance applications oustanding for each Jobcentre District office for the years 2004/05 and 2005/06 and c) Unprocessed Pension Credit Applications (inclusive of advance applications) for the years 2004/05 to 2008/09. 18 p."
+  "deposited_date" : "03/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2555.zip",
+  "year" : "2008",
+  "description" : "Table showing total number of a) Total Outstanding Jobseekers' Allowance and Incapacity Benefit Applications for Great Britain, b) Incapacity Benefit and Jobseekers' Allowance applications oustanding for each Jobcentre District office for the years 2004/05 and 2005/06 and c) Unprocessed Pension Credit Applications (inclusive of advance applications) for the years 2004/05 to 2008/09. 18 p.",
   "department" : "Dept for Work and Pensions"
 }

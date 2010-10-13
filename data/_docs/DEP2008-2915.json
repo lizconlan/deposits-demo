@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2915.zip"
-  "year" : "2008"
-  "description" : "Letter dated 30/10/2008 from Gillian Merron MP to Nigel Waterson MP regarding UK nationals who died overseas. Inc table. 5 p."
+  "deposited_date" : "30/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2915.zip",
+  "year" : "2008",
+  "description" : "Letter dated 30/10/2008 from Gillian Merron MP to Nigel Waterson MP regarding UK nationals who died overseas. Inc table. 5 p.",
   "department" : "Foreign and Commonwealth Office"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2925.pdf"
-  "year" : "2008"
-  "description" : "Civil Service Compensation Scheme. 98 p."
+  "deposited_date" : "26/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2925.pdf",
+  "year" : "2008",
+  "description" : "Civil Service Compensation Scheme. 98 p.",
   "department" : "Cabinet Office"
 }

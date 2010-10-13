@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0240.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 26/01/2010 from Bridget Prentice MP to Henry Bellingham MP regarding expenditure on fraud cases and the proportion of legal aid budget spent from 2004 to 2009. Incl. table. 2 p."
+  "deposited_date" : "11/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0240.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 26/01/2010 from Bridget Prentice MP to Henry Bellingham MP regarding expenditure on fraud cases and the proportion of legal aid budget spent from 2004 to 2009. Incl. table. 2 p.",
   "department" : "Ministry of Justice Legal Services Commission"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/07/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1947.xls"
-  "year" : "2009"
-  "description" : "Table showing Count of Hospital Admissions (i.e. Finished Admission Episodes) where there was a primary or secondary diagnosis of Sunburn, Effects of Heat and Light, and Volume depletion, broken down by Strategic Health Authority of Treatment and age, for the years 2003/04 to 2007/08. 5 p."
+  "deposited_date" : "09/07/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1947.xls",
+  "year" : "2009",
+  "description" : "Table showing Count of Hospital Admissions (i.e. Finished Admission Episodes) where there was a primary or secondary diagnosis of Sunburn, Effects of Heat and Light, and Volume depletion, broken down by Strategic Health Authority of Treatment and age, for the years 2003/04 to 2007/08. 5 p.",
   "department" : "Dept of Health"
 }

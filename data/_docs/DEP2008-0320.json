@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/03/2007"
-  "legislature" : Commons
-  "notes" : "House of Lords Library: This deposit is only available as a CD-ROM, and will be placed in the red file boxes."
-  "year" : "2008"
-  "description" : "Unpublished documents held by the Department of Health on safety of blood and blood products [CD-ROM]: Volumes 61 - 101 covering 1976 to 1990."
+  "deposited_date" : "22/03/2007",
+  "legislature" : ["Commons"],
+  "notes" : "House of Lords Library: This deposit is only available as a CD-ROM, and will be placed in the red file boxes.",
+  "year" : "2008",
+  "description" : "Unpublished documents held by the Department of Health on safety of blood and blood products [CD-ROM]: Volumes 61 - 101 covering 1976 to 1990.",
   "department" : "Dept of Health"
 }

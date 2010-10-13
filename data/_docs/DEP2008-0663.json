@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0663.zip"
-  "year" : "2008"
-  "description" : "Tables showing number of complaints to the Local Government Ombudsman for England, and their outcomes, for schools, local authorities and other bodies for each year from 1998-99 to 2006-07. 115 p."
+  "deposited_date" : "06/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0663.zip",
+  "year" : "2008",
+  "description" : "Tables showing number of complaints to the Local Government Ombudsman for England, and their outcomes, for schools, local authorities and other bodies for each year from 1998-99 to 2006-07. 115 p.",
   "department" : "Dept for Communities and Local Government"
 }

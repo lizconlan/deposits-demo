@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/10/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2319.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 08/10/2008 from Lord Bach to the Earl of Listowel regarding reseach to evaluate the new civil court fees remission system. 2 p."
+  "deposited_date" : "08/10/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2319.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 08/10/2008 from Lord Bach to the Earl of Listowel regarding reseach to evaluate the new civil court fees remission system. 2 p.",
   "department" : "Ministry of Justice"
 }

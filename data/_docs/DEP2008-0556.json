@@ -1,7 +1,7 @@
 {
-  "deposited_date" : "26/02/2008"
-  "legislature" : Commons
-  "year" : "2008"
-  "description" : "Health effects of climate change in the UK 2008: an update of the Department of Health report 2001/02. 124 p."
+  "deposited_date" : "26/02/2008",
+  "legislature" : ["Commons"],
+  "year" : "2008",
+  "description" : "Health effects of climate change in the UK 2008: an update of the Department of Health report 2001/02. 124 p.",
   "department" : "Dept of Health"
 }

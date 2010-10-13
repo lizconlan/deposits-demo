@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/12/2007"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0426.pdf"
-  "year" : "2007"
-  "description" : "VOSA effectiveness report 2006/07. 77 p."
+  "deposited_date" : "24/12/2007",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0426.pdf",
+  "year" : "2007",
+  "description" : "VOSA effectiveness report 2006/07. 77 p.",
   "department" : "Vehicle and Operator Services Agency"
 }

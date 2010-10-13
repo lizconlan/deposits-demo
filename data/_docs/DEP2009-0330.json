@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/02/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0330.zip"
-  "year" : "2009"
-  "description" : "I. Role of the custodian : National DNA Database statistics. 35 p. II. HGC perspective : the Human Genetics Commission. 10 p. III. National DNA Database annual report 2006-2007. 18 p. IV. Role of the custodian : standards, systems and assurance. 44 p."
+  "deposited_date" : "05/02/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0330.zip",
+  "year" : "2009",
+  "description" : "I. Role of the custodian : National DNA Database statistics. 35 p. II. HGC perspective : the Human Genetics Commission. 10 p. III. National DNA Database annual report 2006-2007. 18 p. IV. Role of the custodian : standards, systems and assurance. 44 p.",
   "department" : "Home Office"
 }

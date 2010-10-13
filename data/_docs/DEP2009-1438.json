@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/05/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1438.tif"
-  "year" : "2009"
-  "description" : "Letter dated 05/2009 from Paul Leighton QPM LLB (Deputy Chief Constable) to Lord Laird regarding the suspension of Police Service of Northern Ireland staff following the termination of a contract with the Northern Ireland Sheet Metal Works. 2 p."
+  "deposited_date" : "15/05/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1438.tif",
+  "year" : "2009",
+  "description" : "Letter dated 05/2009 from Paul Leighton QPM LLB (Deputy Chief Constable) to Lord Laird regarding the suspension of Police Service of Northern Ireland staff following the termination of a contract with the Northern Ireland Sheet Metal Works. 2 p.",
   "department" : "Northern Ireland Office"
 }

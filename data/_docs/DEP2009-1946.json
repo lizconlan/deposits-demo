@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/07/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1946.zip"
-  "year" : "2009"
-  "description" : "Local Authority social services letters dated 10/12/2007 regarding adult's and children's services. 51 p."
+  "deposited_date" : "09/07/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1946.zip",
+  "year" : "2009",
+  "description" : "Local Authority social services letters dated 10/12/2007 regarding adult's and children's services. 51 p.",
   "department" : "Dept of Health"
 }

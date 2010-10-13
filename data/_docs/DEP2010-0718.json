@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/03/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0718.zip"
-  "year" : "2010"
-  "description" : "I. Working together to safeguard children: a guide to inter-agency working to safeguard and promote the welfare of children. Mar 2010. Incl. appendices. 398 p. II. Local safeguarding children boards: practice guidance for consultation. Mar 2010. 36 p. III. The Governments response to Lord Laming: one year on. Mar 2010. Incl. annexes. 82 p. IV. Local safeguarding children boards: practice guidance for consultation. Mar 2010. 36 p. V. The Chief Adviser on the safety of children: first annual report to Parliament. Mar 2010. 36 p. VI. Working together to safeguard children: Government response to public consultation. Mar 2010. 32 p. VII. Letter dated 17/03/2010 from Sir Roger Singleton (Chief Adviser on the Safety of Children) to Barry Sheerman MP regarding the delivery of recommendations in the Laming report. 2 p. VIII. Letter dated 17/03/2010 from Ed Balls MP to Sir Roger Singleton regarding his first annual report as the Government's Chief Adviser on the Safety of Children. 2 p."
+  "deposited_date" : "17/03/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0718.zip",
+  "year" : "2010",
+  "description" : "I. Working together to safeguard children: a guide to inter-agency working to safeguard and promote the welfare of children. Mar 2010. Incl. appendices. 398 p. II. Local safeguarding children boards: practice guidance for consultation. Mar 2010. 36 p. III. The Governments response to Lord Laming: one year on. Mar 2010. Incl. annexes. 82 p. IV. Local safeguarding children boards: practice guidance for consultation. Mar 2010. 36 p. V. The Chief Adviser on the safety of children: first annual report to Parliament. Mar 2010. 36 p. VI. Working together to safeguard children: Government response to public consultation. Mar 2010. 32 p. VII. Letter dated 17/03/2010 from Sir Roger Singleton (Chief Adviser on the Safety of Children) to Barry Sheerman MP regarding the delivery of recommendations in the Laming report. 2 p. VIII. Letter dated 17/03/2010 from Ed Balls MP to Sir Roger Singleton regarding his first annual report as the Government's Chief Adviser on the Safety of Children. 2 p.",
   "department" : "Department for Children, Schools and Families"
 }

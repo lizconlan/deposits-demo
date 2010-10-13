@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1735.doc"
-  "year" : "2008"
-  "description" : "Table showing sanctions of each New Deal scheme since 1997; how many sanctions of each type were imposed; and how many were subsequently (a) retracted and (b) commuted. 5 p."
+  "deposited_date" : "30/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1735.doc",
+  "year" : "2008",
+  "description" : "Table showing sanctions of each New Deal scheme since 1997; how many sanctions of each type were imposed; and how many were subsequently (a) retracted and (b) commuted. 5 p.",
   "department" : "Dept for Work and Pensions"
 }

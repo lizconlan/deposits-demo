@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/06/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1803.pdf"
-  "year" : "2009"
-  "description" : "The Government's response to Sir Michael Pitt's review of the summer 2007 floods. Incl. annexes. 51 p."
+  "deposited_date" : "25/06/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1803.pdf",
+  "year" : "2009",
+  "description" : "The Government's response to Sir Michael Pitt's review of the summer 2007 floods. Incl. annexes. 51 p.",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

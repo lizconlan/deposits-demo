@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/02/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0400.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 07/02/2008 from Lord Darzi to Earl Howe regarding the antiviral stock reserved for the armed forces."
+  "deposited_date" : "08/02/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0400.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 07/02/2008 from Lord Darzi to Earl Howe regarding the antiviral stock reserved for the armed forces.",
   "department" : "Dept of Health"
 }

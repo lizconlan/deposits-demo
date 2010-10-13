@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2847.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 11/11/2008 from Ronnie Pedlow, Secretary, to Nigel Dodds MP regarding the tendering process in the appointment of public relations companies."
+  "deposited_date" : "03/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2847.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 11/11/2008 from Ronnie Pedlow, Secretary, to Nigel Dodds MP regarding the tendering process in the appointment of public relations companies.",
   "department" : "Northern Ireland Office Parades Commission"
 }

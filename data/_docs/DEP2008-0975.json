@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/04/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0975.xls"
-  "year" : "2008"
-  "description" : "Table showing GOL Programme Information: allocation for the years 2005/06 to 2007/08. 3 p."
+  "deposited_date" : "03/04/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0975.xls",
+  "year" : "2008",
+  "description" : "Table showing GOL Programme Information: allocation for the years 2005/06 to 2007/08. 3 p.",
   "department" : "Dept for Communities and Local Government"
 }

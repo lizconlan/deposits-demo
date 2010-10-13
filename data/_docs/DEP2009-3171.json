@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/12/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3171.pdf"
-  "year" : "2009"
-  "description" : "Making choice and control a reality for disabled people; Government response to the consultation on the right to control. 76 p."
+  "deposited_date" : "08/12/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3171.pdf",
+  "year" : "2009",
+  "description" : "Making choice and control a reality for disabled people; Government response to the consultation on the right to control. 76 p.",
   "department" : "Dept for Work and Pensions Office for Disability Issues"
 }

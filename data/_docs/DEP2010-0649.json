@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0649.doc"
-  "year" : "2010"
-  "description" : "Table showing grant funding allocated to each local authority area to support their proposals for participating in the Connecting Communities programme. 4 p."
+  "deposited_date" : "26/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0649.doc",
+  "year" : "2010",
+  "description" : "Table showing grant funding allocated to each local authority area to support their proposals for participating in the Connecting Communities programme. 4 p.",
   "department" : "Communities and Local Government"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0253.zip"
-  "year" : "2009"
-  "description" : "I. Letter dated 08/11/2008 from Diana Holland of Unite to Phil Woolas MP regarding foreign domestic workers in the households of diplomatic missions in the UK. 5 p. II. Letter dated 27/11/2008 from Phil Woolas MP to Diana Holland of Unite regarding foreign domestic workers in the households of diplomatic missions in the UK. 3 p."
+  "deposited_date" : "14/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0253.zip",
+  "year" : "2009",
+  "description" : "I. Letter dated 08/11/2008 from Diana Holland of Unite to Phil Woolas MP regarding foreign domestic workers in the households of diplomatic missions in the UK. 5 p. II. Letter dated 27/11/2008 from Phil Woolas MP to Diana Holland of Unite regarding foreign domestic workers in the households of diplomatic missions in the UK. 3 p.",
   "department" : "Home Office"
 }

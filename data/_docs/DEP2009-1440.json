@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/05/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1440.pdf"
-  "year" : "2009"
-  "description" : "Our NHS, our future. 58 p."
+  "deposited_date" : "15/05/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1440.pdf",
+  "year" : "2009",
+  "description" : "Our NHS, our future. 58 p.",
   "department" : "Dept of Health"
 }

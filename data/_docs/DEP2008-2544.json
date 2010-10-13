@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2544.doc"
-  "year" : "2008"
-  "description" : "List of ministerial responsibilities, including executive agencies and non-ministerial departments. November 2008. 105 p."
+  "deposited_date" : "03/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2544.doc",
+  "year" : "2008",
+  "description" : "List of ministerial responsibilities, including executive agencies and non-ministerial departments. November 2008. 105 p.",
   "department" : "Cabinet Office"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/03/2009"
-  "legislature" : Commons
-  "notes" : "Hard copy only, availabe in Lords and Commons libraries."
-  "year" : "2009"
-  "description" : "MATT7 operational law [handbook for Military Annual Training Tests and workplace induction programme, 2008]. Unnumbered pages."
+  "deposited_date" : "24/03/2009",
+  "legislature" : ["Commons"],
+  "notes" : "Hard copy only, availabe in Lords and Commons libraries.",
+  "year" : "2009",
+  "description" : "MATT7 operational law [handbook for Military Annual Training Tests and workplace induction programme, 2008]. Unnumbered pages.",
   "department" : "Ministry of Defence"
 }

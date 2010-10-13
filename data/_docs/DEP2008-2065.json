@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2065.xls"
-  "year" : "2008"
-  "description" : "Table showing proportion of full-time first degree entrants who were projected to neither gain an award nor transfer to another course, 1998/99 to 2005/06."
+  "deposited_date" : "22/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2065.xls",
+  "year" : "2008",
+  "description" : "Table showing proportion of full-time first degree entrants who were projected to neither gain an award nor transfer to another course, 1998/99 to 2005/06.",
   "department" : "Dept for Innovation, Universities and Skills"
 }

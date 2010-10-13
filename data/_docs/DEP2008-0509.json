@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/02/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0509.doc"
-  "year" : "2008"
-  "description" : "Letter dated 19/02/2008 from Ury Fedetov, Russian ambassador, to the Lord Speaker enclosing a statement dated 18/02/2008 by the Council of Federation and the State Duma of the Federal Assembly of the Russian Federation regarding the declaration of independence by Kosovo. 4 p."
+  "deposited_date" : "20/02/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0509.doc",
+  "year" : "2008",
+  "description" : "Letter dated 19/02/2008 from Ury Fedetov, Russian ambassador, to the Lord Speaker enclosing a statement dated 18/02/2008 by the Council of Federation and the State Duma of the Federal Assembly of the Russian Federation regarding the declaration of independence by Kosovo. 4 p.",
   "department" : "Russian Government"
 }

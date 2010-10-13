@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0691.doc"
-  "year" : "2008"
-  "description" : "Post-project evaluation of the relocation of the RAF gliding & soaring association centre and the joint service gliding centre. 4 p."
+  "deposited_date" : "10/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0691.doc",
+  "year" : "2008",
+  "description" : "Post-project evaluation of the relocation of the RAF gliding & soaring association centre and the joint service gliding centre. 4 p.",
   "department" : "Ministry of Defence"
 }

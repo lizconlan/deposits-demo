@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/05/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1519.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 21/05/2009 from Gareth Thomas MP to Lord Roper regarding EU competitiveness council. 2 p."
+  "deposited_date" : "27/05/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1519.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 21/05/2009 from Gareth Thomas MP to Lord Roper regarding EU competitiveness council. 2 p.",
   "department" : "Dept for International Development Dept for Business, Enterprise and Regulatory Reform"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/12/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3016.xls"
-  "year" : "2009"
-  "description" : "Tables showing admissions where the primary diagnosis was diabetic ketoacidosis or hypoglycaemia with a secondary diagnosis of diabetes: by type of diabetes, age, sex and strategic health authority from 2004/05 to 2008/09. 12 p."
+  "deposited_date" : "03/12/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3016.xls",
+  "year" : "2009",
+  "description" : "Tables showing admissions where the primary diagnosis was diabetic ketoacidosis or hypoglycaemia with a secondary diagnosis of diabetes: by type of diabetes, age, sex and strategic health authority from 2004/05 to 2008/09. 12 p.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0488.pdf"
-  "year" : "2010"
-  "description" : "Fair and flexible: statutory guidance on social housing allocations for local authorities in England. 34 p."
+  "deposited_date" : "24/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0488.pdf",
+  "year" : "2010",
+  "description" : "Fair and flexible: statutory guidance on social housing allocations for local authorities in England. 34 p.",
   "department" : "Communities and Local Government"
 }

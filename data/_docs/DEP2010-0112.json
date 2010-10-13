@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "15/01/2010"
-  "legislature" : CommonsLords
-  "legislation" : "Child Poverty Bill 2008-09 then 2009-10"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0112.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 14/01/2009 from Bill McKenzie to Lord Freud regarding the Child Poverty Bill: Government Amendments. 2 p."
+  "deposited_date" : "15/01/2010",
+  "legislature" : ["Commons","Lords"],
+  "legislation" : "Child Poverty Bill 2008-09 then 2009-10",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0112.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 14/01/2009 from Bill McKenzie to Lord Freud regarding the Child Poverty Bill: Government Amendments. 2 p.",
   "department" : "Department for Work and Pensions"
 }

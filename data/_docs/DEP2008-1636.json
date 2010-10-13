@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/06/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1636.zip"
-  "year" : "2008"
-  "description" : "Letter dated 24/06/2008 from Baroness Vadera to Peter Luff MP regarding Local Better Regulation Office corporate plan 2008/11, incorporating the business plan 2008/09. Includes the report. 35 p."
+  "deposited_date" : "24/06/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1636.zip",
+  "year" : "2008",
+  "description" : "Letter dated 24/06/2008 from Baroness Vadera to Peter Luff MP regarding Local Better Regulation Office corporate plan 2008/11, incorporating the business plan 2008/09. Includes the report. 35 p.",
   "department" : "Dept for Business Enterprise and Regulatory Reform"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0339.doc"
-  "year" : "2008"
-  "description" : "Tables showing participants in the New Deal for Young People and the New Deal for 25 plus for each year from 1998 to 2006, broken down by stage of particpation."
+  "deposited_date" : "05/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0339.doc",
+  "year" : "2008",
+  "description" : "Tables showing participants in the New Deal for Young People and the New Deal for 25 plus for each year from 1998 to 2006, broken down by stage of particpation.",
   "department" : "Dept for Work and Pensions"
 }

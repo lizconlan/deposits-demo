@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/10/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2412.tif"
-  "year" : "2008"
-  "description" : "Letter dated 20/10/2008 from Baroness Taylor of Bolton to Lord Lyell regarding the condition of Wellington Barracks. 2 p."
+  "deposited_date" : "20/10/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2412.tif",
+  "year" : "2008",
+  "description" : "Letter dated 20/10/2008 from Baroness Taylor of Bolton to Lord Lyell regarding the condition of Wellington Barracks. 2 p.",
   "department" : "Ministry of Defence"
 }

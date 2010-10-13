@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "15/06/2010"
-  "legislature" : Commons
-  "legislation" : "Private Security Industry Act 2001"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1371.zip"
-  "year" : "2010"
-  "description" : "I. Letter dated 17/06/2010 from Lynne Featherstone MP to Rosie Winterton MP regarding private wheel clamping companies in Doncaster Central constituency. 2 p. II. Tables showing the number of defendants proceeded against at magistrates' court and found guilty at all courts for selected offences under the Private Security Industry Act 2001, by police force area, England and Wales 2005 to 2008. 2 p."
+  "deposited_date" : "15/06/2010",
+  "legislature" : ["Commons"],
+  "legislation" : "Private Security Industry Act 2001",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1371.zip",
+  "year" : "2010",
+  "description" : "I. Letter dated 17/06/2010 from Lynne Featherstone MP to Rosie Winterton MP regarding private wheel clamping companies in Doncaster Central constituency. 2 p. II. Tables showing the number of defendants proceeded against at magistrates' court and found guilty at all courts for selected offences under the Private Security Industry Act 2001, by police force area, England and Wales 2005 to 2008. 2 p.",
   "department" : "Home Office"
 }

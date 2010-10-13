@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0287.pdf"
-  "year" : "2007"
-  "description" : "DCMS: [corporate identity] guidelines. 80 p."
+  "deposited_date" : "10/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0287.pdf",
+  "year" : "2007",
+  "description" : "DCMS: [corporate identity] guidelines. 80 p.",
   "department" : "Dept for Culture Media and Sport"
 }

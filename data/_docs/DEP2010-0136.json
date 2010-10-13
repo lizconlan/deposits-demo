@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/01/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0136.xls"
-  "year" : "2010"
-  "description" : "Table showing, for each nationality, the number of (a) student visa applications received and (b) student visas issued in, for the years 2004/05 to 2008/09. 45 p."
+  "deposited_date" : "14/01/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0136.xls",
+  "year" : "2010",
+  "description" : "Table showing, for each nationality, the number of (a) student visa applications received and (b) student visas issued in, for the years 2004/05 to 2008/09. 45 p.",
   "department" : "Home Office"
 }

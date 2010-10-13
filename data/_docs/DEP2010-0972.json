@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0972.zip"
-  "year" : "2010"
-  "description" : "I. Letter dated 21/12/2007 from Carol Bernard (Group Director, EHRC) to Trevor Phillips (Chair) regarding use of Equality and Human Rights Commission facilities and resources. 2 p. II. Letter dated 07/01/2008 from Trevor Phillips (Chair) to Carol Bernard (Group Director) confirming arrangments for use of EHRC facilities and resources. 1 p."
+  "deposited_date" : "29/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0972.zip",
+  "year" : "2010",
+  "description" : "I. Letter dated 21/12/2007 from Carol Bernard (Group Director, EHRC) to Trevor Phillips (Chair) regarding use of Equality and Human Rights Commission facilities and resources. 2 p. II. Letter dated 07/01/2008 from Trevor Phillips (Chair) to Carol Bernard (Group Director) confirming arrangments for use of EHRC facilities and resources. 1 p.",
   "department" : "Cabinet Office"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/06/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1719.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 13/06/2009 from Jack Straw MP to Dominic Grieve MP regarding foreign national prisoners. 2 p."
+  "deposited_date" : "16/06/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1719.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 13/06/2009 from Jack Straw MP to Dominic Grieve MP regarding foreign national prisoners. 2 p.",
   "department" : "Ministry of Justice"
 }

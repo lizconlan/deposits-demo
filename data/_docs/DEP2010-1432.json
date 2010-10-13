@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/07/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1432.zip"
-  "year" : "2010"
-  "description" : "Letter dated 08/02/2010 from Alan Hall, Director of Performance, to SHA Directors of Performance regarding carers. Inc summary of responses. 61 p."
+  "deposited_date" : "01/07/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1432.zip",
+  "year" : "2010",
+  "description" : "Letter dated 08/02/2010 from Alan Hall, Director of Performance, to SHA Directors of Performance regarding carers. Inc summary of responses. 61 p.",
   "department" : "Department of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "23/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0193.doc"
-  "year" : "2008"
-  "description" : "UK renewable energy strategy and the EU renewable energy directive. 7 p."
+  "deposited_date" : "23/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0193.doc",
+  "year" : "2008",
+  "description" : "UK renewable energy strategy and the EU renewable energy directive. 7 p.",
   "department" : "Dept for Business Enterprise and Regulatory Reform"
 }

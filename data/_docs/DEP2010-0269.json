@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0269.xls"
-  "year" : "2010"
-  "description" : "Table showing cancelled operations for non clinical reasons by NHS organisation and strategic health authority for 2009/10. 5 p."
+  "deposited_date" : "29/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0269.xls",
+  "year" : "2010",
+  "description" : "Table showing cancelled operations for non clinical reasons by NHS organisation and strategic health authority for 2009/10. 5 p.",
   "department" : "Department of Health"
 }

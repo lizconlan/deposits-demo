@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/04/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1186.pdf"
-  "year" : "2009"
-  "description" : "Debt and reserves management report 2009-10. 72 p."
+  "deposited_date" : "22/04/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1186.pdf",
+  "year" : "2009",
+  "description" : "Debt and reserves management report 2009-10. 72 p.",
   "department" : "Treasury"
 }

@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "07/01/2008"
-  "legislature" : Commons
-  "legislation" : "Gambling Act 2005"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0073.tif"
-  "year" : "2008"
-  "description" : "An anonymised example of a typical constituent's letter regarding difficult trading conditions for the gaming machine industry and the Department's reply. 4 p."
+  "deposited_date" : "07/01/2008",
+  "legislature" : ["Commons"],
+  "legislation" : "Gambling Act 2005",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0073.tif",
+  "year" : "2008",
+  "description" : "An anonymised example of a typical constituent's letter regarding difficult trading conditions for the gaming machine industry and the Department's reply. 4 p.",
   "department" : "Dept for Culture Media and Sport"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/07/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2083.zip"
-  "year" : "2009"
-  "description" : "4 posters and leaflets in support of the the "Know Your Limits" alcohol awareness campaign. Inc a table."
+  "deposited_date" : "20/07/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2083.zip",
+  "year" : "2009",
+  "description" : "4 posters and leaflets in support of the the \"Know Your Limits\" alcohol awareness campaign. Inc a table.",
   "department" : "Dept of Health"
 }

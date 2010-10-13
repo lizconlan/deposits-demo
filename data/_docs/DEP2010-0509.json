@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/02/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0509.zip"
-  "year" : "2010"
-  "description" : "I. Consultation; refusing entry or stay to NHS debtors. A public consultation around proposed changes to the immigration rules. Feb 2010. Incl. annex. 20 p. II. Impact assessment of proposed amendments to the immigration rules: refusing entry or extensions of stay to NHS debtors. 7 Dec 2009. 14 p. III. Equality impact assessment: Immigration control action against overseas visitors with outstanding NHS debts. 9 p."
+  "deposited_date" : "26/02/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0509.zip",
+  "year" : "2010",
+  "description" : "I. Consultation; refusing entry or stay to NHS debtors. A public consultation around proposed changes to the immigration rules. Feb 2010. Incl. annex. 20 p. II. Impact assessment of proposed amendments to the immigration rules: refusing entry or extensions of stay to NHS debtors. 7 Dec 2009. 14 p. III. Equality impact assessment: Immigration control action against overseas visitors with outstanding NHS debts. 9 p.",
   "department" : "Home Office"
 }

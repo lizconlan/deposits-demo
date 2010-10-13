@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/05/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1354.pdf"
-  "year" : "2008"
-  "description" : "Minutes of the meeting of the National Child Health Immunisation Board on 15th October 2007. 5 p."
+  "deposited_date" : "21/05/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1354.pdf",
+  "year" : "2008",
+  "description" : "Minutes of the meeting of the National Child Health Immunisation Board on 15th October 2007. 5 p.",
   "department" : "Dept of Health"
 }

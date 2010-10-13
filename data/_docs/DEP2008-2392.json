@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/10/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2392.zip"
-  "year" : "2008"
-  "description" : "The annual health check 2007/08. A national overview of the performance of NHS trusts. 193 p."
+  "deposited_date" : "16/10/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2392.zip",
+  "year" : "2008",
+  "description" : "The annual health check 2007/08. A national overview of the performance of NHS trusts. 193 p.",
   "department" : "Dept of Health Healthcare Commission"
 }

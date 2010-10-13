@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0650.zip"
-  "year" : "2008"
-  "description" : "I. Financial support to the water sector 2002-2004 report. 79 p. II. Financial support to the water sector 2004-2006 report. 103 p."
+  "deposited_date" : "05/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0650.zip",
+  "year" : "2008",
+  "description" : "I. Financial support to the water sector 2002-2004 report. 79 p. II. Financial support to the water sector 2004-2006 report. 103 p.",
   "department" : "Dept for International Development"
 }

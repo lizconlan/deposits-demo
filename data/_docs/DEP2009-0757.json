@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0757.zip"
-  "year" : "2009"
-  "description" : "Copy of the 9 display energy certificates and their associated advisory reports in respect of each property occupied by the Department for Innovation, Universities and Skills and its agencies that is required to have them. 30 p."
+  "deposited_date" : "11/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0757.zip",
+  "year" : "2009",
+  "description" : "Copy of the 9 display energy certificates and their associated advisory reports in respect of each property occupied by the Department for Innovation, Universities and Skills and its agencies that is required to have them. 30 p.",
   "department" : "Dept for Innovation, Universities and Skills"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/05/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1217.pdf"
-  "year" : "2008"
-  "description" : "UNITED STATES OF AMERICA and UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND. Exchange of notes (with memorandum) constituting an agreement relating to a ballistic missile early warning station at Fylingdales Moor, Yorkshire. London, 15 February 1960. 5 p."
+  "deposited_date" : "09/05/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1217.pdf",
+  "year" : "2008",
+  "description" : "UNITED STATES OF AMERICA and UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND. Exchange of notes (with memorandum) constituting an agreement relating to a ballistic missile early warning station at Fylingdales Moor, Yorkshire. London, 15 February 1960. 5 p.",
   "department" : "Ministry of Defence"
 }

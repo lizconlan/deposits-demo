@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/11/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2799.tif"
-  "year" : "2008"
-  "description" : "Letter dated 11/11/2008 from Lord Malloch Brown to Lord Roper regarding a joint letter dated March 2008 from David Miliband MP and Bernard Kouchner to Dmitrij Rupel regarding the March 2008 Gymnich. 3 p."
+  "deposited_date" : "11/11/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2799.tif",
+  "year" : "2008",
+  "description" : "Letter dated 11/11/2008 from Lord Malloch Brown to Lord Roper regarding a joint letter dated March 2008 from David Miliband MP and Bernard Kouchner to Dmitrij Rupel regarding the March 2008 Gymnich. 3 p.",
   "department" : "Foreign and Commonwealth Office"
 }

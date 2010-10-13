@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "18/05/2009"
-  "legislature" : CommonsLords
-  "legislation" : "Abortion (Amendment) Bill 1996/97 Partial-birth Abortion (Prohibition) Bill (HL) 1995/96"
-  "notes" : "Hard-copy only available, in the Lords and Commons Libraries."
-  "year" : "2009"
-  "description" : "I. A copy of the contents of files CPO 2/25: "Lord Braine of Wheatley's Abortion (prohibition) Bill". Part 1. II. A copy of the contents of files CPO 2/25: "Lord Braine of Wheatley's Abortion (prohibition) Bill". Part 2. III. A copy of the contents of files CPO 2/6: Lord Robertson of Oakridge's Abortion (Amendment) Bill briefing for legislation committee and second reading debate. IV. A copy of the contents of files CPO 2/4: Jo Richardson MP's 10 Minute Rule Bill-NHS Act 1977 (Amendment) Bill."
+  "deposited_date" : "18/05/2009",
+  "legislature" : ["Commons","Lords"],
+  "legislation" : "Abortion (Amendment) Bill 1996/97 Partial-birth Abortion (Prohibition) Bill (HL) 1995/96",
+  "notes" : "Hard-copy only available, in the Lords and Commons Libraries.",
+  "year" : "2009",
+  "description" : "I. A copy of the contents of files CPO 2/25: \"Lord Braine of Wheatley's Abortion (prohibition) Bill\". Part 1. II. A copy of the contents of files CPO 2/25: \"Lord Braine of Wheatley's Abortion (prohibition) Bill\". Part 2. III. A copy of the contents of files CPO 2/6: Lord Robertson of Oakridge's Abortion (Amendment) Bill briefing for legislation committee and second reading debate. IV. A copy of the contents of files CPO 2/4: Jo Richardson MP's 10 Minute Rule Bill-NHS Act 1977 (Amendment) Bill.",
   "department" : "Dept of Health"
 }

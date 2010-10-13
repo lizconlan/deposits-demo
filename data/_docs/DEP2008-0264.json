@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0264.doc"
-  "year" : "2008"
-  "description" : "Regional Development Agencies (RDAs): guidance on the general principles of designation of voluntary regional assemblies. 3 p."
+  "deposited_date" : "30/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0264.doc",
+  "year" : "2008",
+  "description" : "Regional Development Agencies (RDAs): guidance on the general principles of designation of voluntary regional assemblies. 3 p.",
   "department" : "Office of the Deputy Prime Minister Dept for Communities and Local Government"
 }

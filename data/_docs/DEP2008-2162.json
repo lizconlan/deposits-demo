@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/08/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2162.zip"
-  "year" : "2008"
-  "description" : "I. Letter dated 16/08/2008 from Bob Ainsworth MP to Thomas Brake MP regarding various issues arising from the adjournment debate on Mark Petre. 2 p. II. Report into the loss of LH(CK) Keith Rice (UK 110745) and SG1A Mark Petre (UK 104390) from RFA Orangeleaf on 4th June 2005. 35 p."
+  "deposited_date" : "21/08/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2162.zip",
+  "year" : "2008",
+  "description" : "I. Letter dated 16/08/2008 from Bob Ainsworth MP to Thomas Brake MP regarding various issues arising from the adjournment debate on Mark Petre. 2 p. II. Report into the loss of LH(CK) Keith Rice (UK 110745) and SG1A Mark Petre (UK 104390) from RFA Orangeleaf on 4th June 2005. 35 p.",
   "department" : "Ministry of Defence"
 }

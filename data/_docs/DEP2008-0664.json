@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "06/03/2008"
-  "legislature" : CommonsLords
-  "legislation" : "Medical Profession (Miscellaneous Amendments) Order 2008"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0664.pdf"
-  "year" : "2008"
-  "description" : "Consultation on the Medical Profession (Miscellaneous amendments) Order 2008. 44 p."
+  "deposited_date" : "06/03/2008",
+  "legislature" : ["Commons","Lords"],
+  "legislation" : "Medical Profession (Miscellaneous Amendments) Order 2008",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0664.pdf",
+  "year" : "2008",
+  "description" : "Consultation on the Medical Profession (Miscellaneous amendments) Order 2008. 44 p.",
   "department" : "Dept of Health"
 }

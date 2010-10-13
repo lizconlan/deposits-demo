@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/11/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2719.zip"
-  "year" : "2009"
-  "description" : "I. Response to the report and recommendations of the Review of the Conduct Function of the General Social Care Council. 15 p. II. Report and recommendations to the Secretary of State for Health on the conduct function of the General Social Care Council. Sep 2009. Incl. annexes. 40 p."
+  "deposited_date" : "04/11/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2719.zip",
+  "year" : "2009",
+  "description" : "I. Response to the report and recommendations of the Review of the Conduct Function of the General Social Care Council. 15 p. II. Report and recommendations to the Secretary of State for Health on the conduct function of the General Social Care Council. Sep 2009. Incl. annexes. 40 p.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0382.doc"
-  "year" : "2007"
-  "description" : "Criminal justice: simple, speedy, summary (CJSSS) in the youth court - Balham test. Project evaluation, November 2007. 47 p."
+  "deposited_date" : "18/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0382.doc",
+  "year" : "2007",
+  "description" : "Criminal justice: simple, speedy, summary (CJSSS) in the youth court - Balham test. Project evaluation, November 2007. 47 p.",
   "department" : "Ministry of Justice"
 }

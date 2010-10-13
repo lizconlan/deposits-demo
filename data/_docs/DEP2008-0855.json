@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0855.doc"
-  "year" : "2008"
-  "description" : "Dear colleague letter dated 21/12/2007 from Ben Dyson, Director of Primary Care, to Strategic Health Authorities regarding delivering equitable access to primary medical care: local procurements for GP practices and health centres. Incl. annexes. 10 p."
+  "deposited_date" : "26/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0855.doc",
+  "year" : "2008",
+  "description" : "Dear colleague letter dated 21/12/2007 from Ben Dyson, Director of Primary Care, to Strategic Health Authorities regarding delivering equitable access to primary medical care: local procurements for GP practices and health centres. Incl. annexes. 10 p.",
   "department" : "Dept of Health"
 }

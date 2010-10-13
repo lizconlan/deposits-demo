@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/06/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1854.pdf"
-  "year" : "2009"
-  "description" : "Letter dated June 2009 from Karen Dunnell (National Statistician, Office of National Statistics (ONS)) to James Duddridge MP regarding adult males diagnosed with breast cancer in 2005 and 2006. 1 p."
+  "deposited_date" : "30/06/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1854.pdf",
+  "year" : "2009",
+  "description" : "Letter dated June 2009 from Karen Dunnell (National Statistician, Office of National Statistics (ONS)) to James Duddridge MP regarding adult males diagnosed with breast cancer in 2005 and 2006. 1 p.",
   "department" : "Cabinet Office Office for National Statistics"
 }

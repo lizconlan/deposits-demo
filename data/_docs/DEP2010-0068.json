@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "16/12/2009"
-  "legislature" : CommonsLords
-  "legislation" : "Equality Bill 2009-10 Third Parties (Rights against Insurers) Bill (HL) 2009-10"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0068.zip"
-  "year" : "2010"
-  "description" : "I. Government response to the report of the Delegated Powers and Regulatory Reform Committee on the Equality bill 2009-10 and Third Parties (Rights against Insurers) Bill 2009-10. 7 p. II. Dear colleague letter dated 11/01/2010 from Baroness Royall depositing the Government's response to the report of the Delegated Powers and Regulatory Reform Committee on the Equality Bill. 1 p."
+  "deposited_date" : "16/12/2009",
+  "legislature" : ["Commons","Lords"],
+  "legislation" : "Equality Bill 2009-10 Third Parties (Rights against Insurers) Bill (HL) 2009-10",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0068.zip",
+  "year" : "2010",
+  "description" : "I. Government response to the report of the Delegated Powers and Regulatory Reform Committee on the Equality bill 2009-10 and Third Parties (Rights against Insurers) Bill 2009-10. 7 p. II. Dear colleague letter dated 11/01/2010 from Baroness Royall depositing the Government's response to the report of the Delegated Powers and Regulatory Reform Committee on the Equality Bill. 1 p.",
   "department" : "Cabinet Office"
 }

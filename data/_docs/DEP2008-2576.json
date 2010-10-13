@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2576.tif"
-  "year" : "2008"
-  "description" : "Letter dated 31/10/2008 from Quentin Davies MP to Nick Harvey MP correcting a written answer in Hansard regarding military aircraft and helicopter numbers. 2 p."
+  "deposited_date" : "04/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2576.tif",
+  "year" : "2008",
+  "description" : "Letter dated 31/10/2008 from Quentin Davies MP to Nick Harvey MP correcting a written answer in Hansard regarding military aircraft and helicopter numbers. 2 p.",
   "department" : "Ministry of Defence"
 }

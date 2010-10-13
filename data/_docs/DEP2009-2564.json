@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/10/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2564.pdf"
-  "year" : "2009"
-  "description" : "Employment support allowance: work capability assessment statistical release. Oct 2009. 4 p."
+  "deposited_date" : "20/10/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2564.pdf",
+  "year" : "2009",
+  "description" : "Employment support allowance: work capability assessment statistical release. Oct 2009. 4 p.",
   "department" : "Dept for Work and Pensions"
 }

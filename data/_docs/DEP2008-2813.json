@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2813.tif"
-  "year" : "2008"
-  "description" : "Letter dated 21/10/2008 from J.M. Steward, Director of Human Resources, to Alistair Carmichael MP regarding new police officers who have declared themselves as having a disability. 2 p."
+  "deposited_date" : "21/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2813.tif",
+  "year" : "2008",
+  "description" : "Letter dated 21/10/2008 from J.M. Steward, Director of Human Resources, to Alistair Carmichael MP regarding new police officers who have declared themselves as having a disability. 2 p.",
   "department" : "Police Service of Northern Ireland Northern Ireland Office"
 }

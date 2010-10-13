@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/04/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1191.xls"
-  "year" : "2010"
-  "description" : "Table showing maintained mainstream schools entering no pupils at the end of Key Stage 4 in 2009 in either biology, chemistry or physics GCSE in 1997 and 2009. 54 p."
+  "deposited_date" : "07/04/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1191.xls",
+  "year" : "2010",
+  "description" : "Table showing maintained mainstream schools entering no pupils at the end of Key Stage 4 in 2009 in either biology, chemistry or physics GCSE in 1997 and 2009. 54 p.",
   "department" : "Department for Children, Schools and Families"
 }

@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "05/05/2009"
-  "legislature" : Commons
-  "legislation" : "Pensions Act 2004"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1292.zip"
-  "year" : "2009"
-  "description" : "Letter dated 05/05/2009 from James Purnell MP regarding Pensions Regulator's response to its consultation on Code of practice no. 12. Circumstances in relation to the material detriment test. Inc the report. 14 p."
+  "deposited_date" : "05/05/2009",
+  "legislature" : ["Commons"],
+  "legislation" : "Pensions Act 2004",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1292.zip",
+  "year" : "2009",
+  "description" : "Letter dated 05/05/2009 from James Purnell MP regarding Pensions Regulator's response to its consultation on Code of practice no. 12. Circumstances in relation to the material detriment test. Inc the report. 14 p.",
   "department" : "Dept for Work and Pensions"
 }

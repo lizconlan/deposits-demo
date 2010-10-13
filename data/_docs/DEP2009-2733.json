@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "05/11/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2733.zip"
-  "year" : "2009"
-  "description" : "I. Sex and relationships education (SRE) in the new curriculum (subject to parliamentary approval). 2 p. II. Populus/Blue Rubicon sex education poll and survey. 6 p. III. PSHE (personal, social, health and economic education): personal wellbeing. 10 p. IV. PSHE in the new primary curriculum area of learning: 'physical development, health and wellbeing'. 2 p. V. Personal, social, health and economic education: curriculum reform consultation report to the DCSF. 16 p."
+  "deposited_date" : "05/11/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2733.zip",
+  "year" : "2009",
+  "description" : "I. Sex and relationships education (SRE) in the new curriculum (subject to parliamentary approval). 2 p. II. Populus/Blue Rubicon sex education poll and survey. 6 p. III. PSHE (personal, social, health and economic education): personal wellbeing. 10 p. IV. PSHE in the new primary curriculum area of learning: 'physical development, health and wellbeing'. 2 p. V. Personal, social, health and economic education: curriculum reform consultation report to the DCSF. 16 p.",
   "department" : "Dept for Children, Schools and Families"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/12/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3159.tif"
-  "year" : "2008"
-  "description" : "Submission on behalf of the Government of the United Kingdom in the case of Schalk and Kopf v. Austria, October 2007. 9 p."
+  "deposited_date" : "18/12/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3159.tif",
+  "year" : "2008",
+  "description" : "Submission on behalf of the Government of the United Kingdom in the case of Schalk and Kopf v. Austria, October 2007. 9 p.",
   "department" : ""
 }

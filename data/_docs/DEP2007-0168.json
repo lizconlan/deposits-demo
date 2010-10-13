@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "26/11/2007"
-  "legislature" : Commons
-  "legislation" : "Crossrail Bill 2004-05 then 2005-06 then 2006-07 then 2007-08"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0168.tif"
-  "year" : "2007"
-  "description" : "Letter dated 26/11/2007 from Tom Harris MP to Stephen Hammond MP regarding the Crossrail Bill."
+  "deposited_date" : "26/11/2007",
+  "legislature" : ["Commons"],
+  "legislation" : "Crossrail Bill 2004-05 then 2005-06 then 2006-07 then 2007-08",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0168.tif",
+  "year" : "2007",
+  "description" : "Letter dated 26/11/2007 from Tom Harris MP to Stephen Hammond MP regarding the Crossrail Bill.",
   "department" : "Dept for Transport"
 }

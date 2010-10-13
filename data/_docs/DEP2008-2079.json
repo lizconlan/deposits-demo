@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/07/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2079.zip"
-  "year" : "2008"
-  "description" : "Letter dated 21/07/2008 from Lord Bach to the Parliamentary Librarians. Includes documents from the International Criminal Court regarding the application for a warrant of arrest against President Omar Bashir of Sudan. 17 p."
+  "deposited_date" : "21/07/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2079.zip",
+  "year" : "2008",
+  "description" : "Letter dated 21/07/2008 from Lord Bach to the Parliamentary Librarians. Includes documents from the International Criminal Court regarding the application for a warrant of arrest against President Omar Bashir of Sudan. 17 p.",
   "department" : "Foreign and Commonwealth Office International Criminal Court"
 }

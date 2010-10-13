@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0551.pdf"
-  "year" : "2008"
-  "description" : "Manual for cancer services: selection of measures generated on 31/01/2008. 71 p."
+  "deposited_date" : "26/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0551.pdf",
+  "year" : "2008",
+  "description" : "Manual for cancer services: selection of measures generated on 31/01/2008. 71 p.",
   "department" : "Dept of Health"
 }

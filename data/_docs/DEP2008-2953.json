@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/12/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2953.pdf"
-  "year" : "2008"
-  "description" : "Council of the European Union conclusions on the ESDP. 34 p."
+  "deposited_date" : "01/12/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2953.pdf",
+  "year" : "2008",
+  "description" : "Council of the European Union conclusions on the ESDP. 34 p.",
   "department" : "Ministry of Defence"
 }

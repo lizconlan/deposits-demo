@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1849.xls"
-  "year" : "2008"
-  "description" : "Table showing number of benefit claimants in Scottish (Westminster) parliamentary consitutuencies, broken down by type of benefit as at November 2007. 3 p."
+  "deposited_date" : "08/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1849.xls",
+  "year" : "2008",
+  "description" : "Table showing number of benefit claimants in Scottish (Westminster) parliamentary consitutuencies, broken down by type of benefit as at November 2007. 3 p.",
   "department" : "Dept for Work and Pensions"
 }

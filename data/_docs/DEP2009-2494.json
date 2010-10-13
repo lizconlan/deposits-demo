@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/10/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2494.pdf"
-  "year" : "2009"
-  "description" : "Clinical Management of Drug Dependence in the Adult Prison Setting: Including Psychosocial Treatment as a Core Part. 64 p."
+  "deposited_date" : "12/10/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2494.pdf",
+  "year" : "2009",
+  "description" : "Clinical Management of Drug Dependence in the Adult Prison Setting: Including Psychosocial Treatment as a Core Part. 64 p.",
   "department" : "Ministry of Justice"
 }

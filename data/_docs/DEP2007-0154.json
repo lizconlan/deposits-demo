@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/11/2007"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0154.zip"
-  "year" : "2007"
-  "description" : "Tables showing local transport capital settlements 2008/09 to 2010/11: allocations by region. 6 p."
+  "deposited_date" : "27/11/2007",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0154.zip",
+  "year" : "2007",
+  "description" : "Tables showing local transport capital settlements 2008/09 to 2010/11: allocations by region. 6 p.",
   "department" : "Dept for Transport"
 }

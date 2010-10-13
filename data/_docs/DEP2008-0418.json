@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0418.zip"
-  "year" : "2008"
-  "description" : "Letters from Lisa Klein, Director, to the Labour leadership and deputy leadership candidates in May 2007 and the Liberal Democrat leadership candidates in October 2007."
+  "deposited_date" : "14/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0418.zip",
+  "year" : "2008",
+  "description" : "Letters from Lisa Klein, Director, to the Labour leadership and deputy leadership candidates in May 2007 and the Liberal Democrat leadership candidates in October 2007.",
   "department" : "Electoral Commission"
 }

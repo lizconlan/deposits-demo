@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/02/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0443.xls"
-  "year" : "2009"
-  "description" : "I. Table showing the number of qualified physiotherapy and speech & language therapy staff in the NHS in England for each year from 1997 to 2007, broken down by profession. 2 p. II. Table showing the number of qualified physiotherapy and speech & language therapy staff in the NHS in England for each year from 2005 to 2007, broken down by Strategic Health Authority. 9 p."
+  "deposited_date" : "12/02/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0443.xls",
+  "year" : "2009",
+  "description" : "I. Table showing the number of qualified physiotherapy and speech & language therapy staff in the NHS in England for each year from 1997 to 2007, broken down by profession. 2 p. II. Table showing the number of qualified physiotherapy and speech & language therapy staff in the NHS in England for each year from 2005 to 2007, broken down by Strategic Health Authority. 9 p.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/08/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1939.pdf"
-  "year" : "2009"
-  "description" : "Long-term public finance report: an analysis of fiscal sustainability. 64 p."
+  "deposited_date" : "08/08/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1939.pdf",
+  "year" : "2009",
+  "description" : "Long-term public finance report: an analysis of fiscal sustainability. 64 p.",
   "department" : "Treasury"
 }

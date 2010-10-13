@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/04/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1058.zip"
-  "year" : "2008"
-  "description" : "I. Arts in rural England. 32 p. II. Tables showing grants by the Arts Council to a) regularly funded organisations (RFOs) and b) to all organisations for each year from 2005/06 to 2007/08, broken down by parliamentary constituency. 48 p."
+  "deposited_date" : "21/04/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1058.zip",
+  "year" : "2008",
+  "description" : "I. Arts in rural England. 32 p. II. Tables showing grants by the Arts Council to a) regularly funded organisations (RFOs) and b) to all organisations for each year from 2005/06 to 2007/08, broken down by parliamentary constituency. 48 p.",
   "department" : "Dept for Culture Media and Sport Arts Council of England"
 }

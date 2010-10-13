@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "31/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0285.rtf"
-  "year" : "2008"
-  "description" : "Tables showing central government funding for various LCO3 and LOC5 local authority projects to promote recycling in 2005/06 to 2007/08."
+  "deposited_date" : "31/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0285.rtf",
+  "year" : "2008",
+  "description" : "Tables showing central government funding for various LCO3 and LOC5 local authority projects to promote recycling in 2005/06 to 2007/08.",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

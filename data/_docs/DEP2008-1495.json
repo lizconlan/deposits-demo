@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/06/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1495.pdf"
-  "year" : "2008"
-  "description" : "Carers at the heart of 21st-century families and communities. 172 p."
+  "deposited_date" : "10/06/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1495.pdf",
+  "year" : "2008",
+  "description" : "Carers at the heart of 21st-century families and communities. 172 p.",
   "department" : "Dept of Health Dept for Work and Pensions Dept for Business Enterprise and Regulatory Reform Dept for Children Schools and Families Government Equalities Office Dept for Innovation, Universities and Skills Dept for Communities and Local Government"
 }

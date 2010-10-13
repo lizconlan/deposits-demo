@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0032.zip"
-  "year" : "2008"
-  "description" : "Minutes between the British Medical Association (BMA) and the Junior Doctors Committee on the provision of accommodation. 14 p."
+  "deposited_date" : "08/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0032.zip",
+  "year" : "2008",
+  "description" : "Minutes between the British Medical Association (BMA) and the Junior Doctors Committee on the provision of accommodation. 14 p.",
   "department" : "Dept of Health"
 }

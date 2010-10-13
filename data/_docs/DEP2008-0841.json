@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "25/03/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0841.tif"
-  "year" : "2008"
-  "description" : "Letter dated 17/03/2008 from Lord Bach to Lord Harrison regarding entrepreneurialism in museums and galleries. 2 p."
+  "deposited_date" : "25/03/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0841.tif",
+  "year" : "2008",
+  "description" : "Letter dated 17/03/2008 from Lord Bach to Lord Harrison regarding entrepreneurialism in museums and galleries. 2 p.",
   "department" : "Dept for Culture Media and Sport"
 }

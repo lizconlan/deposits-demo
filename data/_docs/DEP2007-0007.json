@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "09/10/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0007.tif"
-  "year" : "2007"
-  "description" : "Letter dated 09/10/2007 from Dawn Primarolo MP to Tim Loughton MP regarding the cost of the Talk to Frank helpline."
+  "deposited_date" : "09/10/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0007.tif",
+  "year" : "2007",
+  "description" : "Letter dated 09/10/2007 from Dawn Primarolo MP to Tim Loughton MP regarding the cost of the Talk to Frank helpline.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1886.zip"
-  "year" : "2008"
-  "description" : "Home Office staff handbook. [39 files]"
+  "deposited_date" : "02/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1886.zip",
+  "year" : "2008",
+  "description" : "Home Office staff handbook. [39 files]",
   "department" : "Home Office"
 }

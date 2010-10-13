@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/06/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1350.xls"
-  "year" : "2010"
-  "description" : "Tables showing Population registered to vote by parliamentary constituency in England and Wales in 2009. 14 p."
+  "deposited_date" : "24/06/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1350.xls",
+  "year" : "2010",
+  "description" : "Tables showing Population registered to vote by parliamentary constituency in England and Wales in 2009. 14 p.",
   "department" : "Cabinet Office"
 }

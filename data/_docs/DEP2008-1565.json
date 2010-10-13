@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1565.pdf"
-  "year" : "2008"
-  "description" : "Income related benefits: estimates of take-up in 2006/2007. 144 p."
+  "deposited_date" : "17/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1565.pdf",
+  "year" : "2008",
+  "description" : "Income related benefits: estimates of take-up in 2006/2007. 144 p.",
   "department" : "Dept for Work and Pensions"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/06/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1310.pdf"
-  "year" : "2010"
-  "description" : "Report of the Review of Drink and Drug Driving Law. 285 p."
+  "deposited_date" : "16/06/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1310.pdf",
+  "year" : "2010",
+  "description" : "Report of the Review of Drink and Drug Driving Law. 285 p.",
   "department" : "Department for Transport Legislative Regime for Drink and Drug Driving Review"
 }

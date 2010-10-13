@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2536.doc"
-  "year" : "2008"
-  "description" : "Table showing number of cases of a) tuberculosis and b) drug-resistant tuberculosis for each year from 2001 to 2005, broken down by PCT. 5 p."
+  "deposited_date" : "30/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2536.doc",
+  "year" : "2008",
+  "description" : "Table showing number of cases of a) tuberculosis and b) drug-resistant tuberculosis for each year from 2001 to 2005, broken down by PCT. 5 p.",
   "department" : "Dept of Health"
 }

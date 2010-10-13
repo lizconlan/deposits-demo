@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/07/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1995.doc"
-  "year" : "2008"
-  "description" : "Housing & planning delivery grant (HPDG) for 2008/09: provisional allocations (revised). 10 p."
+  "deposited_date" : "21/07/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1995.doc",
+  "year" : "2008",
+  "description" : "Housing & planning delivery grant (HPDG) for 2008/09: provisional allocations (revised). 10 p.",
   "department" : "Dept for Communities and Local Government"
 }

@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "10/02/2009"
-  "legislature" : Commons
-  "legislation" : "Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2009"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0404.zip"
-  "year" : "2009"
-  "description" : "I. Letter dated 10/02/2009 from John Healey MP to Phyllis Starkey MP regarding a change in legislation to support English businesses facing back-dated rates liability. 4 p. II. Letter dated 10/02/2009 from John Healey MP to Phyllis Starkey MP regarding the same subject. 4 p. III. Letter dated 09/02/2009 from Stephen Speed, Inspector General and Agency Chief Executive, Insolvency Service, to John Healey MP regarding the impact of back-dated tax liability on future trading. 2 p. IV. Letter from the Business Rates Team, Department of Communities and Local Government, to chief finance officers of English billing authorities regarding changes to the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations. 7 p."
+  "deposited_date" : "10/02/2009",
+  "legislature" : ["Commons"],
+  "legislation" : "Non-Domestic Rating (Collection and Enforcement) (Local Lists) (Amendment) (England) Regulations 2009",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0404.zip",
+  "year" : "2009",
+  "description" : "I. Letter dated 10/02/2009 from John Healey MP to Phyllis Starkey MP regarding a change in legislation to support English businesses facing back-dated rates liability. 4 p. II. Letter dated 10/02/2009 from John Healey MP to Phyllis Starkey MP regarding the same subject. 4 p. III. Letter dated 09/02/2009 from Stephen Speed, Inspector General and Agency Chief Executive, Insolvency Service, to John Healey MP regarding the impact of back-dated tax liability on future trading. 2 p. IV. Letter from the Business Rates Team, Department of Communities and Local Government, to chief finance officers of English billing authorities regarding changes to the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations. 7 p.",
   "department" : "Dept for Communities and Local Government Treasury Insolvency Service"
 }

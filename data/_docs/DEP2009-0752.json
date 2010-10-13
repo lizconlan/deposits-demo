@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0752.xls"
-  "year" : "2009"
-  "description" : "Table showing, figures reported by each London local authority, for the last six month, 12 month and two year periods, the number of applicants who were: (a) assessed as being homeless and in priority need; of which those (b) accepted as owed a main homelessness duty; and of which those that were (c) vulnerable though (i) having served in HM forces, (ii) having been on remand or in custody, and (iii) being a former asylum seeker. 6 p."
+  "deposited_date" : "11/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0752.xls",
+  "year" : "2009",
+  "description" : "Table showing, figures reported by each London local authority, for the last six month, 12 month and two year periods, the number of applicants who were: (a) assessed as being homeless and in priority need; of which those (b) accepted as owed a main homelessness duty; and of which those that were (c) vulnerable though (i) having served in HM forces, (ii) having been on remand or in custody, and (iii) being a former asylum seeker. 6 p.",
   "department" : "Dept for Communities and Local Government"
 }

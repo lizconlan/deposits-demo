@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "29/10/2009"
-  "legislature" : Commons
-  "legislation" : "Company, Limited Liability Partnership and Business Names (Public Authorities) Regulations 2009"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2656.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 29/10/2009 from Ian Lucas MP to Nicholas Winterton MP regarding Company, Limited Liability Partnership and Business Names Regulations. 2 p."
+  "deposited_date" : "29/10/2009",
+  "legislature" : ["Commons"],
+  "legislation" : "Company, Limited Liability Partnership and Business Names (Public Authorities) Regulations 2009",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2656.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 29/10/2009 from Ian Lucas MP to Nicholas Winterton MP regarding Company, Limited Liability Partnership and Business Names Regulations. 2 p.",
   "department" : "Dept for Business, Innovation and Skills"
 }

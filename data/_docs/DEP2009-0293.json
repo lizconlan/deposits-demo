@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "28/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0293.doc"
-  "year" : "2009"
-  "description" : "Draft terms of reference of the Interdepartmental Working Group on Scholarships. 2 p."
+  "deposited_date" : "28/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0293.doc",
+  "year" : "2009",
+  "description" : "Draft terms of reference of the Interdepartmental Working Group on Scholarships. 2 p.",
   "department" : "Foreign and Commonwealth Office"
 }

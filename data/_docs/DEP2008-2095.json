@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2095.zip"
-  "year" : "2008"
-  "description" : "National Skills Academy for Social Care: bid form and appendix 1. 27 p."
+  "deposited_date" : "29/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2095.zip",
+  "year" : "2008",
+  "description" : "National Skills Academy for Social Care: bid form and appendix 1. 27 p.",
   "department" : "Dept of Health"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/05/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1200.xls"
-  "year" : "2008"
-  "description" : "Table showing number of a) general practitioners and b) GP partnerships in each year from 1997 to 2007, broken down by PCT."
+  "deposited_date" : "08/05/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1200.xls",
+  "year" : "2008",
+  "description" : "Table showing number of a) general practitioners and b) GP partnerships in each year from 1997 to 2007, broken down by PCT.",
   "department" : "Dept of Health"
 }

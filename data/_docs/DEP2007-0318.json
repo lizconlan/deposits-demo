@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "11/12/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0318.pdf"
-  "year" : "2007"
-  "description" : "Pay and conditions for NHS staff covered by the Agenda for Change agreement. Pay circular (AforC) 4/2007. 6 p."
+  "deposited_date" : "11/12/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0318.pdf",
+  "year" : "2007",
+  "description" : "Pay and conditions for NHS staff covered by the Agenda for Change agreement. Pay circular (AforC) 4/2007. 6 p.",
   "department" : "Dept of Health"
 }

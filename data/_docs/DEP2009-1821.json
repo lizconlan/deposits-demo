@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/09/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1821.tif"
-  "year" : "2009"
-  "description" : "Letter dated 26/06/2009 from Kevan Jones MP to Jamie Reed MP regarding the number of members of the armed forces recruited from Cumbria and Copeland who were debilitatingly wounded or killed in Afghanistan or Iraq. 4 p."
+  "deposited_date" : "15/09/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1821.tif",
+  "year" : "2009",
+  "description" : "Letter dated 26/06/2009 from Kevan Jones MP to Jamie Reed MP regarding the number of members of the armed forces recruited from Cumbria and Copeland who were debilitatingly wounded or killed in Afghanistan or Iraq. 4 p.",
   "department" : "Ministry of Defence"
 }

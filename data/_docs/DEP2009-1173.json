@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/04/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1173.doc"
-  "year" : "2009"
-  "description" : "Department for Work and Pensions business travel policy - travel by rail. 4 p."
+  "deposited_date" : "21/04/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1173.doc",
+  "year" : "2009",
+  "description" : "Department for Work and Pensions business travel policy - travel by rail. 4 p.",
   "department" : "Dept for Work and Pensions"
 }

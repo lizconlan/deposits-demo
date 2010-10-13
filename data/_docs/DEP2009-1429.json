@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "14/05/2009"
-  "legislature" : Lords
-  "legislation" : "Business Rate Supplements Bill 2008-09"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1429.zip"
-  "year" : "2009"
-  "description" : "I. Business rate supplements: draft proposals on ballot and administration arrangements consultation. 53 p. II. Letter dated 14/05/2009 from Baroness Andrews to the House of Lords regarding the provision made for refunds; the use of BRS to raise debt and the power for the Greater London Authority (GLA) to pass BRS revenue on to its functional bodies. 3 p."
+  "deposited_date" : "14/05/2009",
+  "legislature" : ["Lords"],
+  "legislation" : "Business Rate Supplements Bill 2008-09",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1429.zip",
+  "year" : "2009",
+  "description" : "I. Business rate supplements: draft proposals on ballot and administration arrangements consultation. 53 p. II. Letter dated 14/05/2009 from Baroness Andrews to the House of Lords regarding the provision made for refunds; the use of BRS to raise debt and the power for the Greater London Authority (GLA) to pass BRS revenue on to its functional bodies. 3 p.",
   "department" : "Dept for Communities and Local Government"
 }

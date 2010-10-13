@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0091.doc"
-  "year" : "2008"
-  "description" : "Site map for the Department of Health's staff intranet (Delphi). 7 p."
+  "deposited_date" : "14/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0091.doc",
+  "year" : "2008",
+  "description" : "Site map for the Department of Health's staff intranet (Delphi). 7 p.",
   "department" : "Dept of Health"
 }

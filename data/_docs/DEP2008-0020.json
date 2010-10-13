@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0020.zip"
-  "year" : "2008"
-  "description" : "I. HMRA guidelines. 3 p. II. Department of Health guidelines. 38 p. III. NHS identity guidelines. 54 p."
+  "deposited_date" : "07/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0020.zip",
+  "year" : "2008",
+  "description" : "I. HMRA guidelines. 3 p. II. Department of Health guidelines. 38 p. III. NHS identity guidelines. 54 p.",
   "department" : "Dept of Health"
 }

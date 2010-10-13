@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/07/2109"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1484.zip"
-  "year" : "2010"
-  "description" : "Letter dated 15/07/2010 from Francis Maude MP to Bernard Jenkin MP regarding Cabinet Office register of board members' interests 2009/10. Inc the report. 5 p."
+  "deposited_date" : "15/07/2109",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1484.zip",
+  "year" : "2010",
+  "description" : "Letter dated 15/07/2010 from Francis Maude MP to Bernard Jenkin MP regarding Cabinet Office register of board members' interests 2009/10. Inc the report. 5 p.",
   "department" : "Cabinet Office"
 }

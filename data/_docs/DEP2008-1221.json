@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/05/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1221.tif"
-  "year" : "2008"
-  "description" : "Letter dated 07/05/2008 from Des Browne MP to Liam Fox MP regarding the number of tours in Iraq and Afghanistan. Includes a table. 5 p."
+  "deposited_date" : "07/05/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1221.tif",
+  "year" : "2008",
+  "description" : "Letter dated 07/05/2008 from Des Browne MP to Liam Fox MP regarding the number of tours in Iraq and Afghanistan. Includes a table. 5 p.",
   "department" : "Ministry of Defence"
 }

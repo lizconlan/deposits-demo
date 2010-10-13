@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0577.xls"
-  "year" : "2010"
-  "description" : "A copy of the methodology and dataset for the analysis referred to on page 12 of Progress Report on Gypsy and Traveller Policy of July 2009. 15 p."
+  "deposited_date" : "03/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0577.xls",
+  "year" : "2010",
+  "description" : "A copy of the methodology and dataset for the analysis referred to on page 12 of Progress Report on Gypsy and Traveller Policy of July 2009. 15 p.",
   "department" : "Communities and Local Government"
 }

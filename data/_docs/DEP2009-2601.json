@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/10/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2601.doc"
-  "year" : "2009"
-  "description" : "Table showing research and development projects offered grant funding by the Technology Strategy Board since its establishment in July 2007. 18 p."
+  "deposited_date" : "22/10/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2601.doc",
+  "year" : "2009",
+  "description" : "Table showing research and development projects offered grant funding by the Technology Strategy Board since its establishment in July 2007. 18 p.",
   "department" : "Dept for Business, Innovation and Skills"
 }

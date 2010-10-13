@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0460.xls"
-  "year" : "2010"
-  "description" : "Table showing (a) major and (b) non-major schemes listed are funded from (i) the Regional Funding Allocation 2 programme and (ii) other sources. 2 p."
+  "deposited_date" : "22/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0460.xls",
+  "year" : "2010",
+  "description" : "Table showing (a) major and (b) non-major schemes listed are funded from (i) the Regional Funding Allocation 2 programme and (ii) other sources. 2 p.",
   "department" : "Department for Transport"
 }

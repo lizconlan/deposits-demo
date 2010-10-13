@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/05/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1517.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 20/05/2009 from Lord Speaker to Ambassador of Romania regarding declaration by the Romanian Parliament. 5 p."
+  "deposited_date" : "22/05/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1517.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 20/05/2009 from Lord Speaker to Ambassador of Romania regarding declaration by the Romanian Parliament. 5 p.",
   "department" : "Lord Speaker"
 }

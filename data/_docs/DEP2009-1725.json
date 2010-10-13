@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/06/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1725.zip"
-  "year" : "2009"
-  "description" : "I. UK Armed Forces psychiatric morbidity: presenting complaints at Ministry of Defence (MOD) Departments of Community Mental Health, Jan-Mar 2008. 9 p. II. UK Armed Forces psychiatric morbidity: presenting complaints at Ministry of Defence (MOD) Departments of Community Mental Health, Apr-Jun 2008. 9 p."
+  "deposited_date" : "17/06/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1725.zip",
+  "year" : "2009",
+  "description" : "I. UK Armed Forces psychiatric morbidity: presenting complaints at Ministry of Defence (MOD) Departments of Community Mental Health, Jan-Mar 2008. 9 p. II. UK Armed Forces psychiatric morbidity: presenting complaints at Ministry of Defence (MOD) Departments of Community Mental Health, Apr-Jun 2008. 9 p.",
   "department" : "Ministry of Defence"
 }

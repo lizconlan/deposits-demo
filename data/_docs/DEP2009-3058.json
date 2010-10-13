@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3058.tif"
-  "year" : "2009"
-  "description" : "Letter dated 08/12/2009 from Andy Burnham MP to John Baron MP regarding patient safety and Basildon and Thurrock University Hospitals NHS foundation trust. 1 p."
+  "deposited_date" : "30/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3058.tif",
+  "year" : "2009",
+  "description" : "Letter dated 08/12/2009 from Andy Burnham MP to John Baron MP regarding patient safety and Basildon and Thurrock University Hospitals NHS foundation trust. 1 p.",
   "department" : "Dept of Health"
 }

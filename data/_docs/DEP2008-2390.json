@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2390.zip"
-  "year" : "2008"
-  "description" : "Tables showing UK domiciled a) applicants and b) accepted applicants to full-time undeergraduate courses for each year from 2002 to 2007, broken down by subject, gender and socio-economic group."
+  "deposited_date" : "17/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2390.zip",
+  "year" : "2008",
+  "description" : "Tables showing UK domiciled a) applicants and b) accepted applicants to full-time undeergraduate courses for each year from 2002 to 2007, broken down by subject, gender and socio-economic group.",
   "department" : "Dept for Children Schools and Families"
 }

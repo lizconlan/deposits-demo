@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "28/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0594.pdf"
-  "year" : "2008"
-  "description" : "Table showing trained soldier output by arm corps as at 01/03/2007. 1 p."
+  "deposited_date" : "28/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0594.pdf",
+  "year" : "2008",
+  "description" : "Table showing trained soldier output by arm corps as at 01/03/2007. 1 p.",
   "department" : "Defence Analytical Services Agency Ministry of Defence"
 }

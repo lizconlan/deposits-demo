@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "28/05/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1379.pdf"
-  "year" : "2008"
-  "description" : "Standards for local surveillance and follow up of hepatitis B and C. 67 p."
+  "deposited_date" : "28/05/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1379.pdf",
+  "year" : "2008",
+  "description" : "Standards for local surveillance and follow up of hepatitis B and C. 67 p.",
   "department" : "Health Protection Agency Dept of Health"
 }

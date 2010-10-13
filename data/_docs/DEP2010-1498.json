@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/07/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1498.xls"
-  "year" : "2010"
-  "description" : "Table showing antidepressant prescription items dispensed in the community in England from 2006/07 to 2009/10. 24 p."
+  "deposited_date" : "19/07/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1498.xls",
+  "year" : "2010",
+  "description" : "Table showing antidepressant prescription items dispensed in the community in England from 2006/07 to 2009/10. 24 p.",
   "department" : "Department of Health"
 }

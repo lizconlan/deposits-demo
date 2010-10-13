@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "04/07/2008"
-  "legislature" : Lords
-  "legislation" : "Crossrail Bill"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1799.pdf"
-  "year" : "2008"
-  "description" : "Letter dated July 2008 from Lord Bassam of Brighton to Lord Goodhart regarding the Crossrail Bill. 2 p."
+  "deposited_date" : "04/07/2008",
+  "legislature" : ["Lords"],
+  "legislation" : "Crossrail Bill",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1799.pdf",
+  "year" : "2008",
+  "description" : "Letter dated July 2008 from Lord Bassam of Brighton to Lord Goodhart regarding the Crossrail Bill. 2 p.",
   "department" : "Dept for Transport"
 }

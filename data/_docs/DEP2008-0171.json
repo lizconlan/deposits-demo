@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "22/01/2008"
-  "legislature" : Lords
-  "legislation" : "Child Maintenance and Other Payments Bill 2006-07 then 2007-08"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0171.tif"
-  "year" : "2008"
-  "description" : "Letter dated 21/01/2008 from Lord McKenzie of Luton to the Clerk of the Select Committee on the Constitution regarding the committee's report on the Child Maintenance and Other Payments Bill. 9 p."
+  "deposited_date" : "22/01/2008",
+  "legislature" : ["Lords"],
+  "legislation" : "Child Maintenance and Other Payments Bill 2006-07 then 2007-08",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0171.tif",
+  "year" : "2008",
+  "description" : "Letter dated 21/01/2008 from Lord McKenzie of Luton to the Clerk of the Select Committee on the Constitution regarding the committee's report on the Child Maintenance and Other Payments Bill. 9 p.",
   "department" : "Dept for Work and Pensions"
 }

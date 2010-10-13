@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1413.pdf"
-  "year" : "2008"
-  "description" : "Veterinary Products Committee and its' Sub-Committees annual report 2006. 91 p."
+  "deposited_date" : "03/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1413.pdf",
+  "year" : "2008",
+  "description" : "Veterinary Products Committee and its' Sub-Committees annual report 2006. 91 p.",
   "department" : "Dept for Environment, Food and Rural Affairs"
 }

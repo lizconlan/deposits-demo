@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "30/03/2010"
-  "legislature" : CommonsLords
-  "legislation" : "Sustainable Communities Act 2007"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0962.pdf"
-  "year" : "2010"
-  "description" : "Sustainable Communities Act 2007 : local spending reports. Proposals for second report consultation. Consultation paper. 25 p."
+  "deposited_date" : "30/03/2010",
+  "legislature" : ["Commons","Lords"],
+  "legislation" : "Sustainable Communities Act 2007",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0962.pdf",
+  "year" : "2010",
+  "description" : "Sustainable Communities Act 2007 : local spending reports. Proposals for second report consultation. Consultation paper. 25 p.",
   "department" : "Communities and Local Government"
 }

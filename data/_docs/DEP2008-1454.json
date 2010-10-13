@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1454.zip"
-  "year" : "2008"
-  "description" : "Documents regarding a) Choose and Book system and b) Free Choice at Referral. [6 documents and 3 presentations]"
+  "deposited_date" : "06/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1454.zip",
+  "year" : "2008",
+  "description" : "Documents regarding a) Choose and Book system and b) Free Choice at Referral. [6 documents and 3 presentations]",
   "department" : "Dept of Health"
 }

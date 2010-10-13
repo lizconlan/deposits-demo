@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/12/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3043.pdf"
-  "year" : "2009"
-  "description" : "Healthy children, safer communities. Incl. annexes. 111 p."
+  "deposited_date" : "08/12/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3043.pdf",
+  "year" : "2009",
+  "description" : "Healthy children, safer communities. Incl. annexes. 111 p.",
   "department" : "Dept of Health"
 }

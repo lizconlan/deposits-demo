@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/02/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0388.doc"
-  "year" : "2010"
-  "description" : "Letter dated 08/02/2010 from Rosalind Wyke (Chairman, Musgrove Park Hospital Trust) to Ian Liddell-Grainger MP regarding Musgrove Park Hospital, Taunton and deaths; parking charges; patient malnourishment; equality and diversity; management bonuses; the art for life scheme and public relations. 3 p."
+  "deposited_date" : "02/02/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0388.doc",
+  "year" : "2010",
+  "description" : "Letter dated 08/02/2010 from Rosalind Wyke (Chairman, Musgrove Park Hospital Trust) to Ian Liddell-Grainger MP regarding Musgrove Park Hospital, Taunton and deaths; parking charges; patient malnourishment; equality and diversity; management bonuses; the art for life scheme and public relations. 3 p.",
   "department" : "Department of Health"
 }

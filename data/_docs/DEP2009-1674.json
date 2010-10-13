@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "11/05/2009"
-  "legislature" : Commons
-  "legislation" : "Finance Bill 2008-09"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1674.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 11/06/2009 from Stephen Timms MP to Jim Hood MP and Peter Atkinson MP regarding Government amendments to the Finance Bill 2008-09. 5 p."
+  "deposited_date" : "11/05/2009",
+  "legislature" : ["Commons"],
+  "legislation" : "Finance Bill 2008-09",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1674.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 11/06/2009 from Stephen Timms MP to Jim Hood MP and Peter Atkinson MP regarding Government amendments to the Finance Bill 2008-09. 5 p.",
   "department" : "Treasury"
 }

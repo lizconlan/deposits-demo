@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1014.xls"
-  "year" : "2008"
-  "description" : "Table showing number and percentage of primary school pupils living within walking distance of a) two or more maintained primary schools, and b) two or more maintained secondary schools, and c) three or more maintained secondary schools, broken down by local authority. 3 p."
+  "deposited_date" : "18/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1014.xls",
+  "year" : "2008",
+  "description" : "Table showing number and percentage of primary school pupils living within walking distance of a) two or more maintained primary schools, and b) two or more maintained secondary schools, and c) three or more maintained secondary schools, broken down by local authority. 3 p.",
   "department" : "Dept for Children Schools and Families"
 }

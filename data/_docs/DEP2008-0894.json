@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "31/03/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0894.pdf"
-  "year" : "2008"
-  "description" : "Prosperous places: taking forward the review of sub national economic development and regeneration (SNR). Consultation paper. 76 p."
+  "deposited_date" : "31/03/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0894.pdf",
+  "year" : "2008",
+  "description" : "Prosperous places: taking forward the review of sub national economic development and regeneration (SNR). Consultation paper. 76 p.",
   "department" : "Dept for Communities and Local Government Dept for Business Enterprise and Regulatory Reform"
 }

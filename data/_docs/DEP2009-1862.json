@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "01/07/2009"
-  "legislature" : Commons
-  "legislation" : "Finance Bill 2008-09"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1862.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 01/07/2009 from Sarah Mccarthy-Fry MP to Jim Hood MP and Peter Atkinson MP regarding the Finance Bill 2008-09 Public Bill Committee. 5 p."
+  "deposited_date" : "01/07/2009",
+  "legislature" : ["Commons"],
+  "legislation" : "Finance Bill 2008-09",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1862.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 01/07/2009 from Sarah Mccarthy-Fry MP to Jim Hood MP and Peter Atkinson MP regarding the Finance Bill 2008-09 Public Bill Committee. 5 p.",
   "department" : "Treasury"
 }

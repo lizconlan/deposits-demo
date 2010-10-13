@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2105.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 19/07/2009 from Jack Straw MP to Dominic Grieve QC MP regarding a projected reduction in the full-time headcount of the National Offender Management Service and HM Courts Service. 1 p."
+  "deposited_date" : "30/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2105.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 19/07/2009 from Jack Straw MP to Dominic Grieve QC MP regarding a projected reduction in the full-time headcount of the National Offender Management Service and HM Courts Service. 1 p.",
   "department" : "Ministry of Justice"
 }

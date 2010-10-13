@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0160.xls"
-  "year" : "2008"
-  "description" : "Tables showing income support for a) lone parents by ethnicity for each year from 2002 to 2007 and b) lone parents by number of dependants for each year from 1997 to 2007, broken down by region. 57 p."
+  "deposited_date" : "21/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0160.xls",
+  "year" : "2008",
+  "description" : "Tables showing income support for a) lone parents by ethnicity for each year from 2002 to 2007 and b) lone parents by number of dependants for each year from 1997 to 2007, broken down by region. 57 p.",
   "department" : "Dept for Work and Pensions"
 }

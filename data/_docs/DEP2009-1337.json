@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/05/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1337.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 30/04/2009 from David Hanson MP to Edward O'Hara MP regarding Walton Prison cemeteries. 2 p."
+  "deposited_date" : "07/05/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1337.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 30/04/2009 from David Hanson MP to Edward O'Hara MP regarding Walton Prison cemeteries. 2 p.",
   "department" : "Ministry of Justice"
 }

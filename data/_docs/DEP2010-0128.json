@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/12/2009"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0128.pdf"
-  "year" : "2010"
-  "description" : "DWP Autumn Performance Report 2009. 60p."
+  "deposited_date" : "15/12/2009",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0128.pdf",
+  "year" : "2010",
+  "description" : "DWP Autumn Performance Report 2009. 60p.",
   "department" : "Department for Work and Pensions"
 }

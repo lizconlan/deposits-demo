@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/03/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0869.zip"
-  "year" : "2009"
-  "description" : "I. Table showing the number of neonatal deaths in England for each year from 2003 to 2007, broken down by strategic health authority. 3 p. II. Table showing the number of stillbirths in England for each year from 2003 to 2007, broken down by strategic health authority. 4 p. III. Letter dated March 2009 from Karen Dunnell, Office for National Statistics, to Anne Milton MP regarding the number of stillbirths and neonatal deaths in each primary care trust area. 1 p."
+  "deposited_date" : "18/03/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0869.zip",
+  "year" : "2009",
+  "description" : "I. Table showing the number of neonatal deaths in England for each year from 2003 to 2007, broken down by strategic health authority. 3 p. II. Table showing the number of stillbirths in England for each year from 2003 to 2007, broken down by strategic health authority. 4 p. III. Letter dated March 2009 from Karen Dunnell, Office for National Statistics, to Anne Milton MP regarding the number of stillbirths and neonatal deaths in each primary care trust area. 1 p.",
   "department" : "Cabinet Office Office for National Statistics"
 }

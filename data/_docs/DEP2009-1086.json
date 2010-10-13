@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/04/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1086.zip"
-  "year" : "2009"
-  "description" : "I. Demographic Profile of Visitors to the Royal Parks in 2006 Compared to the Profile of Residents Living in the Vicinity of the Parks. 31 p. II. The Royal Parks In-Park Research Report 2006: All Parks Combined and Executive Summary. 49 p."
+  "deposited_date" : "02/04/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1086.zip",
+  "year" : "2009",
+  "description" : "I. Demographic Profile of Visitors to the Royal Parks in 2006 Compared to the Profile of Residents Living in the Vicinity of the Parks. 31 p. II. The Royal Parks In-Park Research Report 2006: All Parks Combined and Executive Summary. 49 p.",
   "department" : "Dept for Culture, Media and Sport"
 }

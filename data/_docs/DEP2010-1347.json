@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/06/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1347.zip"
-  "year" : "2010"
-  "description" : "I. Energy trends. June 2010. Incl. tables. 60 p. II. Quarterly energy prices. June 2010. Incl. annexes. 92 p. III. Letter dated 24/06/2010 from Charles Hendry MP to Tim Yeo MP regarding the placing of energy statistics in the House Libraries. 1 p."
+  "deposited_date" : "24/06/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1347.zip",
+  "year" : "2010",
+  "description" : "I. Energy trends. June 2010. Incl. tables. 60 p. II. Quarterly energy prices. June 2010. Incl. annexes. 92 p. III. Letter dated 24/06/2010 from Charles Hendry MP to Tim Yeo MP regarding the placing of energy statistics in the House Libraries. 1 p.",
   "department" : "Department of Energy and Climate Change"
 }

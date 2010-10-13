@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/06/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1386.pdf"
-  "year" : "2008"
-  "description" : "Achieving universal access: the UK's strategy for halting and reversing the spread of HIV in the developing world. 75 p."
+  "deposited_date" : "02/06/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1386.pdf",
+  "year" : "2008",
+  "description" : "Achieving universal access: the UK's strategy for halting and reversing the spread of HIV in the developing world. 75 p.",
   "department" : "Dept for International Development"
 }

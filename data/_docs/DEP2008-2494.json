@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "29/10/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2494.xls"
-  "year" : "2008"
-  "description" : "Table showing homeless acceptances, aged 16 to 24 years, in each local authority area for the period of April to June 2008."
+  "deposited_date" : "29/10/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2494.xls",
+  "year" : "2008",
+  "description" : "Table showing homeless acceptances, aged 16 to 24 years, in each local authority area for the period of April to June 2008.",
   "department" : "Dept for Communities and Local Government"
 }

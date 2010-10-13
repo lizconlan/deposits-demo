@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/05/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1501.pdf"
-  "year" : "2009"
-  "description" : "Table showing human papilloma virus (HPV) vaccination uptake for 12-13 and 17-18 year olds in England by primary care trust by March 2009. 8 p."
+  "deposited_date" : "21/05/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1501.pdf",
+  "year" : "2009",
+  "description" : "Table showing human papilloma virus (HPV) vaccination uptake for 12-13 and 17-18 year olds in England by primary care trust by March 2009. 8 p.",
   "department" : "Dept of Health"
 }

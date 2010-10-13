@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0123.xls"
-  "year" : "2008"
-  "description" : "Tables showing initial decisions on asylum applications a) excluding dependents and b) from dependents for each year from 2003 to 2007, broken down by nationality."
+  "deposited_date" : "16/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0123.xls",
+  "year" : "2008",
+  "description" : "Tables showing initial decisions on asylum applications a) excluding dependents and b) from dependents for each year from 2003 to 2007, broken down by nationality.",
   "department" : "Home Office"
 }

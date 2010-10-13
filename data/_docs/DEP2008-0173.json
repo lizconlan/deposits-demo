@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "22/01/2007"
-  "legislature" : Commons
-  "notes" : "Series maintained in HAS for 6 years"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0173.pdf"
-  "year" : "2008"
-  "description" : "London 2012 Olympic and Paralympic Games: annual report January 2008. 40 p."
+  "deposited_date" : "22/01/2007",
+  "legislature" : ["Commons"],
+  "notes" : "Series maintained in HAS for 6 years",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0173.pdf",
+  "year" : "2008",
+  "description" : "London 2012 Olympic and Paralympic Games: annual report January 2008. 40 p.",
   "department" : "Dept for Culture Media and Sport"
 }

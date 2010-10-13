@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/02/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0382.pdf"
-  "year" : "2009"
-  "description" : "The Commissioner for Public Appointments code of practice for ministerial appointments to public bodies. 84 p."
+  "deposited_date" : "06/02/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0382.pdf",
+  "year" : "2009",
+  "description" : "The Commissioner for Public Appointments code of practice for ministerial appointments to public bodies. 84 p.",
   "department" : "Public Appointments Commissioner"
 }

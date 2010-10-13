@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/04/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1169.pdf"
-  "year" : "2009"
-  "description" : "Letter dated April 2009 from Caroline Flint MP to Edward Leigh MP regarding Turner in China exhibition. 2 p."
+  "deposited_date" : "20/04/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1169.pdf",
+  "year" : "2009",
+  "description" : "Letter dated April 2009 from Caroline Flint MP to Edward Leigh MP regarding Turner in China exhibition. 2 p.",
   "department" : "Foreign and Commonwealth Office"
 }

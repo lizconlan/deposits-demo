@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/12/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0005.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 21/12/2009 from Carole Souter to Nick Hurd MP regarding Heritage Lottery Fund. 1 p."
+  "deposited_date" : "14/12/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0005.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 21/12/2009 from Carole Souter to Nick Hurd MP regarding Heritage Lottery Fund. 1 p.",
   "department" : "Department for Culture, Media and Sport"
 }

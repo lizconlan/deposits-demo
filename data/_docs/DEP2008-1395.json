@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1395.doc"
-  "year" : "2008"
-  "description" : "Letter dated 25/04/2008 from C. Rogers and T. Barrow, the UK and French ambassadors to the EU Political and Security Committee, to S.E. Javier, Council of the European Union, regarding the training in and upgrading of military helicopters. 2 p."
+  "deposited_date" : "02/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1395.doc",
+  "year" : "2008",
+  "description" : "Letter dated 25/04/2008 from C. Rogers and T. Barrow, the UK and French ambassadors to the EU Political and Security Committee, to S.E. Javier, Council of the European Union, regarding the training in and upgrading of military helicopters. 2 p.",
   "department" : "Ministry of Defence"
 }

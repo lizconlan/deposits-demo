@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "06/04/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1209.pdf"
-  "year" : "2010"
-  "description" : "Table showing 2010 rating list hereditaments with rateable value over £50,000. 8 p."
+  "deposited_date" : "06/04/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1209.pdf",
+  "year" : "2010",
+  "description" : "Table showing 2010 rating list hereditaments with rateable value over £50,000. 8 p.",
   "department" : "Treasury"
 }

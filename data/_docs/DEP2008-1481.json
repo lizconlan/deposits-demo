@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/04/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1481.doc"
-  "year" : "2008"
-  "description" : "List of works of art on loan from the Government art collection to the residence of the Prime Minister and his offices in Downing street. 9 p."
+  "deposited_date" : "21/04/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1481.doc",
+  "year" : "2008",
+  "description" : "List of works of art on loan from the Government art collection to the residence of the Prime Minister and his offices in Downing street. 9 p.",
   "department" : "Dept for Culture Media and Sport"
 }

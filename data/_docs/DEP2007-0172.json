@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "28/11/2007"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0172.pdf"
-  "year" : "2007"
-  "description" : "The suspicious activity reports regime annual report 2007. Serious Organised Crime Agency (SOCA). 36 p."
+  "deposited_date" : "28/11/2007",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0172.pdf",
+  "year" : "2007",
+  "description" : "The suspicious activity reports regime annual report 2007. Serious Organised Crime Agency (SOCA). 36 p.",
   "department" : "Home Office"
 }

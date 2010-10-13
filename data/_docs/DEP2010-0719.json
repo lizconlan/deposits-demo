@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0719.zip"
-  "year" : "2010"
-  "description" : "I. Clean coal: an industrial strategy for the development of carbon capture and storage across the UK. Mar 2010. Incl. annexes. 70 p. II. Letters dated 17/03/2010 from Ed Miliband MP to Paddy Tipping MP and Tim Yeo MP regarding carbon capture and storage. 4 p."
+  "deposited_date" : "17/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0719.zip",
+  "year" : "2010",
+  "description" : "I. Clean coal: an industrial strategy for the development of carbon capture and storage across the UK. Mar 2010. Incl. annexes. 70 p. II. Letters dated 17/03/2010 from Ed Miliband MP to Paddy Tipping MP and Tim Yeo MP regarding carbon capture and storage. 4 p.",
   "department" : "Department of Energy and Climate Change"
 }

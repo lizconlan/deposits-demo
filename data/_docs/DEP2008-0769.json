@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0769.ppt"
-  "year" : "2008"
-  "description" : "The army: public attitudes tracking. [35 Powerpoint slides]"
+  "deposited_date" : "18/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0769.ppt",
+  "year" : "2008",
+  "description" : "The army: public attitudes tracking. [35 Powerpoint slides]",
   "department" : "Ipsos MORI Ministry of Defence"
 }

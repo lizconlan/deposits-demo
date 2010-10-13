@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/01/2010"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0447.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 11/02/2010 from Adam Crozier (Chief Executive, Royal Mail Group) to Lord Berkeley regarding switching from deliveries using bicycles to vans and the possibility of using freight bicycles. 2 p."
+  "deposited_date" : "27/01/2010",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0447.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 11/02/2010 from Adam Crozier (Chief Executive, Royal Mail Group) to Lord Berkeley regarding switching from deliveries using bicycles to vans and the possibility of using freight bicycles. 2 p.",
   "department" : "Department for Business, Innovation and Skills"
 }

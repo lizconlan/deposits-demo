@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/07/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1929.pdf"
-  "year" : "2009"
-  "description" : "Children's services improvement support for local authorities and children's trusts: a national prospectus 2009-10. 94 p."
+  "deposited_date" : "07/07/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1929.pdf",
+  "year" : "2009",
+  "description" : "Children's services improvement support for local authorities and children's trusts: a national prospectus 2009-10. 94 p.",
   "department" : "Dept for Children, Schools and Families"
 }

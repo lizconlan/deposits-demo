@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "30/03/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0993.pdf"
-  "year" : "2010"
-  "description" : "LIST OF CERTIFICATIONS GRANTED BY THE SECRETARY OF STATE FOR TRANSPORT FOR APPROVED DEVICES - CCTV AND ASSOCIATED EVIDENCE-RECORDING EQUIPMENT - UNDER THE TRANSPORT ACT 2000 AND THE TRAFFIC MANAGEMENT ACT 2004. 2 p."
+  "deposited_date" : "30/03/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0993.pdf",
+  "year" : "2010",
+  "description" : "LIST OF CERTIFICATIONS GRANTED BY THE SECRETARY OF STATE FOR TRANSPORT FOR APPROVED DEVICES - CCTV AND ASSOCIATED EVIDENCE-RECORDING EQUIPMENT - UNDER THE TRANSPORT ACT 2000 AND THE TRAFFIC MANAGEMENT ACT 2004. 2 p.",
   "department" : "Department for Transport"
 }

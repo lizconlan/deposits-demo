@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "18/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2729.pdf"
-  "year" : "2008"
-  "description" : "Director General of Army Medical Services (DGAMS): policy letter 62/03 dated 01/05/2003 regarding guidelines for medical officers on the army suicide prevention policy. 6 p."
+  "deposited_date" : "18/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2729.pdf",
+  "year" : "2008",
+  "description" : "Director General of Army Medical Services (DGAMS): policy letter 62/03 dated 01/05/2003 regarding guidelines for medical officers on the army suicide prevention policy. 6 p.",
   "department" : "Ministry of Defence"
 }

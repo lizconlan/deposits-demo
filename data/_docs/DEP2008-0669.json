@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "07/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0669.pdf"
-  "year" : "2008"
-  "description" : "Hepatitis C in England: the Health Protection Agency annual report 2007. 72 p."
+  "deposited_date" : "07/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0669.pdf",
+  "year" : "2008",
+  "description" : "Hepatitis C in England: the Health Protection Agency annual report 2007. 72 p.",
   "department" : "Dept of Health"
 }

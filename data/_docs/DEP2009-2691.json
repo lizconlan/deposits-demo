@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "02/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2691.xls"
-  "year" : "2009"
-  "description" : "Tables showing reported fatal and serious accidents involving motorcycles by local district authority from 1979 to 2008. 2 p."
+  "deposited_date" : "02/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2691.xls",
+  "year" : "2009",
+  "description" : "Tables showing reported fatal and serious accidents involving motorcycles by local district authority from 1979 to 2008. 2 p.",
   "department" : "Dept for Transport"
 }

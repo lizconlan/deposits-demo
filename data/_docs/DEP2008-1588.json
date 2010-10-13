@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/06/2008"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1588.pdf"
-  "year" : "2008"
-  "description" : "Global Europe: vision for a 21st century budget. 28 p."
+  "deposited_date" : "19/06/2008",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1588.pdf",
+  "year" : "2008",
+  "description" : "Global Europe: vision for a 21st century budget. 28 p.",
   "department" : "Treasury"
 }

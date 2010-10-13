@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "26/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3068.zip"
-  "year" : "2008"
-  "description" : "I. Template for COI agency pitch assessment. 3 p. II. Template for direct & relationship marketing evaluation form for agency pitches. 3 p. III. COI expenditure on Iris London promotions. 4 p."
+  "deposited_date" : "26/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3068.zip",
+  "year" : "2008",
+  "description" : "I. Template for COI agency pitch assessment. 3 p. II. Template for direct & relationship marketing evaluation form for agency pitches. 3 p. III. COI expenditure on Iris London promotions. 4 p.",
   "department" : "Cabinet Office"
 }

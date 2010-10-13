@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/06/2008"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1641.pdf"
-  "year" : "2008"
-  "description" : "Dear colleague letter [undated] from Lord Darzi of Denham regarding government amendments on part 1 of the Health and Social Care Bill 2007-08 (Care Quality Commission). 4 p."
+  "deposited_date" : "04/06/2008",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1641.pdf",
+  "year" : "2008",
+  "description" : "Dear colleague letter [undated] from Lord Darzi of Denham regarding government amendments on part 1 of the Health and Social Care Bill 2007-08 (Care Quality Commission). 4 p.",
   "department" : "Dept of Health"
 }

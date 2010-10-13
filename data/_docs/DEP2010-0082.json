@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "13/01/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0082.zip"
-  "year" : "2010"
-  "description" : "I. The Competition Commissions recommendation to establish a groceries supply code of practice (GSCOP) Ombudsman. The Government Response. 4 p. II. Government response to the consultation on the Competition Act 1998 Land Agreements Exclusion and Revocation Order 2004. 9 p."
+  "deposited_date" : "13/01/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0082.zip",
+  "year" : "2010",
+  "description" : "I. The Competition Commissions recommendation to establish a groceries supply code of practice (GSCOP) Ombudsman. The Government Response. 4 p. II. Government response to the consultation on the Competition Act 1998 Land Agreements Exclusion and Revocation Order 2004. 9 p.",
   "department" : "Department for Business, Innovation and Skills"
 }

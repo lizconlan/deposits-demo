@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/03/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0604.pdf"
-  "year" : "2010"
-  "description" : "Increasing the Uptake of Eco-driving Training for Drivers of Large Goods Vehicles and Passenger Carrying Vehicles: Consultation Document. 74 p."
+  "deposited_date" : "08/03/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0604.pdf",
+  "year" : "2010",
+  "description" : "Increasing the Uptake of Eco-driving Training for Drivers of Large Goods Vehicles and Passenger Carrying Vehicles: Consultation Document. 74 p.",
   "department" : "Department for Transport"
 }

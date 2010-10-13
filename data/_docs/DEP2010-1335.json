@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "22/06/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1335.pdf"
-  "year" : "2010"
-  "description" : "Breast screening programme, England 2008-09. Incl. appendices. 61 p."
+  "deposited_date" : "22/06/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1335.pdf",
+  "year" : "2010",
+  "description" : "Breast screening programme, England 2008-09. Incl. appendices. 61 p.",
   "department" : "Department of Health Office for National Statistics Information Centre for Health and Social Care"
 }

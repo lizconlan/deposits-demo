@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "17/12/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3117.zip"
-  "year" : "2008"
-  "description" : "I. Definition of zero carbon homes and non-domestic buildings. 111 p. II. Definition of zero carbon homes: impact assessment. 61 p."
+  "deposited_date" : "17/12/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3117.zip",
+  "year" : "2008",
+  "description" : "I. Definition of zero carbon homes and non-domestic buildings. 111 p. II. Definition of zero carbon homes: impact assessment. 61 p.",
   "department" : "Dept for Communities and Local Government"
 }

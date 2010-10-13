@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "01/04/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1078.zip"
-  "year" : "2010"
-  "description" : "I. An analysis of the productivity of the Department for Work and Pensions 2002/03 to 2008/09. April 2010. 19 p. II. Dear colleague letter dated 01/04/2010 from Jim Knight MP regarding the deposit of the DWP productivity report. 1 p."
+  "deposited_date" : "01/04/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-1078.zip",
+  "year" : "2010",
+  "description" : "I. An analysis of the productivity of the Department for Work and Pensions 2002/03 to 2008/09. April 2010. 19 p. II. Dear colleague letter dated 01/04/2010 from Jim Knight MP regarding the deposit of the DWP productivity report. 1 p.",
   "department" : "Department for Work and Pensions"
 }

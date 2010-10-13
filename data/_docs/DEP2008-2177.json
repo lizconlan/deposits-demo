@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/07/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2177.zip"
-  "year" : "2008"
-  "description" : "Copies of quarterly reports published on the Ministry of Defence website but not previously placed in the Library. 160 p."
+  "deposited_date" : "20/07/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2177.zip",
+  "year" : "2008",
+  "description" : "Copies of quarterly reports published on the Ministry of Defence website but not previously placed in the Library. 160 p.",
   "department" : "Ministry of Defence"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2833.rtf"
-  "year" : "2008"
-  "description" : "Table showing number of fatalities in English local highway authority by gender, 1998-2007. 3 p."
+  "deposited_date" : "24/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2833.rtf",
+  "year" : "2008",
+  "description" : "Table showing number of fatalities in English local highway authority by gender, 1998-2007. 3 p.",
   "department" : "Dept for Transport"
 }

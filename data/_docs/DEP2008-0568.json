@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/02/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0568.doc"
-  "year" : "2008"
-  "description" : "Text of letter [undated] from Andrew Hind, Chief Executive, to Paul Goodman MP regarding the Faith and Social Cohesion Unit of the Charity Commission."
+  "deposited_date" : "27/02/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0568.doc",
+  "year" : "2008",
+  "description" : "Text of letter [undated] from Andrew Hind, Chief Executive, to Paul Goodman MP regarding the Faith and Social Cohesion Unit of the Charity Commission.",
   "department" : "Charity Commission Dept for Communities and Local Government"
 }

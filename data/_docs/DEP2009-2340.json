@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "27/03/2007"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2340.doc"
-  "year" : "2009"
-  "description" : "Regina v. CPL Payne & Others: Schedules providing details of the prosecution witnesses who made signed witness statements; specifying whether such statements were put to the court; and whether the witnesses were examined or cross-examined. 12 p."
+  "deposited_date" : "27/03/2007",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-2340.doc",
+  "year" : "2009",
+  "description" : "Regina v. CPL Payne & Others: Schedules providing details of the prosecution witnesses who made signed witness statements; specifying whether such statements were put to the court; and whether the witnesses were examined or cross-examined. 12 p.",
   "department" : "Attorney General"
 }

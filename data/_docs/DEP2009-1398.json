@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "13/05/2009"
-  "legislature" : Lords
-  "legislation" : "Data Protection Act 1998"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1398.zip"
-  "year" : "2009"
-  "description" : "Data sharing review report. Incl. annexes. 80 p."
+  "deposited_date" : "13/05/2009",
+  "legislature" : ["Lords"],
+  "legislation" : "Data Protection Act 1998",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1398.zip",
+  "year" : "2009",
+  "description" : "Data sharing review report. Incl. annexes. 80 p.",
   "department" : "Cabinet Office"
 }

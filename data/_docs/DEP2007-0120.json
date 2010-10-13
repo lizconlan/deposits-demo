@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "21/11/2007"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0120.xls"
-  "year" : "2007"
-  "description" : "Table showing capital expenditure financed by self-financed borrowing by local authorities in 2004/05 and 2005/06."
+  "deposited_date" : "21/11/2007",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0120.xls",
+  "year" : "2007",
+  "description" : "Table showing capital expenditure financed by self-financed borrowing by local authorities in 2004/05 and 2005/06.",
   "department" : "Dept for Communities and Local Government"
 }

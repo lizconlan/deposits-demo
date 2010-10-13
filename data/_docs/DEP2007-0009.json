@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "08/10/2007"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0009.doc"
-  "year" : "2007"
-  "description" : "Modernising Medical Careers (MMC) England: recruitment to foundation and specialty training - proposals for managing applications from medical graduates from outside the European Economic Area. Consultation paper. 22 p."
+  "deposited_date" : "08/10/2007",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0009.doc",
+  "year" : "2007",
+  "description" : "Modernising Medical Careers (MMC) England: recruitment to foundation and specialty training - proposals for managing applications from medical graduates from outside the European Economic Area. Consultation paper. 22 p.",
   "department" : "Dept of Health"
 }

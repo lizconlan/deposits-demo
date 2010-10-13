@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/12/2007"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0001.zip"
-  "year" : "2008"
-  "description" : "Letter [not dated] from Lord Bassam of Brighton to Lord Hanningfield regarding the Local Transport Bill Grand Committee - compendium response issues raised. 13 p."
+  "deposited_date" : "12/12/2007",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0001.zip",
+  "year" : "2008",
+  "description" : "Letter [not dated] from Lord Bassam of Brighton to Lord Hanningfield regarding the Local Transport Bill Grand Committee - compendium response issues raised. 13 p.",
   "department" : "Dept for Transport"
 }

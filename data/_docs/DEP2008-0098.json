@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "14/01/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0098.xls"
-  "year" : "2008"
-  "description" : "Table showing the count of finished admission episodes with a primary or secondary cannabis-related diagnosis for all hospital providers within NHS London Strategic Health Authority of Treatment, for the years 1997/98 to 2003/04. 14 p."
+  "deposited_date" : "14/01/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-0098.xls",
+  "year" : "2008",
+  "description" : "Table showing the count of finished admission episodes with a primary or secondary cannabis-related diagnosis for all hospital providers within NHS London Strategic Health Authority of Treatment, for the years 1997/98 to 2003/04. 14 p.",
   "department" : "Dept of Health"
 }

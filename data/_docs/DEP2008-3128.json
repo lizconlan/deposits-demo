@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "16/12/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3128.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 16/12/2008 from Alan Cook, Managing Director, to James Paice MP regarding the number of Post Office branches in England."
+  "deposited_date" : "16/12/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3128.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 16/12/2008 from Alan Cook, Managing Director, to James Paice MP regarding the number of Post Office branches in England.",
   "department" : "Post Office Dept for Business Enterprise and Regulatory Reform"
 }

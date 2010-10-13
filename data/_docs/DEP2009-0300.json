@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "20/01/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0300.pdf"
-  "year" : "2009"
-  "description" : "Letter dated 29/01/2009 from Alan Cook, Managing Director, Post Office, to David Drew MP regarding the location of post offices in churches, church halls and other establishments. Includes table. 2 p."
+  "deposited_date" : "20/01/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-0300.pdf",
+  "year" : "2009",
+  "description" : "Letter dated 29/01/2009 from Alan Cook, Managing Director, Post Office, to David Drew MP regarding the location of post offices in churches, church halls and other establishments. Includes table. 2 p.",
   "department" : "Dept for Business, Enterprise and Regulatory Reform Post Office"
 }

@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/11/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2692.doc"
-  "year" : "2008"
-  "description" : "Table showing personnel employed by the Ministry of Defence for each year from 1998 to 2008, broken down by top level budget, grade and job family. 6 p."
+  "deposited_date" : "12/11/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2692.doc",
+  "year" : "2008",
+  "description" : "Table showing personnel employed by the Ministry of Defence for each year from 1998 to 2008, broken down by top level budget, grade and job family. 6 p.",
   "department" : "Ministry of Defence"
 }

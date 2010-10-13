@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "01/05/2008"
-  "legislature" : Commons
-  "legislation" : "Human Fertilisation and Embryology Bill (HL) 2007-08"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1173.pdf"
-  "year" : "2008"
-  "description" : "Letter dated 01/05/2008 from Dawn Primarolo MP to Andrew Dismore MP regarding the government response to the Committee on Human Rights' report on the Human Fertilisation and Embryology Bill (HL) 2007-08. 6 p."
+  "deposited_date" : "01/05/2008",
+  "legislature" : ["Commons"],
+  "legislation" : "Human Fertilisation and Embryology Bill (HL) 2007-08",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1173.pdf",
+  "year" : "2008",
+  "description" : "Letter dated 01/05/2008 from Dawn Primarolo MP to Andrew Dismore MP regarding the government response to the Committee on Human Rights' report on the Human Fertilisation and Embryology Bill (HL) 2007-08. 6 p.",
   "department" : "Dept of Health"
 }

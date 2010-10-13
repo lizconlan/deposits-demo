@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "19/06/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1594.pdf"
-  "year" : "2008"
-  "description" : "Analysis of marriage visa consultation responses. 72 p."
+  "deposited_date" : "19/06/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1594.pdf",
+  "year" : "2008",
+  "description" : "Analysis of marriage visa consultation responses. 72 p.",
   "department" : "Home Office"
 }

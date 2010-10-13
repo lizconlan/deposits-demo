@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "10/04/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1206.zip"
-  "year" : "2009"
-  "description" : "Letter dated 10/04/2009 from David Miliband MP regarding Foreign and Commonweath Office's 07/08 Strategic Programme Fund Annual Report. Inc the report. 65 p."
+  "deposited_date" : "10/04/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-1206.zip",
+  "year" : "2009",
+  "description" : "Letter dated 10/04/2009 from David Miliband MP regarding Foreign and Commonweath Office's 07/08 Strategic Programme Fund Annual Report. Inc the report. 65 p.",
   "department" : "Foreign and Commonwealth Office"
 }

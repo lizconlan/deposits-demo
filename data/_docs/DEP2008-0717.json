@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/03/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2008-0717.xls"
-  "year" : "2008"
-  "description" : "Table showing total admissions to hospital in which the patient had a primary or secondary diagnosis which was alcohol related at the start of his/her stay for 2006/07, broken down by Primary Care Trust. 5 p."
+  "deposited_date" : "12/03/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2008-0717.xls",
+  "year" : "2008",
+  "description" : "Table showing total admissions to hospital in which the patient had a primary or secondary diagnosis which was alcohol related at the start of his/her stay for 2006/07, broken down by Primary Care Trust. 5 p.",
   "department" : "Dept of Health"
 }

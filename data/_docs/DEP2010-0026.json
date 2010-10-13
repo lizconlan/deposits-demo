@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "24/11/2009"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0026.zip"
-  "year" : "2010"
-  "description" : "I. Number translation service: a way forward. Mystery shopping. 4 p. II. Letter dated 21/12/2009 from Ed richards (Ofcom) to Mark Hunter MP regarding waiting times and profit made by operators for telephone numbers beginning 0844; 0845; 0870 and 0871 in the last five years. 2 p."
+  "deposited_date" : "24/11/2009",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0026.zip",
+  "year" : "2010",
+  "description" : "I. Number translation service: a way forward. Mystery shopping. 4 p. II. Letter dated 21/12/2009 from Ed richards (Ofcom) to Mark Hunter MP regarding waiting times and profit made by operators for telephone numbers beginning 0844; 0845; 0870 and 0871 in the last five years. 2 p.",
   "department" : "Department for Business, Innovation and Skills"
 }

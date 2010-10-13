@@ -1,9 +1,9 @@
 {
-  "deposited_date" : "11/03/2010"
-  "legislature" : Commons
-  "legislation" : "Crime and Security Bill 2009-10"
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0658.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 11/03/2010 from Lord West of Spithead regarding the Crime and Security Bill. 3 p."
+  "deposited_date" : "11/03/2010",
+  "legislature" : ["Commons"],
+  "legislation" : "Crime and Security Bill 2009-10",
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0658.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 11/03/2010 from Lord West of Spithead regarding the Crime and Security Bill. 3 p.",
   "department" : "Home Office"
 }

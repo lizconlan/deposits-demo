@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/08/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2159.zip"
-  "year" : "2008"
-  "description" : "Letter dated 14/08/2008 from Bob Ainsworth MP to various MPs regarding the report into the death of Lance Corporal Mathew Ford in Afghanistan. 35 p."
+  "deposited_date" : "15/08/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-2159.zip",
+  "year" : "2008",
+  "description" : "Letter dated 14/08/2008 from Bob Ainsworth MP to various MPs regarding the report into the death of Lance Corporal Mathew Ford in Afghanistan. 35 p.",
   "department" : "Ministry of Defence"
 }

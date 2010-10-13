@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/12/2009"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3160.pdf"
-  "year" : "2009"
-  "description" : "Evidence review: implantable cardiac devices with remote monitoring facilities, April 2009. 55 p."
+  "deposited_date" : "15/12/2009",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2009/DEP2009-3160.pdf",
+  "year" : "2009",
+  "description" : "Evidence review: implantable cardiac devices with remote monitoring facilities, April 2009. 55 p.",
   "department" : "Dept of Health"
 }

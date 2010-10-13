@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "04/01/2010"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0004.pdf"
-  "year" : "2010"
-  "description" : "Letter dated 21/12/2009 from Tracy Doucet, Chairman, to Patrick Mercer MP regarding funding allocation within Sherwood Forest Hospitals NHS Foundation Trust. Inc a table. 2 p."
+  "deposited_date" : "04/01/2010",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0004.pdf",
+  "year" : "2010",
+  "description" : "Letter dated 21/12/2009 from Tracy Doucet, Chairman, to Patrick Mercer MP regarding funding allocation within Sherwood Forest Hospitals NHS Foundation Trust. Inc a table. 2 p.",
   "department" : "Department of Health"
 }

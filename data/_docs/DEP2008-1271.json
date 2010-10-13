@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "15/05/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1271.pdf"
-  "year" : "2008"
-  "description" : "INTERACT. Handbook on the European Grouping of Territorial Cooperation (EGTC): what use for European territorial cooperation programmes and projects? 115 p."
+  "deposited_date" : "15/05/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-1271.pdf",
+  "year" : "2008",
+  "description" : "INTERACT. Handbook on the European Grouping of Territorial Cooperation (EGTC): what use for European territorial cooperation programmes and projects? 115 p.",
   "department" : "Dept for Communities and Local Government"
 }

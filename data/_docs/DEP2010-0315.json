@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "03/02/2010"
-  "legislature" : CommonsLords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0315.pdf"
-  "year" : "2010"
-  "description" : "UK marine science strategy: shaping, supporting, co-ordinating and enabling the delivery of world class marine science for the UK, 2010  2025. Incl. annexes. 52 p."
+  "deposited_date" : "03/02/2010",
+  "legislature" : ["Commons","Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2010/DEP2010-0315.pdf",
+  "year" : "2010",
+  "description" : "UK marine science strategy: shaping, supporting, co-ordinating and enabling the delivery of world class marine science for the UK, 2010  2025. Incl. annexes. 52 p.",
   "department" : "Department for Environment, Food and Rural Affairs"
 }

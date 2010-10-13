@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/12/2007"
-  "legislature" : Lords
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0330.pdf"
-  "year" : "2007"
-  "description" : "Care and resource utilisation (CRU): ensuring appropriateness of care. 86 p."
+  "deposited_date" : "12/12/2007",
+  "legislature" : ["Lords"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2007/DEP2007-0330.pdf",
+  "year" : "2007",
+  "description" : "Care and resource utilisation (CRU): ensuring appropriateness of care. 86 p.",
   "department" : "Dept of Health"
 }

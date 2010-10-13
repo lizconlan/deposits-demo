@@ -1,8 +1,8 @@
 {
-  "deposited_date" : "12/12/2008"
-  "legislature" : Commons
-  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3071.xls"
-  "year" : "2008"
-  "description" : "Table showing employment rates for people with disabilities for each quarter in each year from 1998 to 2008, broken down by age and ethnicity. 6 p."
+  "deposited_date" : "12/12/2008",
+  "legislature" : ["Commons"],
+  "link_to_paper" : "http://www.parliament.uk/deposits/depositedpapers/2008/DEP2008-3071.xls",
+  "year" : "2008",
+  "description" : "Table showing employment rates for people with disabilities for each quarter in each year from 1998 to 2008, broken down by age and ethnicity. 6 p.",
   "department" : "Cabinet Office"
 }
