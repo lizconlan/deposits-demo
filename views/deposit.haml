@@ -1,16 +1,21 @@
-%article
-  %header
+%br
+%article.deposit
+  %header.description
     #{deposit["value"]["description"]}
   %p
-    #{deposit["value"]["department"]}, #{deposit["value"]["deposited_date"]}
+    %span.department
+      #{deposit["value"]["department"]}
+    %br
+    %span.date
+      #{deposit["value"]["deposited_date"]}
   - if deposit["value"]["link_to_paper"]
-    %p
+    %p.link
     - filename = deposit["value"]["link_to_paper"]
-    %a{:href => "#{filename}" } #{deposit["value"]["_id"]} #{filename[filename.rindex(".")+1..filename.length].upcase}
+    %a{:href => "#{filename}" } 
+      #{filename[filename.rindex(".")+1..filename.length].upcase}
   - if deposit["value"]["legislature"]
-    %p
+    %footer.legislature
       - if deposit["value"]["legislature"].include?("Lords")
-        Deposited in the Lords Library
+        %span.lords-library L
       - if deposit["value"]["legislature"].include?("Commons")
-        Deposited in the Commons Library
-  %hr   
+        %span.commons-library C
