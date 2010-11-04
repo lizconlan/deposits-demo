@@ -1,0 +1,80 @@
+- if request.user_agent =~ /iPad/
+  #page_heading
+    %nav
+      %h2
+        ="#{@session}"
+
+#content
+  - if request.user_agent =~ /iPhone|iPad/
+    #scroller
+      - if request.user_agent =~ /iPhone/
+        #page_heading
+          %nav
+            %h2
+              ="#{@session} session"
+              
+      .column1
+        - if @data[0]
+          #item1
+            %article
+              = haml :deposit, {:layout => false, :locals => {:deposit => @data[0]} }
+
+        - if @data[1]
+          #item2
+            %article
+              = haml :deposit, {:layout => false, :locals => {:deposit => @data[1]} }
+
+      .column2
+        - if @data[2]
+          #item3
+            %article
+              = haml :deposit, {:layout => false, :locals => {:deposit => @data[2]} }
+  
+        -if @data[3]  
+          #item4
+            %article
+              = haml :deposit, {:layout => false, :locals => {:deposit => @data[3]} }
+          
+      .column3
+        - if @data[4]
+          #item5
+            %article
+              = haml :deposit, {:layout => false, :locals => {:deposit => @data[4]} }
+  
+        - if @data[5]
+          #item6
+            %article
+              = haml :deposit, {:layout => false, :locals => {:deposit => @data[5]} }
+      
+  - else
+    .column1
+      - @col1.each do |deposit|
+        %article
+          = haml :deposit, {:layout => false, :locals => {:deposit => deposit} }
+
+    .column2
+      - @col2.each do |deposit|
+        %article
+          = haml :deposit, {:layout => false, :locals => {:deposit => deposit} }
+  
+    - unless request.user_agent =~ /iPhone/
+      .column3
+        - @col3.each do |deposit|
+          %article
+            = haml :deposit, {:layout => false, :locals => {:deposit => deposit} }
+            
+- if request.user_agent =~ /iPad|iPhone/
+  #toolbar
+    .tool_text
+      - if @current_page > 1
+        .back_button{:onclick => "window.location='/page/#{@current_page - 1}'"}
+          Prev
+      - else
+        .inactive_back_button
+      .page_info
+        Page #{@current_page} of #{@max_pages}
+      - if @current_page < @max_pages
+        .next_button{:onclick => "window.location='/page/#{@current_page + 1}'"}
+          Next
+      - else
+        .inactive_next_button{:onclick => "window.location='/page/#{@current_page + 1}'"}

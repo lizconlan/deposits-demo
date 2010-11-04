@@ -89,7 +89,7 @@ get '/page/:page/?' do
   
   case request.user_agent
     when /iPad|iPhone/
-      @data = get_data(data_url, column_length, @current_page)
+      @data = get_data(data_url, 6, @current_page)
       page_length = column_length
     else
       @col1 = get_data(data_url, column_length, ((@current_page - 1) * 3) + 1)

@@ -11,9 +11,7 @@
     %p.link
     - filename = deposit["value"]["link_to_paper"]
     %a{:href => "#{filename}" } 
-      /#{deposit["value"]["_id"]} 
-      %strong
-        #{filename[filename.rindex(".")+1..filename.length].upcase}
+      #{filename[filename.rindex(".")+1..filename.length].upcase}
   - if deposit["value"]["legislature"]
     %footer.legislature
       - if deposit["value"]["legislature"].include?("Lords")

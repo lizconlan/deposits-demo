@@ -1,8 +1,7 @@
 - if request.user_agent =~ /iPad/
   #page_heading
     %nav
-      %h2
-        ="#{@session} session"
+      %h2= @session
 
 #content
   - if request.user_agent =~ /iPhone|iPad/
@@ -10,59 +9,12 @@
       - if request.user_agent =~ /iPhone/
         #page_heading
           %nav
-            %h2
-              ="#{@session} session"
-              
-      .column1
-        - if @data[0]
-          #item1
-            %article
-              = haml :deposit, {:layout => false, :locals => {:deposit => @data[0]} }
-
-        - if @data[1]
-          #item2
-            %article
-              = haml :deposit, {:layout => false, :locals => {:deposit => @data[1]} }
-
-      .column2
-        - if @data[2]
-          #item3
-            %article
-              = haml :deposit, {:layout => false, :locals => {:deposit => @data[2]} }
-  
-        -if @data[3]  
-          #item4
-            %article
-              = haml :deposit, {:layout => false, :locals => {:deposit => @data[3]} }
-          
-      .column3
-        - if @data[4]
-          #item5
-            %article
-              = haml :deposit, {:layout => false, :locals => {:deposit => @data[4]} }
-  
-        - if @data[5]
-          #item6
-            %article
-              = haml :deposit, {:layout => false, :locals => {:deposit => @data[5]} }
+            %h2= @session
       
-  - else
-    .column1
-      - @col1.each do |deposit|
-        %article
+      #flowdata{:style => "column-count:3;-webkit-column-count: 3;"}
+        - @data.each do |deposit|
           = haml :deposit, {:layout => false, :locals => {:deposit => deposit} }
-
-    .column2
-      - @col2.each do |deposit|
-        %article
-          = haml :deposit, {:layout => false, :locals => {:deposit => deposit} }
-  
-    - unless request.user_agent =~ /iPhone/
-      .column3
-        - @col3.each do |deposit|
-          %article
-            = haml :deposit, {:layout => false, :locals => {:deposit => deposit} }
-            
+         
 - if request.user_agent =~ /iPad|iPhone/
   #toolbar
     .tool_text
