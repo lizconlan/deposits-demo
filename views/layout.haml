@@ -38,9 +38,9 @@
 
         myScroll = new iScroll('scroller', { vScrollbar: true });
         }
-        // window.addEventListener('onorientationchange' in window ? 'orientationchange' : 'resize', setHeight, false);
-        // document.addEventListener('touchmove', function(e){ e.preventDefault(); }, false);
-        // document.addEventListener('DOMContentLoaded', loaded);
+        window.addEventListener('onorientationchange' in window ? 'orientationchange' : 'resize', setHeight, false);
+        document.addEventListener('touchmove', function(e){ e.preventDefault(); }, false);
+        document.addEventListener('DOMContentLoaded', loaded);
         
     - else
       
