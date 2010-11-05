@@ -3,15 +3,17 @@
   %header.description
     #{deposit["value"]["description"]}
   %p
-    %span.department
-      #{deposit["value"]["department"]}
-    %br
-    %span.date
-      #{deposit["value"]["deposited_date"]}
+    %ul
+      - deposit["value"]["department"].each do |dept|
+        %li.department 
+          %a{:href=>"/department/" + dept}= dept
+  %br
+  %span.date
+    #{deposit["value"]["deposited_date"]}
   - if deposit["value"]["link_to_paper"]
     %p.link
     - filename = deposit["value"]["link_to_paper"]
-    %a{:href => "#{filename}" } 
+    %a{:href => "#{filename}"} 
       #{filename[filename.rindex(".")+1..filename.length].upcase}
   - if deposit["value"]["legislature"]
     %footer.legislature
