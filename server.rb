@@ -66,7 +66,7 @@ get '/' do
   @session = get_session(@year)
   
   #get the number of records
-  data = RestClient.get "#{settings.db}/_design/data/_view/count_by_year?key=%22#{@year}%22&group=true"
+  data = RestClient.get "#{settings.db}/_design/data/_view/by_year?key=%22#{@year}%22&group=true"
   rows = JSON.parse(data.body)["rows"]
   @total_records = rows[0]["value"].to_i
   @current_page = 1
@@ -103,7 +103,7 @@ get '/page/:page/?' do
   @session = get_session(@year)
   
   #get the number of records
-  data = RestClient.get "#{settings.db}/_design/data/_view/count_by_year?key=%22#{@year}%22&group=true"
+  data = RestClient.get "#{settings.db}/_design/data/_view/by_year?key=%22#{@year}%22&group=true"
   rows = JSON.parse(data.body)["rows"]
   @total_records = rows[0]["value"].to_i
   @max_pages = (@total_records / page_length).ceil
@@ -124,7 +124,7 @@ get '/year/:year/?' do
   @session = get_session(@year)
   
   #get the number of records
-  data = RestClient.get "#{settings.db}/_design/data/_view/count_by_year?key=%22#{@year}%22&group=true"
+  data = RestClient.get "#{settings.db}/_design/data/_view/by_year?key=%22#{@year}%22&group=true"
   rows = JSON.parse(data.body)["rows"]
   @total_records = rows[0]["value"].to_i
   
@@ -142,7 +142,7 @@ get '/year/:year/:page/?' do
   @session = get_session(@year)
   
   #get the number of records
-  data = RestClient.get "#{settings.db}/_design/data/_view/count_by_year?key=%22#{@year}%22&group=true"
+  data = RestClient.get "#{settings.db}/_design/data/_view/by_year?key=%22#{@year}%22&group=true"
   rows = JSON.parse(data.body)["rows"]
   @total_records = rows[0]["value"].to_i
   
@@ -156,9 +156,9 @@ end
 private
   def get_data url, records_per_page, current_page=1
     if url.include?("?")
-      url = "#{url}&limit=#{records_per_page.to_i()}&skip=#{records_per_page.to_i()*(current_page.to_i()-1)}"
+      url = "#{url}&reduce=false&limit=#{records_per_page.to_i()}&skip=#{records_per_page.to_i()*(current_page.to_i()-1)}"
     else
-      url = "#{url}?limit=#{records_per_page.to_i()}&skip=#{records_per_page.to_i()*(current_page.to_i()-1)}"
+      url = "#{url}?reduce=false&limit=#{records_per_page.to_i()}&skip=#{records_per_page.to_i()*(current_page.to_i()-1)}"
     end
     data = RestClient.get url
     
