@@ -43,7 +43,10 @@ get '/cache.manifest' do
   "CACHE MANIFEST\n\nimages/next.png\nimages/prev.png"
 end
 
-get '/' do
+get %r{\/(?:$|page\/(\d+)\/?)} do |page|
+  @current_page = page.to_i
+  @current_page = 1 if @current_page < 1
+  
   column_length = get_column_length(request.user_agent)
   
   view = "_design/data/_view/by_id"
@@ -52,12 +55,12 @@ get '/' do
   
   case request.user_agent
     when /iPad|iPhone/
-      @data = get_data(data_url, column_length, 1)
+      @data = get_data(data_url, column_length, @current_page)
       page_length = column_length
     else
-      @col1 = get_data(data_url, column_length, 1)
-      @col2 = get_data(data_url, column_length, 2)
-      @col3 = get_data(data_url, column_length, 3)
+      @col1 = get_data(data_url, column_length, ((@current_page - 1) * 3) + 1)
+      @col2 = get_data(data_url, column_length, ((@current_page - 1) * 3) + 2)
+      @col3 = get_data(data_url, column_length, @current_page * 3)
       page_length = column_length * 3
   end
   
