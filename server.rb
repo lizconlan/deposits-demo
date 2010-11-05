@@ -43,7 +43,7 @@ get '/cache.manifest' do
   "CACHE MANIFEST\n\nimages/next.png\nimages/prev.png"
 end
 
-get %r{\/(?:$|page\/(\d+)\/?)} do |page|
+get %r{^\/(?:page\/(\d+)\/?)?$} do |page|
   @current_page = page.to_i
   @current_page = 1 if @current_page < 1
   
@@ -83,7 +83,7 @@ get '/department/:department' do
   redirect "http://localhost:5984/deposits/_design/data/_view/by_dept?key=%22#{@department}%22&reduce=false"
 end
 
-get %r{\/year\/((?:pre)?\d{4})(?:\/page\/(\d+))?\/?$} do |year, page|
+get %r{^\/year\/((?:pre)?\d{4})(?:\/page\/(\d+))?\/?$} do |year, page|
   page_length = 9
   view = "_design/data/_view/by_year"
   
