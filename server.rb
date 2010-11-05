@@ -111,10 +111,11 @@ get '/page/:page/?' do
   haml :index
 end
 
-get '/year/:year/?' do
+get %r{\/year\/((?:pre)?\d{4})(?:\/page\/(\d+))?\/?} do |year, page|
+  page_length = 9
   view = "_design/data/_view/by_year"
   
-  @year = @params[:year]
+  @year = year
   @year = "2010" if @year.nil?
   @session = get_session(@year)
   
@@ -122,31 +123,18 @@ get '/year/:year/?' do
   data = RestClient.get "#{settings.db}/_design/data/_view/by_year?key=%22#{@year}%22&group=true"
   rows = JSON.parse(data.body)["rows"]
   @total_records = rows[0]["value"].to_i
+  @max_pages = (@total_records / page_length).ceil
+  
+  @current_page = page.to_i
+  @current_page = 1 if @current_page < 1
   
   #get the records themselves
   data_url = "#{settings.db}/#{view}?key=%22#{@year}%22"
-  @results = get_data(data_url, settings.page_length, 1)
+  @results = get_data(data_url, page_length, @current_page)
   
   haml :deposit_list
 end
 
-get '/year/:year/:page/?' do
-  view = "_design/data/_view/by_year"
-  @year = params[:year]
-  @year = "2010" if @year.nil?
-  @session = get_session(@year)
-  
-  #get the number of records
-  data = RestClient.get "#{settings.db}/_design/data/_view/by_year?key=%22#{@year}%22&group=true"
-  rows = JSON.parse(data.body)["rows"]
-  @total_records = rows[0]["value"].to_i
-  
-  #get the records themselves
-  data_url = "#{settings.db}/#{view}?key=%22#{@year}%22"
-  @results = get_data(data_url, settings.page_length, params[:page])
-  
-  haml :deposit_list
-end
 
 private
   def get_data url, records_per_page, current_page=1
