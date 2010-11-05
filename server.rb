@@ -111,6 +111,11 @@ get '/page/:page/?' do
   haml :index
 end
 
+get '/department/:department' do
+  @department = @params[:department]
+  redirect "http://localhost:5984/deposits/_design/data/_view/by_dept?key=%22#{@department}%22&reduce=false"
+end
+
 get %r{\/year\/((?:pre)?\d{4})(?:\/page\/(\d+))?\/?} do |year, page|
   page_length = 9
   view = "_design/data/_view/by_year"
