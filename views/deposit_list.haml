@@ -3,18 +3,7 @@
 - elsif @year == "pre2007"
   %h2 Papers deposited between January and October 2007
 - elsif @year == "2007"
-  %h2 Papers deposited between October and December 2007
-
-.navigation
-  - @last_page = (@total_records.to_f / settings.page_length.to_f).ceil
-  - if params[:page]
-    - @current_page = params[:page].to_i
-  - else
-    - @current_page = 1
-    
-  - if @current_page > 1
-    %a{:href => "/#{@year}/#{@current_page-1}"} Previous page
-  
+  %h2 Papers deposited between October and December 2007  
   
   Page #{@current_page} of #{@last_page}
   
