@@ -78,48 +78,12 @@ get %r{\/(?:$|page\/(\d+)\/?)} do |page|
   haml :index
 end
 
-get '/page/:page/?' do
-  @current_page = params[:page].to_i
-  if @current_page < 2
-    redirect '/'
-  end
-  
-  column_length = get_column_length(request.user_agent)
-  
-  view = "_design/data/_view/by_id"
-  
-  data_url = "#{settings.db}/#{view}?descending=true"
-  
-  case request.user_agent
-    when /iPad|iPhone/
-      @data = get_data(data_url, 6, @current_page)
-      page_length = column_length
-    else
-      @col1 = get_data(data_url, column_length, ((@current_page - 1) * 3) + 1)
-      @col2 = get_data(data_url, column_length, ((@current_page - 1) * 3) + 2)
-      @col3 = get_data(data_url, column_length, @current_page * 3)
-      page_length = column_length * 3
-  end
-  
-  @year = @params[:year]
-  @year = "2010" if @year.nil? #needs to be better
-  @session = get_session(@year)
-  
-  #get the number of records
-  data = RestClient.get "#{settings.db}/_design/data/_view/by_year?key=%22#{@year}%22&group=true"
-  rows = JSON.parse(data.body)["rows"]
-  @total_records = rows[0]["value"].to_i
-  @max_pages = (@total_records / page_length).ceil
-  
-  haml :index
-end
-
 get '/department/:department' do
   @department = @params[:department]
   redirect "http://localhost:5984/deposits/_design/data/_view/by_dept?key=%22#{@department}%22&reduce=false"
 end
 
-get %r{\/year\/((?:pre)?\d{4})(?:\/page\/(\d+))?\/?} do |year, page|
+get %r{\/year\/((?:pre)?\d{4})(?:\/page\/(\d+))?\/?$} do |year, page|
   page_length = 9
   view = "_design/data/_view/by_year"
   
