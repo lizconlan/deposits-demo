@@ -7,16 +7,16 @@
     - if deposit["value"]["link_to_paper"]
       - filename = deposit["value"]["link_to_paper"]
       %a.link{:href => "#{filename}"}
-        Download
+        Download 
         = filename[filename.rindex(".")+1..filename.length].upcase
   %footer
     %ul.facets
       Tags
       - deposit["value"]["department"].each do |dept|
-        %li.facet{:data => {:department => dept}} 
+        %li.facet{:data => {:department => dept}}
           &middot;
           %a{:href=>"/department/" + dept}= dept
       - deposit["value"]["legislature"].each do |legislature|
         %li.facet{:data => {:legislature => legislature}}
           &middot;
-          %a{:href=>"/legislature/" + legislature}= legislature + " Library"
+          %a{:href=>"/legislature/" + legislature}= legislature
