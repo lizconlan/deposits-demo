@@ -6,9 +6,11 @@
       = deposit["value"]["deposited_date"]
     - if deposit["value"]["link_to_paper"]
       - filename = deposit["value"]["link_to_paper"]
+      - filename_extension = filename[filename.rindex(".")+1..filename.length].upcase
       %a.link{:href => "#{filename}"}
-        Download 
-        = filename[filename.rindex(".")+1..filename.length].upcase
+        Download
+        = filename_extension
+        file
   %footer
     %ul.facets
       Tags

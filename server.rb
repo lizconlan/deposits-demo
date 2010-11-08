@@ -73,10 +73,14 @@ get %r{^\/(?:page\/(\d+)\/?)?$} do |page|
   data = RestClient.get "#{settings.db}/_design/data/_view/by_year?key=%22#{@year}%22&group=true"
   rows = JSON.parse(data.body)["rows"]
   @total_records = rows[0]["value"].to_i
-  @current_page = 1
   @max_pages = (@total_records / page_length).ceil
   
   haml :index
+end
+
+# "by tag" page, with pagination
+get '/tag/:tag' do
+  "tagged thing!"
 end
 
 get '/department/:department' do
