@@ -1,4 +1,3 @@
-
 %article.deposit
   %section.description
     = deposit["value"]["description"]
@@ -11,11 +10,13 @@
         Download
         = filename[filename.rindex(".")+1..filename.length].upcase
   %footer
-    More from:
     %ul.facets
+      Tags
       - deposit["value"]["department"].each do |dept|
         %li.facet{:data => {:department => dept}} 
+          &middot;
           %a{:href=>"/department/" + dept}= dept
       - deposit["value"]["legislature"].each do |legislature|
         %li.facet{:data => {:legislature => legislature}}
-          %a{:href=>"/legislature/" + legislature}= legislature
+          &middot;
+          %a{:href=>"/legislature/" + legislature}= legislature + " Library"
