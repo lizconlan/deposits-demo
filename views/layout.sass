@@ -8,21 +8,24 @@ article.deposit
   padding: 1em 0
   min-height: 200px
   font-size: 12pt
+  border-bottom: 1pt solid gray
 
   a.link
     font-weight: bold
     float: right
 
+  #tags, #sources
+    padding-top: 0.5em
+
   header
     padding-top: 1em
 
-  section.description
-    font-weight: bold
-    
-  ul.facets
-    padding: 0
-    xmargin: 0
-    
-    li.facet
-      list-style: none
+  ul
+    &.tags, &.sources  
+      padding-left: 0
       display: inline
+  
+    li
+      &.tag, &.source   
+        list-style: none
+        display: inline

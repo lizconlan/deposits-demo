@@ -12,13 +12,18 @@
         = filename_extension
         file
   %footer
-    %ul.facets
-      Tags
-      - deposit["value"]["department"].each do |dept|
-        %li.facet{:data => {:department => dept}}
-          &middot;
-          %a{:href=>"/department/" + dept}= dept
-      - deposit["value"]["legislature"].each do |legislature|
-        %li.facet{:data => {:legislature => legislature}}
-          &middot;
-          %a{:href=>"/legislature/" + legislature}= legislature
+    #tags
+      %span.label Tags
+      %ul.tags
+        - deposit["value"]["department"].each do |dept|
+          %li.tag{:data => {:tag => dept}}
+            &middot;
+            %a{:href=>"/tags/" + dept}= dept
+    - if deposit["value"]["legislature"]
+      #sources
+        %span.label Sources
+        %ul.sources
+          - deposit["value"]["legislature"].each do |legislature|
+            %li.source{:data => {:source => legislature}}
+              &middot;
+              %a{:href=>"/sources/" + legislature}= legislature

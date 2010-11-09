@@ -78,14 +78,21 @@ get %r{^\/(?:page\/(\d+)\/?)?$} do |page|
   haml :index
 end
 
-# "by tag" page, with pagination
-get '/tag/:tag' do
-  "tagged thing!"
+get '/tags' do
+  "some tags"
 end
 
-get '/department/:department' do
-  @department = @params[:department]
-  redirect "http://localhost:5984/deposits/_design/data/_view/by_dept?key=%22#{@department}%22&reduce=false"
+# "by tag" page, no pagination
+get '/tags/:tag' do
+  
+  @tag = CGI::escape(params[:tag])
+  @current_page = 1
+  @max_pages = 1
+  # getting records 
+  data = RestClient.get "#{settings.db}/_design/data/_view/by_dept?key=%22#{@tag}%22&reduce=false"
+  @data = JSON.parse(data.body)["rows"]
+
+  haml :index
 end
 
 # "by year" page, with pagination
