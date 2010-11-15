@@ -85,8 +85,8 @@ get '/tags' do
   "some tags"
 end
 
-# "by tag" page, needs pagination
-# get '/tags/:tag' do
+# "by tag" page, with pagination
+# get '/tags/:tag' and '/tags/:tag/page/:page'
 get %r{^\/tags\/([^\/]*)(?:\/page\/(\d+))?\/?$} do |tag, page|
 
   @current_page = page.to_i
@@ -99,11 +99,6 @@ get %r{^\/tags\/([^\/]*)(?:\/page\/(\d+))?\/?$} do |tag, page|
   view = "_design/data/_view/by_dept"
   
   data_url = "#{settings.db}/#{view}?key=%22#{@tag}%22&descending=true"
-  
-  @title = "Tag &mdash; " + tag
-  
-#  data = RestClient.get "#{settings.db}/_design/data/_view/by_dept?key=%22#{@tag}%22&reduce=false"
- # @data = JSON.parse(data.body)["rows"]
   
   case request.user_agent
     when /iPad|iPhone/
@@ -122,6 +117,8 @@ get %r{^\/tags\/([^\/]*)(?:\/page\/(\d+))?\/?$} do |tag, page|
   @total_records = rows[0]["value"].to_i
   @max_pages = (@total_records / page_length).ceil
   
+  @title = "Tag &mdash; " + tag + " (" + @total_records.to_s + ")"
+  @tag_unescaped = tag
   haml :index
 end
 

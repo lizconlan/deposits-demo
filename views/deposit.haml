@@ -12,14 +12,19 @@
         Download
         = filename_extension
         file
+    - else
+      %a.link
+        No download available
   %footer
-    #tags
-      %span.label Tags
-      %ul.tags
-        - deposit["value"]["department"].each do |dept|
-          %li.tag{:data => {:tag => dept}}
-            &middot;
-            %a{:href=>"/tags/" + dept}= dept
+    - filtered_depts = deposit["value"]["department"] - [@tag_unescaped]
+    - if filtered_depts.length > 0
+      #tags
+        %span.label Tags
+        %ul.tags
+          - filtered_depts.each do |dept|
+            %li.tag{:data => {:tag => dept}}
+              &middot;
+              %a{:href=>"/tags/" + dept}= dept
     - if deposit["value"]["legislature"]
       #sources
         %span.label Sources
