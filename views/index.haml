@@ -2,7 +2,7 @@
   #page_heading
     %nav
       %h2
-        ="#{@session}"
+        = @title
 
 #content
   - if request.user_agent =~ /iPhone|iPad/
@@ -11,7 +11,7 @@
         #page_heading
           %nav
             %h2
-              ="#{@session} session"
+              = @title
               
       .column1
         - if @data[0]
@@ -58,14 +58,14 @@
   #toolbar
     .tool_text
       - if @current_page > 1
-        .back_button{:onclick => "window.location='/page/#{@current_page - 1}'"}
+        .back_button{:onclick => "window.location='#{@facet_path}/page/#{@current_page - 1}'"}
           Prev
       - else
         .inactive_back_button
       .page_info
         Page #{@current_page} of #{@max_pages}
       - if @current_page < @max_pages
-        .next_button{:onclick => "window.location='/page/#{@current_page + 1}'"}
+        .next_button{:onclick => "window.location='#{@facet_path}/page/#{@current_page + 1}'"}
           Next
       - else
-        .inactive_next_button{:onclick => "window.location='/page/#{@current_page + 1}'"}
+        .inactive_next_button{:onclick => "window.location='#{@facet_path}/page/#{@current_page + 1}'"}

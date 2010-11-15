@@ -7,7 +7,7 @@
     - if deposit["value"]["link_to_paper"]
       - filename = deposit["value"]["link_to_paper"]
       - filename_extension = filename[filename.rindex(".")+1..filename.length].upcase
-      = '<a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-via="ukparliament" data-text="' + deposit["value"]["description"] + '" data-url="' + filename + '">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>'
+      / = '<a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-via="ukparliament" data-text="' + deposit["value"]["description"] + '" data-url="' + filename + '">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>'
       %a.link{:href => "#{filename}"}
         Download
         = filename_extension

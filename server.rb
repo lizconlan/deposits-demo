@@ -3,6 +3,7 @@ require 'rest_client'
 require 'json'
 require 'haml'
 require 'sass'
+require 'cgi'
 
 configure do
   if ENV['RACK_ENV'] && ENV['RACK_ENV'] == 'production'
@@ -11,6 +12,7 @@ configure do
     conf = YAML.load(File.read('config/virtualserver/config.yml'))
     db = conf[:couch_url]
   end
+  
   set :db, db
 end
 
@@ -47,7 +49,7 @@ end
 get %r{^\/(?:page\/(\d+)\/?)?$} do |page|
   @current_page = page.to_i
   @current_page = 1 if @current_page < 1
-  
+
   column_length = get_column_length(request.user_agent)
   
   view = "_design/data/_view/by_id"
@@ -68,6 +70,7 @@ get %r{^\/(?:page\/(\d+)\/?)?$} do |page|
   @year = @params[:year]
   @year = "2010" if @year.nil? #needs to be better
   @session = get_session(@year)
+  @title = @session + " Session"
   
   #get the number of records
   data = RestClient.get "#{settings.db}/_design/data/_view/by_year?key=%22#{@year}%22&group=true"
@@ -82,16 +85,43 @@ get '/tags' do
   "some tags"
 end
 
-# "by tag" page, no pagination
-get '/tags/:tag' do
-  
-  @tag = CGI::escape(params[:tag])
-  @current_page = 1
-  @max_pages = 1
-  # getting records 
-  data = RestClient.get "#{settings.db}/_design/data/_view/by_dept?key=%22#{@tag}%22&reduce=false"
-  @data = JSON.parse(data.body)["rows"]
+# "by tag" page, needs pagination
+# get '/tags/:tag' do
+get %r{^\/tags\/([^\/]*)(?:\/page\/(\d+))?\/?$} do |tag, page|
 
+  @current_page = page.to_i
+  @current_page = 1 if @current_page < 1
+  
+  @tag = CGI::escape(tag)
+  @facet_path = "/tags/" + @tag  
+  column_length = get_column_length(request.user_agent)
+  
+  view = "_design/data/_view/by_dept"
+  
+  data_url = "#{settings.db}/#{view}?key=%22#{@tag}%22&descending=true"
+  
+  @title = "Tag &mdash; " + tag
+  
+#  data = RestClient.get "#{settings.db}/_design/data/_view/by_dept?key=%22#{@tag}%22&reduce=false"
+ # @data = JSON.parse(data.body)["rows"]
+  
+  case request.user_agent
+    when /iPad|iPhone/
+      @data = get_data(data_url, column_length, @current_page)
+      page_length = column_length
+    else
+      @col1 = get_data(data_url, column_length, ((@current_page - 1) * 3) + 1)
+      @col2 = get_data(data_url, column_length, ((@current_page - 1) * 3) + 2)
+      @col3 = get_data(data_url, column_length, @current_page * 3)
+      page_length = column_length * 3
+  end
+  
+  #get the number of records
+  data_records = RestClient.get "#{settings.db}/_design/data/_view/by_dept?key=%22#{@tag}%22&group=true"
+  rows = JSON.parse(data_records.body)["rows"]
+  @total_records = rows[0]["value"].to_i
+  @max_pages = (@total_records / page_length).ceil
+  
   haml :index
 end
 
