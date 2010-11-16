@@ -2,3 +2,4 @@
 config/virtualserver/*
 *.DS_Store*
 db/_docs
+.#*
