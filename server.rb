@@ -85,10 +85,6 @@ get '/tags' do
   "some tags"
 end
 
-get '/favicon.ico' do
-  "http://www.parliament.uk/favicon.ico"
-end
-
 # "by tag" page, with pagination
 # get '/tags/:tag' and '/tags/:tag/page/:page'
 get %r{^\/tags\/([^\/]*)(?:\/page\/(\d+))?\/?$} do |tag, page|
