@@ -1,13 +1,12 @@
-%article.deposit
-  %section.description
+.deposit
+  .description
     = deposit["value"]["description"]
-  %header
-    %span.date
+  .header
+    .date
       = deposit["value"]["deposited_date"]
     - if deposit["value"]["link_to_paper"]
       - filename = deposit["value"]["link_to_paper"]
       - filename_extension = filename[filename.rindex(".")+1..filename.length].upcase
-      / = '<a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-via="ukparliament" data-text="' + deposit["value"]["description"] + '" data-url="' + filename + '">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>'
       %a.link{:href => "#{filename}"}
         Download
         = filename_extension
@@ -15,19 +14,19 @@
     - else
       %a.link
         No download available
-  %footer
+  .footer
     - filtered_depts = deposit["value"]["department"] - [@tag_unescaped]
     - if filtered_depts.length > 0
-      #tags
-        %span.label Tags
+      .tags
+        .label Tags
         %ul.tags
           - filtered_depts.each do |dept|
             %li.tag{:data => {:tag => dept}}
               &middot;
               %a{:href=>"/tags/" + dept}= dept
     - if deposit["value"]["legislature"]
-      #sources
-        %span.label Sources
+      .sources
+        .label Sources
         %ul.sources
           - deposit["value"]["legislature"].each do |legislature|
             %li.source{:data => {:source => legislature}}

@@ -5,10 +5,13 @@ h1
   a
     color: white
   a:hover
-    color: blue
+    text-decoration: underline
 
 a
   text-decoration: none
+
+a:hover
+  text-decoration: underline
 
 .deposit
   padding: 1em 0
@@ -17,19 +20,19 @@ a
 
   a.link
     font-weight: bold
-    float: right
-
-  #tags, #sources
+  .label
+    display: inline
+  .tags, .sources
     padding-top: 0.5em
 
-  header
+  .header
     padding-top: 1em
 
   ul
     &.tags, &.sources  
       padding-left: 0
       display: inline
-  
+
     li
       &.tag, &.source   
         list-style: none
