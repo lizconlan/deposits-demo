@@ -24,7 +24,7 @@
           - filtered_depts.each do |dept|
             %li.tag{:data => {:tag => dept}}
               &middot;
-              %a{:onClick=>"window.location='/tags/" + dept + "'", :href=>"/tags/" + dept}= dept
+              %a{:onClick=>"window.location='/tags/" + dept + "'"}= dept
     - if deposit["value"]["legislature"]
       .sources
         .label Sources
