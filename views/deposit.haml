@@ -2,8 +2,6 @@
   .description
     = deposit["value"]["description"]
   .header
-    .date
-      = deposit["value"]["deposited_date"]
     - if deposit["value"]["link_to_paper"]
       - filename = deposit["value"]["link_to_paper"]
       - filename_extension = filename[filename.rindex(".")+1..filename.length].upcase
@@ -14,6 +12,9 @@
     - else
       %a.link
         No download available
+    .date
+      = deposit["value"]["deposited_date"]
+   
   .footer
     - filtered_depts = deposit["value"]["department"] - [@tag_unescaped]
     - if filtered_depts.length > 0
@@ -23,7 +24,7 @@
           - filtered_depts.each do |dept|
             %li.tag{:data => {:tag => dept}}
               &middot;
-              %a{:href=>"/tags/" + dept}= dept
+              %a{:onClick=>"window.location='/tags/" + dept + "'", :href=>"/tags/" + dept}= dept
     - if deposit["value"]["legislature"]
       .sources
         .label Sources
@@ -31,4 +32,4 @@
           - deposit["value"]["legislature"].each do |legislature|
             %li.source{:data => {:source => legislature}}
               &middot;
-              %a{:href=>"/sources/" + legislature}= legislature
+              %a= legislature
