@@ -53,7 +53,7 @@
       .column3
         - @col3.each do |deposit|
           = haml :deposit, {:layout => false, :locals => {:deposit => deposit} }
-  
+
 - if request.user_agent =~ /iPad|iPhone/
   #toolbar
     .tool_text
