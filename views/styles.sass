@@ -2,8 +2,8 @@
 
 body
   line-height: 140%
-  width: 702px
-  margin: auto
+  padding: 0
+  margin: 0
   
 h1
   text-align: center
@@ -15,26 +15,38 @@ h3
   font-size: 105%
   margin-bottom: 0.1em
   
-#content
-  width: 702px
+header#header
+  width: 100%
   position: relative
+
+  h1 
+    a
+      color: black
+
+#main_page
+  width: 702px
+  margin: 0 auto
   
-  .column1
-    width: 214px
-    padding: 0 10px
-    border-right: 1px solid #EEEEEE
-    position: absolute
-    left: 0
+  #copyright
+    position: relative
+  
+  #content
+    float: left
+    width: 702px
+  
+    .column1
+      width: 210px
+      padding: 0 10px
+      border-right: 1px solid #EEEEEE
+      float: left
 
-  .column2
-    width: 214px
-    padding: 0 10px
-    border-right: 1px solid #EEEEEE
-    position: absolute
-    left: 234px
+    .column2
+      width: 210px
+      padding: 0 10px
+      border-right: 1px solid #EEEEEE
+      float: left
 
-  .column3
-    width: 214px
-    padding: 0 10px
-    position: absolute
-    left: 468px
+    .column3
+      width: 210px
+      padding: 0 10px
+      float: left
