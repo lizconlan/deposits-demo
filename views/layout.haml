@@ -2,7 +2,7 @@
 %html{:manifest => "/cache.manifest"}  
   %head
     %meta{"http-equiv"=>"Content-Type", :content=>"text/html; charset=utf-8"}
-    %title= "Deposited Papers"
+    %title= "Deposits"
     %link{:rel => "shortcut icon", :href => "http://www.parliament.uk/favicon.ico"}
     - if request.user_agent =~ /iPhone|iPad/
       %meta{:name=>"format-detection", :content=>"telephone=no"}
@@ -56,6 +56,6 @@
       %h1 
         %a{:onclick=>"window.location='/'"}
           Deposited Papers
-    
+        
     #main_page
       =yield

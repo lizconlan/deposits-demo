@@ -3,7 +3,7 @@
     %nav
       %h2
         = @title
-
+      
 #content
   - if request.user_agent =~ /iPhone|iPad/
     #scroller
@@ -53,7 +53,7 @@
       .column3
         - @col3.each do |deposit|
           = haml :deposit, {:layout => false, :locals => {:deposit => deposit} }
-            
+  
 - if request.user_agent =~ /iPad|iPhone/
   #toolbar
     .tool_text
@@ -71,3 +71,5 @@
             Next
         - else
           .inactive_next_button
+      %br
+      &copy; UK Parliament
