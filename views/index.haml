@@ -44,6 +44,8 @@
       #copyright
         &copy; UK Parliament
   - else
+    %h2
+      = @title
     .column1
       - @col1.each do |deposit|
         = haml :deposit, {:layout => false, :locals => {:deposit => deposit} }
@@ -55,7 +57,20 @@
     .column3
       - @col3.each do |deposit|
         = haml :deposit, {:layout => false, :locals => {:deposit => deposit} }
-        
+    %nav.toolbar
+      - if @current_page > 1
+        %a.prev{:href => "#{@facet_path}/page/#{@current_page - 1}"}
+          &lt;&lt; Prev
+      - else
+        .prev
+      - if @max_pages > 1
+        .page_info
+          Page #{@current_page} of #{@max_pages}
+        - if @current_page < @max_pages
+          %a.next{:href => "#{@facet_path}/page/#{@current_page + 1}"}
+            Next &gt;&gt;
+        - else
+          .next
     #copyright
       &copy; UK Parliament
   
