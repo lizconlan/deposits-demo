@@ -30,16 +30,19 @@
         -if @data[3]  
           #item4
             = haml :deposit, {:layout => false, :locals => {:deposit => @data[3]} }
-          
-      .column3
-        - if @data[4]
-          #item5
-            = haml :deposit, {:layout => false, :locals => {:deposit => @data[4]} }
+
+      - unless request.user_agent =~ /iPhone/
+        .column3
+          - if @data[4]
+            #item5
+              = haml :deposit, {:layout => false, :locals => {:deposit => @data[4]} }
   
-        - if @data[5]
-          #item6
-            = haml :deposit, {:layout => false, :locals => {:deposit => @data[5]} }
+          - if @data[5]
+            #item6
+              = haml :deposit, {:layout => false, :locals => {:deposit => @data[5]} }
       
+      #copyright
+        &copy; UK Parliament
   - else
     .column1
       - @col1.each do |deposit|
@@ -49,10 +52,12 @@
       - @col2.each do |deposit|
         = haml :deposit, {:layout => false, :locals => {:deposit => deposit} }
   
-    - unless request.user_agent =~ /iPhone/
-      .column3
-        - @col3.each do |deposit|
-          = haml :deposit, {:layout => false, :locals => {:deposit => deposit} }
+    .column3
+      - @col3.each do |deposit|
+        = haml :deposit, {:layout => false, :locals => {:deposit => deposit} }
+          
+    #copyright
+      &copy; UK Parliament
   
 - if request.user_agent =~ /iPad|iPhone/
   #toolbar
@@ -71,5 +76,3 @@
             Next
         - else
           .inactive_next_button
-      %br
-      &copy; UK Parliament
