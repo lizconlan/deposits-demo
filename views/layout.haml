@@ -4,8 +4,11 @@
     %meta{"http-equiv"=>"Content-Type", :content=>"text/html; charset=utf-8"}
     %title= "Deposited Papers"
     %link{:rel => "shortcut icon", :href => "http://www.parliament.uk/favicon.ico"}
-    %meta{:name=>"format-detection", :content=>"telephone=no"}
     - if request.user_agent =~ /iPhone|iPad/
+      %meta{:name=>"format-detection", :content=>"telephone=no"}
+      <script type="text/javascript" src="/scripts/bookmark_bubble.js"></script>
+      <script type="text/javascript" src="/scripts/load_bubble.js"></script>
+      <link href="apple-touch-icon.png" rel="apple-touch-icon"/>
       %meta{:name => "apple-mobile-web-app-capable", :content => "yes"}
       %meta{:name => "viewport", :content => "width=device-width, maximum-scale=1.0"}
       %link{:rel=>"stylesheet",:type=>"text/css",:media=>"all and (orientation:portrait)", :href=>"/portrait.css"}
