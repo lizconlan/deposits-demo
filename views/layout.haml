@@ -53,9 +53,13 @@
       
   %body
     %header#header
-      %h1 
-        %a{:onclick=>"window.location='/'"}
-          Deposited Papers
+      %h1
+        - if request.user_agent =~ /iPhone|iPad/
+          %a{:onclick=>"window.location='/'"}
+            Deposited Papers
+        - else
+          %a{:href=>"/"}
+            Deposited Papers
         
     #main_page
       =yield

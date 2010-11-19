@@ -24,7 +24,10 @@
           - filtered_depts.each do |dept|
             %li.tag{:data => {:tag => dept}}
               &middot;
-              %a{:onClick=>"window.location='/tags/" + dept + "'"}= dept
+              - if request.user_agent =~ /iPhone|iPad/
+                %a{:onClick=>"window.location='/tags/" + dept + "'"}= dept
+              - else
+                %a{:href => "/tags/#{dept}"}= dept
     - if deposit["value"]["legislature"]
       .sources
         .label Sources

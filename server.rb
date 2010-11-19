@@ -45,6 +45,10 @@ get '/cache.manifest' do
   "CACHE MANIFEST\n\nimages/next.png\nimages/prev.png"
 end
 
+get "/about" do
+  "about page placeholder"
+end
+
 # index page, with pagination
 get %r{^\/(?:page\/(\d+)\/?)?$} do |page|
   @current_page = page.to_i

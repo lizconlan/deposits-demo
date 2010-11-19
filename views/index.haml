@@ -1,4 +1,5 @@
 - if request.user_agent =~ /iPad/
+  -# iPad only, place the page_heading at the top of the main_content section
   #page_heading
     %nav
       %h2
@@ -7,12 +8,13 @@
 #content
   - if request.user_agent =~ /iPhone|iPad/
     #scroller
-      - if request.user_agent =~ /iPhone/
+      - if request.user_agent =~ /iPhone/ 
+        -# iPhone only, nest the page_heading inside the scrolling section
         #page_heading
           %nav
             %h2
               = @title
-              
+                
       .column1
         - if @data[0]
           #item1
@@ -44,6 +46,7 @@
       #copyright
         &copy; UK Parliament
   - else
+    -# Everything that's not an iOS device
     %h2
       = @title
     .column1
@@ -71,8 +74,10 @@
             Next &gt;&gt;
         - else
           .next
-    #copyright
+    %nav#copyright
       &copy; UK Parliament
+      %a{:href => "/about"}
+        More about this site
   
 - if request.user_agent =~ /iPad|iPhone/
   #toolbar
