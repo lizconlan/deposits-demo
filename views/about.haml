@@ -1,0 +1,34 @@
+- if request.user_agent =~ /iPad/
+  -# iPad only, place the page_heading at the top of the main_content section
+  #page_heading
+    %nav
+      %h2
+        About
+      
+#content
+  - if request.user_agent =~ /iPhone|iPad/
+    #scroller
+      - if request.user_agent =~ /iPhone/ 
+        -# iPhone only, nest the page_heading inside the scrolling section
+        #page_heading
+          %nav
+            %h2
+              About
+      
+      #about_text
+        =haml :about_text, {:layout => false}
+      
+      
+  - else
+    -# Everything that's not an iOS device
+    %h2
+      = @title
+
+    #about_text
+      =haml :about_text, {:layout => false}
+
+    %nav#copyright
+      &copy; UK Parliament
+  
+- if request.user_agent =~ /iPad|iPhone/
+  #toolbar

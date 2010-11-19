@@ -46,7 +46,7 @@ get '/cache.manifest' do
 end
 
 get "/about" do
-  "about page placeholder"
+  haml :about
 end
 
 # index page, with pagination
