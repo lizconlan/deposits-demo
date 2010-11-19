@@ -61,11 +61,13 @@
         .back_button{:onclick => "window.location='#{@facet_path}/page/#{@current_page - 1}'"}
           Prev
       - else
-        .inactive_back_button
-      .page_info
-        Page #{@current_page} of #{@max_pages}
-      - if @current_page < @max_pages
-        .next_button{:onclick => "window.location='#{@facet_path}/page/#{@current_page + 1}'"}
-          Next
-      - else
-        .inactive_next_button{:onclick => "window.location='#{@facet_path}/page/#{@current_page + 1}'"}
+        - if @max_pages >1
+          .inactive_back_button
+      - if @max_pages > 1
+        .page_info
+          Page #{@current_page} of #{@max_pages}
+        - if @current_page < @max_pages
+          .next_button{:onclick => "window.location='#{@facet_path}/page/#{@current_page + 1}'"}
+            Next
+        - else
+          .inactive_next_button
