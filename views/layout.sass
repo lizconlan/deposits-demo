@@ -17,16 +17,18 @@ a:hover
   padding: 1em 0
   min-height: 200px
   font-size: 14pt
-  border-bottom: 1pt solid #333
 
   a.link
     font-weight: bold
-
+    display: block
+  .date
+    display: inline
   .label
     display: inline
-  .tags, .sources
+  .tags
     padding-top: 0.5em
-
+  .sources
+    display: inline
   .header
     padding-top: 1em
 
@@ -41,13 +43,11 @@ a:hover
         display: inline
     li.tag
       color: blue
-    li.source
-      font-style: italic
 
 #copyright
   float: left
   padding: 1em 0
   width: 100%
   clear: both
-  background-color: #ccc
+  border-top: 1pt dotted #333
   text-align: center

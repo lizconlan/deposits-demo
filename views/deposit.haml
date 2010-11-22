@@ -14,6 +14,13 @@
         No download available
     .date
       = deposit["value"]["deposited_date"]
+    - if deposit["value"]["legislature"]
+      .sources
+        %ul.sources
+          - deposit["value"]["legislature"].each do |legislature|
+            %li.source{:data => {:source => legislature}}
+              &middot;
+              %a= legislature
    
   .footer
     - filtered_depts = deposit["value"]["department"] - [@tag_unescaped]
@@ -28,11 +35,4 @@
                 %a{:onClick=>"window.location='/tags/" + dept + "'"}= dept
               - else
                 %a{:href => "/tags/#{dept}"}= dept
-    - if deposit["value"]["legislature"]
-      .sources
-        .label Sources
-        %ul.sources
-          - deposit["value"]["legislature"].each do |legislature|
-            %li.source{:data => {:source => legislature}}
-              &middot;
-              %a= legislature
+

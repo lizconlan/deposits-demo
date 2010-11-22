@@ -121,7 +121,7 @@ get %r{^\/tags\/([^\/]*)(?:\/page\/(\d+))?\/?$} do |tag, page|
   @total_records = rows[0]["value"].to_i
   @max_pages = (@total_records / page_length).ceil
   
-  @title = "Tag &mdash; " + tag + " (" + @total_records.to_s + ")"
+  @title = tag + ": " + @total_records.to_s
   @tag_unescaped = tag
   haml :index
 end
